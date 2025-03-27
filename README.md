@@ -4,8 +4,7 @@
 
 ---
 
-![Reddit Icon](https://img.icons8.com/color/48/000000/reddit.png) + ![Binance Icon](https://img.icons8.com/color/48/000000/binance.png) = ![Prediction Icon](https://img.icons8.com/material-outlined/48/000000/prediction.png)
-
+![Reddit Icon](https://img.icons8.com/color/48/000000/reddit.png) + 💰 (Binance Data) = 🔮 (Predictions & Metrics)
 ---
 
 A project that analyzes Reddit posts and Binance financial information to provide cryptocurrency predictions and key metrics.
