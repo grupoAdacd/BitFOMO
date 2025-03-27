@@ -116,4 +116,8 @@ public class redditAPI {
         System.out.println("Finished fetching. Total posts: " + combinedPosts.length());
         return combinedPosts;
     }
+
+    public static JSONArray fetchNowadaysSubredditData(String subredd) {
+        return fetchSubredditDataSinceTimestamp(subredd, 0);
+    }
 }
