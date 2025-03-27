@@ -26,4 +26,26 @@ public class BinanceAPI {
 
     }
 
+    public JSONArray fetchWhenFluctuation(String correlation, long startTime, long endTime, String period) throws IOException, InterruptedException {
+        String apiURL = String.format("%s/api/v3/klines?symbol=%s&interval=%s&startTime=%d&endTime=%d&limit=1000", BASE_URL, correlation, period, startTime, endTime);
+        HttpClient client = HttpClient.newHttpClient();
+        HttpRequest request = HttpRequest.newBuilder()
+                .uri(URI.create(apiURL))
+                .build();
+        HttpResponse<String> response = client.send(request, BodyHandlers.ofString());
+        String bodyResponse = response.body();
+
+        if (isValid(bodyResponse)) {
+            return new JSONArray(bodyResponse);
+        } else {
+            System.err.println("Invalid response, raw response: " + bodyResponse);
+            return null;
+        }
+    }
+
+    public boolean isValid(String bodyResponse) {
+        return bodyResponse.startsWith("[");
+    }
+
+
 }
