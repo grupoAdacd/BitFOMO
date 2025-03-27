@@ -8,8 +8,16 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.io.File;
+
 public class redditAPIFetchUtils {
     private static final String REDDIT_DIRECTORY = "/home/d4rk/IdeaProjects/practiceAPIreddit/src/main/DataLake/DataLake/reddit_data";
+
+    public static void main(String[] args) {
+        int i;
+        for (i=0;i<redditAPI.SUBREDDIT_CATEGORIES.size();i++) {
+            extractUserData(redditAPI.fetchSubredditDataSinceTimestamp(redditAPI.SUBREDDIT_CATEGORIES.get(i), 1672531200));
+        }
+    }
 
     public static void extractUserData(JSONArray jsonArray) {
         int i;
