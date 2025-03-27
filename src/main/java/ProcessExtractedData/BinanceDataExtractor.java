@@ -20,6 +20,26 @@ public class BinanceDataExtractor {
     private static final DateTimeFormatter FILE_NAME_FORMAT = DateTimeFormatter.ofPattern("MMdyyyy");
     private static final DateTimeFormatter DISPLAY_FORMAT = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm");
 
+    public static void main(String[] args) {
+        try {
+            File directory = new File(DATA_DIRECTORY);
+            if (!directory.exists()) {
+                directory.mkdirs();
+            }
+            BinanceAPI binanceAPI = new BinanceAPI();
+            LocalDateTime startDate = LocalDateTime.of(2023, 1, 1, 0, 0);
+            LocalDateTime currentDate = LocalDateTime.now();
+            System.out.println("Starting Bitcoin data collection from " + startDate.format(DISPLAY_FORMAT) +
+                    " to " + currentDate.format(DISPLAY_FORMAT));
+            System.out.println("Using interval: " + INTERVAL + " (Binance supported interval closest to 5h)");
+            processHistoricalData(binanceAPI, startDate, currentDate);
+            setupRealTimeCollection(binanceAPI);
+        } catch (Exception e) {
+            System.err.println("Error in Bitcoin data collection: " + e.getMessage());
+            e.printStackTrace();
+        }
+    }
+
     private static void processHistoricalData(BinanceAPI binanceAPI, LocalDateTime startDate, LocalDateTime endDate) {
         try {
             LocalDateTime currentPeriodStart = startDate;
