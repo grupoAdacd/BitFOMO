@@ -20,6 +20,51 @@ public class BinanceDataExtractor {
     private static final DateTimeFormatter FILE_NAME_FORMAT = DateTimeFormatter.ofPattern("MMdyyyy");
     private static final DateTimeFormatter DISPLAY_FORMAT = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm");
 
+    private static void fetchAndSaveData(BinanceAPI binanceAPI, LocalDateTime startDateTime,
+                                         LocalDateTime endDateTime, String fileName) {
+        try {
+            long startTimeMillis = startDateTime.toInstant(ZoneOffset.UTC).toEpochMilli();
+            long endTimeMillis = endDateTime.toInstant(ZoneOffset.UTC).toEpochMilli();
+            try {
+                JSONArray timeRangeData = binanceAPI.fetchWhenFluctuation(SYMBOL, startTimeMillis, endTimeMillis, INTERVAL);
+                if (timeRangeData != null && timeRangeData.length() > 0) {
+                    File dataFile = new File(DATA_DIRECTORY + File.separator + fileName);
+                    try (FileWriter writer = new FileWriter(dataFile)) {
+                        writer.write("Bitcoin Price Data (" + SYMBOL + ") from " +
+                                startDateTime.format(DISPLAY_FORMAT) + " to " +
+                                endDateTime.format(DISPLAY_FORMAT) + "\n");
+                        writer.write("Interval: " + INTERVAL + "\n\n");
+                        for (int i = 0; i < timeRangeData.length(); i++) {
+                            JSONArray candle = timeRangeData.getJSONArray(i);
+                            LocalDateTime candleTime = LocalDateTime.ofEpochSecond(
+                                    candle.getLong(0) / 1000, 0, ZoneOffset.UTC);
+                            writer.write("Time (UTC): " + candleTime.format(DISPLAY_FORMAT) + "\n");
+                            writer.write("Open Price: " + candle.getString(1) + "\n");
+                            writer.write("High Price: " + candle.getString(2) + "\n");
+                            writer.write("Low Price: " + candle.getString(3) + "\n");
+                            writer.write("Close Price: " + candle.getString(4) + "\n");
+                            writer.write("Volume: " + candle.getString(5) + "\n");
+                            writer.write("------------------------------------\n");
+                        }
+                        System.out.println("Data saved to file: " + fileName +
+                                " (" + timeRangeData.length() + " data points)");
+                    }
+                } else {
+                    System.out.println("No data available for period: " +
+                            startDateTime.format(DISPLAY_FORMAT) + " to " +
+                            endDateTime.format(DISPLAY_FORMAT));
+                }
+            } catch (Exception apiError) {
+                System.err.println("Error with Binance API call: " + apiError.getMessage());
+                System.err.println("Make sure your BinanceAPI class is handling errors correctly.");
+                System.err.println("Check if your API key has access to historical data.");
+            }
+        } catch (Exception e) {
+            System.err.println("Error fetching or saving data for file " + fileName + ": " + e.getMessage());
+            e.printStackTrace();
+        }
+    }
+
     private static void setupRealTimeCollection(BinanceAPI binanceAPI) {
         Timer timer = new Timer();
         TimerTask dataCollectionTask = new TimerTask() {
