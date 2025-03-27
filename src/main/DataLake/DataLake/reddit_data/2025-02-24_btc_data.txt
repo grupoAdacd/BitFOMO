@@ -1,0 +1,504 @@
+Author: BokChoySlaps
+Title: Btc is down 14% from it's high
+Date: Mon Feb 24 23:52:02 WET 2025
+Text: Btc currently trading at 92k. Down 14% from it's high of 106k. It's said that btc falls ~30% before it's next leg up.
+
+
+What are our thoughts on this?
+URL: https://www.reddit.com/r/btc/comments/1ixgy3f/btc_is_down_14_from_its_high/
+Permalink: /r/btc/comments/1ixgy3f/btc_is_down_14_from_its_high/
+Number of Comments: 137
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: forknomore
+Title: #24 in coinmarketcap and 0,00318BTC?! What is wrong with BCH?
+Date: Mon Feb 24 23:26:34 WET 2025
+Text: I had my first BCH's with the fork and added within years. You wouldn't imagine the loss. I really can't understand the market decision about BCH. What is the problem? Why can't we attract institutions? Why does LTC marketcap nearly doubled BCH marketcap?
+
+I am not asking those questions to break spirit. Just addressing the problems.
+URL: https://www.reddit.com/r/btc/comments/1ixgdmo/24_in_coinmarketcap_and_000318btc_what_is_wrong/
+Permalink: /r/btc/comments/1ixgdmo/24_in_coinmarketcap_and_000318btc_what_is_wrong/
+Number of Comments: 40
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: michiganbhunter
+Title: Multisig Hierarchical Deterministic Addresses quantum secure?
+Date: Mon Feb 24 19:10:56 WET 2025
+Text: I'm moving my current BTC to a multisig.
+
+I plan to spread it across multiple Hierarchical Deterministic addresses.
+
+If I end up spending from one of the addresses and quantum then is able to crack it, does this mean all the other hd addresses are also at risk, even if I never spend from them?
+URL: https://www.reddit.com/r/btc/comments/1ixa4v5/multisig_hierarchical_deterministic_addresses/
+Permalink: /r/btc/comments/1ixa4v5/multisig_hierarchical_deterministic_addresses/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: InternationalFee1760
+Title: Memecoin sends btc
+Date: Mon Feb 24 18:41:01 WET 2025
+Text: Apparently this sends holders btc anyone confirm?
+URL: https://i.redd.it/k6wfruajt4le1.jpeg
+Permalink: /r/btc/comments/1ix9e2h/memecoin_sends_btc/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Expensive-Sun-3625
+Title: Why am I waiting 20hrs.
+Date: Mon Feb 24 18:24:47 WET 2025
+Text: Dude sure bitcoins great and all but if I have to wait 20hrs for a transaction it's literally no better than a bank. At least I have someone to call if it's a bank. Someone tell me how the automation decides which transactions to confirm first? Or is it a fifo situation?
+URL: https://www.reddit.com/r/btc/comments/1ix90r6/why_am_i_waiting_20hrs/
+Permalink: /r/btc/comments/1ix90r6/why_am_i_waiting_20hrs/
+Number of Comments: 47
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Only 42% left to reach our Flipstarter goal! Your support can help accelerate BCH adoption in Argentina.
+Date: Mon Feb 24 18:06:25 WET 2025
+Text: 
+URL: https://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1ix8k3h/only_42_left_to_reach_our_flipstarter_goal_your/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: sandakersmann
+Title: "But all 3 of us agreed that 1MB had to be temporary because it would never scale." - Ray Dillinger
+Date: Mon Feb 24 14:08:51 WET 2025
+Text: 
+URL: https://x.com/MKjrstad/status/1894022298623152372
+Permalink: /r/btc/comments/1ix2v8c/but_all_3_of_us_agreed_that_1mb_had_to_be/
+Number of Comments: 71
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Network Redundancy vs Wallet Infrastructure (GP Shorts)
+Date: Mon Feb 24 13:36:22 WET 2025
+Text: 
+URL: https://v.redd.it/5kdqnlesa3le1
+Permalink: /r/btc/comments/1ix26kz/network_redundancy_vs_wallet_infrastructure_gp/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gennyrick01
+Title: Mine is Golden ₿ and Yours?
+Date: Mon Feb 24 12:20:59 WET 2025
+Text: 
+URL: https://i.redd.it/w334td84v2le1.jpeg
+Permalink: /r/btc/comments/1ix0r5j/mine_is_golden_and_yours/
+Number of Comments: 12
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gennyrick01
+Title: Just Bitcoin Things🚀
+Date: Mon Feb 24 09:31:41 WET 2025
+Text: 
+URL: https://i.redd.it/21ilcjmi32le1.png
+Permalink: /r/btc/comments/1iwy7e0/just_bitcoin_things/
+Number of Comments: 98
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BowlerInitial5625
+Title: Btc
+Date: Mon Feb 24 08:01:55 WET 2025
+Text: 
+URL: https://i.redd.it/43l9a5sgn1le1.jpeg
+Permalink: /r/btc/comments/1iwwyru/btc/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: GP Spaces is now a podcast on Spotify, Apple Music, Amazon Music and more!
+Date: Mon Feb 24 06:58:21 WET 2025
+Text: 
+URL: https://v.redd.it/d672pdeeb1le1
+Permalink: /r/btc/comments/1iww1p8/gp_spaces_is_now_a_podcast_on_spotify_apple_music/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lampstreets
+Title: Has anyone tried out SnowX for Bitcoin reports and news
+Date: Mon Feb 24 02:23:36 WET 2025
+Text: 
+URL: https://v.redd.it/tof3gga2zzke1
+Permalink: /r/btc/comments/1iwrc5t/has_anyone_tried_out_snowx_for_bitcoin_reports/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BokChoySlaps
+Title: Btc is down 14% from it's high
+Date: Mon Feb 24 23:52:02 WET 2025
+Text: Btc currently trading at 92k. Down 14% from it's high of 106k. It's said that btc falls ~30% before it's next leg up.
+
+
+What are our thoughts on this?
+URL: https://www.reddit.com/r/btc/comments/1ixgy3f/btc_is_down_14_from_its_high/
+Permalink: /r/btc/comments/1ixgy3f/btc_is_down_14_from_its_high/
+Number of Comments: 137
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: forknomore
+Title: #24 in coinmarketcap and 0,00318BTC?! What is wrong with BCH?
+Date: Mon Feb 24 23:26:34 WET 2025
+Text: I had my first BCH's with the fork and added within years. You wouldn't imagine the loss. I really can't understand the market decision about BCH. What is the problem? Why can't we attract institutions? Why does LTC marketcap nearly doubled BCH marketcap?
+
+I am not asking those questions to break spirit. Just addressing the problems.
+URL: https://www.reddit.com/r/btc/comments/1ixgdmo/24_in_coinmarketcap_and_000318btc_what_is_wrong/
+Permalink: /r/btc/comments/1ixgdmo/24_in_coinmarketcap_and_000318btc_what_is_wrong/
+Number of Comments: 40
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: michiganbhunter
+Title: Multisig Hierarchical Deterministic Addresses quantum secure?
+Date: Mon Feb 24 19:10:56 WET 2025
+Text: I'm moving my current BTC to a multisig.
+
+I plan to spread it across multiple Hierarchical Deterministic addresses.
+
+If I end up spending from one of the addresses and quantum then is able to crack it, does this mean all the other hd addresses are also at risk, even if I never spend from them?
+URL: https://www.reddit.com/r/btc/comments/1ixa4v5/multisig_hierarchical_deterministic_addresses/
+Permalink: /r/btc/comments/1ixa4v5/multisig_hierarchical_deterministic_addresses/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: InternationalFee1760
+Title: Memecoin sends btc
+Date: Mon Feb 24 18:41:01 WET 2025
+Text: Apparently this sends holders btc anyone confirm?
+URL: https://i.redd.it/k6wfruajt4le1.jpeg
+Permalink: /r/btc/comments/1ix9e2h/memecoin_sends_btc/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Expensive-Sun-3625
+Title: Why am I waiting 20hrs.
+Date: Mon Feb 24 18:24:47 WET 2025
+Text: Dude sure bitcoins great and all but if I have to wait 20hrs for a transaction it's literally no better than a bank. At least I have someone to call if it's a bank. Someone tell me how the automation decides which transactions to confirm first? Or is it a fifo situation?
+URL: https://www.reddit.com/r/btc/comments/1ix90r6/why_am_i_waiting_20hrs/
+Permalink: /r/btc/comments/1ix90r6/why_am_i_waiting_20hrs/
+Number of Comments: 47
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Only 42% left to reach our Flipstarter goal! Your support can help accelerate BCH adoption in Argentina.
+Date: Mon Feb 24 18:06:25 WET 2025
+Text: 
+URL: https://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1ix8k3h/only_42_left_to_reach_our_flipstarter_goal_your/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: sandakersmann
+Title: "But all 3 of us agreed that 1MB had to be temporary because it would never scale." - Ray Dillinger
+Date: Mon Feb 24 14:08:51 WET 2025
+Text: 
+URL: https://x.com/MKjrstad/status/1894022298623152372
+Permalink: /r/btc/comments/1ix2v8c/but_all_3_of_us_agreed_that_1mb_had_to_be/
+Number of Comments: 71
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Network Redundancy vs Wallet Infrastructure (GP Shorts)
+Date: Mon Feb 24 13:36:22 WET 2025
+Text: 
+URL: https://v.redd.it/5kdqnlesa3le1
+Permalink: /r/btc/comments/1ix26kz/network_redundancy_vs_wallet_infrastructure_gp/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gennyrick01
+Title: Mine is Golden ₿ and Yours?
+Date: Mon Feb 24 12:20:59 WET 2025
+Text: 
+URL: https://i.redd.it/w334td84v2le1.jpeg
+Permalink: /r/btc/comments/1ix0r5j/mine_is_golden_and_yours/
+Number of Comments: 12
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gennyrick01
+Title: Just Bitcoin Things🚀
+Date: Mon Feb 24 09:31:41 WET 2025
+Text: 
+URL: https://i.redd.it/21ilcjmi32le1.png
+Permalink: /r/btc/comments/1iwy7e0/just_bitcoin_things/
+Number of Comments: 98
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BowlerInitial5625
+Title: Btc
+Date: Mon Feb 24 08:01:55 WET 2025
+Text: 
+URL: https://i.redd.it/43l9a5sgn1le1.jpeg
+Permalink: /r/btc/comments/1iwwyru/btc/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: GP Spaces is now a podcast on Spotify, Apple Music, Amazon Music and more!
+Date: Mon Feb 24 06:58:21 WET 2025
+Text: 
+URL: https://v.redd.it/d672pdeeb1le1
+Permalink: /r/btc/comments/1iww1p8/gp_spaces_is_now_a_podcast_on_spotify_apple_music/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lampstreets
+Title: Has anyone tried out SnowX for Bitcoin reports and news
+Date: Mon Feb 24 02:23:36 WET 2025
+Text: 
+URL: https://v.redd.it/tof3gga2zzke1
+Permalink: /r/btc/comments/1iwrc5t/has_anyone_tried_out_snowx_for_bitcoin_reports/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BokChoySlaps
+Title: Btc is down 14% from it's high
+Date: Mon Feb 24 23:52:02 WET 2025
+Text: Btc currently trading at 92k. Down 14% from it's high of 106k. It's said that btc falls ~30% before it's next leg up.
+
+
+What are our thoughts on this?
+URL: https://www.reddit.com/r/btc/comments/1ixgy3f/btc_is_down_14_from_its_high/
+Permalink: /r/btc/comments/1ixgy3f/btc_is_down_14_from_its_high/
+Number of Comments: 137
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: forknomore
+Title: #24 in coinmarketcap and 0,00318BTC?! What is wrong with BCH?
+Date: Mon Feb 24 23:26:34 WET 2025
+Text: I had my first BCH's with the fork and added within years. You wouldn't imagine the loss. I really can't understand the market decision about BCH. What is the problem? Why can't we attract institutions? Why does LTC marketcap nearly doubled BCH marketcap?
+
+I am not asking those questions to break spirit. Just addressing the problems.
+URL: https://www.reddit.com/r/btc/comments/1ixgdmo/24_in_coinmarketcap_and_000318btc_what_is_wrong/
+Permalink: /r/btc/comments/1ixgdmo/24_in_coinmarketcap_and_000318btc_what_is_wrong/
+Number of Comments: 40
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: michiganbhunter
+Title: Multisig Hierarchical Deterministic Addresses quantum secure?
+Date: Mon Feb 24 19:10:56 WET 2025
+Text: I'm moving my current BTC to a multisig.
+
+I plan to spread it across multiple Hierarchical Deterministic addresses.
+
+If I end up spending from one of the addresses and quantum then is able to crack it, does this mean all the other hd addresses are also at risk, even if I never spend from them?
+URL: https://www.reddit.com/r/btc/comments/1ixa4v5/multisig_hierarchical_deterministic_addresses/
+Permalink: /r/btc/comments/1ixa4v5/multisig_hierarchical_deterministic_addresses/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: InternationalFee1760
+Title: Memecoin sends btc
+Date: Mon Feb 24 18:41:01 WET 2025
+Text: Apparently this sends holders btc anyone confirm?
+URL: https://i.redd.it/k6wfruajt4le1.jpeg
+Permalink: /r/btc/comments/1ix9e2h/memecoin_sends_btc/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Expensive-Sun-3625
+Title: Why am I waiting 20hrs.
+Date: Mon Feb 24 18:24:47 WET 2025
+Text: Dude sure bitcoins great and all but if I have to wait 20hrs for a transaction it's literally no better than a bank. At least I have someone to call if it's a bank. Someone tell me how the automation decides which transactions to confirm first? Or is it a fifo situation?
+URL: https://www.reddit.com/r/btc/comments/1ix90r6/why_am_i_waiting_20hrs/
+Permalink: /r/btc/comments/1ix90r6/why_am_i_waiting_20hrs/
+Number of Comments: 47
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Only 42% left to reach our Flipstarter goal! Your support can help accelerate BCH adoption in Argentina.
+Date: Mon Feb 24 18:06:25 WET 2025
+Text: 
+URL: https://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1ix8k3h/only_42_left_to_reach_our_flipstarter_goal_your/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: sandakersmann
+Title: "But all 3 of us agreed that 1MB had to be temporary because it would never scale." - Ray Dillinger
+Date: Mon Feb 24 14:08:51 WET 2025
+Text: 
+URL: https://x.com/MKjrstad/status/1894022298623152372
+Permalink: /r/btc/comments/1ix2v8c/but_all_3_of_us_agreed_that_1mb_had_to_be/
+Number of Comments: 71
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Network Redundancy vs Wallet Infrastructure (GP Shorts)
+Date: Mon Feb 24 13:36:22 WET 2025
+Text: 
+URL: https://v.redd.it/5kdqnlesa3le1
+Permalink: /r/btc/comments/1ix26kz/network_redundancy_vs_wallet_infrastructure_gp/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gennyrick01
+Title: Mine is Golden ₿ and Yours?
+Date: Mon Feb 24 12:20:59 WET 2025
+Text: 
+URL: https://i.redd.it/w334td84v2le1.jpeg
+Permalink: /r/btc/comments/1ix0r5j/mine_is_golden_and_yours/
+Number of Comments: 12
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gennyrick01
+Title: Just Bitcoin Things🚀
+Date: Mon Feb 24 09:31:41 WET 2025
+Text: 
+URL: https://i.redd.it/21ilcjmi32le1.png
+Permalink: /r/btc/comments/1iwy7e0/just_bitcoin_things/
+Number of Comments: 98
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BowlerInitial5625
+Title: Btc
+Date: Mon Feb 24 08:01:55 WET 2025
+Text: 
+URL: https://i.redd.it/43l9a5sgn1le1.jpeg
+Permalink: /r/btc/comments/1iwwyru/btc/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: GP Spaces is now a podcast on Spotify, Apple Music, Amazon Music and more!
+Date: Mon Feb 24 06:58:21 WET 2025
+Text: 
+URL: https://v.redd.it/d672pdeeb1le1
+Permalink: /r/btc/comments/1iww1p8/gp_spaces_is_now_a_podcast_on_spotify_apple_music/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lampstreets
+Title: Has anyone tried out SnowX for Bitcoin reports and news
+Date: Mon Feb 24 02:23:36 WET 2025
+Text: 
+URL: https://v.redd.it/tof3gga2zzke1
+Permalink: /r/btc/comments/1iwrc5t/has_anyone_tried_out_snowx_for_bitcoin_reports/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BokChoySlaps
+Title: Btc is down 14% from it's high
+Date: Mon Feb 24 23:52:02 WET 2025
+Text: Btc currently trading at 92k. Down 14% from it's high of 106k. It's said that btc falls ~30% before it's next leg up.
+
+
+What are our thoughts on this?
+URL: https://www.reddit.com/r/btc/comments/1ixgy3f/btc_is_down_14_from_its_high/
+Permalink: /r/btc/comments/1ixgy3f/btc_is_down_14_from_its_high/
+Number of Comments: 137
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: forknomore
+Title: #24 in coinmarketcap and 0,00318BTC?! What is wrong with BCH?
+Date: Mon Feb 24 23:26:34 WET 2025
+Text: I had my first BCH's with the fork and added within years. You wouldn't imagine the loss. I really can't understand the market decision about BCH. What is the problem? Why can't we attract institutions? Why does LTC marketcap nearly doubled BCH marketcap?
+
+I am not asking those questions to break spirit. Just addressing the problems.
+URL: https://www.reddit.com/r/btc/comments/1ixgdmo/24_in_coinmarketcap_and_000318btc_what_is_wrong/
+Permalink: /r/btc/comments/1ixgdmo/24_in_coinmarketcap_and_000318btc_what_is_wrong/
+Number of Comments: 40
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: michiganbhunter
+Title: Multisig Hierarchical Deterministic Addresses quantum secure?
+Date: Mon Feb 24 19:10:56 WET 2025
+Text: I'm moving my current BTC to a multisig.
+
+I plan to spread it across multiple Hierarchical Deterministic addresses.
+
+If I end up spending from one of the addresses and quantum then is able to crack it, does this mean all the other hd addresses are also at risk, even if I never spend from them?
+URL: https://www.reddit.com/r/btc/comments/1ixa4v5/multisig_hierarchical_deterministic_addresses/
+Permalink: /r/btc/comments/1ixa4v5/multisig_hierarchical_deterministic_addresses/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: InternationalFee1760
+Title: Memecoin sends btc
+Date: Mon Feb 24 18:41:01 WET 2025
+Text: Apparently this sends holders btc anyone confirm?
+URL: https://i.redd.it/k6wfruajt4le1.jpeg
+Permalink: /r/btc/comments/1ix9e2h/memecoin_sends_btc/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Expensive-Sun-3625
+Title: Why am I waiting 20hrs.
+Date: Mon Feb 24 18:24:47 WET 2025
+Text: Dude sure bitcoins great and all but if I have to wait 20hrs for a transaction it's literally no better than a bank. At least I have someone to call if it's a bank. Someone tell me how the automation decides which transactions to confirm first? Or is it a fifo situation?
+URL: https://www.reddit.com/r/btc/comments/1ix90r6/why_am_i_waiting_20hrs/
+Permalink: /r/btc/comments/1ix90r6/why_am_i_waiting_20hrs/
+Number of Comments: 47
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Only 42% left to reach our Flipstarter goal! Your support can help accelerate BCH adoption in Argentina.
+Date: Mon Feb 24 18:06:25 WET 2025
+Text: 
+URL: https://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1ix8k3h/only_42_left_to_reach_our_flipstarter_goal_your/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: sandakersmann
+Title: "But all 3 of us agreed that 1MB had to be temporary because it would never scale." - Ray Dillinger
+Date: Mon Feb 24 14:08:51 WET 2025
+Text: 
+URL: https://x.com/MKjrstad/status/1894022298623152372
+Permalink: /r/btc/comments/1ix2v8c/but_all_3_of_us_agreed_that_1mb_had_to_be/
+Number of Comments: 71
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Network Redundancy vs Wallet Infrastructure (GP Shorts)
+Date: Mon Feb 24 13:36:22 WET 2025
+Text: 
+URL: https://v.redd.it/5kdqnlesa3le1
+Permalink: /r/btc/comments/1ix26kz/network_redundancy_vs_wallet_infrastructure_gp/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gennyrick01
+Title: Mine is Golden ₿ and Yours?
+Date: Mon Feb 24 12:20:59 WET 2025
+Text: 
+URL: https://i.redd.it/w334td84v2le1.jpeg
+Permalink: /r/btc/comments/1ix0r5j/mine_is_golden_and_yours/
+Number of Comments: 12
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gennyrick01
+Title: Just Bitcoin Things🚀
+Date: Mon Feb 24 09:31:41 WET 2025
+Text: 
+URL: https://i.redd.it/21ilcjmi32le1.png
+Permalink: /r/btc/comments/1iwy7e0/just_bitcoin_things/
+Number of Comments: 98
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BowlerInitial5625
+Title: Btc
+Date: Mon Feb 24 08:01:55 WET 2025
+Text: 
+URL: https://i.redd.it/43l9a5sgn1le1.jpeg
+Permalink: /r/btc/comments/1iwwyru/btc/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: GP Spaces is now a podcast on Spotify, Apple Music, Amazon Music and more!
+Date: Mon Feb 24 06:58:21 WET 2025
+Text: 
+URL: https://v.redd.it/d672pdeeb1le1
+Permalink: /r/btc/comments/1iww1p8/gp_spaces_is_now_a_podcast_on_spotify_apple_music/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lampstreets
+Title: Has anyone tried out SnowX for Bitcoin reports and news
+Date: Mon Feb 24 02:23:36 WET 2025
+Text: 
+URL: https://v.redd.it/tof3gga2zzke1
+Permalink: /r/btc/comments/1iwrc5t/has_anyone_tried_out_snowx_for_bitcoin_reports/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

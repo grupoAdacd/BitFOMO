@@ -1,0 +1,644 @@
+Author: loonglivetherepublic
+Title: Fridge.cash does still exist (without the URL!)
+Date: Tue Feb 11 23:47:11 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=ecRg1FK87RU
+Permalink: /r/btc/comments/1ind722/fridgecash_does_still_exist_without_the_url/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Clibate_TIM
+Title: Would you trust Bitcoin if it wasn't yours?
+Date: Tue Feb 11 19:46:06 WET 2025
+Text: Been thinking a lot about self-custody lately. Bitcoin was built on the idea of being your own bank, but somehow, people still leave their coins on exchanges, in custodial wallets, or even with “trusted” third parties.
+
+I’ve always kept my BTC in my own wallets, but ever since I started using BananaGun for trading, and I realized how much control actually matters. The bot generates a personal wallet for you, which is great for security, but also means no one else should ever have access. If I let someone else use it, I might as well just hand them my private keys.
+
+It made me wonder why are so many people comfortable trusting someone else with their Bitcoin? Do you think most people actually understand self-custody, or are we just one big exchange collapse away from another wake-up call?
+URL: https://www.reddit.com/r/btc/comments/1in7gnz/would_you_trust_bitcoin_if_it_wasnt_yours/
+Permalink: /r/btc/comments/1in7gnz/would_you_trust_bitcoin_if_it_wasnt_yours/
+Number of Comments: 35
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Britain's Public News Set to Release Satoshi Nakamoto Documentary on Bitcoin's Origins
+Date: Tue Feb 11 18:58:04 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/britains-public-news-set-to-release-satoshi-nakamoto-documentary-on-bitcoins-origins/
+Permalink: /r/btc/comments/1in69fe/britains_public_news_set_to_release_satoshi/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: OkAstronaut330
+Title: BitPay refusing refund - ideas?
+Date: Tue Feb 11 18:40:21 WET 2025
+Text: So you may know BitPay makes you pick a wallet before presenting you with a payment page - I was making a ~9 BCH payment to a BitPay merchant and picked Electron Cash, which uses BIP70 protocol.  But my EC wallet didnt have the funds so I copied the address and the amount from Electron Cash into Ledger Live and made the payment. I sadly watched the invoice time out and then disappear (but I took screenshots!)
+
+Now BitPay is saying there is no such payment related to the InvoiceID and can't help me.
+
+To quote them directly:
+
+&gt; This transaction does not belong to a BitPay Invoice (TXID).
+
+
+I took notes and screenshots when I saw two confirmations, but the bitpay invoice remained marked Unpaid.
+
+TLDR: I sent ~9 BCH to BitPay and they never credited me nor will they refund the payment. I have been calling them daily for a week and emailing almost daily too.
+
+Is BitPay screwing me?
+
+UPDATE: After 3 weeks, 7 phone calls, ~20 emails, BitPay returned the missing funds.  If I had given up after the first 5 times they told me there was nothing they could do, that it was my fault, or if I had believed any of that - I would have lost $3000 to their EXTREMELY poor support system.  BitPay blamed the error on Electron Cash generating the wrong BCH address based on the BitPay InvoiceID, but there is only BitPay to blame for refusing to do anything or accept responsibility until I made this thread.
+
+In cases like this the merchant can't do anything and will simply refer you to BitPay.  So it's like you are buying from Apple but if there's a problem, Apple says talk to BitPay (who has almost zero support (See Below)).  You are basically screwed unless you are a persistent little thorn in their side, like me, calling and emailing daily and having the technical knowledge to know I didn't fuck up, they did.
+
+If you are a merchant, or making large purchases, I suggest staying very far away from BitPay. Personally I will never use BitPay again.
+
+FYI BitPay has a "support" phone number, but they actually don't provide phone support for issues like this.  Their phone tech support don't even understand the very basics of how bitcoin transactions work and they readily admit the phone support is only for the Bitpay Card.
+URL: https://www.reddit.com/r/btc/comments/1in5tl2/bitpay_refusing_refund_ideas/
+Permalink: /r/btc/comments/1in5tl2/bitpay_refusing_refund_ideas/
+Number of Comments: 12
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: HelpfulAd9034
+Title: A Very Powerful Meme About Bitcoin
+Date: Tue Feb 11 18:14:06 WET 2025
+Text: Bitcoin, like life, is finite—each moment, like each block, unrepeatable. Its value lies in scarcity; its lesson, to cherish time. What we choose to hold defines us.
+URL: https://i.redd.it/uq03hovvwjie1.jpeg
+Permalink: /r/btc/comments/1in56ha/a_very_powerful_meme_about_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: WrongfulMeaning
+Title: Revolutionizing Uranium Trading: On-Chain, Fractional Ownership, and 24/7 Access
+Date: Tue Feb 11 15:35:56 WET 2025
+Text: 
+URL: /r/uranium_io/comments/1ildxrq/revolutionizing_uranium_trading_onchain/
+Permalink: /r/btc/comments/1in1bzh/revolutionizing_uranium_trading_onchain/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: In the USA some fiat coins are expensive to create so they are stopping to mint them. Meanwhile BCH still works for even lower denominations.
+Date: Tue Feb 11 13:26:42 WET 2025
+Text: 
+URL: https://apnews.com/article/trump-penny-treasury-mint-192e3b9ad9891d50e7014997653051ba
+Permalink: /r/btc/comments/1imyiu4/in_the_usa_some_fiat_coins_are_expensive_to/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Different_Bug_2015
+Title: 🔥 The Bitcoin Kid Bought BTC Before Michael Saylor Knew It Existed – Hear His Story LIVE!
+Date: Tue Feb 11 11:13:00 WET 2025
+Text: Hey everyone, just wanted to share an upcoming Twitter Spaces event that might interest the crypto crowd.
+
+📅 Date: Tuesday
+
+⏰ Time: 6 PM EST
+
+What’s it about?
+
+We’ll be joined by Tom, the kid behind a 10-minute YouTube video from 2011 where he explained what Bitcoin was and even made some bold predictions—all when he was just 12 years old.
+
+The crazy part?
+
+The video went completely undiscovered for 14 years until it was recently unearthed, sparking the creation of $TPU.
+
+🎙 Set a reminder for the Twitter Spaces: [https://x.com/0xSkip/status/1888744941112656350](https://x.com/0xSkip/status/1888744941112656350)
+
+Topics we’ll cover:
+
+•📜 Tom’s story: What led him to create the video in the first place.
+
+•🚀 Going viral: His reaction after the video blew up more than a decade later.
+
+•🌍 $TPU community: Growth, future plans, and how the story is spreading to major media outlets.
+
+If you’re into crypto history, early adoption stories, or just want a unique perspective on Bitcoin’s early days, this is a must-listen.
+
+🐦 Follow our Twitter page at: [https://x.com/FirstBitcoinKd](https://x.com/FirstBitcoinKd)
+
+See you there!
+URL: https://www.reddit.com/r/btc/comments/1imw8ib/the_bitcoin_kid_bought_btc_before_michael_saylor/
+Permalink: /r/btc/comments/1imw8ib/the_bitcoin_kid_bought_btc_before_michael_saylor/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: MinuteStreet172
+Title: Tokenizing
+Date: Tue Feb 11 10:00:33 WET 2025
+Text: Is it currently possible to tokenize heavish (≈20MB) paintings in the BCH network? If so, can someone lead me to a guide for it?
+URL: https://www.reddit.com/r/btc/comments/1imv7k5/tokenizing/
+Permalink: /r/btc/comments/1imv7k5/tokenizing/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Meet the Mind Behind Cashonize: An Exclusive Chat with Mathieu Geukens!
+Date: Tue Feb 11 07:28:22 WET 2025
+Text: A year ago I had an amazing opportunity to interview Mathieu Geukens, the dev behind cashonize and today I updated the article. I hope you read and enjoy it. 
+URL: https://read.cash/@alberdioni8406/meet-the-mind-behind-cashonize-an-exclusive-chat-with-mathieu-geukens-997d2812
+Permalink: /r/btc/comments/1imt8ck/meet_the_mind_behind_cashonize_an_exclusive_chat/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: SkyBridge Capital founder Anthony Scaramucci says, “Bitcoin now represents what prices should’ve been in 2022… I think it’s gonna be a very good year for #Bitcoin.”
+Date: Tue Feb 11 06:17:48 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=AimlJNXHy7E&amp;si=M-VdeNJa3b8jhrO8
+Permalink: /r/btc/comments/1ims77y/new_skybridge_capital_founder_anthony_scaramucci/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: WikiLeaks Exposes USAID Funding of Anti-Bitcoin Propaganda
+Date: Tue Feb 11 02:23:55 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/wikileaks-exposes-usaid-funding-of-anti-bitcoin-propaganda/
+Permalink: /r/btc/comments/1imny4q/wikileaks_exposes_usaid_funding_of_antibitcoin/
+Number of Comments: 152
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: loonglivetherepublic
+Title: Fridge.cash does still exist (without the URL!)
+Date: Tue Feb 11 23:47:11 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=ecRg1FK87RU
+Permalink: /r/btc/comments/1ind722/fridgecash_does_still_exist_without_the_url/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Clibate_TIM
+Title: Would you trust Bitcoin if it wasn't yours?
+Date: Tue Feb 11 19:46:06 WET 2025
+Text: Been thinking a lot about self-custody lately. Bitcoin was built on the idea of being your own bank, but somehow, people still leave their coins on exchanges, in custodial wallets, or even with “trusted” third parties.
+
+I’ve always kept my BTC in my own wallets, but ever since I started using BananaGun for trading, and I realized how much control actually matters. The bot generates a personal wallet for you, which is great for security, but also means no one else should ever have access. If I let someone else use it, I might as well just hand them my private keys.
+
+It made me wonder why are so many people comfortable trusting someone else with their Bitcoin? Do you think most people actually understand self-custody, or are we just one big exchange collapse away from another wake-up call?
+URL: https://www.reddit.com/r/btc/comments/1in7gnz/would_you_trust_bitcoin_if_it_wasnt_yours/
+Permalink: /r/btc/comments/1in7gnz/would_you_trust_bitcoin_if_it_wasnt_yours/
+Number of Comments: 35
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Britain's Public News Set to Release Satoshi Nakamoto Documentary on Bitcoin's Origins
+Date: Tue Feb 11 18:58:04 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/britains-public-news-set-to-release-satoshi-nakamoto-documentary-on-bitcoins-origins/
+Permalink: /r/btc/comments/1in69fe/britains_public_news_set_to_release_satoshi/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: OkAstronaut330
+Title: BitPay refusing refund - ideas?
+Date: Tue Feb 11 18:40:21 WET 2025
+Text: So you may know BitPay makes you pick a wallet before presenting you with a payment page - I was making a ~9 BCH payment to a BitPay merchant and picked Electron Cash, which uses BIP70 protocol.  But my EC wallet didnt have the funds so I copied the address and the amount from Electron Cash into Ledger Live and made the payment. I sadly watched the invoice time out and then disappear (but I took screenshots!)
+
+Now BitPay is saying there is no such payment related to the InvoiceID and can't help me.
+
+To quote them directly:
+
+&gt; This transaction does not belong to a BitPay Invoice (TXID).
+
+
+I took notes and screenshots when I saw two confirmations, but the bitpay invoice remained marked Unpaid.
+
+TLDR: I sent ~9 BCH to BitPay and they never credited me nor will they refund the payment. I have been calling them daily for a week and emailing almost daily too.
+
+Is BitPay screwing me?
+
+UPDATE: After 3 weeks, 7 phone calls, ~20 emails, BitPay returned the missing funds.  If I had given up after the first 5 times they told me there was nothing they could do, that it was my fault, or if I had believed any of that - I would have lost $3000 to their EXTREMELY poor support system.  BitPay blamed the error on Electron Cash generating the wrong BCH address based on the BitPay InvoiceID, but there is only BitPay to blame for refusing to do anything or accept responsibility until I made this thread.
+
+In cases like this the merchant can't do anything and will simply refer you to BitPay.  So it's like you are buying from Apple but if there's a problem, Apple says talk to BitPay (who has almost zero support (See Below)).  You are basically screwed unless you are a persistent little thorn in their side, like me, calling and emailing daily and having the technical knowledge to know I didn't fuck up, they did.
+
+If you are a merchant, or making large purchases, I suggest staying very far away from BitPay. Personally I will never use BitPay again.
+
+FYI BitPay has a "support" phone number, but they actually don't provide phone support for issues like this.  Their phone tech support don't even understand the very basics of how bitcoin transactions work and they readily admit the phone support is only for the Bitpay Card.
+URL: https://www.reddit.com/r/btc/comments/1in5tl2/bitpay_refusing_refund_ideas/
+Permalink: /r/btc/comments/1in5tl2/bitpay_refusing_refund_ideas/
+Number of Comments: 12
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: HelpfulAd9034
+Title: A Very Powerful Meme About Bitcoin
+Date: Tue Feb 11 18:14:06 WET 2025
+Text: Bitcoin, like life, is finite—each moment, like each block, unrepeatable. Its value lies in scarcity; its lesson, to cherish time. What we choose to hold defines us.
+URL: https://i.redd.it/uq03hovvwjie1.jpeg
+Permalink: /r/btc/comments/1in56ha/a_very_powerful_meme_about_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: WrongfulMeaning
+Title: Revolutionizing Uranium Trading: On-Chain, Fractional Ownership, and 24/7 Access
+Date: Tue Feb 11 15:35:56 WET 2025
+Text: 
+URL: /r/uranium_io/comments/1ildxrq/revolutionizing_uranium_trading_onchain/
+Permalink: /r/btc/comments/1in1bzh/revolutionizing_uranium_trading_onchain/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: In the USA some fiat coins are expensive to create so they are stopping to mint them. Meanwhile BCH still works for even lower denominations.
+Date: Tue Feb 11 13:26:42 WET 2025
+Text: 
+URL: https://apnews.com/article/trump-penny-treasury-mint-192e3b9ad9891d50e7014997653051ba
+Permalink: /r/btc/comments/1imyiu4/in_the_usa_some_fiat_coins_are_expensive_to/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Different_Bug_2015
+Title: 🔥 The Bitcoin Kid Bought BTC Before Michael Saylor Knew It Existed – Hear His Story LIVE!
+Date: Tue Feb 11 11:13:00 WET 2025
+Text: Hey everyone, just wanted to share an upcoming Twitter Spaces event that might interest the crypto crowd.
+
+📅 Date: Tuesday
+
+⏰ Time: 6 PM EST
+
+What’s it about?
+
+We’ll be joined by Tom, the kid behind a 10-minute YouTube video from 2011 where he explained what Bitcoin was and even made some bold predictions—all when he was just 12 years old.
+
+The crazy part?
+
+The video went completely undiscovered for 14 years until it was recently unearthed, sparking the creation of $TPU.
+
+🎙 Set a reminder for the Twitter Spaces: [https://x.com/0xSkip/status/1888744941112656350](https://x.com/0xSkip/status/1888744941112656350)
+
+Topics we’ll cover:
+
+•📜 Tom’s story: What led him to create the video in the first place.
+
+•🚀 Going viral: His reaction after the video blew up more than a decade later.
+
+•🌍 $TPU community: Growth, future plans, and how the story is spreading to major media outlets.
+
+If you’re into crypto history, early adoption stories, or just want a unique perspective on Bitcoin’s early days, this is a must-listen.
+
+🐦 Follow our Twitter page at: [https://x.com/FirstBitcoinKd](https://x.com/FirstBitcoinKd)
+
+See you there!
+URL: https://www.reddit.com/r/btc/comments/1imw8ib/the_bitcoin_kid_bought_btc_before_michael_saylor/
+Permalink: /r/btc/comments/1imw8ib/the_bitcoin_kid_bought_btc_before_michael_saylor/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: MinuteStreet172
+Title: Tokenizing
+Date: Tue Feb 11 10:00:33 WET 2025
+Text: Is it currently possible to tokenize heavish (≈20MB) paintings in the BCH network? If so, can someone lead me to a guide for it?
+URL: https://www.reddit.com/r/btc/comments/1imv7k5/tokenizing/
+Permalink: /r/btc/comments/1imv7k5/tokenizing/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Meet the Mind Behind Cashonize: An Exclusive Chat with Mathieu Geukens!
+Date: Tue Feb 11 07:28:22 WET 2025
+Text: A year ago I had an amazing opportunity to interview Mathieu Geukens, the dev behind cashonize and today I updated the article. I hope you read and enjoy it. 
+URL: https://read.cash/@alberdioni8406/meet-the-mind-behind-cashonize-an-exclusive-chat-with-mathieu-geukens-997d2812
+Permalink: /r/btc/comments/1imt8ck/meet_the_mind_behind_cashonize_an_exclusive_chat/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: SkyBridge Capital founder Anthony Scaramucci says, “Bitcoin now represents what prices should’ve been in 2022… I think it’s gonna be a very good year for #Bitcoin.”
+Date: Tue Feb 11 06:17:48 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=AimlJNXHy7E&amp;si=M-VdeNJa3b8jhrO8
+Permalink: /r/btc/comments/1ims77y/new_skybridge_capital_founder_anthony_scaramucci/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: WikiLeaks Exposes USAID Funding of Anti-Bitcoin Propaganda
+Date: Tue Feb 11 02:23:55 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/wikileaks-exposes-usaid-funding-of-anti-bitcoin-propaganda/
+Permalink: /r/btc/comments/1imny4q/wikileaks_exposes_usaid_funding_of_antibitcoin/
+Number of Comments: 152
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: loonglivetherepublic
+Title: Fridge.cash does still exist (without the URL!)
+Date: Tue Feb 11 23:47:11 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=ecRg1FK87RU
+Permalink: /r/btc/comments/1ind722/fridgecash_does_still_exist_without_the_url/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Clibate_TIM
+Title: Would you trust Bitcoin if it wasn't yours?
+Date: Tue Feb 11 19:46:06 WET 2025
+Text: Been thinking a lot about self-custody lately. Bitcoin was built on the idea of being your own bank, but somehow, people still leave their coins on exchanges, in custodial wallets, or even with “trusted” third parties.
+
+I’ve always kept my BTC in my own wallets, but ever since I started using BananaGun for trading, and I realized how much control actually matters. The bot generates a personal wallet for you, which is great for security, but also means no one else should ever have access. If I let someone else use it, I might as well just hand them my private keys.
+
+It made me wonder why are so many people comfortable trusting someone else with their Bitcoin? Do you think most people actually understand self-custody, or are we just one big exchange collapse away from another wake-up call?
+URL: https://www.reddit.com/r/btc/comments/1in7gnz/would_you_trust_bitcoin_if_it_wasnt_yours/
+Permalink: /r/btc/comments/1in7gnz/would_you_trust_bitcoin_if_it_wasnt_yours/
+Number of Comments: 35
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Britain's Public News Set to Release Satoshi Nakamoto Documentary on Bitcoin's Origins
+Date: Tue Feb 11 18:58:04 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/britains-public-news-set-to-release-satoshi-nakamoto-documentary-on-bitcoins-origins/
+Permalink: /r/btc/comments/1in69fe/britains_public_news_set_to_release_satoshi/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: OkAstronaut330
+Title: BitPay refusing refund - ideas?
+Date: Tue Feb 11 18:40:21 WET 2025
+Text: So you may know BitPay makes you pick a wallet before presenting you with a payment page - I was making a ~9 BCH payment to a BitPay merchant and picked Electron Cash, which uses BIP70 protocol.  But my EC wallet didnt have the funds so I copied the address and the amount from Electron Cash into Ledger Live and made the payment. I sadly watched the invoice time out and then disappear (but I took screenshots!)
+
+Now BitPay is saying there is no such payment related to the InvoiceID and can't help me.
+
+To quote them directly:
+
+&gt; This transaction does not belong to a BitPay Invoice (TXID).
+
+
+I took notes and screenshots when I saw two confirmations, but the bitpay invoice remained marked Unpaid.
+
+TLDR: I sent ~9 BCH to BitPay and they never credited me nor will they refund the payment. I have been calling them daily for a week and emailing almost daily too.
+
+Is BitPay screwing me?
+
+UPDATE: After 3 weeks, 7 phone calls, ~20 emails, BitPay returned the missing funds.  If I had given up after the first 5 times they told me there was nothing they could do, that it was my fault, or if I had believed any of that - I would have lost $3000 to their EXTREMELY poor support system.  BitPay blamed the error on Electron Cash generating the wrong BCH address based on the BitPay InvoiceID, but there is only BitPay to blame for refusing to do anything or accept responsibility until I made this thread.
+
+In cases like this the merchant can't do anything and will simply refer you to BitPay.  So it's like you are buying from Apple but if there's a problem, Apple says talk to BitPay (who has almost zero support (See Below)).  You are basically screwed unless you are a persistent little thorn in their side, like me, calling and emailing daily and having the technical knowledge to know I didn't fuck up, they did.
+
+If you are a merchant, or making large purchases, I suggest staying very far away from BitPay. Personally I will never use BitPay again.
+
+FYI BitPay has a "support" phone number, but they actually don't provide phone support for issues like this.  Their phone tech support don't even understand the very basics of how bitcoin transactions work and they readily admit the phone support is only for the Bitpay Card.
+URL: https://www.reddit.com/r/btc/comments/1in5tl2/bitpay_refusing_refund_ideas/
+Permalink: /r/btc/comments/1in5tl2/bitpay_refusing_refund_ideas/
+Number of Comments: 12
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: HelpfulAd9034
+Title: A Very Powerful Meme About Bitcoin
+Date: Tue Feb 11 18:14:06 WET 2025
+Text: Bitcoin, like life, is finite—each moment, like each block, unrepeatable. Its value lies in scarcity; its lesson, to cherish time. What we choose to hold defines us.
+URL: https://i.redd.it/uq03hovvwjie1.jpeg
+Permalink: /r/btc/comments/1in56ha/a_very_powerful_meme_about_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: WrongfulMeaning
+Title: Revolutionizing Uranium Trading: On-Chain, Fractional Ownership, and 24/7 Access
+Date: Tue Feb 11 15:35:56 WET 2025
+Text: 
+URL: /r/uranium_io/comments/1ildxrq/revolutionizing_uranium_trading_onchain/
+Permalink: /r/btc/comments/1in1bzh/revolutionizing_uranium_trading_onchain/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: In the USA some fiat coins are expensive to create so they are stopping to mint them. Meanwhile BCH still works for even lower denominations.
+Date: Tue Feb 11 13:26:42 WET 2025
+Text: 
+URL: https://apnews.com/article/trump-penny-treasury-mint-192e3b9ad9891d50e7014997653051ba
+Permalink: /r/btc/comments/1imyiu4/in_the_usa_some_fiat_coins_are_expensive_to/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Different_Bug_2015
+Title: 🔥 The Bitcoin Kid Bought BTC Before Michael Saylor Knew It Existed – Hear His Story LIVE!
+Date: Tue Feb 11 11:13:00 WET 2025
+Text: Hey everyone, just wanted to share an upcoming Twitter Spaces event that might interest the crypto crowd.
+
+📅 Date: Tuesday
+
+⏰ Time: 6 PM EST
+
+What’s it about?
+
+We’ll be joined by Tom, the kid behind a 10-minute YouTube video from 2011 where he explained what Bitcoin was and even made some bold predictions—all when he was just 12 years old.
+
+The crazy part?
+
+The video went completely undiscovered for 14 years until it was recently unearthed, sparking the creation of $TPU.
+
+🎙 Set a reminder for the Twitter Spaces: [https://x.com/0xSkip/status/1888744941112656350](https://x.com/0xSkip/status/1888744941112656350)
+
+Topics we’ll cover:
+
+•📜 Tom’s story: What led him to create the video in the first place.
+
+•🚀 Going viral: His reaction after the video blew up more than a decade later.
+
+•🌍 $TPU community: Growth, future plans, and how the story is spreading to major media outlets.
+
+If you’re into crypto history, early adoption stories, or just want a unique perspective on Bitcoin’s early days, this is a must-listen.
+
+🐦 Follow our Twitter page at: [https://x.com/FirstBitcoinKd](https://x.com/FirstBitcoinKd)
+
+See you there!
+URL: https://www.reddit.com/r/btc/comments/1imw8ib/the_bitcoin_kid_bought_btc_before_michael_saylor/
+Permalink: /r/btc/comments/1imw8ib/the_bitcoin_kid_bought_btc_before_michael_saylor/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: MinuteStreet172
+Title: Tokenizing
+Date: Tue Feb 11 10:00:33 WET 2025
+Text: Is it currently possible to tokenize heavish (≈20MB) paintings in the BCH network? If so, can someone lead me to a guide for it?
+URL: https://www.reddit.com/r/btc/comments/1imv7k5/tokenizing/
+Permalink: /r/btc/comments/1imv7k5/tokenizing/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Meet the Mind Behind Cashonize: An Exclusive Chat with Mathieu Geukens!
+Date: Tue Feb 11 07:28:22 WET 2025
+Text: A year ago I had an amazing opportunity to interview Mathieu Geukens, the dev behind cashonize and today I updated the article. I hope you read and enjoy it. 
+URL: https://read.cash/@alberdioni8406/meet-the-mind-behind-cashonize-an-exclusive-chat-with-mathieu-geukens-997d2812
+Permalink: /r/btc/comments/1imt8ck/meet_the_mind_behind_cashonize_an_exclusive_chat/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: SkyBridge Capital founder Anthony Scaramucci says, “Bitcoin now represents what prices should’ve been in 2022… I think it’s gonna be a very good year for #Bitcoin.”
+Date: Tue Feb 11 06:17:48 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=AimlJNXHy7E&amp;si=M-VdeNJa3b8jhrO8
+Permalink: /r/btc/comments/1ims77y/new_skybridge_capital_founder_anthony_scaramucci/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: WikiLeaks Exposes USAID Funding of Anti-Bitcoin Propaganda
+Date: Tue Feb 11 02:23:55 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/wikileaks-exposes-usaid-funding-of-anti-bitcoin-propaganda/
+Permalink: /r/btc/comments/1imny4q/wikileaks_exposes_usaid_funding_of_antibitcoin/
+Number of Comments: 152
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: loonglivetherepublic
+Title: Fridge.cash does still exist (without the URL!)
+Date: Tue Feb 11 23:47:11 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=ecRg1FK87RU
+Permalink: /r/btc/comments/1ind722/fridgecash_does_still_exist_without_the_url/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Clibate_TIM
+Title: Would you trust Bitcoin if it wasn't yours?
+Date: Tue Feb 11 19:46:06 WET 2025
+Text: Been thinking a lot about self-custody lately. Bitcoin was built on the idea of being your own bank, but somehow, people still leave their coins on exchanges, in custodial wallets, or even with “trusted” third parties.
+
+I’ve always kept my BTC in my own wallets, but ever since I started using BananaGun for trading, and I realized how much control actually matters. The bot generates a personal wallet for you, which is great for security, but also means no one else should ever have access. If I let someone else use it, I might as well just hand them my private keys.
+
+It made me wonder why are so many people comfortable trusting someone else with their Bitcoin? Do you think most people actually understand self-custody, or are we just one big exchange collapse away from another wake-up call?
+URL: https://www.reddit.com/r/btc/comments/1in7gnz/would_you_trust_bitcoin_if_it_wasnt_yours/
+Permalink: /r/btc/comments/1in7gnz/would_you_trust_bitcoin_if_it_wasnt_yours/
+Number of Comments: 35
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Britain's Public News Set to Release Satoshi Nakamoto Documentary on Bitcoin's Origins
+Date: Tue Feb 11 18:58:04 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/britains-public-news-set-to-release-satoshi-nakamoto-documentary-on-bitcoins-origins/
+Permalink: /r/btc/comments/1in69fe/britains_public_news_set_to_release_satoshi/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: OkAstronaut330
+Title: BitPay refusing refund - ideas?
+Date: Tue Feb 11 18:40:21 WET 2025
+Text: So you may know BitPay makes you pick a wallet before presenting you with a payment page - I was making a ~9 BCH payment to a BitPay merchant and picked Electron Cash, which uses BIP70 protocol.  But my EC wallet didnt have the funds so I copied the address and the amount from Electron Cash into Ledger Live and made the payment. I sadly watched the invoice time out and then disappear (but I took screenshots!)
+
+Now BitPay is saying there is no such payment related to the InvoiceID and can't help me.
+
+To quote them directly:
+
+&gt; This transaction does not belong to a BitPay Invoice (TXID).
+
+
+I took notes and screenshots when I saw two confirmations, but the bitpay invoice remained marked Unpaid.
+
+TLDR: I sent ~9 BCH to BitPay and they never credited me nor will they refund the payment. I have been calling them daily for a week and emailing almost daily too.
+
+Is BitPay screwing me?
+
+UPDATE: After 3 weeks, 7 phone calls, ~20 emails, BitPay returned the missing funds.  If I had given up after the first 5 times they told me there was nothing they could do, that it was my fault, or if I had believed any of that - I would have lost $3000 to their EXTREMELY poor support system.  BitPay blamed the error on Electron Cash generating the wrong BCH address based on the BitPay InvoiceID, but there is only BitPay to blame for refusing to do anything or accept responsibility until I made this thread.
+
+In cases like this the merchant can't do anything and will simply refer you to BitPay.  So it's like you are buying from Apple but if there's a problem, Apple says talk to BitPay (who has almost zero support (See Below)).  You are basically screwed unless you are a persistent little thorn in their side, like me, calling and emailing daily and having the technical knowledge to know I didn't fuck up, they did.
+
+If you are a merchant, or making large purchases, I suggest staying very far away from BitPay. Personally I will never use BitPay again.
+
+FYI BitPay has a "support" phone number, but they actually don't provide phone support for issues like this.  Their phone tech support don't even understand the very basics of how bitcoin transactions work and they readily admit the phone support is only for the Bitpay Card.
+URL: https://www.reddit.com/r/btc/comments/1in5tl2/bitpay_refusing_refund_ideas/
+Permalink: /r/btc/comments/1in5tl2/bitpay_refusing_refund_ideas/
+Number of Comments: 12
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: HelpfulAd9034
+Title: A Very Powerful Meme About Bitcoin
+Date: Tue Feb 11 18:14:06 WET 2025
+Text: Bitcoin, like life, is finite—each moment, like each block, unrepeatable. Its value lies in scarcity; its lesson, to cherish time. What we choose to hold defines us.
+URL: https://i.redd.it/uq03hovvwjie1.jpeg
+Permalink: /r/btc/comments/1in56ha/a_very_powerful_meme_about_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: WrongfulMeaning
+Title: Revolutionizing Uranium Trading: On-Chain, Fractional Ownership, and 24/7 Access
+Date: Tue Feb 11 15:35:56 WET 2025
+Text: 
+URL: /r/uranium_io/comments/1ildxrq/revolutionizing_uranium_trading_onchain/
+Permalink: /r/btc/comments/1in1bzh/revolutionizing_uranium_trading_onchain/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: In the USA some fiat coins are expensive to create so they are stopping to mint them. Meanwhile BCH still works for even lower denominations.
+Date: Tue Feb 11 13:26:42 WET 2025
+Text: 
+URL: https://apnews.com/article/trump-penny-treasury-mint-192e3b9ad9891d50e7014997653051ba
+Permalink: /r/btc/comments/1imyiu4/in_the_usa_some_fiat_coins_are_expensive_to/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Different_Bug_2015
+Title: 🔥 The Bitcoin Kid Bought BTC Before Michael Saylor Knew It Existed – Hear His Story LIVE!
+Date: Tue Feb 11 11:13:00 WET 2025
+Text: Hey everyone, just wanted to share an upcoming Twitter Spaces event that might interest the crypto crowd.
+
+📅 Date: Tuesday
+
+⏰ Time: 6 PM EST
+
+What’s it about?
+
+We’ll be joined by Tom, the kid behind a 10-minute YouTube video from 2011 where he explained what Bitcoin was and even made some bold predictions—all when he was just 12 years old.
+
+The crazy part?
+
+The video went completely undiscovered for 14 years until it was recently unearthed, sparking the creation of $TPU.
+
+🎙 Set a reminder for the Twitter Spaces: [https://x.com/0xSkip/status/1888744941112656350](https://x.com/0xSkip/status/1888744941112656350)
+
+Topics we’ll cover:
+
+•📜 Tom’s story: What led him to create the video in the first place.
+
+•🚀 Going viral: His reaction after the video blew up more than a decade later.
+
+•🌍 $TPU community: Growth, future plans, and how the story is spreading to major media outlets.
+
+If you’re into crypto history, early adoption stories, or just want a unique perspective on Bitcoin’s early days, this is a must-listen.
+
+🐦 Follow our Twitter page at: [https://x.com/FirstBitcoinKd](https://x.com/FirstBitcoinKd)
+
+See you there!
+URL: https://www.reddit.com/r/btc/comments/1imw8ib/the_bitcoin_kid_bought_btc_before_michael_saylor/
+Permalink: /r/btc/comments/1imw8ib/the_bitcoin_kid_bought_btc_before_michael_saylor/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: MinuteStreet172
+Title: Tokenizing
+Date: Tue Feb 11 10:00:33 WET 2025
+Text: Is it currently possible to tokenize heavish (≈20MB) paintings in the BCH network? If so, can someone lead me to a guide for it?
+URL: https://www.reddit.com/r/btc/comments/1imv7k5/tokenizing/
+Permalink: /r/btc/comments/1imv7k5/tokenizing/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Meet the Mind Behind Cashonize: An Exclusive Chat with Mathieu Geukens!
+Date: Tue Feb 11 07:28:22 WET 2025
+Text: A year ago I had an amazing opportunity to interview Mathieu Geukens, the dev behind cashonize and today I updated the article. I hope you read and enjoy it. 
+URL: https://read.cash/@alberdioni8406/meet-the-mind-behind-cashonize-an-exclusive-chat-with-mathieu-geukens-997d2812
+Permalink: /r/btc/comments/1imt8ck/meet_the_mind_behind_cashonize_an_exclusive_chat/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: SkyBridge Capital founder Anthony Scaramucci says, “Bitcoin now represents what prices should’ve been in 2022… I think it’s gonna be a very good year for #Bitcoin.”
+Date: Tue Feb 11 06:17:48 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=AimlJNXHy7E&amp;si=M-VdeNJa3b8jhrO8
+Permalink: /r/btc/comments/1ims77y/new_skybridge_capital_founder_anthony_scaramucci/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: WikiLeaks Exposes USAID Funding of Anti-Bitcoin Propaganda
+Date: Tue Feb 11 02:23:55 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/wikileaks-exposes-usaid-funding-of-anti-bitcoin-propaganda/
+Permalink: /r/btc/comments/1imny4q/wikileaks_exposes_usaid_funding_of_antibitcoin/
+Number of Comments: 152
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

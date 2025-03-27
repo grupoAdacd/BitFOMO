@@ -1,0 +1,832 @@
+Author: eagle_eye_johnson
+Title: New Node is joining the Network.
+Date: Sun Feb 16 22:35:04 WET 2025
+Text: 
+URL: https://i.redd.it/unvqsr3b6fje1.jpeg
+Permalink: /r/btc/comments/1ir4n9n/new_node_is_joining_the_network/
+Number of Comments: 42
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Hardcore Bitcoiner “Plan B” Shifts from BTC Maxi to ETF Advocate, Community Stunned
+Date: Sun Feb 16 19:32:43 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/hardcore-bitcoiner-plan-b-shifts-from-btc-maxi-to-etf-advocate-community-stunned/
+Permalink: /r/btc/comments/1ir0dlh/hardcore_bitcoiner_plan_b_shifts_from_btc_maxi_to/
+Number of Comments: 33
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: schiantoRG
+Title: Does Satoshi own &gt;1million of BCH as well than BTC? Plus BSV and all the other forks...
+Date: Sun Feb 16 17:41:27 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1iqxoe2/does_satoshi_own_1million_of_bch_as_well_than_btc/
+Permalink: /r/btc/comments/1iqxoe2/does_satoshi_own_1million_of_bch_as_well_than_btc/
+Number of Comments: 48
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: The Build-a-Mine Pod Ep 60 - Waste To Energy with Dan Koehler! Check Out The Full Episode on YT!
+Date: Sun Feb 16 15:13:52 WET 2025
+Text: 
+URL: https://v.redd.it/wg6kbhctoije1
+Permalink: /r/btc/comments/1iqua21/the_buildamine_pod_ep_60_waste_to_energy_with_dan/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: susonotabi
+Title: Paying with Bitcoin Cash using Paytaca at a bakery in Cebu, Philippines ...
+Date: Sun Feb 16 14:40:53 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=ZKRMSXK58U4&amp;si=zNNrUDCxGEmCBz7Q
+Permalink: /r/btc/comments/1iqtkz8/paying_with_bitcoin_cash_using_paytaca_at_a/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: kouwa
+Title: The sell pressure on $BTC is fading slowly, am I the only one noticing that?
+Date: Sun Feb 16 12:22:10 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1iqr39d/the_sell_pressure_on_btc_is_fading_slowly_am_i/
+Permalink: /r/btc/comments/1iqr39d/the_sell_pressure_on_btc_is_fading_slowly_am_i/
+Number of Comments: 15
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Litecoin ETF was filed and its price is sitting at its one year high. For comparison the BCH yearly high is $720, will we see a similar movement after a BCH ETF filing?
+Date: Sun Feb 16 11:01:35 WET 2025
+Text: BTC and ETH had similar price movements after their ETF filings (and obviously way higher after approvals and options trading), same as XRP and some others, that have filed applications.
+URL: https://www.reddit.com/r/btc/comments/1iqpxxm/litecoin_etf_was_filed_and_its_price_is_sitting/
+Permalink: /r/btc/comments/1iqpxxm/litecoin_etf_was_filed_and_its_price_is_sitting/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Jehoseph
+Title: Jack Nakamoto
+Date: Sun Feb 16 08:11:31 WET 2025
+Text: For years, the identity of Satoshi Nakamoto, the enigmatic creator of Bitcoin, has remained a mystery. But what if the answer has been hiding in plain sight? Here’s why Jack Dorsey, co-founder of Twitter and Square (now Block), might just be Satoshi.
+
+Seán Murray writes here: 
+https://decashed.eth.loan/2024/12/the-art-of-satoshi-nakamoto-why-jack-dorsey-is-probably-bitcoins-creator/
+
+---
+
+Jack Dorsey’s Cypherpunk Credentials
+
+One of ~1,300 confirmed cypherpunks in 1996 (his UMR email)
+
+Wore an Adam Back t-shirt in the UMR yearbook
+
+UMR students were called Miners
+
+Computer Science &amp; Math major with an interest in cryptography
+
+Member of ACM (Association for Computing Machinery) from 1997 to at least 1999
+
+Created academic research paper submission &amp; review software for Mira Digital Publishing
+
+Known to use: OpenBSD, Windows, Mac, Linux
+
+Skilled in multiple programming languages: C, Python, Java, Perl, PHP, OCaml, JoCaml, Lisp, ObjC, and more
+
+Still on the cypherpunk mailing list in 2000 under his dnet .com email
+
+Wrote a manifesto in 2001 about making a mark without leaving a trace
+
+Subscriber to cryptome.org in 2001
+
+
+Early Signs of a Bitcoin-like Mindset
+
+In 2003, Dorsey posted a bio mentioning his interest in crypto, pseudonyms, and 4 AM hacks
+
+That same year, he declared he was ending his dependence on the U.S. dollar and was creating a barter network
+
+Used the pseudonym "Jak" instead of Jack
+
+
+Suspiciously Timed Events Around Bitcoin’s Birth
+
+August 17, 2008: Jack, an avid sailor, tweets: "Around the horn and home again, for that's the sailor's way." Bitcoin.org is registered the next day.
+
+His Twitter bio from Sept '07 - Jan '09 mentioned that he was a sailor.
+
+The original Bitcoin source code contains an old sailor’s adage: "Never go to sea with two chronometers; take one or three."
+
+Bitcoin’s source code documents were timestamped at exactly 4 AM, aligning with Jack’s known hacking hours.
+
+Bitcoin’s source code includes a brute-forced vanity address starting with NS17 (Nakamoto Satoshi 1/7), timestamped 1/7/09.
+
+January 10, 2009: Satoshi accidentally logs into IRC revealing a California IP address—Jack was in California.
+
+January 11, 2009: First Bitcoin transaction occurs—this is Jack’s mother’s birthday.
+
+November 19, 2009: Satoshi joins the Bitcoin forum—this is Jack’s birthday.
+
+May 3, 2010: Satoshi’s last mined block—this is Jack’s father’s birthday.
+
+
+Dorsey's Bitcoin Connections Post-Satoshi Disappearance
+
+Jack’s San Francisco address was 2 Mint Plaza (jD2m)—he later sent Bitcoin to addresses containing "jD2m."
+
+Satoshi tells Martti Malmi he is "busy with work"—Jack was busy launching Square (now Block).
+
+December 5, 2010: Satoshi advises against donating Bitcoin to Wikileaks.
+
+December 14, 2010: Twitter receives a secret court order to turn over information about Wikileaks.
+
+December 13, 2010: Satoshi disappears.
+
+March 28, 2011: Jack becomes Executive Chairman of Twitter while still CEO of Square.
+
+April 23, 2011: Satoshi sends his last email.
+
+May 23, 2011: Twitter’s tech lead suggests Bitcoin integration.
+
+
+Jack's Public Relationship with Bitcoin
+
+September 2012: Jack calls Bitcoin an "amazing movement" and suggests Square will adopt it if widely accepted.
+
+2013: Alyssa Milano, Jack's best friend, releases Hacktivist, a novel featuring a protagonist living a double life behind a pseudonym.
+
+March 31, 2014: Square announces Bitcoin acceptance.
+
+September 8, 2014: Satoshi’s email is hacked, and the hacker claims knowledge of Satoshi’s connection to St. Louis (Jack's hometown).
+
+2015: Milano releases Hacktivist 2, where the protagonist’s famous pseudonym is hijacked, featuring a logo similar to Gavin Andresen’s Bitcoin Faucet logo.
+
+August 15, 2015: Satoshi reappears on the Bitcoin mailing list amid the block size debates, sparking doubts about the authenticity of the return.
+
+October 15, 2015: Jack becomes permanent CEO of Twitter.
+
+2018: Square releases a children's book about the "Legend of Satoshi Nakamoto," where Satoshi resembles Jack.
+
+
+Recent Jack Dorsey &amp; Bitcoin Connections
+
+April 20, 2020: Lex Fridman asks Jack if he is Satoshi—Jack coyly replies he wouldn’t admit it if he were. Unlike Szabo, Back, and Finney, Jack never outright denies it.
+
+May 25, 2020: 145 old Bitcoin addresses sign a message calling Craig Wright a fraud. One of these addresses starts with "1jak" (Jack’s pseudonym). Another includes "HiSQ" (SQ = Square, Jack’s company).
+
+February 2022: Jack starts wearing a Satoshi t-shirt, first on a Michael Saylor podcast, then at the Super Bowl.
+
+October 27, 2023: At a conference, Jack states, "Bitcoin and Satoshi in 2009 was a combination of my childhood and my curiosity and everything that I aspired to be and everything I loved."
+
+Early 2024: Craig Wright’s attorneys argue that if he is not Satoshi, the real Satoshi should come forward to refute the claim. Jack, through his involvement in the COPA v. Wright lawsuit, does exactly that.
+
+July 21, 2024: Jack posts on Nostr: "I frequently imagine Satoshi sitting back somewhere and laughing at it all."
+
+August 28, 2024: Jack thanks Hal Finney (now deceased) on Nostr.
+
+
+
+---
+
+A Work of Art or a Hidden Truth?
+
+The prevailing belief that Satoshi never wanted to be found is an assumption created by others. Jack himself has clarified that Satoshi chose pseudonymity, not anonymity. Given his deep involvement in cryptography, early Bitcoin-era events aligning with personal milestones, and his long-time cryptic nods to Satoshi, is it possible that Jack Dorsey created Bitcoin as a form of digital art? A masterpiece of financial revolution?
+
+Or is he simply the ultimate Bitcoin enthusiast, subtly playing into the mystery?
+
+What do you think? Could Jack Dorsey really be Satoshi Nakamoto?
+
+URL: https://www.reddit.com/r/btc/comments/1iqnlpu/jack_nakamoto/
+Permalink: /r/btc/comments/1iqnlpu/jack_nakamoto/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: BULLISH: Former CFTC Chair Chris Giancarlo says, "Bitcoin has into its design programmed scarcity. You can never have more than a certain amount of Bitcoin."
+Date: Sun Feb 16 07:54:57 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=7bxZxtWZS0k&amp;si=UEWDJ1IEVv06yyKA
+Permalink: /r/btc/comments/1iqnd7k/bullish_former_cftc_chair_chris_giancarlo_says/
+Number of Comments: 31
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: eagle_eye_johnson
+Title: New Node is joining the Network.
+Date: Sun Feb 16 22:35:04 WET 2025
+Text: 
+URL: https://i.redd.it/unvqsr3b6fje1.jpeg
+Permalink: /r/btc/comments/1ir4n9n/new_node_is_joining_the_network/
+Number of Comments: 42
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Hardcore Bitcoiner “Plan B” Shifts from BTC Maxi to ETF Advocate, Community Stunned
+Date: Sun Feb 16 19:32:43 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/hardcore-bitcoiner-plan-b-shifts-from-btc-maxi-to-etf-advocate-community-stunned/
+Permalink: /r/btc/comments/1ir0dlh/hardcore_bitcoiner_plan_b_shifts_from_btc_maxi_to/
+Number of Comments: 33
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: schiantoRG
+Title: Does Satoshi own &gt;1million of BCH as well than BTC? Plus BSV and all the other forks...
+Date: Sun Feb 16 17:41:27 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1iqxoe2/does_satoshi_own_1million_of_bch_as_well_than_btc/
+Permalink: /r/btc/comments/1iqxoe2/does_satoshi_own_1million_of_bch_as_well_than_btc/
+Number of Comments: 48
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: The Build-a-Mine Pod Ep 60 - Waste To Energy with Dan Koehler! Check Out The Full Episode on YT!
+Date: Sun Feb 16 15:13:52 WET 2025
+Text: 
+URL: https://v.redd.it/wg6kbhctoije1
+Permalink: /r/btc/comments/1iqua21/the_buildamine_pod_ep_60_waste_to_energy_with_dan/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: susonotabi
+Title: Paying with Bitcoin Cash using Paytaca at a bakery in Cebu, Philippines ...
+Date: Sun Feb 16 14:40:53 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=ZKRMSXK58U4&amp;si=zNNrUDCxGEmCBz7Q
+Permalink: /r/btc/comments/1iqtkz8/paying_with_bitcoin_cash_using_paytaca_at_a/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: kouwa
+Title: The sell pressure on $BTC is fading slowly, am I the only one noticing that?
+Date: Sun Feb 16 12:22:10 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1iqr39d/the_sell_pressure_on_btc_is_fading_slowly_am_i/
+Permalink: /r/btc/comments/1iqr39d/the_sell_pressure_on_btc_is_fading_slowly_am_i/
+Number of Comments: 15
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Litecoin ETF was filed and its price is sitting at its one year high. For comparison the BCH yearly high is $720, will we see a similar movement after a BCH ETF filing?
+Date: Sun Feb 16 11:01:35 WET 2025
+Text: BTC and ETH had similar price movements after their ETF filings (and obviously way higher after approvals and options trading), same as XRP and some others, that have filed applications.
+URL: https://www.reddit.com/r/btc/comments/1iqpxxm/litecoin_etf_was_filed_and_its_price_is_sitting/
+Permalink: /r/btc/comments/1iqpxxm/litecoin_etf_was_filed_and_its_price_is_sitting/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Jehoseph
+Title: Jack Nakamoto
+Date: Sun Feb 16 08:11:31 WET 2025
+Text: For years, the identity of Satoshi Nakamoto, the enigmatic creator of Bitcoin, has remained a mystery. But what if the answer has been hiding in plain sight? Here’s why Jack Dorsey, co-founder of Twitter and Square (now Block), might just be Satoshi.
+
+Seán Murray writes here: 
+https://decashed.eth.loan/2024/12/the-art-of-satoshi-nakamoto-why-jack-dorsey-is-probably-bitcoins-creator/
+
+---
+
+Jack Dorsey’s Cypherpunk Credentials
+
+One of ~1,300 confirmed cypherpunks in 1996 (his UMR email)
+
+Wore an Adam Back t-shirt in the UMR yearbook
+
+UMR students were called Miners
+
+Computer Science &amp; Math major with an interest in cryptography
+
+Member of ACM (Association for Computing Machinery) from 1997 to at least 1999
+
+Created academic research paper submission &amp; review software for Mira Digital Publishing
+
+Known to use: OpenBSD, Windows, Mac, Linux
+
+Skilled in multiple programming languages: C, Python, Java, Perl, PHP, OCaml, JoCaml, Lisp, ObjC, and more
+
+Still on the cypherpunk mailing list in 2000 under his dnet .com email
+
+Wrote a manifesto in 2001 about making a mark without leaving a trace
+
+Subscriber to cryptome.org in 2001
+
+
+Early Signs of a Bitcoin-like Mindset
+
+In 2003, Dorsey posted a bio mentioning his interest in crypto, pseudonyms, and 4 AM hacks
+
+That same year, he declared he was ending his dependence on the U.S. dollar and was creating a barter network
+
+Used the pseudonym "Jak" instead of Jack
+
+
+Suspiciously Timed Events Around Bitcoin’s Birth
+
+August 17, 2008: Jack, an avid sailor, tweets: "Around the horn and home again, for that's the sailor's way." Bitcoin.org is registered the next day.
+
+His Twitter bio from Sept '07 - Jan '09 mentioned that he was a sailor.
+
+The original Bitcoin source code contains an old sailor’s adage: "Never go to sea with two chronometers; take one or three."
+
+Bitcoin’s source code documents were timestamped at exactly 4 AM, aligning with Jack’s known hacking hours.
+
+Bitcoin’s source code includes a brute-forced vanity address starting with NS17 (Nakamoto Satoshi 1/7), timestamped 1/7/09.
+
+January 10, 2009: Satoshi accidentally logs into IRC revealing a California IP address—Jack was in California.
+
+January 11, 2009: First Bitcoin transaction occurs—this is Jack’s mother’s birthday.
+
+November 19, 2009: Satoshi joins the Bitcoin forum—this is Jack’s birthday.
+
+May 3, 2010: Satoshi’s last mined block—this is Jack’s father’s birthday.
+
+
+Dorsey's Bitcoin Connections Post-Satoshi Disappearance
+
+Jack’s San Francisco address was 2 Mint Plaza (jD2m)—he later sent Bitcoin to addresses containing "jD2m."
+
+Satoshi tells Martti Malmi he is "busy with work"—Jack was busy launching Square (now Block).
+
+December 5, 2010: Satoshi advises against donating Bitcoin to Wikileaks.
+
+December 14, 2010: Twitter receives a secret court order to turn over information about Wikileaks.
+
+December 13, 2010: Satoshi disappears.
+
+March 28, 2011: Jack becomes Executive Chairman of Twitter while still CEO of Square.
+
+April 23, 2011: Satoshi sends his last email.
+
+May 23, 2011: Twitter’s tech lead suggests Bitcoin integration.
+
+
+Jack's Public Relationship with Bitcoin
+
+September 2012: Jack calls Bitcoin an "amazing movement" and suggests Square will adopt it if widely accepted.
+
+2013: Alyssa Milano, Jack's best friend, releases Hacktivist, a novel featuring a protagonist living a double life behind a pseudonym.
+
+March 31, 2014: Square announces Bitcoin acceptance.
+
+September 8, 2014: Satoshi’s email is hacked, and the hacker claims knowledge of Satoshi’s connection to St. Louis (Jack's hometown).
+
+2015: Milano releases Hacktivist 2, where the protagonist’s famous pseudonym is hijacked, featuring a logo similar to Gavin Andresen’s Bitcoin Faucet logo.
+
+August 15, 2015: Satoshi reappears on the Bitcoin mailing list amid the block size debates, sparking doubts about the authenticity of the return.
+
+October 15, 2015: Jack becomes permanent CEO of Twitter.
+
+2018: Square releases a children's book about the "Legend of Satoshi Nakamoto," where Satoshi resembles Jack.
+
+
+Recent Jack Dorsey &amp; Bitcoin Connections
+
+April 20, 2020: Lex Fridman asks Jack if he is Satoshi—Jack coyly replies he wouldn’t admit it if he were. Unlike Szabo, Back, and Finney, Jack never outright denies it.
+
+May 25, 2020: 145 old Bitcoin addresses sign a message calling Craig Wright a fraud. One of these addresses starts with "1jak" (Jack’s pseudonym). Another includes "HiSQ" (SQ = Square, Jack’s company).
+
+February 2022: Jack starts wearing a Satoshi t-shirt, first on a Michael Saylor podcast, then at the Super Bowl.
+
+October 27, 2023: At a conference, Jack states, "Bitcoin and Satoshi in 2009 was a combination of my childhood and my curiosity and everything that I aspired to be and everything I loved."
+
+Early 2024: Craig Wright’s attorneys argue that if he is not Satoshi, the real Satoshi should come forward to refute the claim. Jack, through his involvement in the COPA v. Wright lawsuit, does exactly that.
+
+July 21, 2024: Jack posts on Nostr: "I frequently imagine Satoshi sitting back somewhere and laughing at it all."
+
+August 28, 2024: Jack thanks Hal Finney (now deceased) on Nostr.
+
+
+
+---
+
+A Work of Art or a Hidden Truth?
+
+The prevailing belief that Satoshi never wanted to be found is an assumption created by others. Jack himself has clarified that Satoshi chose pseudonymity, not anonymity. Given his deep involvement in cryptography, early Bitcoin-era events aligning with personal milestones, and his long-time cryptic nods to Satoshi, is it possible that Jack Dorsey created Bitcoin as a form of digital art? A masterpiece of financial revolution?
+
+Or is he simply the ultimate Bitcoin enthusiast, subtly playing into the mystery?
+
+What do you think? Could Jack Dorsey really be Satoshi Nakamoto?
+
+URL: https://www.reddit.com/r/btc/comments/1iqnlpu/jack_nakamoto/
+Permalink: /r/btc/comments/1iqnlpu/jack_nakamoto/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: BULLISH: Former CFTC Chair Chris Giancarlo says, "Bitcoin has into its design programmed scarcity. You can never have more than a certain amount of Bitcoin."
+Date: Sun Feb 16 07:54:57 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=7bxZxtWZS0k&amp;si=UEWDJ1IEVv06yyKA
+Permalink: /r/btc/comments/1iqnd7k/bullish_former_cftc_chair_chris_giancarlo_says/
+Number of Comments: 31
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: eagle_eye_johnson
+Title: New Node is joining the Network.
+Date: Sun Feb 16 22:35:04 WET 2025
+Text: 
+URL: https://i.redd.it/unvqsr3b6fje1.jpeg
+Permalink: /r/btc/comments/1ir4n9n/new_node_is_joining_the_network/
+Number of Comments: 42
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Hardcore Bitcoiner “Plan B” Shifts from BTC Maxi to ETF Advocate, Community Stunned
+Date: Sun Feb 16 19:32:43 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/hardcore-bitcoiner-plan-b-shifts-from-btc-maxi-to-etf-advocate-community-stunned/
+Permalink: /r/btc/comments/1ir0dlh/hardcore_bitcoiner_plan_b_shifts_from_btc_maxi_to/
+Number of Comments: 33
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: schiantoRG
+Title: Does Satoshi own &gt;1million of BCH as well than BTC? Plus BSV and all the other forks...
+Date: Sun Feb 16 17:41:27 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1iqxoe2/does_satoshi_own_1million_of_bch_as_well_than_btc/
+Permalink: /r/btc/comments/1iqxoe2/does_satoshi_own_1million_of_bch_as_well_than_btc/
+Number of Comments: 48
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: The Build-a-Mine Pod Ep 60 - Waste To Energy with Dan Koehler! Check Out The Full Episode on YT!
+Date: Sun Feb 16 15:13:52 WET 2025
+Text: 
+URL: https://v.redd.it/wg6kbhctoije1
+Permalink: /r/btc/comments/1iqua21/the_buildamine_pod_ep_60_waste_to_energy_with_dan/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: susonotabi
+Title: Paying with Bitcoin Cash using Paytaca at a bakery in Cebu, Philippines ...
+Date: Sun Feb 16 14:40:53 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=ZKRMSXK58U4&amp;si=zNNrUDCxGEmCBz7Q
+Permalink: /r/btc/comments/1iqtkz8/paying_with_bitcoin_cash_using_paytaca_at_a/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: kouwa
+Title: The sell pressure on $BTC is fading slowly, am I the only one noticing that?
+Date: Sun Feb 16 12:22:10 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1iqr39d/the_sell_pressure_on_btc_is_fading_slowly_am_i/
+Permalink: /r/btc/comments/1iqr39d/the_sell_pressure_on_btc_is_fading_slowly_am_i/
+Number of Comments: 15
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Litecoin ETF was filed and its price is sitting at its one year high. For comparison the BCH yearly high is $720, will we see a similar movement after a BCH ETF filing?
+Date: Sun Feb 16 11:01:35 WET 2025
+Text: BTC and ETH had similar price movements after their ETF filings (and obviously way higher after approvals and options trading), same as XRP and some others, that have filed applications.
+URL: https://www.reddit.com/r/btc/comments/1iqpxxm/litecoin_etf_was_filed_and_its_price_is_sitting/
+Permalink: /r/btc/comments/1iqpxxm/litecoin_etf_was_filed_and_its_price_is_sitting/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Jehoseph
+Title: Jack Nakamoto
+Date: Sun Feb 16 08:11:31 WET 2025
+Text: For years, the identity of Satoshi Nakamoto, the enigmatic creator of Bitcoin, has remained a mystery. But what if the answer has been hiding in plain sight? Here’s why Jack Dorsey, co-founder of Twitter and Square (now Block), might just be Satoshi.
+
+Seán Murray writes here: 
+https://decashed.eth.loan/2024/12/the-art-of-satoshi-nakamoto-why-jack-dorsey-is-probably-bitcoins-creator/
+
+---
+
+Jack Dorsey’s Cypherpunk Credentials
+
+One of ~1,300 confirmed cypherpunks in 1996 (his UMR email)
+
+Wore an Adam Back t-shirt in the UMR yearbook
+
+UMR students were called Miners
+
+Computer Science &amp; Math major with an interest in cryptography
+
+Member of ACM (Association for Computing Machinery) from 1997 to at least 1999
+
+Created academic research paper submission &amp; review software for Mira Digital Publishing
+
+Known to use: OpenBSD, Windows, Mac, Linux
+
+Skilled in multiple programming languages: C, Python, Java, Perl, PHP, OCaml, JoCaml, Lisp, ObjC, and more
+
+Still on the cypherpunk mailing list in 2000 under his dnet .com email
+
+Wrote a manifesto in 2001 about making a mark without leaving a trace
+
+Subscriber to cryptome.org in 2001
+
+
+Early Signs of a Bitcoin-like Mindset
+
+In 2003, Dorsey posted a bio mentioning his interest in crypto, pseudonyms, and 4 AM hacks
+
+That same year, he declared he was ending his dependence on the U.S. dollar and was creating a barter network
+
+Used the pseudonym "Jak" instead of Jack
+
+
+Suspiciously Timed Events Around Bitcoin’s Birth
+
+August 17, 2008: Jack, an avid sailor, tweets: "Around the horn and home again, for that's the sailor's way." Bitcoin.org is registered the next day.
+
+His Twitter bio from Sept '07 - Jan '09 mentioned that he was a sailor.
+
+The original Bitcoin source code contains an old sailor’s adage: "Never go to sea with two chronometers; take one or three."
+
+Bitcoin’s source code documents were timestamped at exactly 4 AM, aligning with Jack’s known hacking hours.
+
+Bitcoin’s source code includes a brute-forced vanity address starting with NS17 (Nakamoto Satoshi 1/7), timestamped 1/7/09.
+
+January 10, 2009: Satoshi accidentally logs into IRC revealing a California IP address—Jack was in California.
+
+January 11, 2009: First Bitcoin transaction occurs—this is Jack’s mother’s birthday.
+
+November 19, 2009: Satoshi joins the Bitcoin forum—this is Jack’s birthday.
+
+May 3, 2010: Satoshi’s last mined block—this is Jack’s father’s birthday.
+
+
+Dorsey's Bitcoin Connections Post-Satoshi Disappearance
+
+Jack’s San Francisco address was 2 Mint Plaza (jD2m)—he later sent Bitcoin to addresses containing "jD2m."
+
+Satoshi tells Martti Malmi he is "busy with work"—Jack was busy launching Square (now Block).
+
+December 5, 2010: Satoshi advises against donating Bitcoin to Wikileaks.
+
+December 14, 2010: Twitter receives a secret court order to turn over information about Wikileaks.
+
+December 13, 2010: Satoshi disappears.
+
+March 28, 2011: Jack becomes Executive Chairman of Twitter while still CEO of Square.
+
+April 23, 2011: Satoshi sends his last email.
+
+May 23, 2011: Twitter’s tech lead suggests Bitcoin integration.
+
+
+Jack's Public Relationship with Bitcoin
+
+September 2012: Jack calls Bitcoin an "amazing movement" and suggests Square will adopt it if widely accepted.
+
+2013: Alyssa Milano, Jack's best friend, releases Hacktivist, a novel featuring a protagonist living a double life behind a pseudonym.
+
+March 31, 2014: Square announces Bitcoin acceptance.
+
+September 8, 2014: Satoshi’s email is hacked, and the hacker claims knowledge of Satoshi’s connection to St. Louis (Jack's hometown).
+
+2015: Milano releases Hacktivist 2, where the protagonist’s famous pseudonym is hijacked, featuring a logo similar to Gavin Andresen’s Bitcoin Faucet logo.
+
+August 15, 2015: Satoshi reappears on the Bitcoin mailing list amid the block size debates, sparking doubts about the authenticity of the return.
+
+October 15, 2015: Jack becomes permanent CEO of Twitter.
+
+2018: Square releases a children's book about the "Legend of Satoshi Nakamoto," where Satoshi resembles Jack.
+
+
+Recent Jack Dorsey &amp; Bitcoin Connections
+
+April 20, 2020: Lex Fridman asks Jack if he is Satoshi—Jack coyly replies he wouldn’t admit it if he were. Unlike Szabo, Back, and Finney, Jack never outright denies it.
+
+May 25, 2020: 145 old Bitcoin addresses sign a message calling Craig Wright a fraud. One of these addresses starts with "1jak" (Jack’s pseudonym). Another includes "HiSQ" (SQ = Square, Jack’s company).
+
+February 2022: Jack starts wearing a Satoshi t-shirt, first on a Michael Saylor podcast, then at the Super Bowl.
+
+October 27, 2023: At a conference, Jack states, "Bitcoin and Satoshi in 2009 was a combination of my childhood and my curiosity and everything that I aspired to be and everything I loved."
+
+Early 2024: Craig Wright’s attorneys argue that if he is not Satoshi, the real Satoshi should come forward to refute the claim. Jack, through his involvement in the COPA v. Wright lawsuit, does exactly that.
+
+July 21, 2024: Jack posts on Nostr: "I frequently imagine Satoshi sitting back somewhere and laughing at it all."
+
+August 28, 2024: Jack thanks Hal Finney (now deceased) on Nostr.
+
+
+
+---
+
+A Work of Art or a Hidden Truth?
+
+The prevailing belief that Satoshi never wanted to be found is an assumption created by others. Jack himself has clarified that Satoshi chose pseudonymity, not anonymity. Given his deep involvement in cryptography, early Bitcoin-era events aligning with personal milestones, and his long-time cryptic nods to Satoshi, is it possible that Jack Dorsey created Bitcoin as a form of digital art? A masterpiece of financial revolution?
+
+Or is he simply the ultimate Bitcoin enthusiast, subtly playing into the mystery?
+
+What do you think? Could Jack Dorsey really be Satoshi Nakamoto?
+
+URL: https://www.reddit.com/r/btc/comments/1iqnlpu/jack_nakamoto/
+Permalink: /r/btc/comments/1iqnlpu/jack_nakamoto/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: BULLISH: Former CFTC Chair Chris Giancarlo says, "Bitcoin has into its design programmed scarcity. You can never have more than a certain amount of Bitcoin."
+Date: Sun Feb 16 07:54:57 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=7bxZxtWZS0k&amp;si=UEWDJ1IEVv06yyKA
+Permalink: /r/btc/comments/1iqnd7k/bullish_former_cftc_chair_chris_giancarlo_says/
+Number of Comments: 31
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: eagle_eye_johnson
+Title: New Node is joining the Network.
+Date: Sun Feb 16 22:35:04 WET 2025
+Text: 
+URL: https://i.redd.it/unvqsr3b6fje1.jpeg
+Permalink: /r/btc/comments/1ir4n9n/new_node_is_joining_the_network/
+Number of Comments: 42
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Hardcore Bitcoiner “Plan B” Shifts from BTC Maxi to ETF Advocate, Community Stunned
+Date: Sun Feb 16 19:32:43 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/hardcore-bitcoiner-plan-b-shifts-from-btc-maxi-to-etf-advocate-community-stunned/
+Permalink: /r/btc/comments/1ir0dlh/hardcore_bitcoiner_plan_b_shifts_from_btc_maxi_to/
+Number of Comments: 33
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: schiantoRG
+Title: Does Satoshi own &gt;1million of BCH as well than BTC? Plus BSV and all the other forks...
+Date: Sun Feb 16 17:41:27 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1iqxoe2/does_satoshi_own_1million_of_bch_as_well_than_btc/
+Permalink: /r/btc/comments/1iqxoe2/does_satoshi_own_1million_of_bch_as_well_than_btc/
+Number of Comments: 48
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: The Build-a-Mine Pod Ep 60 - Waste To Energy with Dan Koehler! Check Out The Full Episode on YT!
+Date: Sun Feb 16 15:13:52 WET 2025
+Text: 
+URL: https://v.redd.it/wg6kbhctoije1
+Permalink: /r/btc/comments/1iqua21/the_buildamine_pod_ep_60_waste_to_energy_with_dan/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: susonotabi
+Title: Paying with Bitcoin Cash using Paytaca at a bakery in Cebu, Philippines ...
+Date: Sun Feb 16 14:40:53 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=ZKRMSXK58U4&amp;si=zNNrUDCxGEmCBz7Q
+Permalink: /r/btc/comments/1iqtkz8/paying_with_bitcoin_cash_using_paytaca_at_a/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: kouwa
+Title: The sell pressure on $BTC is fading slowly, am I the only one noticing that?
+Date: Sun Feb 16 12:22:10 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1iqr39d/the_sell_pressure_on_btc_is_fading_slowly_am_i/
+Permalink: /r/btc/comments/1iqr39d/the_sell_pressure_on_btc_is_fading_slowly_am_i/
+Number of Comments: 15
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Litecoin ETF was filed and its price is sitting at its one year high. For comparison the BCH yearly high is $720, will we see a similar movement after a BCH ETF filing?
+Date: Sun Feb 16 11:01:35 WET 2025
+Text: BTC and ETH had similar price movements after their ETF filings (and obviously way higher after approvals and options trading), same as XRP and some others, that have filed applications.
+URL: https://www.reddit.com/r/btc/comments/1iqpxxm/litecoin_etf_was_filed_and_its_price_is_sitting/
+Permalink: /r/btc/comments/1iqpxxm/litecoin_etf_was_filed_and_its_price_is_sitting/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Jehoseph
+Title: Jack Nakamoto
+Date: Sun Feb 16 08:11:31 WET 2025
+Text: For years, the identity of Satoshi Nakamoto, the enigmatic creator of Bitcoin, has remained a mystery. But what if the answer has been hiding in plain sight? Here’s why Jack Dorsey, co-founder of Twitter and Square (now Block), might just be Satoshi.
+
+Seán Murray writes here: 
+https://decashed.eth.loan/2024/12/the-art-of-satoshi-nakamoto-why-jack-dorsey-is-probably-bitcoins-creator/
+
+---
+
+Jack Dorsey’s Cypherpunk Credentials
+
+One of ~1,300 confirmed cypherpunks in 1996 (his UMR email)
+
+Wore an Adam Back t-shirt in the UMR yearbook
+
+UMR students were called Miners
+
+Computer Science &amp; Math major with an interest in cryptography
+
+Member of ACM (Association for Computing Machinery) from 1997 to at least 1999
+
+Created academic research paper submission &amp; review software for Mira Digital Publishing
+
+Known to use: OpenBSD, Windows, Mac, Linux
+
+Skilled in multiple programming languages: C, Python, Java, Perl, PHP, OCaml, JoCaml, Lisp, ObjC, and more
+
+Still on the cypherpunk mailing list in 2000 under his dnet .com email
+
+Wrote a manifesto in 2001 about making a mark without leaving a trace
+
+Subscriber to cryptome.org in 2001
+
+
+Early Signs of a Bitcoin-like Mindset
+
+In 2003, Dorsey posted a bio mentioning his interest in crypto, pseudonyms, and 4 AM hacks
+
+That same year, he declared he was ending his dependence on the U.S. dollar and was creating a barter network
+
+Used the pseudonym "Jak" instead of Jack
+
+
+Suspiciously Timed Events Around Bitcoin’s Birth
+
+August 17, 2008: Jack, an avid sailor, tweets: "Around the horn and home again, for that's the sailor's way." Bitcoin.org is registered the next day.
+
+His Twitter bio from Sept '07 - Jan '09 mentioned that he was a sailor.
+
+The original Bitcoin source code contains an old sailor’s adage: "Never go to sea with two chronometers; take one or three."
+
+Bitcoin’s source code documents were timestamped at exactly 4 AM, aligning with Jack’s known hacking hours.
+
+Bitcoin’s source code includes a brute-forced vanity address starting with NS17 (Nakamoto Satoshi 1/7), timestamped 1/7/09.
+
+January 10, 2009: Satoshi accidentally logs into IRC revealing a California IP address—Jack was in California.
+
+January 11, 2009: First Bitcoin transaction occurs—this is Jack’s mother’s birthday.
+
+November 19, 2009: Satoshi joins the Bitcoin forum—this is Jack’s birthday.
+
+May 3, 2010: Satoshi’s last mined block—this is Jack’s father’s birthday.
+
+
+Dorsey's Bitcoin Connections Post-Satoshi Disappearance
+
+Jack’s San Francisco address was 2 Mint Plaza (jD2m)—he later sent Bitcoin to addresses containing "jD2m."
+
+Satoshi tells Martti Malmi he is "busy with work"—Jack was busy launching Square (now Block).
+
+December 5, 2010: Satoshi advises against donating Bitcoin to Wikileaks.
+
+December 14, 2010: Twitter receives a secret court order to turn over information about Wikileaks.
+
+December 13, 2010: Satoshi disappears.
+
+March 28, 2011: Jack becomes Executive Chairman of Twitter while still CEO of Square.
+
+April 23, 2011: Satoshi sends his last email.
+
+May 23, 2011: Twitter’s tech lead suggests Bitcoin integration.
+
+
+Jack's Public Relationship with Bitcoin
+
+September 2012: Jack calls Bitcoin an "amazing movement" and suggests Square will adopt it if widely accepted.
+
+2013: Alyssa Milano, Jack's best friend, releases Hacktivist, a novel featuring a protagonist living a double life behind a pseudonym.
+
+March 31, 2014: Square announces Bitcoin acceptance.
+
+September 8, 2014: Satoshi’s email is hacked, and the hacker claims knowledge of Satoshi’s connection to St. Louis (Jack's hometown).
+
+2015: Milano releases Hacktivist 2, where the protagonist’s famous pseudonym is hijacked, featuring a logo similar to Gavin Andresen’s Bitcoin Faucet logo.
+
+August 15, 2015: Satoshi reappears on the Bitcoin mailing list amid the block size debates, sparking doubts about the authenticity of the return.
+
+October 15, 2015: Jack becomes permanent CEO of Twitter.
+
+2018: Square releases a children's book about the "Legend of Satoshi Nakamoto," where Satoshi resembles Jack.
+
+
+Recent Jack Dorsey &amp; Bitcoin Connections
+
+April 20, 2020: Lex Fridman asks Jack if he is Satoshi—Jack coyly replies he wouldn’t admit it if he were. Unlike Szabo, Back, and Finney, Jack never outright denies it.
+
+May 25, 2020: 145 old Bitcoin addresses sign a message calling Craig Wright a fraud. One of these addresses starts with "1jak" (Jack’s pseudonym). Another includes "HiSQ" (SQ = Square, Jack’s company).
+
+February 2022: Jack starts wearing a Satoshi t-shirt, first on a Michael Saylor podcast, then at the Super Bowl.
+
+October 27, 2023: At a conference, Jack states, "Bitcoin and Satoshi in 2009 was a combination of my childhood and my curiosity and everything that I aspired to be and everything I loved."
+
+Early 2024: Craig Wright’s attorneys argue that if he is not Satoshi, the real Satoshi should come forward to refute the claim. Jack, through his involvement in the COPA v. Wright lawsuit, does exactly that.
+
+July 21, 2024: Jack posts on Nostr: "I frequently imagine Satoshi sitting back somewhere and laughing at it all."
+
+August 28, 2024: Jack thanks Hal Finney (now deceased) on Nostr.
+
+
+
+---
+
+A Work of Art or a Hidden Truth?
+
+The prevailing belief that Satoshi never wanted to be found is an assumption created by others. Jack himself has clarified that Satoshi chose pseudonymity, not anonymity. Given his deep involvement in cryptography, early Bitcoin-era events aligning with personal milestones, and his long-time cryptic nods to Satoshi, is it possible that Jack Dorsey created Bitcoin as a form of digital art? A masterpiece of financial revolution?
+
+Or is he simply the ultimate Bitcoin enthusiast, subtly playing into the mystery?
+
+What do you think? Could Jack Dorsey really be Satoshi Nakamoto?
+
+URL: https://www.reddit.com/r/btc/comments/1iqnlpu/jack_nakamoto/
+Permalink: /r/btc/comments/1iqnlpu/jack_nakamoto/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: BULLISH: Former CFTC Chair Chris Giancarlo says, "Bitcoin has into its design programmed scarcity. You can never have more than a certain amount of Bitcoin."
+Date: Sun Feb 16 07:54:57 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=7bxZxtWZS0k&amp;si=UEWDJ1IEVv06yyKA
+Permalink: /r/btc/comments/1iqnd7k/bullish_former_cftc_chair_chris_giancarlo_says/
+Number of Comments: 31
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

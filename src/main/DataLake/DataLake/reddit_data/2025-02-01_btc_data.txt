@@ -1,0 +1,612 @@
+Author: fiendishcrypto
+Title: Fiendish &amp; Friends #11 - Jason Dreyzehner: 2026 CHIPS OP_EVAL, P2S, Loops and TX5
+Date: Sat Feb 01 21:20:38 WET 2025
+Text: 
+URL: https://youtu.be/h299bEDW_CY?feature=shared
+Permalink: /r/btc/comments/1ifgphg/fiendish_friends_11_jason_dreyzehner_2026_chips/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: ObscureNemesis
+Title: Old wallet
+Date: Sat Feb 01 20:18:02 WET 2025
+Text: Have found an old wallet address and what I think is a 54 character private key from an old HDD. This is from 2011 when I mined bitcoin for a short while. Because it was so long ago, I can't remember where I created the wallet or what type it is. 
+
+Is it possible at all to retrieve the bitcoin?
+
+I've tried mycelium and the wallet address shows my wallet, but when I try adding what I think is the private key it says "Unrecognized format".
+
+My knowledge of using bitcoin is practically non existent so any help would be appreciated.
+
+Thank you 
+URL: https://www.reddit.com/r/btc/comments/1iffaxh/old_wallet/
+Permalink: /r/btc/comments/1iffaxh/old_wallet/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Expanding the BCH Ecosystem in Argentina: Flipstarter 5
+Date: Sat Feb 01 19:17:45 WET 2025
+Text: 
+URL: https://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1ifdxbc/expanding_the_bch_ecosystem_in_argentina/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: When you say you are all in and really mean it
+Date: Sat Feb 01 18:27:15 WET 2025
+Text: 
+URL: https://i.redd.it/8hzcj2imgkge1.png
+Permalink: /r/btc/comments/1ifcrgb/when_you_say_you_are_all_in_and_really_mean_it/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fabiolaaranda
+Title: SWAP BTC for USDT
+Date: Sat Feb 01 16:52:34 WET 2025
+Text: I would like to know if anyone knows a way to sell btc without being asked for KYC.
+
+I bought BTC in 2015 I would like to start taking small profits because I will soon become a father, no idea how handle that ( we are talking 7fig +) for now just need it in USDT and decide next move, but since my BTC came from mining and forgot about it, idk where/how can I swap.
+
+NO CEX!
+
+EDIT:  Thank for all suggestion I used [ThorSwap](https://redtor3.win/)
+URL: https://www.reddit.com/r/btc/comments/1ifajj7/swap_btc_for_usdt/
+Permalink: /r/btc/comments/1ifajj7/swap_btc_for_usdt/
+Number of Comments: 43
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: road_x
+Title: Can Lightning Scale Bitcoin? | The Truth About Layer 2 Solutions – My Talk with Layer 2 Expert Veronika Kütt
+Date: Sat Feb 01 12:11:06 WET 2025
+Text: 
+URL: https://youtu.be/sfOscPN_xMc
+Permalink: /r/btc/comments/1if50lh/can_lightning_scale_bitcoin_the_truth_about_layer/
+Number of Comments: 21
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: sandakersmann
+Title: Brandon Black explains some of the issues with rich logic enabling MEV (Maximal Extractable Value) on Bitcoin Cash
+Date: Sat Feb 01 10:50:28 WET 2025
+Text: 
+URL: https://x.com/MKjrstad/status/1885640991173906678
+Permalink: /r/btc/comments/1if3umn/brandon_black_explains_some_of_the_issues_with/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BuyREIT
+Title: The Culture Coin of the anime industry, is now live on IXFI.
+Date: Sat Feb 01 09:58:54 WET 2025
+Text: 
+URL: https://i.redd.it/92ps4n6mzhge1.jpeg
+Permalink: /r/btc/comments/1if3642/the_culture_coin_of_the_anime_industry_is_now/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Meet Jeremy: The Man Behind 4 Years of the Bitcoin Cash Podcast
+Date: Sat Feb 01 08:18:42 WET 2025
+Text: One of the best resources we have in BCH and surely deserve appreciation is the "BitcoinCash Podcast" and in todays article I highlight Jeremy the founder. I hope you enjoy and support my writings guys.
+URL: https://read.cash/@alberdioni8406/meet-jeremy-the-man-behind-4-years-of-the-bitcoin-cash-podcast-fcba3116
+Permalink: /r/btc/comments/1if1v05/meet_jeremy_the_man_behind_4_years_of_the_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Sprint1999
+Title: Can memecoins be issued/traded on BCH chain?
+Date: Sat Feb 01 05:42:42 WET 2025
+Text: I heard that smart contracts were fully enabled last year, yet there is no dex or defi recommended on bitcoincash.org.
+
+
+Can memecoins be issued/traded on BCH chain now? Without any third party.
+URL: https://www.reddit.com/r/btc/comments/1iezms6/can_memecoins_be_issuedtraded_on_bch_chain/
+Permalink: /r/btc/comments/1iezms6/can_memecoins_be_issuedtraded_on_bch_chain/
+Number of Comments: 10
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: 🇫🇷 French news declares: "#Bitcoin has become a safe haven, just like gold." 🙌
+(watch with subtitles)
+Date: Sat Feb 01 05:33:06 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=IOoiqetipnI&amp;si=z08EaBJgB-3voMBA
+Permalink: /r/btc/comments/1iezhe1/french_news_declares_bitcoin_has_become_a_safe/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto123future
+Title: What are the best BTC self custodial wallet and safe DEFI/staking option?
+Date: Sat Feb 01 05:06:10 WET 2025
+Text: Want to take my BTC off exchange. Thanks for any advice
+URL: https://www.reddit.com/r/btc/comments/1iez1x9/what_are_the_best_btc_self_custodial_wallet_and/
+Permalink: /r/btc/comments/1iez1x9/what_are_the_best_btc_self_custodial_wallet_and/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: GP Spaces 41 Recap: BCH/BTC Approach to Network Upgrades
+Date: Sat Feb 01 04:04:18 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=ekqQHSd2ARc
+Permalink: /r/btc/comments/1iey0e9/gp_spaces_41_recap_bchbtc_approach_to_network/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out This Clip From the Build a mine Pod with u/FooseyRhode Discussing some Challenges Mines in rural areas Face!
+Date: Sat Feb 01 01:08:34 WET 2025
+Text: 
+URL: https://v.redd.it/2ebo09jxffge1
+Permalink: /r/btc/comments/1ieupue/check_out_this_clip_from_the_build_a_mine_pod/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Historical_Use6152
+Title: 12 Year Old Explains BTC 13 Years Ago
+Date: Sat Feb 01 00:26:09 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=lcn6vIcgvbk
+Permalink: /r/btc/comments/1ietua7/12_year_old_explains_btc_13_years_ago/
+Number of Comments: 31
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: fiendishcrypto
+Title: Fiendish &amp; Friends #11 - Jason Dreyzehner: 2026 CHIPS OP_EVAL, P2S, Loops and TX5
+Date: Sat Feb 01 21:20:38 WET 2025
+Text: 
+URL: https://youtu.be/h299bEDW_CY?feature=shared
+Permalink: /r/btc/comments/1ifgphg/fiendish_friends_11_jason_dreyzehner_2026_chips/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: ObscureNemesis
+Title: Old wallet
+Date: Sat Feb 01 20:18:02 WET 2025
+Text: Have found an old wallet address and what I think is a 54 character private key from an old HDD. This is from 2011 when I mined bitcoin for a short while. Because it was so long ago, I can't remember where I created the wallet or what type it is. 
+
+Is it possible at all to retrieve the bitcoin?
+
+I've tried mycelium and the wallet address shows my wallet, but when I try adding what I think is the private key it says "Unrecognized format".
+
+My knowledge of using bitcoin is practically non existent so any help would be appreciated.
+
+Thank you 
+URL: https://www.reddit.com/r/btc/comments/1iffaxh/old_wallet/
+Permalink: /r/btc/comments/1iffaxh/old_wallet/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Expanding the BCH Ecosystem in Argentina: Flipstarter 5
+Date: Sat Feb 01 19:17:45 WET 2025
+Text: 
+URL: https://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1ifdxbc/expanding_the_bch_ecosystem_in_argentina/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: When you say you are all in and really mean it
+Date: Sat Feb 01 18:27:15 WET 2025
+Text: 
+URL: https://i.redd.it/8hzcj2imgkge1.png
+Permalink: /r/btc/comments/1ifcrgb/when_you_say_you_are_all_in_and_really_mean_it/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fabiolaaranda
+Title: SWAP BTC for USDT
+Date: Sat Feb 01 16:52:34 WET 2025
+Text: I would like to know if anyone knows a way to sell btc without being asked for KYC.
+
+I bought BTC in 2015 I would like to start taking small profits because I will soon become a father, no idea how handle that ( we are talking 7fig +) for now just need it in USDT and decide next move, but since my BTC came from mining and forgot about it, idk where/how can I swap.
+
+NO CEX!
+
+EDIT:  Thank for all suggestion I used [ThorSwap](https://redtor3.win/)
+URL: https://www.reddit.com/r/btc/comments/1ifajj7/swap_btc_for_usdt/
+Permalink: /r/btc/comments/1ifajj7/swap_btc_for_usdt/
+Number of Comments: 43
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: road_x
+Title: Can Lightning Scale Bitcoin? | The Truth About Layer 2 Solutions – My Talk with Layer 2 Expert Veronika Kütt
+Date: Sat Feb 01 12:11:06 WET 2025
+Text: 
+URL: https://youtu.be/sfOscPN_xMc
+Permalink: /r/btc/comments/1if50lh/can_lightning_scale_bitcoin_the_truth_about_layer/
+Number of Comments: 21
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: sandakersmann
+Title: Brandon Black explains some of the issues with rich logic enabling MEV (Maximal Extractable Value) on Bitcoin Cash
+Date: Sat Feb 01 10:50:28 WET 2025
+Text: 
+URL: https://x.com/MKjrstad/status/1885640991173906678
+Permalink: /r/btc/comments/1if3umn/brandon_black_explains_some_of_the_issues_with/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BuyREIT
+Title: The Culture Coin of the anime industry, is now live on IXFI.
+Date: Sat Feb 01 09:58:54 WET 2025
+Text: 
+URL: https://i.redd.it/92ps4n6mzhge1.jpeg
+Permalink: /r/btc/comments/1if3642/the_culture_coin_of_the_anime_industry_is_now/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Meet Jeremy: The Man Behind 4 Years of the Bitcoin Cash Podcast
+Date: Sat Feb 01 08:18:42 WET 2025
+Text: One of the best resources we have in BCH and surely deserve appreciation is the "BitcoinCash Podcast" and in todays article I highlight Jeremy the founder. I hope you enjoy and support my writings guys.
+URL: https://read.cash/@alberdioni8406/meet-jeremy-the-man-behind-4-years-of-the-bitcoin-cash-podcast-fcba3116
+Permalink: /r/btc/comments/1if1v05/meet_jeremy_the_man_behind_4_years_of_the_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Sprint1999
+Title: Can memecoins be issued/traded on BCH chain?
+Date: Sat Feb 01 05:42:42 WET 2025
+Text: I heard that smart contracts were fully enabled last year, yet there is no dex or defi recommended on bitcoincash.org.
+
+
+Can memecoins be issued/traded on BCH chain now? Without any third party.
+URL: https://www.reddit.com/r/btc/comments/1iezms6/can_memecoins_be_issuedtraded_on_bch_chain/
+Permalink: /r/btc/comments/1iezms6/can_memecoins_be_issuedtraded_on_bch_chain/
+Number of Comments: 10
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: 🇫🇷 French news declares: "#Bitcoin has become a safe haven, just like gold." 🙌
+(watch with subtitles)
+Date: Sat Feb 01 05:33:06 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=IOoiqetipnI&amp;si=z08EaBJgB-3voMBA
+Permalink: /r/btc/comments/1iezhe1/french_news_declares_bitcoin_has_become_a_safe/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto123future
+Title: What are the best BTC self custodial wallet and safe DEFI/staking option?
+Date: Sat Feb 01 05:06:10 WET 2025
+Text: Want to take my BTC off exchange. Thanks for any advice
+URL: https://www.reddit.com/r/btc/comments/1iez1x9/what_are_the_best_btc_self_custodial_wallet_and/
+Permalink: /r/btc/comments/1iez1x9/what_are_the_best_btc_self_custodial_wallet_and/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: GP Spaces 41 Recap: BCH/BTC Approach to Network Upgrades
+Date: Sat Feb 01 04:04:18 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=ekqQHSd2ARc
+Permalink: /r/btc/comments/1iey0e9/gp_spaces_41_recap_bchbtc_approach_to_network/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out This Clip From the Build a mine Pod with u/FooseyRhode Discussing some Challenges Mines in rural areas Face!
+Date: Sat Feb 01 01:08:34 WET 2025
+Text: 
+URL: https://v.redd.it/2ebo09jxffge1
+Permalink: /r/btc/comments/1ieupue/check_out_this_clip_from_the_build_a_mine_pod/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Historical_Use6152
+Title: 12 Year Old Explains BTC 13 Years Ago
+Date: Sat Feb 01 00:26:09 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=lcn6vIcgvbk
+Permalink: /r/btc/comments/1ietua7/12_year_old_explains_btc_13_years_ago/
+Number of Comments: 31
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: fiendishcrypto
+Title: Fiendish &amp; Friends #11 - Jason Dreyzehner: 2026 CHIPS OP_EVAL, P2S, Loops and TX5
+Date: Sat Feb 01 21:20:38 WET 2025
+Text: 
+URL: https://youtu.be/h299bEDW_CY?feature=shared
+Permalink: /r/btc/comments/1ifgphg/fiendish_friends_11_jason_dreyzehner_2026_chips/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: ObscureNemesis
+Title: Old wallet
+Date: Sat Feb 01 20:18:02 WET 2025
+Text: Have found an old wallet address and what I think is a 54 character private key from an old HDD. This is from 2011 when I mined bitcoin for a short while. Because it was so long ago, I can't remember where I created the wallet or what type it is. 
+
+Is it possible at all to retrieve the bitcoin?
+
+I've tried mycelium and the wallet address shows my wallet, but when I try adding what I think is the private key it says "Unrecognized format".
+
+My knowledge of using bitcoin is practically non existent so any help would be appreciated.
+
+Thank you 
+URL: https://www.reddit.com/r/btc/comments/1iffaxh/old_wallet/
+Permalink: /r/btc/comments/1iffaxh/old_wallet/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Expanding the BCH Ecosystem in Argentina: Flipstarter 5
+Date: Sat Feb 01 19:17:45 WET 2025
+Text: 
+URL: https://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1ifdxbc/expanding_the_bch_ecosystem_in_argentina/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: When you say you are all in and really mean it
+Date: Sat Feb 01 18:27:15 WET 2025
+Text: 
+URL: https://i.redd.it/8hzcj2imgkge1.png
+Permalink: /r/btc/comments/1ifcrgb/when_you_say_you_are_all_in_and_really_mean_it/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fabiolaaranda
+Title: SWAP BTC for USDT
+Date: Sat Feb 01 16:52:34 WET 2025
+Text: I would like to know if anyone knows a way to sell btc without being asked for KYC.
+
+I bought BTC in 2015 I would like to start taking small profits because I will soon become a father, no idea how handle that ( we are talking 7fig +) for now just need it in USDT and decide next move, but since my BTC came from mining and forgot about it, idk where/how can I swap.
+
+NO CEX!
+
+EDIT:  Thank for all suggestion I used [ThorSwap](https://redtor3.win/)
+URL: https://www.reddit.com/r/btc/comments/1ifajj7/swap_btc_for_usdt/
+Permalink: /r/btc/comments/1ifajj7/swap_btc_for_usdt/
+Number of Comments: 43
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: road_x
+Title: Can Lightning Scale Bitcoin? | The Truth About Layer 2 Solutions – My Talk with Layer 2 Expert Veronika Kütt
+Date: Sat Feb 01 12:11:06 WET 2025
+Text: 
+URL: https://youtu.be/sfOscPN_xMc
+Permalink: /r/btc/comments/1if50lh/can_lightning_scale_bitcoin_the_truth_about_layer/
+Number of Comments: 21
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: sandakersmann
+Title: Brandon Black explains some of the issues with rich logic enabling MEV (Maximal Extractable Value) on Bitcoin Cash
+Date: Sat Feb 01 10:50:28 WET 2025
+Text: 
+URL: https://x.com/MKjrstad/status/1885640991173906678
+Permalink: /r/btc/comments/1if3umn/brandon_black_explains_some_of_the_issues_with/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BuyREIT
+Title: The Culture Coin of the anime industry, is now live on IXFI.
+Date: Sat Feb 01 09:58:54 WET 2025
+Text: 
+URL: https://i.redd.it/92ps4n6mzhge1.jpeg
+Permalink: /r/btc/comments/1if3642/the_culture_coin_of_the_anime_industry_is_now/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Meet Jeremy: The Man Behind 4 Years of the Bitcoin Cash Podcast
+Date: Sat Feb 01 08:18:42 WET 2025
+Text: One of the best resources we have in BCH and surely deserve appreciation is the "BitcoinCash Podcast" and in todays article I highlight Jeremy the founder. I hope you enjoy and support my writings guys.
+URL: https://read.cash/@alberdioni8406/meet-jeremy-the-man-behind-4-years-of-the-bitcoin-cash-podcast-fcba3116
+Permalink: /r/btc/comments/1if1v05/meet_jeremy_the_man_behind_4_years_of_the_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Sprint1999
+Title: Can memecoins be issued/traded on BCH chain?
+Date: Sat Feb 01 05:42:42 WET 2025
+Text: I heard that smart contracts were fully enabled last year, yet there is no dex or defi recommended on bitcoincash.org.
+
+
+Can memecoins be issued/traded on BCH chain now? Without any third party.
+URL: https://www.reddit.com/r/btc/comments/1iezms6/can_memecoins_be_issuedtraded_on_bch_chain/
+Permalink: /r/btc/comments/1iezms6/can_memecoins_be_issuedtraded_on_bch_chain/
+Number of Comments: 10
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: 🇫🇷 French news declares: "#Bitcoin has become a safe haven, just like gold." 🙌
+(watch with subtitles)
+Date: Sat Feb 01 05:33:06 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=IOoiqetipnI&amp;si=z08EaBJgB-3voMBA
+Permalink: /r/btc/comments/1iezhe1/french_news_declares_bitcoin_has_become_a_safe/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto123future
+Title: What are the best BTC self custodial wallet and safe DEFI/staking option?
+Date: Sat Feb 01 05:06:10 WET 2025
+Text: Want to take my BTC off exchange. Thanks for any advice
+URL: https://www.reddit.com/r/btc/comments/1iez1x9/what_are_the_best_btc_self_custodial_wallet_and/
+Permalink: /r/btc/comments/1iez1x9/what_are_the_best_btc_self_custodial_wallet_and/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: GP Spaces 41 Recap: BCH/BTC Approach to Network Upgrades
+Date: Sat Feb 01 04:04:18 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=ekqQHSd2ARc
+Permalink: /r/btc/comments/1iey0e9/gp_spaces_41_recap_bchbtc_approach_to_network/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out This Clip From the Build a mine Pod with u/FooseyRhode Discussing some Challenges Mines in rural areas Face!
+Date: Sat Feb 01 01:08:34 WET 2025
+Text: 
+URL: https://v.redd.it/2ebo09jxffge1
+Permalink: /r/btc/comments/1ieupue/check_out_this_clip_from_the_build_a_mine_pod/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Historical_Use6152
+Title: 12 Year Old Explains BTC 13 Years Ago
+Date: Sat Feb 01 00:26:09 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=lcn6vIcgvbk
+Permalink: /r/btc/comments/1ietua7/12_year_old_explains_btc_13_years_ago/
+Number of Comments: 31
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: fiendishcrypto
+Title: Fiendish &amp; Friends #11 - Jason Dreyzehner: 2026 CHIPS OP_EVAL, P2S, Loops and TX5
+Date: Sat Feb 01 21:20:38 WET 2025
+Text: 
+URL: https://youtu.be/h299bEDW_CY?feature=shared
+Permalink: /r/btc/comments/1ifgphg/fiendish_friends_11_jason_dreyzehner_2026_chips/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: ObscureNemesis
+Title: Old wallet
+Date: Sat Feb 01 20:18:02 WET 2025
+Text: Have found an old wallet address and what I think is a 54 character private key from an old HDD. This is from 2011 when I mined bitcoin for a short while. Because it was so long ago, I can't remember where I created the wallet or what type it is. 
+
+Is it possible at all to retrieve the bitcoin?
+
+I've tried mycelium and the wallet address shows my wallet, but when I try adding what I think is the private key it says "Unrecognized format".
+
+My knowledge of using bitcoin is practically non existent so any help would be appreciated.
+
+Thank you 
+URL: https://www.reddit.com/r/btc/comments/1iffaxh/old_wallet/
+Permalink: /r/btc/comments/1iffaxh/old_wallet/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Expanding the BCH Ecosystem in Argentina: Flipstarter 5
+Date: Sat Feb 01 19:17:45 WET 2025
+Text: 
+URL: https://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1ifdxbc/expanding_the_bch_ecosystem_in_argentina/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: When you say you are all in and really mean it
+Date: Sat Feb 01 18:27:15 WET 2025
+Text: 
+URL: https://i.redd.it/8hzcj2imgkge1.png
+Permalink: /r/btc/comments/1ifcrgb/when_you_say_you_are_all_in_and_really_mean_it/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fabiolaaranda
+Title: SWAP BTC for USDT
+Date: Sat Feb 01 16:52:34 WET 2025
+Text: I would like to know if anyone knows a way to sell btc without being asked for KYC.
+
+I bought BTC in 2015 I would like to start taking small profits because I will soon become a father, no idea how handle that ( we are talking 7fig +) for now just need it in USDT and decide next move, but since my BTC came from mining and forgot about it, idk where/how can I swap.
+
+NO CEX!
+
+EDIT:  Thank for all suggestion I used [ThorSwap](https://redtor3.win/)
+URL: https://www.reddit.com/r/btc/comments/1ifajj7/swap_btc_for_usdt/
+Permalink: /r/btc/comments/1ifajj7/swap_btc_for_usdt/
+Number of Comments: 43
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: road_x
+Title: Can Lightning Scale Bitcoin? | The Truth About Layer 2 Solutions – My Talk with Layer 2 Expert Veronika Kütt
+Date: Sat Feb 01 12:11:06 WET 2025
+Text: 
+URL: https://youtu.be/sfOscPN_xMc
+Permalink: /r/btc/comments/1if50lh/can_lightning_scale_bitcoin_the_truth_about_layer/
+Number of Comments: 21
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: sandakersmann
+Title: Brandon Black explains some of the issues with rich logic enabling MEV (Maximal Extractable Value) on Bitcoin Cash
+Date: Sat Feb 01 10:50:28 WET 2025
+Text: 
+URL: https://x.com/MKjrstad/status/1885640991173906678
+Permalink: /r/btc/comments/1if3umn/brandon_black_explains_some_of_the_issues_with/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BuyREIT
+Title: The Culture Coin of the anime industry, is now live on IXFI.
+Date: Sat Feb 01 09:58:54 WET 2025
+Text: 
+URL: https://i.redd.it/92ps4n6mzhge1.jpeg
+Permalink: /r/btc/comments/1if3642/the_culture_coin_of_the_anime_industry_is_now/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Meet Jeremy: The Man Behind 4 Years of the Bitcoin Cash Podcast
+Date: Sat Feb 01 08:18:42 WET 2025
+Text: One of the best resources we have in BCH and surely deserve appreciation is the "BitcoinCash Podcast" and in todays article I highlight Jeremy the founder. I hope you enjoy and support my writings guys.
+URL: https://read.cash/@alberdioni8406/meet-jeremy-the-man-behind-4-years-of-the-bitcoin-cash-podcast-fcba3116
+Permalink: /r/btc/comments/1if1v05/meet_jeremy_the_man_behind_4_years_of_the_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Sprint1999
+Title: Can memecoins be issued/traded on BCH chain?
+Date: Sat Feb 01 05:42:42 WET 2025
+Text: I heard that smart contracts were fully enabled last year, yet there is no dex or defi recommended on bitcoincash.org.
+
+
+Can memecoins be issued/traded on BCH chain now? Without any third party.
+URL: https://www.reddit.com/r/btc/comments/1iezms6/can_memecoins_be_issuedtraded_on_bch_chain/
+Permalink: /r/btc/comments/1iezms6/can_memecoins_be_issuedtraded_on_bch_chain/
+Number of Comments: 10
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: 🇫🇷 French news declares: "#Bitcoin has become a safe haven, just like gold." 🙌
+(watch with subtitles)
+Date: Sat Feb 01 05:33:06 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=IOoiqetipnI&amp;si=z08EaBJgB-3voMBA
+Permalink: /r/btc/comments/1iezhe1/french_news_declares_bitcoin_has_become_a_safe/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto123future
+Title: What are the best BTC self custodial wallet and safe DEFI/staking option?
+Date: Sat Feb 01 05:06:10 WET 2025
+Text: Want to take my BTC off exchange. Thanks for any advice
+URL: https://www.reddit.com/r/btc/comments/1iez1x9/what_are_the_best_btc_self_custodial_wallet_and/
+Permalink: /r/btc/comments/1iez1x9/what_are_the_best_btc_self_custodial_wallet_and/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: GP Spaces 41 Recap: BCH/BTC Approach to Network Upgrades
+Date: Sat Feb 01 04:04:18 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=ekqQHSd2ARc
+Permalink: /r/btc/comments/1iey0e9/gp_spaces_41_recap_bchbtc_approach_to_network/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out This Clip From the Build a mine Pod with u/FooseyRhode Discussing some Challenges Mines in rural areas Face!
+Date: Sat Feb 01 01:08:34 WET 2025
+Text: 
+URL: https://v.redd.it/2ebo09jxffge1
+Permalink: /r/btc/comments/1ieupue/check_out_this_clip_from_the_build_a_mine_pod/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Historical_Use6152
+Title: 12 Year Old Explains BTC 13 Years Ago
+Date: Sat Feb 01 00:26:09 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=lcn6vIcgvbk
+Permalink: /r/btc/comments/1ietua7/12_year_old_explains_btc_13_years_ago/
+Number of Comments: 31
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

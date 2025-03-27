@@ -1,0 +1,624 @@
+Author: btcxio
+Title: Why Bitcoin’s Quantum Computing Dilemma Could Spell Doom If Controversial Soft-Fork Happens
+Date: Sun Mar 16 22:42:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/why-bitcoins-quantum-computing-dilemma-could-spell-doom-if-controversial-soft-fork-happens/
+Permalink: /r/btc/comments/1jcxvzy/why_bitcoins_quantum_computing_dilemma_could/
+Number of Comments: 71
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: CryptoAd007
+Title: Who else is monitoring this drama now?
+Date: Sun Mar 16 19:59:17 WET 2025
+Text: 
+URL: https://hypurrscan.io/address/0xf3f496c9486be5924a93d67e98298733bb47057c
+Permalink: /r/btc/comments/1jcu8db/who_else_is_monitoring_this_drama_now/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: MICHAEL SAYLOR: You’ve Got 10 Years for the Digital Gold Rush Get Your #Bitcoin Before It’s Too Late
+Date: Sun Mar 16 18:42:23 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=j1nG233e1ZE&amp;si=CXK23orl87fiDDSs
+Permalink: /r/btc/comments/1jcseya/michael_saylor_youve_got_10_years_for_the_digital/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: NeonDaThal
+Title: 30 minute call for this weeks BitcoinCash Global Lotto draw! If you haven’t got your ticket yet, you still have time!
+Date: Sun Mar 16 18:37:04 WET 2025
+Text: Ticket buying happens over here: https://bitcoincashgloballotto.com
+URL: https://i.redd.it/gcgnj062j3pe1.jpeg
+Permalink: /r/btc/comments/1jcsaej/30_minute_call_for_this_weeks_bitcoincash_global/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: birth_of_bitcoin
+Title: Study economics
+Date: Sun Mar 16 18:04:57 WET 2025
+Text: 
+URL: https://i.redd.it/bpy24kybd3pe1.jpeg
+Permalink: /r/btc/comments/1jcrjs4/study_economics/
+Number of Comments: 53
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: DeFi_Dengen
+Title: Time too change priorities...
+Date: Sun Mar 16 17:39:46 WET 2025
+Text: 
+URL: https://i.redd.it/swvfmq5u83pe1.jpeg
+Permalink: /r/btc/comments/1jcqypy/time_too_change_priorities/
+Number of Comments: 37
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: This-Distribution901
+Title: 1 BCH Freeroll Tournament is happening in 6hours..
+Date: Sun Mar 16 15:15:01 WET 2025
+Text: 
+URL: https://i.redd.it/2enjvynyi2pe1.png
+Permalink: /r/btc/comments/1jcnno9/1_bch_freeroll_tournament_is_happening_in_6hours/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out The Build-a-Mine Podcast On YouTube For More Bitcoin Mining Content!
+Date: Sun Mar 16 15:08:46 WET 2025
+Text: 
+URL: https://v.redd.it/cb0t47lch2pe1
+Permalink: /r/btc/comments/1jcnito/check_out_the_buildamine_podcast_on_youtube_for/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: realfunisme
+Title: What are your thoughts on this?
+Date: Sun Mar 16 14:42:30 WET 2025
+Text: A Bitcoin whale has placed a significant bet on Bitcoin's short-term decline, opening a 40x leveraged short position worth over $368 million. This position was initiated at a price of $84,043 and could face liquidation if Bitcoin's price exceeds $85,592 . - Source tradingview
+
+In what way this will affect BTC?
+
+URL: https://www.reddit.com/r/btc/comments/1jcmyih/what_are_your_thoughts_on_this/
+Permalink: /r/btc/comments/1jcmyih/what_are_your_thoughts_on_this/
+Number of Comments: 11
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lotekjunky
+Title: What's your current opinion on bitcoin?
+Date: Sun Mar 16 14:36:00 WET 2025
+Text: I was in the early agorist activism using bitcoin back in 2011-13. I learned about it from Free Talk Live, like Roger did. I went to crazy Bitcoin parties in the woods in 2010-2013 for Porcfest  I mostly spent mine but kept a bit. I used to have hundreds, but I spent them in the Bitcoin economy. I didn't think this has biased me, but I fully realize it has and yet to minimize it.  I'm not a "no coiner" but would have been a multi millionaire if had held and not spent it to and make Bitcoin work.
+
+And then THEY broke zero confirmation transactions which undermined everything I had been working on. Bitpay stopped working. I don't know whether or not Bitcoin was coopted... but would anyone attempting to undermine the project do anything differently? I didn't think so 
+
+Bitcoin was the coolest. Hacker cash from the Internet designed to free us from the banks. Now it's a pet rock. All of the maxis are toxic and refuse to back change to the code.
+
+Since maxis won't back changes to layer 1, I see a few of scenarios that could unfold. 
+
+A - BTC needs to double in price every 4 years or the miners won't make money. If that happens, there will be a rift between miners and speculators that could crash the whole thing. The miners will want increased fees, or tail emissions. Tail emissions increase the coin supply which is fundamentally against bitcoin's only feature, being limited to 21m coins.
+
+B - Quantum computers, or AI intelligence creates new math which weakens sha256. Nobody will update the code, so all of the value in Bitcoin evaporates.
+
+C - Trump is successful at crashing Bitcoin down enough where the US gov can buy a lot more, then they have the ability to sink it and crash crypto whenever they want, regardless off an intention to hold it 20 years. Now we're a government project. But also, so is anything in the "cRyPTo ResErVeS"
+
+Theres more, but that's all I'm thinking about right now. I do think there is a way the maxis are right, but I find it highly unlikely. Must if that maxis missed the 2010-2016 run and want to 20,000x it again. 
+URL: https://www.reddit.com/r/btc/comments/1jcmtgi/whats_your_current_opinion_on_bitcoin/
+Permalink: /r/btc/comments/1jcmtgi/whats_your_current_opinion_on_bitcoin/
+Number of Comments: 185
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Over_Double_5051
+Title: ETH contract high jack.
+Date: Sun Mar 16 12:43:45 WET 2025
+Text: 
+URL: https://i.redd.it/5v145oayr1pe1.png
+Permalink: /r/btc/comments/1jckmdm/eth_contract_high_jack/
+Number of Comments: 10
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: InstaCrypto_INC
+Title: Bitcoin's core principle as an autonomous financial tool for the world is beginning to take shape. "Russia’s Oil Trade Revolution Powered by Crypto Assets" - According to a report by Reuters, Russia is using crypto assets in its oil trade with China and India to navigate the Western sanctions.
+Date: Sun Mar 16 09:01:30 WET 2025
+Text: 
+
+https://www.binance.com/en-IN/square/post/21532048349978
+URL: https://i.redd.it/w8alsvado0pe1.png
+Permalink: /r/btc/comments/1jchecn/bitcoins_core_principle_as_an_autonomous/
+Number of Comments: 46
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: Too much ethperience
+Date: Sun Mar 16 08:58:04 WET 2025
+Text: 
+URL: https://i.redd.it/jw1hk4bpn0pe1.png
+Permalink: /r/btc/comments/1jchcl5/too_much_ethperience/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Stan_Laurel1
+Title: All I want is six figures again..
+Date: Sun Mar 16 02:43:59 WET 2025
+Text: 
+URL: https://i.redd.it/fe2ixzs0tyoe1.jpeg
+Permalink: /r/btc/comments/1jcbuod/all_i_want_is_six_figures_again/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: killer-wastaken
+Title: Alternatives to LocalCoinSwap for P2P trading
+Date: Sun Mar 16 00:59:26 WET 2025
+Text: Looking for an alternative to the site LocalCoinSwap. I'm trying to buy crypto without any KYC process and I know its possible (because I have done it multiple times) but only through P2P. For me LocalCoinSwap works pretty well but the only reason I'm looking for a different site is because the sellers on there aren't the most reliable and don't take a lot of the payment methods I use.
+
+I would prefer if the site has PayPal invoices as an option but any answers help.
+URL: https://www.reddit.com/r/btc/comments/1jc9wpb/alternatives_to_localcoinswap_for_p2p_trading/
+Permalink: /r/btc/comments/1jc9wpb/alternatives_to_localcoinswap_for_p2p_trading/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Why Bitcoin’s Quantum Computing Dilemma Could Spell Doom If Controversial Soft-Fork Happens
+Date: Sun Mar 16 22:42:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/why-bitcoins-quantum-computing-dilemma-could-spell-doom-if-controversial-soft-fork-happens/
+Permalink: /r/btc/comments/1jcxvzy/why_bitcoins_quantum_computing_dilemma_could/
+Number of Comments: 71
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: CryptoAd007
+Title: Who else is monitoring this drama now?
+Date: Sun Mar 16 19:59:17 WET 2025
+Text: 
+URL: https://hypurrscan.io/address/0xf3f496c9486be5924a93d67e98298733bb47057c
+Permalink: /r/btc/comments/1jcu8db/who_else_is_monitoring_this_drama_now/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: MICHAEL SAYLOR: You’ve Got 10 Years for the Digital Gold Rush Get Your #Bitcoin Before It’s Too Late
+Date: Sun Mar 16 18:42:23 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=j1nG233e1ZE&amp;si=CXK23orl87fiDDSs
+Permalink: /r/btc/comments/1jcseya/michael_saylor_youve_got_10_years_for_the_digital/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: NeonDaThal
+Title: 30 minute call for this weeks BitcoinCash Global Lotto draw! If you haven’t got your ticket yet, you still have time!
+Date: Sun Mar 16 18:37:04 WET 2025
+Text: Ticket buying happens over here: https://bitcoincashgloballotto.com
+URL: https://i.redd.it/gcgnj062j3pe1.jpeg
+Permalink: /r/btc/comments/1jcsaej/30_minute_call_for_this_weeks_bitcoincash_global/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: birth_of_bitcoin
+Title: Study economics
+Date: Sun Mar 16 18:04:57 WET 2025
+Text: 
+URL: https://i.redd.it/bpy24kybd3pe1.jpeg
+Permalink: /r/btc/comments/1jcrjs4/study_economics/
+Number of Comments: 53
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: DeFi_Dengen
+Title: Time too change priorities...
+Date: Sun Mar 16 17:39:46 WET 2025
+Text: 
+URL: https://i.redd.it/swvfmq5u83pe1.jpeg
+Permalink: /r/btc/comments/1jcqypy/time_too_change_priorities/
+Number of Comments: 37
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: This-Distribution901
+Title: 1 BCH Freeroll Tournament is happening in 6hours..
+Date: Sun Mar 16 15:15:01 WET 2025
+Text: 
+URL: https://i.redd.it/2enjvynyi2pe1.png
+Permalink: /r/btc/comments/1jcnno9/1_bch_freeroll_tournament_is_happening_in_6hours/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out The Build-a-Mine Podcast On YouTube For More Bitcoin Mining Content!
+Date: Sun Mar 16 15:08:46 WET 2025
+Text: 
+URL: https://v.redd.it/cb0t47lch2pe1
+Permalink: /r/btc/comments/1jcnito/check_out_the_buildamine_podcast_on_youtube_for/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: realfunisme
+Title: What are your thoughts on this?
+Date: Sun Mar 16 14:42:30 WET 2025
+Text: A Bitcoin whale has placed a significant bet on Bitcoin's short-term decline, opening a 40x leveraged short position worth over $368 million. This position was initiated at a price of $84,043 and could face liquidation if Bitcoin's price exceeds $85,592 . - Source tradingview
+
+In what way this will affect BTC?
+
+URL: https://www.reddit.com/r/btc/comments/1jcmyih/what_are_your_thoughts_on_this/
+Permalink: /r/btc/comments/1jcmyih/what_are_your_thoughts_on_this/
+Number of Comments: 11
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lotekjunky
+Title: What's your current opinion on bitcoin?
+Date: Sun Mar 16 14:36:00 WET 2025
+Text: I was in the early agorist activism using bitcoin back in 2011-13. I learned about it from Free Talk Live, like Roger did. I went to crazy Bitcoin parties in the woods in 2010-2013 for Porcfest  I mostly spent mine but kept a bit. I used to have hundreds, but I spent them in the Bitcoin economy. I didn't think this has biased me, but I fully realize it has and yet to minimize it.  I'm not a "no coiner" but would have been a multi millionaire if had held and not spent it to and make Bitcoin work.
+
+And then THEY broke zero confirmation transactions which undermined everything I had been working on. Bitpay stopped working. I don't know whether or not Bitcoin was coopted... but would anyone attempting to undermine the project do anything differently? I didn't think so 
+
+Bitcoin was the coolest. Hacker cash from the Internet designed to free us from the banks. Now it's a pet rock. All of the maxis are toxic and refuse to back change to the code.
+
+Since maxis won't back changes to layer 1, I see a few of scenarios that could unfold. 
+
+A - BTC needs to double in price every 4 years or the miners won't make money. If that happens, there will be a rift between miners and speculators that could crash the whole thing. The miners will want increased fees, or tail emissions. Tail emissions increase the coin supply which is fundamentally against bitcoin's only feature, being limited to 21m coins.
+
+B - Quantum computers, or AI intelligence creates new math which weakens sha256. Nobody will update the code, so all of the value in Bitcoin evaporates.
+
+C - Trump is successful at crashing Bitcoin down enough where the US gov can buy a lot more, then they have the ability to sink it and crash crypto whenever they want, regardless off an intention to hold it 20 years. Now we're a government project. But also, so is anything in the "cRyPTo ResErVeS"
+
+Theres more, but that's all I'm thinking about right now. I do think there is a way the maxis are right, but I find it highly unlikely. Must if that maxis missed the 2010-2016 run and want to 20,000x it again. 
+URL: https://www.reddit.com/r/btc/comments/1jcmtgi/whats_your_current_opinion_on_bitcoin/
+Permalink: /r/btc/comments/1jcmtgi/whats_your_current_opinion_on_bitcoin/
+Number of Comments: 185
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Over_Double_5051
+Title: ETH contract high jack.
+Date: Sun Mar 16 12:43:45 WET 2025
+Text: 
+URL: https://i.redd.it/5v145oayr1pe1.png
+Permalink: /r/btc/comments/1jckmdm/eth_contract_high_jack/
+Number of Comments: 10
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: InstaCrypto_INC
+Title: Bitcoin's core principle as an autonomous financial tool for the world is beginning to take shape. "Russia’s Oil Trade Revolution Powered by Crypto Assets" - According to a report by Reuters, Russia is using crypto assets in its oil trade with China and India to navigate the Western sanctions.
+Date: Sun Mar 16 09:01:30 WET 2025
+Text: 
+
+https://www.binance.com/en-IN/square/post/21532048349978
+URL: https://i.redd.it/w8alsvado0pe1.png
+Permalink: /r/btc/comments/1jchecn/bitcoins_core_principle_as_an_autonomous/
+Number of Comments: 46
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: Too much ethperience
+Date: Sun Mar 16 08:58:04 WET 2025
+Text: 
+URL: https://i.redd.it/jw1hk4bpn0pe1.png
+Permalink: /r/btc/comments/1jchcl5/too_much_ethperience/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Stan_Laurel1
+Title: All I want is six figures again..
+Date: Sun Mar 16 02:43:59 WET 2025
+Text: 
+URL: https://i.redd.it/fe2ixzs0tyoe1.jpeg
+Permalink: /r/btc/comments/1jcbuod/all_i_want_is_six_figures_again/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: killer-wastaken
+Title: Alternatives to LocalCoinSwap for P2P trading
+Date: Sun Mar 16 00:59:26 WET 2025
+Text: Looking for an alternative to the site LocalCoinSwap. I'm trying to buy crypto without any KYC process and I know its possible (because I have done it multiple times) but only through P2P. For me LocalCoinSwap works pretty well but the only reason I'm looking for a different site is because the sellers on there aren't the most reliable and don't take a lot of the payment methods I use.
+
+I would prefer if the site has PayPal invoices as an option but any answers help.
+URL: https://www.reddit.com/r/btc/comments/1jc9wpb/alternatives_to_localcoinswap_for_p2p_trading/
+Permalink: /r/btc/comments/1jc9wpb/alternatives_to_localcoinswap_for_p2p_trading/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Why Bitcoin’s Quantum Computing Dilemma Could Spell Doom If Controversial Soft-Fork Happens
+Date: Sun Mar 16 22:42:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/why-bitcoins-quantum-computing-dilemma-could-spell-doom-if-controversial-soft-fork-happens/
+Permalink: /r/btc/comments/1jcxvzy/why_bitcoins_quantum_computing_dilemma_could/
+Number of Comments: 71
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: CryptoAd007
+Title: Who else is monitoring this drama now?
+Date: Sun Mar 16 19:59:17 WET 2025
+Text: 
+URL: https://hypurrscan.io/address/0xf3f496c9486be5924a93d67e98298733bb47057c
+Permalink: /r/btc/comments/1jcu8db/who_else_is_monitoring_this_drama_now/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: MICHAEL SAYLOR: You’ve Got 10 Years for the Digital Gold Rush Get Your #Bitcoin Before It’s Too Late
+Date: Sun Mar 16 18:42:23 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=j1nG233e1ZE&amp;si=CXK23orl87fiDDSs
+Permalink: /r/btc/comments/1jcseya/michael_saylor_youve_got_10_years_for_the_digital/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: NeonDaThal
+Title: 30 minute call for this weeks BitcoinCash Global Lotto draw! If you haven’t got your ticket yet, you still have time!
+Date: Sun Mar 16 18:37:04 WET 2025
+Text: Ticket buying happens over here: https://bitcoincashgloballotto.com
+URL: https://i.redd.it/gcgnj062j3pe1.jpeg
+Permalink: /r/btc/comments/1jcsaej/30_minute_call_for_this_weeks_bitcoincash_global/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: birth_of_bitcoin
+Title: Study economics
+Date: Sun Mar 16 18:04:57 WET 2025
+Text: 
+URL: https://i.redd.it/bpy24kybd3pe1.jpeg
+Permalink: /r/btc/comments/1jcrjs4/study_economics/
+Number of Comments: 53
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: DeFi_Dengen
+Title: Time too change priorities...
+Date: Sun Mar 16 17:39:46 WET 2025
+Text: 
+URL: https://i.redd.it/swvfmq5u83pe1.jpeg
+Permalink: /r/btc/comments/1jcqypy/time_too_change_priorities/
+Number of Comments: 37
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: This-Distribution901
+Title: 1 BCH Freeroll Tournament is happening in 6hours..
+Date: Sun Mar 16 15:15:01 WET 2025
+Text: 
+URL: https://i.redd.it/2enjvynyi2pe1.png
+Permalink: /r/btc/comments/1jcnno9/1_bch_freeroll_tournament_is_happening_in_6hours/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out The Build-a-Mine Podcast On YouTube For More Bitcoin Mining Content!
+Date: Sun Mar 16 15:08:46 WET 2025
+Text: 
+URL: https://v.redd.it/cb0t47lch2pe1
+Permalink: /r/btc/comments/1jcnito/check_out_the_buildamine_podcast_on_youtube_for/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: realfunisme
+Title: What are your thoughts on this?
+Date: Sun Mar 16 14:42:30 WET 2025
+Text: A Bitcoin whale has placed a significant bet on Bitcoin's short-term decline, opening a 40x leveraged short position worth over $368 million. This position was initiated at a price of $84,043 and could face liquidation if Bitcoin's price exceeds $85,592 . - Source tradingview
+
+In what way this will affect BTC?
+
+URL: https://www.reddit.com/r/btc/comments/1jcmyih/what_are_your_thoughts_on_this/
+Permalink: /r/btc/comments/1jcmyih/what_are_your_thoughts_on_this/
+Number of Comments: 11
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lotekjunky
+Title: What's your current opinion on bitcoin?
+Date: Sun Mar 16 14:36:00 WET 2025
+Text: I was in the early agorist activism using bitcoin back in 2011-13. I learned about it from Free Talk Live, like Roger did. I went to crazy Bitcoin parties in the woods in 2010-2013 for Porcfest  I mostly spent mine but kept a bit. I used to have hundreds, but I spent them in the Bitcoin economy. I didn't think this has biased me, but I fully realize it has and yet to minimize it.  I'm not a "no coiner" but would have been a multi millionaire if had held and not spent it to and make Bitcoin work.
+
+And then THEY broke zero confirmation transactions which undermined everything I had been working on. Bitpay stopped working. I don't know whether or not Bitcoin was coopted... but would anyone attempting to undermine the project do anything differently? I didn't think so 
+
+Bitcoin was the coolest. Hacker cash from the Internet designed to free us from the banks. Now it's a pet rock. All of the maxis are toxic and refuse to back change to the code.
+
+Since maxis won't back changes to layer 1, I see a few of scenarios that could unfold. 
+
+A - BTC needs to double in price every 4 years or the miners won't make money. If that happens, there will be a rift between miners and speculators that could crash the whole thing. The miners will want increased fees, or tail emissions. Tail emissions increase the coin supply which is fundamentally against bitcoin's only feature, being limited to 21m coins.
+
+B - Quantum computers, or AI intelligence creates new math which weakens sha256. Nobody will update the code, so all of the value in Bitcoin evaporates.
+
+C - Trump is successful at crashing Bitcoin down enough where the US gov can buy a lot more, then they have the ability to sink it and crash crypto whenever they want, regardless off an intention to hold it 20 years. Now we're a government project. But also, so is anything in the "cRyPTo ResErVeS"
+
+Theres more, but that's all I'm thinking about right now. I do think there is a way the maxis are right, but I find it highly unlikely. Must if that maxis missed the 2010-2016 run and want to 20,000x it again. 
+URL: https://www.reddit.com/r/btc/comments/1jcmtgi/whats_your_current_opinion_on_bitcoin/
+Permalink: /r/btc/comments/1jcmtgi/whats_your_current_opinion_on_bitcoin/
+Number of Comments: 185
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Over_Double_5051
+Title: ETH contract high jack.
+Date: Sun Mar 16 12:43:45 WET 2025
+Text: 
+URL: https://i.redd.it/5v145oayr1pe1.png
+Permalink: /r/btc/comments/1jckmdm/eth_contract_high_jack/
+Number of Comments: 10
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: InstaCrypto_INC
+Title: Bitcoin's core principle as an autonomous financial tool for the world is beginning to take shape. "Russia’s Oil Trade Revolution Powered by Crypto Assets" - According to a report by Reuters, Russia is using crypto assets in its oil trade with China and India to navigate the Western sanctions.
+Date: Sun Mar 16 09:01:30 WET 2025
+Text: 
+
+https://www.binance.com/en-IN/square/post/21532048349978
+URL: https://i.redd.it/w8alsvado0pe1.png
+Permalink: /r/btc/comments/1jchecn/bitcoins_core_principle_as_an_autonomous/
+Number of Comments: 46
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: Too much ethperience
+Date: Sun Mar 16 08:58:04 WET 2025
+Text: 
+URL: https://i.redd.it/jw1hk4bpn0pe1.png
+Permalink: /r/btc/comments/1jchcl5/too_much_ethperience/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Stan_Laurel1
+Title: All I want is six figures again..
+Date: Sun Mar 16 02:43:59 WET 2025
+Text: 
+URL: https://i.redd.it/fe2ixzs0tyoe1.jpeg
+Permalink: /r/btc/comments/1jcbuod/all_i_want_is_six_figures_again/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: killer-wastaken
+Title: Alternatives to LocalCoinSwap for P2P trading
+Date: Sun Mar 16 00:59:26 WET 2025
+Text: Looking for an alternative to the site LocalCoinSwap. I'm trying to buy crypto without any KYC process and I know its possible (because I have done it multiple times) but only through P2P. For me LocalCoinSwap works pretty well but the only reason I'm looking for a different site is because the sellers on there aren't the most reliable and don't take a lot of the payment methods I use.
+
+I would prefer if the site has PayPal invoices as an option but any answers help.
+URL: https://www.reddit.com/r/btc/comments/1jc9wpb/alternatives_to_localcoinswap_for_p2p_trading/
+Permalink: /r/btc/comments/1jc9wpb/alternatives_to_localcoinswap_for_p2p_trading/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Why Bitcoin’s Quantum Computing Dilemma Could Spell Doom If Controversial Soft-Fork Happens
+Date: Sun Mar 16 22:42:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/why-bitcoins-quantum-computing-dilemma-could-spell-doom-if-controversial-soft-fork-happens/
+Permalink: /r/btc/comments/1jcxvzy/why_bitcoins_quantum_computing_dilemma_could/
+Number of Comments: 71
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: CryptoAd007
+Title: Who else is monitoring this drama now?
+Date: Sun Mar 16 19:59:17 WET 2025
+Text: 
+URL: https://hypurrscan.io/address/0xf3f496c9486be5924a93d67e98298733bb47057c
+Permalink: /r/btc/comments/1jcu8db/who_else_is_monitoring_this_drama_now/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: MICHAEL SAYLOR: You’ve Got 10 Years for the Digital Gold Rush Get Your #Bitcoin Before It’s Too Late
+Date: Sun Mar 16 18:42:23 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=j1nG233e1ZE&amp;si=CXK23orl87fiDDSs
+Permalink: /r/btc/comments/1jcseya/michael_saylor_youve_got_10_years_for_the_digital/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: NeonDaThal
+Title: 30 minute call for this weeks BitcoinCash Global Lotto draw! If you haven’t got your ticket yet, you still have time!
+Date: Sun Mar 16 18:37:04 WET 2025
+Text: Ticket buying happens over here: https://bitcoincashgloballotto.com
+URL: https://i.redd.it/gcgnj062j3pe1.jpeg
+Permalink: /r/btc/comments/1jcsaej/30_minute_call_for_this_weeks_bitcoincash_global/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: birth_of_bitcoin
+Title: Study economics
+Date: Sun Mar 16 18:04:57 WET 2025
+Text: 
+URL: https://i.redd.it/bpy24kybd3pe1.jpeg
+Permalink: /r/btc/comments/1jcrjs4/study_economics/
+Number of Comments: 53
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: DeFi_Dengen
+Title: Time too change priorities...
+Date: Sun Mar 16 17:39:46 WET 2025
+Text: 
+URL: https://i.redd.it/swvfmq5u83pe1.jpeg
+Permalink: /r/btc/comments/1jcqypy/time_too_change_priorities/
+Number of Comments: 37
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: This-Distribution901
+Title: 1 BCH Freeroll Tournament is happening in 6hours..
+Date: Sun Mar 16 15:15:01 WET 2025
+Text: 
+URL: https://i.redd.it/2enjvynyi2pe1.png
+Permalink: /r/btc/comments/1jcnno9/1_bch_freeroll_tournament_is_happening_in_6hours/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out The Build-a-Mine Podcast On YouTube For More Bitcoin Mining Content!
+Date: Sun Mar 16 15:08:46 WET 2025
+Text: 
+URL: https://v.redd.it/cb0t47lch2pe1
+Permalink: /r/btc/comments/1jcnito/check_out_the_buildamine_podcast_on_youtube_for/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: realfunisme
+Title: What are your thoughts on this?
+Date: Sun Mar 16 14:42:30 WET 2025
+Text: A Bitcoin whale has placed a significant bet on Bitcoin's short-term decline, opening a 40x leveraged short position worth over $368 million. This position was initiated at a price of $84,043 and could face liquidation if Bitcoin's price exceeds $85,592 . - Source tradingview
+
+In what way this will affect BTC?
+
+URL: https://www.reddit.com/r/btc/comments/1jcmyih/what_are_your_thoughts_on_this/
+Permalink: /r/btc/comments/1jcmyih/what_are_your_thoughts_on_this/
+Number of Comments: 11
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lotekjunky
+Title: What's your current opinion on bitcoin?
+Date: Sun Mar 16 14:36:00 WET 2025
+Text: I was in the early agorist activism using bitcoin back in 2011-13. I learned about it from Free Talk Live, like Roger did. I went to crazy Bitcoin parties in the woods in 2010-2013 for Porcfest  I mostly spent mine but kept a bit. I used to have hundreds, but I spent them in the Bitcoin economy. I didn't think this has biased me, but I fully realize it has and yet to minimize it.  I'm not a "no coiner" but would have been a multi millionaire if had held and not spent it to and make Bitcoin work.
+
+And then THEY broke zero confirmation transactions which undermined everything I had been working on. Bitpay stopped working. I don't know whether or not Bitcoin was coopted... but would anyone attempting to undermine the project do anything differently? I didn't think so 
+
+Bitcoin was the coolest. Hacker cash from the Internet designed to free us from the banks. Now it's a pet rock. All of the maxis are toxic and refuse to back change to the code.
+
+Since maxis won't back changes to layer 1, I see a few of scenarios that could unfold. 
+
+A - BTC needs to double in price every 4 years or the miners won't make money. If that happens, there will be a rift between miners and speculators that could crash the whole thing. The miners will want increased fees, or tail emissions. Tail emissions increase the coin supply which is fundamentally against bitcoin's only feature, being limited to 21m coins.
+
+B - Quantum computers, or AI intelligence creates new math which weakens sha256. Nobody will update the code, so all of the value in Bitcoin evaporates.
+
+C - Trump is successful at crashing Bitcoin down enough where the US gov can buy a lot more, then they have the ability to sink it and crash crypto whenever they want, regardless off an intention to hold it 20 years. Now we're a government project. But also, so is anything in the "cRyPTo ResErVeS"
+
+Theres more, but that's all I'm thinking about right now. I do think there is a way the maxis are right, but I find it highly unlikely. Must if that maxis missed the 2010-2016 run and want to 20,000x it again. 
+URL: https://www.reddit.com/r/btc/comments/1jcmtgi/whats_your_current_opinion_on_bitcoin/
+Permalink: /r/btc/comments/1jcmtgi/whats_your_current_opinion_on_bitcoin/
+Number of Comments: 185
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Over_Double_5051
+Title: ETH contract high jack.
+Date: Sun Mar 16 12:43:45 WET 2025
+Text: 
+URL: https://i.redd.it/5v145oayr1pe1.png
+Permalink: /r/btc/comments/1jckmdm/eth_contract_high_jack/
+Number of Comments: 10
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: InstaCrypto_INC
+Title: Bitcoin's core principle as an autonomous financial tool for the world is beginning to take shape. "Russia’s Oil Trade Revolution Powered by Crypto Assets" - According to a report by Reuters, Russia is using crypto assets in its oil trade with China and India to navigate the Western sanctions.
+Date: Sun Mar 16 09:01:30 WET 2025
+Text: 
+
+https://www.binance.com/en-IN/square/post/21532048349978
+URL: https://i.redd.it/w8alsvado0pe1.png
+Permalink: /r/btc/comments/1jchecn/bitcoins_core_principle_as_an_autonomous/
+Number of Comments: 46
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: Too much ethperience
+Date: Sun Mar 16 08:58:04 WET 2025
+Text: 
+URL: https://i.redd.it/jw1hk4bpn0pe1.png
+Permalink: /r/btc/comments/1jchcl5/too_much_ethperience/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Stan_Laurel1
+Title: All I want is six figures again..
+Date: Sun Mar 16 02:43:59 WET 2025
+Text: 
+URL: https://i.redd.it/fe2ixzs0tyoe1.jpeg
+Permalink: /r/btc/comments/1jcbuod/all_i_want_is_six_figures_again/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: killer-wastaken
+Title: Alternatives to LocalCoinSwap for P2P trading
+Date: Sun Mar 16 00:59:26 WET 2025
+Text: Looking for an alternative to the site LocalCoinSwap. I'm trying to buy crypto without any KYC process and I know its possible (because I have done it multiple times) but only through P2P. For me LocalCoinSwap works pretty well but the only reason I'm looking for a different site is because the sellers on there aren't the most reliable and don't take a lot of the payment methods I use.
+
+I would prefer if the site has PayPal invoices as an option but any answers help.
+URL: https://www.reddit.com/r/btc/comments/1jc9wpb/alternatives_to_localcoinswap_for_p2p_trading/
+Permalink: /r/btc/comments/1jc9wpb/alternatives_to_localcoinswap_for_p2p_trading/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

@@ -1,0 +1,1100 @@
+Author: engineer18241
+Title: What Is a DEX and How To Use It?
+Date: Wed Feb 05 23:03:48 WET 2025
+Text: If you’ve been around crypto long enough, you’ve probably heard the term **DEX** thrown around.
+
+And no, it’s not some underground hacker group or a new brand of protein powder.
+
+**DEX** stands for **Decentralized Exchange**—a magical place where you can trade crypto without the need for a middleman.
+
+No banks, no brokers, no one breathing down your neck asking for your ID. Just you, your crypto, and a smart contract making the magic happen.
+
+Sounds cool, right? It is.
+
+But like all things in crypto, it comes with its own set of perks and pitfalls. Let’s dive in.
+
+# What is a DEX?
+
+A **Decentralized Exchange** is a trading platform that operates without a central authority. Unlike traditional exchanges (**CEXs**) like Binance or Coinbase, which hold your funds and require you to trust them, a **DEX lets you trade directly from your wallet**.
+
+Think of it like this:  
+🔹 **CEX** = Using a bank to exchange money → Centralized, requires trust.  
+🔹 **DEX** = Trading cash directly with a friend → No middleman, just you and the blockchain.
+
+DEXs are built on **smart contracts**, meaning trades are executed automatically based on predefined rules. No humans, no delays, just pure crypto freedom.
+
+# How Does a DEX Work? (Liquidity Pools &amp; AMMs Explained)
+
+Unlike centralized exchanges, which use traditional order books (buyers and sellers placing bids and offers), most DEXs operate using **Automated Market Makers (AMMs)**.
+
+Instead of matching buyers and sellers directly, AMMs use **liquidity pools**—a pool of tokens that users provide to facilitate trading.
+
+# What is a Liquidity Pool?
+
+For this explanation, let’s assume that 1 ETH is worth 1 USDC (even though, in reality, their values fluctuate).
+
+Now, let’s say you have 1 USDC and want to swap it for 1 ETH on a decentralized exchange (DEX). For this to happen, the DEX needs a **liquidity pool** for this trading pair.
+
+A liquidity pool is like a shared reservoir of crypto tokens, funded by liquidity providers. Imagine a pool containing **100 ETH and 100 USDC**. When you swap 1 USDC for ETH, your USDC is added to the pool, and ETH is removed from it.
+
+However, the exchange rate is not fixed. Liquidity pools use an **automated market maker (AMM)** system, meaning the amount you receive depends on the **ratio of tokens in the pool**. Because your trade slightly reduces the ETH supply and increases the USDC supply, the **price of ETH increases slightly** as a result.
+
+After the swap, the pool will have **slightly less than 100 ETH and slightly more than 100 USDC**, instead of a perfect 1:1 change. This happens due to the AMM’s pricing formula, which adjusts based on supply and demand in the pool.
+
+Makes sense? Great! If not, reply to this email, and we’ll be happy to help!
+
+So, in recap:
+
+* When you swap tokens on a DEX, you're trading against this pool rather than another individual.
+* The **price of tokens** in the pool is determined by a mathematical formula (often a constant product formula: **x\*y=k**), adjusting based on supply and demand.
+* In return for providing liquidity, users earn a **portion of the trading fees** collected by the DEX.
+
+# What to Watch Out for (Because DEXs Can Be Wild)
+
+# 1️⃣ Your Funds Need to Be on the Correct Network
+
+Not all tokens are available on every blockchain.
+
+Some projects only trade on specific networks, like **ETH on Base** or **SOL on Solana**. If you try to buy a token on the wrong network, your transaction **won’t go through**.
+
+✔️ **Before swapping, check which network the token is on.**  
+✔️ **Make sure your funds are on that network**—for example, if you're trading on Uniswap (Ethereum), your funds need to be on **Ethereum Mainnet**, not BSC or Arbitrum.  
+✔️ If you need to switch networks, use a **bridge** (e.g., Across, Stargate, or the official bridge for that blockchain).
+
+💡 **Pro Tip to Save on Fees When Switching Networks:** Instead of using expensive bridges, you can deposit your funds into a centralized exchange like **Binance or Coinbase**, and then withdraw them directly back to your wallet on the correct network. This can be significantly cheaper than using a blockchain bridge.
+
+# 2️⃣ Gas Fees Can Be Brutal
+
+Ethereum gas fees can be **insanely high**, especially when the network is congested. If you’re trading on **Ethereum mainnet**, be prepared for fees that could be more than the trade itself.
+
+✔️ **Try Layer 2s like Arbitrum, Optimism, or Base** to save on fees.  
+✔️ **Trade during off-peak hours** when gas fees are lower.
+
+But, if, for some reason, the token that you want to buy is only available on the Ethereum mainnet, you won’t have any other choice but to do the swap on it, resulting in very high gas fees.
+
+# 3️⃣ Rug Pulls &amp; Scams
+
+Since **anyone** can list a token on a DEX, it’s a breeding ground for scams. Some shady projects launch a token, pump it, and then **pull the liquidity**, leaving buyers with worthless coins.
+
+✔️ **Check liquidity levels** – Low liquidity = high risk.  
+✔️ **Look for token audits** – If a project has been audited, it’s a safer bet (but not a guarantee).  
+✔️ **Check community activity** – If it looks dead or fake, it probably is.
+
+# 4️⃣ Impermanent Loss (For Liquidity Providers)
+
+If you’re providing liquidity in a DEX pool, **impermanent loss** can eat away at your profits. This happens when token prices fluctuate, causing you to end up with less value than you initially deposited.
+
+✔️ **Understand the risks before providing liquidity.**  
+✔️ **Use impermanent loss calculators** to estimate potential losses.
+
+# 5️⃣ Front-Running Bots
+
+Some bots scan pending transactions and place trades before yours, manipulating the price and increasing slippage.
+
+✔️ **Use private transactions** via Flashbots to prevent this.  
+✔️ **Increase gas fees slightly** to speed up your transaction.
+
+# How to Use a DEX (Without Screwing Up)
+
+Using a DEX is pretty straightforward, but let’s make sure you don’t accidentally send your entire portfolio into the void. Here’s a step-by-step guide:
+
+1️⃣ **Get a Web3 Wallet** – You’ll need a crypto wallet like **MetaMask, Trust Wallet, or Coinbase Wallet**. (This also depends on the token you want to swap and which wallet supports it)
+
+2️⃣ **Fund Your Wallet in the Correct Network** – If you’re using Uniswap, make sure your **funds are on Ethereum**. If you’re using PancakeSwap, they need to be on **Binance Smart Chain**.
+
+3️⃣ **Choose a DEX** – Popular options include:
+
+* **Uniswap** (Ethereum &amp; Layer 2s)
+* **PancakeSwap** (Binance Smart Chain)
+* **Trader Joe** (Avalanche)
+* **Jupiter** (Solana)
+* **dYdX** (for advanced trading)
+
+4️⃣ **Connect Your Wallet** – Go to the DEX’s website and click **“Connect Wallet”**. Your wallet will ask for permission—approve it.
+
+5️⃣ **Pick a Trading Pair** – Select the correct network and tokens you want to swap (e.g., ETH for USDC).
+
+6️⃣ **Check the Network &amp; Token Details** –
+
+* Make sure **you’re on the correct blockchain**.
+* Double-check the **token contract address** to avoid scam tokens. (One of our team members bought fake $MELANIA, and let’s just say that he almost changed his meals from pasta to instant noodles)
+
+7️⃣ **Set Slippage** – If your trade keeps failing, increase **slippage tolerance** slightly (usually 1-2%). Be careful—higher slippage can lead to worse prices.
+
+8️⃣ **Confirm and Trade** –
+
+* Double-check all details.
+* Hit **“Swap”**, approve the transaction in your wallet, and wait for the blockchain to do its thing.
+
+9️⃣ **Check Your Wallet** – Your new tokens should appear shortly. If not, try adding the token’s contract address manually.
+
+# Why Use a DEX Instead of a CEX?
+
+✅ **No KYC (Know Your Customer)** – Trade without submitting your passport or ID.  
+✅ **Full Control** – Your funds stay in your wallet. No exchange can freeze or seize them.  
+✅ **More Trading Pairs** – You can trade **new and experimental tokens** before they hit major exchanges. (That is were all the 16 year old driving around in their new Ferrari made 1000x)
+
+We really hope this article helped you understand the DEX better, and we hope it will serve you well!
+
+If you want to receive daily crypto news, updates, and educational content like that, subscribe to my FREE newsletter, Coinscript: [https://www.thecoinscript.com/subscribe](https://www.thecoinscript.com/subscribe)
+URL: https://www.reddit.com/r/btc/comments/1iinol2/what_is_a_dex_and_how_to_use_it/
+Permalink: /r/btc/comments/1iinol2/what_is_a_dex_and_how_to_use_it/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Flygate
+Title: Kraken may know Satoshi’s identity
+Date: Wed Feb 05 22:05:24 WET 2025
+Text: 
+URL: https://www.coinim.net/kraken-may-know-satoshis-identity/
+Permalink: /r/btc/comments/1iimatj/kraken_may_know_satoshis_identity/
+Number of Comments: 29
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: MercedesFanForever
+Title: Where you spend your Bitcoin?
+Date: Wed Feb 05 20:06:10 WET 2025
+Text: Hey folks, I’ve been thinking about how bitcoin is slowly becoming more practical for everyday use. I’ve used it for some casual things here like paying for my vpn subscription and buying a couple of items from newegg. I'm thinking, does anyone use it only for online shopping or travel bookings? I’ve heard some people use it for gaming credits or [security services](https://coingate.com/blog/post/who-accepts-bitcoin-companies-that-accept-btc) too. So what services are you buying with btc? 
+URL: https://www.reddit.com/r/btc/comments/1iijejb/where_you_spend_your_bitcoin/
+Permalink: /r/btc/comments/1iijejb/where_you_spend_your_bitcoin/
+Number of Comments: 23
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: SEC LAUNCHES ITS CRYPTO TASK FORCE WEBSITE.
+Date: Wed Feb 05 18:31:46 WET 2025
+Text: 
+URL: https://i.redd.it/dyzhoezm3dhe1.png
+Permalink: /r/btc/comments/1iih1oe/sec_launches_its_crypto_task_force_website/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Correct-Potential-15
+Title: Trump | Promising A Pump
+Date: Wed Feb 05 16:43:26 WET 2025
+Text: ***Do to my last meme I'm putting this here. I do NOT wanna see anything like "Look at nov 4th", "Crypto is up since nov 4th", "Bitcoin use to be 67k", ect. this is a MEME not a serious thing .***
+
+[Trump Promising A Pump](https://preview.redd.it/gpsc3na6nche1.png?width=754&amp;format=png&amp;auto=webp&amp;s=94f9211014ea169b1389afe0341682f0b513ebf1)
+
+
+URL: https://www.reddit.com/r/btc/comments/1iiedlu/trump_promising_a_pump/
+Permalink: /r/btc/comments/1iiedlu/trump_promising_a_pump/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Satoshi Nakamoto's Enormous $108 Billion Bitcoin Fortune Revealed
+Date: Wed Feb 05 15:04:27 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/satoshi-nakamotos-enormous-108-billion-bitcoin-fortune-revealed/
+Permalink: /r/btc/comments/1iibzz3/satoshi_nakamotos_enormous_108_billion_bitcoin/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2q_x
+Title: Caveat Emptor (Buyer Beware): 14A§4 of the US Constitution dictates the legality and value of US debts in the event of an auto-coup or insurrection. Any asset backed by the debts of the United States has exposure to this legal and market risk.
+Date: Wed Feb 05 14:22:07 WET 2025
+Text: 
+URL: https://i.redd.it/ri0z6bj3wbhe1.png
+Permalink: /r/btc/comments/1iib154/caveat_emptor_buyer_beware_14a4_of_the_us/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: No Hay Almuerzo Gratis! But Thanks to Majamalu, BCH Education is Free!
+Date: Wed Feb 05 13:57:24 WET 2025
+Text: Time to put in spotlight people who actually make the BCH machine work and reach more places in earth with actual actions, such as educate, onboard people and merchants, also built tools in foreign languages such as Majamalu and few people do in Argentina, enjoy. 
+URL: https://read.cash/@alberdioni8406/no-hay-almuerzo-gratis-but-thanks-to-majamalu-bch-education-is-free-a5a3703a
+Permalink: /r/btc/comments/1iiahbo/no_hay_almuerzo_gratis_but_thanks_to_majamalu_bch/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Jem_colley
+Title: Bitcoin entering 2025 smh
+Date: Wed Feb 05 13:09:23 WET 2025
+Text: 
+URL: https://v.redd.it/zb7cpvpfkbhe1
+Permalink: /r/btc/comments/1ii9k8y/bitcoin_entering_2025_smh/
+Number of Comments: 39
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: nddjjsdj
+Title: New to btc
+Date: Wed Feb 05 13:04:47 WET 2025
+Text: Hey all! New to btc and all .. any recommendations on how we can actually learn on how to trade ? Instead of just moving like headless chickens ? 
+Thanks 
+URL: https://www.reddit.com/r/btc/comments/1ii9h9l/new_to_btc/
+Permalink: /r/btc/comments/1ii9h9l/new_to_btc/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Crypto_Mining_
+Title: How Blockchain Technology Is Killing Banks - Jennifer Johnson @Davos
+Date: Wed Feb 05 11:02:47 WET 2025
+Text: 
+URL: https://youtube.com/shorts/Whxca1q5OPI?si=ZRIStVAmnwyy3j1G
+Permalink: /r/btc/comments/1ii7k0k/how_blockchain_technology_is_killing_banks/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Bagatell_
+Title: Tether Is CBDC, It's Just Not Issued By A Central Bank.
+Date: Wed Feb 05 07:35:10 WET 2025
+Text: 
+URL: https://fixupx.com/robinmonotti/status/1887024680676012088
+Permalink: /r/btc/comments/1ii4u36/tether_is_cbdc_its_just_not_issued_by_a_central/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: 🟠 Never-before-seen video of Hal Finney, revealing his diagnosis with ALS, exactly 15 years ago. Absolutely heartbreaking 💔
+Date: Wed Feb 05 06:49:08 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=zibr0LXsSl4&amp;si=GD-uRx14ZQoIXDlL
+Permalink: /r/btc/comments/1ii478r/new_neverbeforeseen_video_of_hal_finney_revealing/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: ToohotmaGandhi
+Title: Would you buy runes/meme coins on BTC if the fees weren't so bad?
+Date: Wed Feb 05 03:40:05 WET 2025
+Text: Odin.fun seems to have completely solved the speed and fee issue. Check it out. 
+URL: https://www.reddit.com/r/btc/comments/1ii11x7/would_you_buy_runesmeme_coins_on_btc_if_the_fees/
+Permalink: /r/btc/comments/1ii11x7/would_you_buy_runesmeme_coins_on_btc_if_the_fees/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: FinanceSpecialistt
+Title: Real live sell execution bitcoin :D
+Date: Wed Feb 05 00:21:05 WET 2025
+Text: 
+URL: https://v.redd.it/48rvz3zqr7he1
+Permalink: /r/btc/comments/1ihwzx9/real_live_sell_execution_bitcoin_d/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: engineer18241
+Title: What Is a DEX and How To Use It?
+Date: Wed Feb 05 23:03:48 WET 2025
+Text: If you’ve been around crypto long enough, you’ve probably heard the term **DEX** thrown around.
+
+And no, it’s not some underground hacker group or a new brand of protein powder.
+
+**DEX** stands for **Decentralized Exchange**—a magical place where you can trade crypto without the need for a middleman.
+
+No banks, no brokers, no one breathing down your neck asking for your ID. Just you, your crypto, and a smart contract making the magic happen.
+
+Sounds cool, right? It is.
+
+But like all things in crypto, it comes with its own set of perks and pitfalls. Let’s dive in.
+
+# What is a DEX?
+
+A **Decentralized Exchange** is a trading platform that operates without a central authority. Unlike traditional exchanges (**CEXs**) like Binance or Coinbase, which hold your funds and require you to trust them, a **DEX lets you trade directly from your wallet**.
+
+Think of it like this:  
+🔹 **CEX** = Using a bank to exchange money → Centralized, requires trust.  
+🔹 **DEX** = Trading cash directly with a friend → No middleman, just you and the blockchain.
+
+DEXs are built on **smart contracts**, meaning trades are executed automatically based on predefined rules. No humans, no delays, just pure crypto freedom.
+
+# How Does a DEX Work? (Liquidity Pools &amp; AMMs Explained)
+
+Unlike centralized exchanges, which use traditional order books (buyers and sellers placing bids and offers), most DEXs operate using **Automated Market Makers (AMMs)**.
+
+Instead of matching buyers and sellers directly, AMMs use **liquidity pools**—a pool of tokens that users provide to facilitate trading.
+
+# What is a Liquidity Pool?
+
+For this explanation, let’s assume that 1 ETH is worth 1 USDC (even though, in reality, their values fluctuate).
+
+Now, let’s say you have 1 USDC and want to swap it for 1 ETH on a decentralized exchange (DEX). For this to happen, the DEX needs a **liquidity pool** for this trading pair.
+
+A liquidity pool is like a shared reservoir of crypto tokens, funded by liquidity providers. Imagine a pool containing **100 ETH and 100 USDC**. When you swap 1 USDC for ETH, your USDC is added to the pool, and ETH is removed from it.
+
+However, the exchange rate is not fixed. Liquidity pools use an **automated market maker (AMM)** system, meaning the amount you receive depends on the **ratio of tokens in the pool**. Because your trade slightly reduces the ETH supply and increases the USDC supply, the **price of ETH increases slightly** as a result.
+
+After the swap, the pool will have **slightly less than 100 ETH and slightly more than 100 USDC**, instead of a perfect 1:1 change. This happens due to the AMM’s pricing formula, which adjusts based on supply and demand in the pool.
+
+Makes sense? Great! If not, reply to this email, and we’ll be happy to help!
+
+So, in recap:
+
+* When you swap tokens on a DEX, you're trading against this pool rather than another individual.
+* The **price of tokens** in the pool is determined by a mathematical formula (often a constant product formula: **x\*y=k**), adjusting based on supply and demand.
+* In return for providing liquidity, users earn a **portion of the trading fees** collected by the DEX.
+
+# What to Watch Out for (Because DEXs Can Be Wild)
+
+# 1️⃣ Your Funds Need to Be on the Correct Network
+
+Not all tokens are available on every blockchain.
+
+Some projects only trade on specific networks, like **ETH on Base** or **SOL on Solana**. If you try to buy a token on the wrong network, your transaction **won’t go through**.
+
+✔️ **Before swapping, check which network the token is on.**  
+✔️ **Make sure your funds are on that network**—for example, if you're trading on Uniswap (Ethereum), your funds need to be on **Ethereum Mainnet**, not BSC or Arbitrum.  
+✔️ If you need to switch networks, use a **bridge** (e.g., Across, Stargate, or the official bridge for that blockchain).
+
+💡 **Pro Tip to Save on Fees When Switching Networks:** Instead of using expensive bridges, you can deposit your funds into a centralized exchange like **Binance or Coinbase**, and then withdraw them directly back to your wallet on the correct network. This can be significantly cheaper than using a blockchain bridge.
+
+# 2️⃣ Gas Fees Can Be Brutal
+
+Ethereum gas fees can be **insanely high**, especially when the network is congested. If you’re trading on **Ethereum mainnet**, be prepared for fees that could be more than the trade itself.
+
+✔️ **Try Layer 2s like Arbitrum, Optimism, or Base** to save on fees.  
+✔️ **Trade during off-peak hours** when gas fees are lower.
+
+But, if, for some reason, the token that you want to buy is only available on the Ethereum mainnet, you won’t have any other choice but to do the swap on it, resulting in very high gas fees.
+
+# 3️⃣ Rug Pulls &amp; Scams
+
+Since **anyone** can list a token on a DEX, it’s a breeding ground for scams. Some shady projects launch a token, pump it, and then **pull the liquidity**, leaving buyers with worthless coins.
+
+✔️ **Check liquidity levels** – Low liquidity = high risk.  
+✔️ **Look for token audits** – If a project has been audited, it’s a safer bet (but not a guarantee).  
+✔️ **Check community activity** – If it looks dead or fake, it probably is.
+
+# 4️⃣ Impermanent Loss (For Liquidity Providers)
+
+If you’re providing liquidity in a DEX pool, **impermanent loss** can eat away at your profits. This happens when token prices fluctuate, causing you to end up with less value than you initially deposited.
+
+✔️ **Understand the risks before providing liquidity.**  
+✔️ **Use impermanent loss calculators** to estimate potential losses.
+
+# 5️⃣ Front-Running Bots
+
+Some bots scan pending transactions and place trades before yours, manipulating the price and increasing slippage.
+
+✔️ **Use private transactions** via Flashbots to prevent this.  
+✔️ **Increase gas fees slightly** to speed up your transaction.
+
+# How to Use a DEX (Without Screwing Up)
+
+Using a DEX is pretty straightforward, but let’s make sure you don’t accidentally send your entire portfolio into the void. Here’s a step-by-step guide:
+
+1️⃣ **Get a Web3 Wallet** – You’ll need a crypto wallet like **MetaMask, Trust Wallet, or Coinbase Wallet**. (This also depends on the token you want to swap and which wallet supports it)
+
+2️⃣ **Fund Your Wallet in the Correct Network** – If you’re using Uniswap, make sure your **funds are on Ethereum**. If you’re using PancakeSwap, they need to be on **Binance Smart Chain**.
+
+3️⃣ **Choose a DEX** – Popular options include:
+
+* **Uniswap** (Ethereum &amp; Layer 2s)
+* **PancakeSwap** (Binance Smart Chain)
+* **Trader Joe** (Avalanche)
+* **Jupiter** (Solana)
+* **dYdX** (for advanced trading)
+
+4️⃣ **Connect Your Wallet** – Go to the DEX’s website and click **“Connect Wallet”**. Your wallet will ask for permission—approve it.
+
+5️⃣ **Pick a Trading Pair** – Select the correct network and tokens you want to swap (e.g., ETH for USDC).
+
+6️⃣ **Check the Network &amp; Token Details** –
+
+* Make sure **you’re on the correct blockchain**.
+* Double-check the **token contract address** to avoid scam tokens. (One of our team members bought fake $MELANIA, and let’s just say that he almost changed his meals from pasta to instant noodles)
+
+7️⃣ **Set Slippage** – If your trade keeps failing, increase **slippage tolerance** slightly (usually 1-2%). Be careful—higher slippage can lead to worse prices.
+
+8️⃣ **Confirm and Trade** –
+
+* Double-check all details.
+* Hit **“Swap”**, approve the transaction in your wallet, and wait for the blockchain to do its thing.
+
+9️⃣ **Check Your Wallet** – Your new tokens should appear shortly. If not, try adding the token’s contract address manually.
+
+# Why Use a DEX Instead of a CEX?
+
+✅ **No KYC (Know Your Customer)** – Trade without submitting your passport or ID.  
+✅ **Full Control** – Your funds stay in your wallet. No exchange can freeze or seize them.  
+✅ **More Trading Pairs** – You can trade **new and experimental tokens** before they hit major exchanges. (That is were all the 16 year old driving around in their new Ferrari made 1000x)
+
+We really hope this article helped you understand the DEX better, and we hope it will serve you well!
+
+If you want to receive daily crypto news, updates, and educational content like that, subscribe to my FREE newsletter, Coinscript: [https://www.thecoinscript.com/subscribe](https://www.thecoinscript.com/subscribe)
+URL: https://www.reddit.com/r/btc/comments/1iinol2/what_is_a_dex_and_how_to_use_it/
+Permalink: /r/btc/comments/1iinol2/what_is_a_dex_and_how_to_use_it/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Flygate
+Title: Kraken may know Satoshi’s identity
+Date: Wed Feb 05 22:05:24 WET 2025
+Text: 
+URL: https://www.coinim.net/kraken-may-know-satoshis-identity/
+Permalink: /r/btc/comments/1iimatj/kraken_may_know_satoshis_identity/
+Number of Comments: 29
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: MercedesFanForever
+Title: Where you spend your Bitcoin?
+Date: Wed Feb 05 20:06:10 WET 2025
+Text: Hey folks, I’ve been thinking about how bitcoin is slowly becoming more practical for everyday use. I’ve used it for some casual things here like paying for my vpn subscription and buying a couple of items from newegg. I'm thinking, does anyone use it only for online shopping or travel bookings? I’ve heard some people use it for gaming credits or [security services](https://coingate.com/blog/post/who-accepts-bitcoin-companies-that-accept-btc) too. So what services are you buying with btc? 
+URL: https://www.reddit.com/r/btc/comments/1iijejb/where_you_spend_your_bitcoin/
+Permalink: /r/btc/comments/1iijejb/where_you_spend_your_bitcoin/
+Number of Comments: 23
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: SEC LAUNCHES ITS CRYPTO TASK FORCE WEBSITE.
+Date: Wed Feb 05 18:31:46 WET 2025
+Text: 
+URL: https://i.redd.it/dyzhoezm3dhe1.png
+Permalink: /r/btc/comments/1iih1oe/sec_launches_its_crypto_task_force_website/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Correct-Potential-15
+Title: Trump | Promising A Pump
+Date: Wed Feb 05 16:43:26 WET 2025
+Text: ***Do to my last meme I'm putting this here. I do NOT wanna see anything like "Look at nov 4th", "Crypto is up since nov 4th", "Bitcoin use to be 67k", ect. this is a MEME not a serious thing .***
+
+[Trump Promising A Pump](https://preview.redd.it/gpsc3na6nche1.png?width=754&amp;format=png&amp;auto=webp&amp;s=94f9211014ea169b1389afe0341682f0b513ebf1)
+
+
+URL: https://www.reddit.com/r/btc/comments/1iiedlu/trump_promising_a_pump/
+Permalink: /r/btc/comments/1iiedlu/trump_promising_a_pump/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Satoshi Nakamoto's Enormous $108 Billion Bitcoin Fortune Revealed
+Date: Wed Feb 05 15:04:27 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/satoshi-nakamotos-enormous-108-billion-bitcoin-fortune-revealed/
+Permalink: /r/btc/comments/1iibzz3/satoshi_nakamotos_enormous_108_billion_bitcoin/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2q_x
+Title: Caveat Emptor (Buyer Beware): 14A§4 of the US Constitution dictates the legality and value of US debts in the event of an auto-coup or insurrection. Any asset backed by the debts of the United States has exposure to this legal and market risk.
+Date: Wed Feb 05 14:22:07 WET 2025
+Text: 
+URL: https://i.redd.it/ri0z6bj3wbhe1.png
+Permalink: /r/btc/comments/1iib154/caveat_emptor_buyer_beware_14a4_of_the_us/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: No Hay Almuerzo Gratis! But Thanks to Majamalu, BCH Education is Free!
+Date: Wed Feb 05 13:57:24 WET 2025
+Text: Time to put in spotlight people who actually make the BCH machine work and reach more places in earth with actual actions, such as educate, onboard people and merchants, also built tools in foreign languages such as Majamalu and few people do in Argentina, enjoy. 
+URL: https://read.cash/@alberdioni8406/no-hay-almuerzo-gratis-but-thanks-to-majamalu-bch-education-is-free-a5a3703a
+Permalink: /r/btc/comments/1iiahbo/no_hay_almuerzo_gratis_but_thanks_to_majamalu_bch/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Jem_colley
+Title: Bitcoin entering 2025 smh
+Date: Wed Feb 05 13:09:23 WET 2025
+Text: 
+URL: https://v.redd.it/zb7cpvpfkbhe1
+Permalink: /r/btc/comments/1ii9k8y/bitcoin_entering_2025_smh/
+Number of Comments: 39
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: nddjjsdj
+Title: New to btc
+Date: Wed Feb 05 13:04:47 WET 2025
+Text: Hey all! New to btc and all .. any recommendations on how we can actually learn on how to trade ? Instead of just moving like headless chickens ? 
+Thanks 
+URL: https://www.reddit.com/r/btc/comments/1ii9h9l/new_to_btc/
+Permalink: /r/btc/comments/1ii9h9l/new_to_btc/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Crypto_Mining_
+Title: How Blockchain Technology Is Killing Banks - Jennifer Johnson @Davos
+Date: Wed Feb 05 11:02:47 WET 2025
+Text: 
+URL: https://youtube.com/shorts/Whxca1q5OPI?si=ZRIStVAmnwyy3j1G
+Permalink: /r/btc/comments/1ii7k0k/how_blockchain_technology_is_killing_banks/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Bagatell_
+Title: Tether Is CBDC, It's Just Not Issued By A Central Bank.
+Date: Wed Feb 05 07:35:10 WET 2025
+Text: 
+URL: https://fixupx.com/robinmonotti/status/1887024680676012088
+Permalink: /r/btc/comments/1ii4u36/tether_is_cbdc_its_just_not_issued_by_a_central/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: 🟠 Never-before-seen video of Hal Finney, revealing his diagnosis with ALS, exactly 15 years ago. Absolutely heartbreaking 💔
+Date: Wed Feb 05 06:49:08 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=zibr0LXsSl4&amp;si=GD-uRx14ZQoIXDlL
+Permalink: /r/btc/comments/1ii478r/new_neverbeforeseen_video_of_hal_finney_revealing/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: ToohotmaGandhi
+Title: Would you buy runes/meme coins on BTC if the fees weren't so bad?
+Date: Wed Feb 05 03:40:05 WET 2025
+Text: Odin.fun seems to have completely solved the speed and fee issue. Check it out. 
+URL: https://www.reddit.com/r/btc/comments/1ii11x7/would_you_buy_runesmeme_coins_on_btc_if_the_fees/
+Permalink: /r/btc/comments/1ii11x7/would_you_buy_runesmeme_coins_on_btc_if_the_fees/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: FinanceSpecialistt
+Title: Real live sell execution bitcoin :D
+Date: Wed Feb 05 00:21:05 WET 2025
+Text: 
+URL: https://v.redd.it/48rvz3zqr7he1
+Permalink: /r/btc/comments/1ihwzx9/real_live_sell_execution_bitcoin_d/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: engineer18241
+Title: What Is a DEX and How To Use It?
+Date: Wed Feb 05 23:03:48 WET 2025
+Text: If you’ve been around crypto long enough, you’ve probably heard the term **DEX** thrown around.
+
+And no, it’s not some underground hacker group or a new brand of protein powder.
+
+**DEX** stands for **Decentralized Exchange**—a magical place where you can trade crypto without the need for a middleman.
+
+No banks, no brokers, no one breathing down your neck asking for your ID. Just you, your crypto, and a smart contract making the magic happen.
+
+Sounds cool, right? It is.
+
+But like all things in crypto, it comes with its own set of perks and pitfalls. Let’s dive in.
+
+# What is a DEX?
+
+A **Decentralized Exchange** is a trading platform that operates without a central authority. Unlike traditional exchanges (**CEXs**) like Binance or Coinbase, which hold your funds and require you to trust them, a **DEX lets you trade directly from your wallet**.
+
+Think of it like this:  
+🔹 **CEX** = Using a bank to exchange money → Centralized, requires trust.  
+🔹 **DEX** = Trading cash directly with a friend → No middleman, just you and the blockchain.
+
+DEXs are built on **smart contracts**, meaning trades are executed automatically based on predefined rules. No humans, no delays, just pure crypto freedom.
+
+# How Does a DEX Work? (Liquidity Pools &amp; AMMs Explained)
+
+Unlike centralized exchanges, which use traditional order books (buyers and sellers placing bids and offers), most DEXs operate using **Automated Market Makers (AMMs)**.
+
+Instead of matching buyers and sellers directly, AMMs use **liquidity pools**—a pool of tokens that users provide to facilitate trading.
+
+# What is a Liquidity Pool?
+
+For this explanation, let’s assume that 1 ETH is worth 1 USDC (even though, in reality, their values fluctuate).
+
+Now, let’s say you have 1 USDC and want to swap it for 1 ETH on a decentralized exchange (DEX). For this to happen, the DEX needs a **liquidity pool** for this trading pair.
+
+A liquidity pool is like a shared reservoir of crypto tokens, funded by liquidity providers. Imagine a pool containing **100 ETH and 100 USDC**. When you swap 1 USDC for ETH, your USDC is added to the pool, and ETH is removed from it.
+
+However, the exchange rate is not fixed. Liquidity pools use an **automated market maker (AMM)** system, meaning the amount you receive depends on the **ratio of tokens in the pool**. Because your trade slightly reduces the ETH supply and increases the USDC supply, the **price of ETH increases slightly** as a result.
+
+After the swap, the pool will have **slightly less than 100 ETH and slightly more than 100 USDC**, instead of a perfect 1:1 change. This happens due to the AMM’s pricing formula, which adjusts based on supply and demand in the pool.
+
+Makes sense? Great! If not, reply to this email, and we’ll be happy to help!
+
+So, in recap:
+
+* When you swap tokens on a DEX, you're trading against this pool rather than another individual.
+* The **price of tokens** in the pool is determined by a mathematical formula (often a constant product formula: **x\*y=k**), adjusting based on supply and demand.
+* In return for providing liquidity, users earn a **portion of the trading fees** collected by the DEX.
+
+# What to Watch Out for (Because DEXs Can Be Wild)
+
+# 1️⃣ Your Funds Need to Be on the Correct Network
+
+Not all tokens are available on every blockchain.
+
+Some projects only trade on specific networks, like **ETH on Base** or **SOL on Solana**. If you try to buy a token on the wrong network, your transaction **won’t go through**.
+
+✔️ **Before swapping, check which network the token is on.**  
+✔️ **Make sure your funds are on that network**—for example, if you're trading on Uniswap (Ethereum), your funds need to be on **Ethereum Mainnet**, not BSC or Arbitrum.  
+✔️ If you need to switch networks, use a **bridge** (e.g., Across, Stargate, or the official bridge for that blockchain).
+
+💡 **Pro Tip to Save on Fees When Switching Networks:** Instead of using expensive bridges, you can deposit your funds into a centralized exchange like **Binance or Coinbase**, and then withdraw them directly back to your wallet on the correct network. This can be significantly cheaper than using a blockchain bridge.
+
+# 2️⃣ Gas Fees Can Be Brutal
+
+Ethereum gas fees can be **insanely high**, especially when the network is congested. If you’re trading on **Ethereum mainnet**, be prepared for fees that could be more than the trade itself.
+
+✔️ **Try Layer 2s like Arbitrum, Optimism, or Base** to save on fees.  
+✔️ **Trade during off-peak hours** when gas fees are lower.
+
+But, if, for some reason, the token that you want to buy is only available on the Ethereum mainnet, you won’t have any other choice but to do the swap on it, resulting in very high gas fees.
+
+# 3️⃣ Rug Pulls &amp; Scams
+
+Since **anyone** can list a token on a DEX, it’s a breeding ground for scams. Some shady projects launch a token, pump it, and then **pull the liquidity**, leaving buyers with worthless coins.
+
+✔️ **Check liquidity levels** – Low liquidity = high risk.  
+✔️ **Look for token audits** – If a project has been audited, it’s a safer bet (but not a guarantee).  
+✔️ **Check community activity** – If it looks dead or fake, it probably is.
+
+# 4️⃣ Impermanent Loss (For Liquidity Providers)
+
+If you’re providing liquidity in a DEX pool, **impermanent loss** can eat away at your profits. This happens when token prices fluctuate, causing you to end up with less value than you initially deposited.
+
+✔️ **Understand the risks before providing liquidity.**  
+✔️ **Use impermanent loss calculators** to estimate potential losses.
+
+# 5️⃣ Front-Running Bots
+
+Some bots scan pending transactions and place trades before yours, manipulating the price and increasing slippage.
+
+✔️ **Use private transactions** via Flashbots to prevent this.  
+✔️ **Increase gas fees slightly** to speed up your transaction.
+
+# How to Use a DEX (Without Screwing Up)
+
+Using a DEX is pretty straightforward, but let’s make sure you don’t accidentally send your entire portfolio into the void. Here’s a step-by-step guide:
+
+1️⃣ **Get a Web3 Wallet** – You’ll need a crypto wallet like **MetaMask, Trust Wallet, or Coinbase Wallet**. (This also depends on the token you want to swap and which wallet supports it)
+
+2️⃣ **Fund Your Wallet in the Correct Network** – If you’re using Uniswap, make sure your **funds are on Ethereum**. If you’re using PancakeSwap, they need to be on **Binance Smart Chain**.
+
+3️⃣ **Choose a DEX** – Popular options include:
+
+* **Uniswap** (Ethereum &amp; Layer 2s)
+* **PancakeSwap** (Binance Smart Chain)
+* **Trader Joe** (Avalanche)
+* **Jupiter** (Solana)
+* **dYdX** (for advanced trading)
+
+4️⃣ **Connect Your Wallet** – Go to the DEX’s website and click **“Connect Wallet”**. Your wallet will ask for permission—approve it.
+
+5️⃣ **Pick a Trading Pair** – Select the correct network and tokens you want to swap (e.g., ETH for USDC).
+
+6️⃣ **Check the Network &amp; Token Details** –
+
+* Make sure **you’re on the correct blockchain**.
+* Double-check the **token contract address** to avoid scam tokens. (One of our team members bought fake $MELANIA, and let’s just say that he almost changed his meals from pasta to instant noodles)
+
+7️⃣ **Set Slippage** – If your trade keeps failing, increase **slippage tolerance** slightly (usually 1-2%). Be careful—higher slippage can lead to worse prices.
+
+8️⃣ **Confirm and Trade** –
+
+* Double-check all details.
+* Hit **“Swap”**, approve the transaction in your wallet, and wait for the blockchain to do its thing.
+
+9️⃣ **Check Your Wallet** – Your new tokens should appear shortly. If not, try adding the token’s contract address manually.
+
+# Why Use a DEX Instead of a CEX?
+
+✅ **No KYC (Know Your Customer)** – Trade without submitting your passport or ID.  
+✅ **Full Control** – Your funds stay in your wallet. No exchange can freeze or seize them.  
+✅ **More Trading Pairs** – You can trade **new and experimental tokens** before they hit major exchanges. (That is were all the 16 year old driving around in their new Ferrari made 1000x)
+
+We really hope this article helped you understand the DEX better, and we hope it will serve you well!
+
+If you want to receive daily crypto news, updates, and educational content like that, subscribe to my FREE newsletter, Coinscript: [https://www.thecoinscript.com/subscribe](https://www.thecoinscript.com/subscribe)
+URL: https://www.reddit.com/r/btc/comments/1iinol2/what_is_a_dex_and_how_to_use_it/
+Permalink: /r/btc/comments/1iinol2/what_is_a_dex_and_how_to_use_it/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Flygate
+Title: Kraken may know Satoshi’s identity
+Date: Wed Feb 05 22:05:24 WET 2025
+Text: 
+URL: https://www.coinim.net/kraken-may-know-satoshis-identity/
+Permalink: /r/btc/comments/1iimatj/kraken_may_know_satoshis_identity/
+Number of Comments: 29
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: MercedesFanForever
+Title: Where you spend your Bitcoin?
+Date: Wed Feb 05 20:06:10 WET 2025
+Text: Hey folks, I’ve been thinking about how bitcoin is slowly becoming more practical for everyday use. I’ve used it for some casual things here like paying for my vpn subscription and buying a couple of items from newegg. I'm thinking, does anyone use it only for online shopping or travel bookings? I’ve heard some people use it for gaming credits or [security services](https://coingate.com/blog/post/who-accepts-bitcoin-companies-that-accept-btc) too. So what services are you buying with btc? 
+URL: https://www.reddit.com/r/btc/comments/1iijejb/where_you_spend_your_bitcoin/
+Permalink: /r/btc/comments/1iijejb/where_you_spend_your_bitcoin/
+Number of Comments: 23
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: SEC LAUNCHES ITS CRYPTO TASK FORCE WEBSITE.
+Date: Wed Feb 05 18:31:46 WET 2025
+Text: 
+URL: https://i.redd.it/dyzhoezm3dhe1.png
+Permalink: /r/btc/comments/1iih1oe/sec_launches_its_crypto_task_force_website/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Correct-Potential-15
+Title: Trump | Promising A Pump
+Date: Wed Feb 05 16:43:26 WET 2025
+Text: ***Do to my last meme I'm putting this here. I do NOT wanna see anything like "Look at nov 4th", "Crypto is up since nov 4th", "Bitcoin use to be 67k", ect. this is a MEME not a serious thing .***
+
+[Trump Promising A Pump](https://preview.redd.it/gpsc3na6nche1.png?width=754&amp;format=png&amp;auto=webp&amp;s=94f9211014ea169b1389afe0341682f0b513ebf1)
+
+
+URL: https://www.reddit.com/r/btc/comments/1iiedlu/trump_promising_a_pump/
+Permalink: /r/btc/comments/1iiedlu/trump_promising_a_pump/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Satoshi Nakamoto's Enormous $108 Billion Bitcoin Fortune Revealed
+Date: Wed Feb 05 15:04:27 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/satoshi-nakamotos-enormous-108-billion-bitcoin-fortune-revealed/
+Permalink: /r/btc/comments/1iibzz3/satoshi_nakamotos_enormous_108_billion_bitcoin/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2q_x
+Title: Caveat Emptor (Buyer Beware): 14A§4 of the US Constitution dictates the legality and value of US debts in the event of an auto-coup or insurrection. Any asset backed by the debts of the United States has exposure to this legal and market risk.
+Date: Wed Feb 05 14:22:07 WET 2025
+Text: 
+URL: https://i.redd.it/ri0z6bj3wbhe1.png
+Permalink: /r/btc/comments/1iib154/caveat_emptor_buyer_beware_14a4_of_the_us/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: No Hay Almuerzo Gratis! But Thanks to Majamalu, BCH Education is Free!
+Date: Wed Feb 05 13:57:24 WET 2025
+Text: Time to put in spotlight people who actually make the BCH machine work and reach more places in earth with actual actions, such as educate, onboard people and merchants, also built tools in foreign languages such as Majamalu and few people do in Argentina, enjoy. 
+URL: https://read.cash/@alberdioni8406/no-hay-almuerzo-gratis-but-thanks-to-majamalu-bch-education-is-free-a5a3703a
+Permalink: /r/btc/comments/1iiahbo/no_hay_almuerzo_gratis_but_thanks_to_majamalu_bch/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Jem_colley
+Title: Bitcoin entering 2025 smh
+Date: Wed Feb 05 13:09:23 WET 2025
+Text: 
+URL: https://v.redd.it/zb7cpvpfkbhe1
+Permalink: /r/btc/comments/1ii9k8y/bitcoin_entering_2025_smh/
+Number of Comments: 39
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: nddjjsdj
+Title: New to btc
+Date: Wed Feb 05 13:04:47 WET 2025
+Text: Hey all! New to btc and all .. any recommendations on how we can actually learn on how to trade ? Instead of just moving like headless chickens ? 
+Thanks 
+URL: https://www.reddit.com/r/btc/comments/1ii9h9l/new_to_btc/
+Permalink: /r/btc/comments/1ii9h9l/new_to_btc/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Crypto_Mining_
+Title: How Blockchain Technology Is Killing Banks - Jennifer Johnson @Davos
+Date: Wed Feb 05 11:02:47 WET 2025
+Text: 
+URL: https://youtube.com/shorts/Whxca1q5OPI?si=ZRIStVAmnwyy3j1G
+Permalink: /r/btc/comments/1ii7k0k/how_blockchain_technology_is_killing_banks/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Bagatell_
+Title: Tether Is CBDC, It's Just Not Issued By A Central Bank.
+Date: Wed Feb 05 07:35:10 WET 2025
+Text: 
+URL: https://fixupx.com/robinmonotti/status/1887024680676012088
+Permalink: /r/btc/comments/1ii4u36/tether_is_cbdc_its_just_not_issued_by_a_central/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: 🟠 Never-before-seen video of Hal Finney, revealing his diagnosis with ALS, exactly 15 years ago. Absolutely heartbreaking 💔
+Date: Wed Feb 05 06:49:08 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=zibr0LXsSl4&amp;si=GD-uRx14ZQoIXDlL
+Permalink: /r/btc/comments/1ii478r/new_neverbeforeseen_video_of_hal_finney_revealing/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: ToohotmaGandhi
+Title: Would you buy runes/meme coins on BTC if the fees weren't so bad?
+Date: Wed Feb 05 03:40:05 WET 2025
+Text: Odin.fun seems to have completely solved the speed and fee issue. Check it out. 
+URL: https://www.reddit.com/r/btc/comments/1ii11x7/would_you_buy_runesmeme_coins_on_btc_if_the_fees/
+Permalink: /r/btc/comments/1ii11x7/would_you_buy_runesmeme_coins_on_btc_if_the_fees/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: FinanceSpecialistt
+Title: Real live sell execution bitcoin :D
+Date: Wed Feb 05 00:21:05 WET 2025
+Text: 
+URL: https://v.redd.it/48rvz3zqr7he1
+Permalink: /r/btc/comments/1ihwzx9/real_live_sell_execution_bitcoin_d/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: engineer18241
+Title: What Is a DEX and How To Use It?
+Date: Wed Feb 05 23:03:48 WET 2025
+Text: If you’ve been around crypto long enough, you’ve probably heard the term **DEX** thrown around.
+
+And no, it’s not some underground hacker group or a new brand of protein powder.
+
+**DEX** stands for **Decentralized Exchange**—a magical place where you can trade crypto without the need for a middleman.
+
+No banks, no brokers, no one breathing down your neck asking for your ID. Just you, your crypto, and a smart contract making the magic happen.
+
+Sounds cool, right? It is.
+
+But like all things in crypto, it comes with its own set of perks and pitfalls. Let’s dive in.
+
+# What is a DEX?
+
+A **Decentralized Exchange** is a trading platform that operates without a central authority. Unlike traditional exchanges (**CEXs**) like Binance or Coinbase, which hold your funds and require you to trust them, a **DEX lets you trade directly from your wallet**.
+
+Think of it like this:  
+🔹 **CEX** = Using a bank to exchange money → Centralized, requires trust.  
+🔹 **DEX** = Trading cash directly with a friend → No middleman, just you and the blockchain.
+
+DEXs are built on **smart contracts**, meaning trades are executed automatically based on predefined rules. No humans, no delays, just pure crypto freedom.
+
+# How Does a DEX Work? (Liquidity Pools &amp; AMMs Explained)
+
+Unlike centralized exchanges, which use traditional order books (buyers and sellers placing bids and offers), most DEXs operate using **Automated Market Makers (AMMs)**.
+
+Instead of matching buyers and sellers directly, AMMs use **liquidity pools**—a pool of tokens that users provide to facilitate trading.
+
+# What is a Liquidity Pool?
+
+For this explanation, let’s assume that 1 ETH is worth 1 USDC (even though, in reality, their values fluctuate).
+
+Now, let’s say you have 1 USDC and want to swap it for 1 ETH on a decentralized exchange (DEX). For this to happen, the DEX needs a **liquidity pool** for this trading pair.
+
+A liquidity pool is like a shared reservoir of crypto tokens, funded by liquidity providers. Imagine a pool containing **100 ETH and 100 USDC**. When you swap 1 USDC for ETH, your USDC is added to the pool, and ETH is removed from it.
+
+However, the exchange rate is not fixed. Liquidity pools use an **automated market maker (AMM)** system, meaning the amount you receive depends on the **ratio of tokens in the pool**. Because your trade slightly reduces the ETH supply and increases the USDC supply, the **price of ETH increases slightly** as a result.
+
+After the swap, the pool will have **slightly less than 100 ETH and slightly more than 100 USDC**, instead of a perfect 1:1 change. This happens due to the AMM’s pricing formula, which adjusts based on supply and demand in the pool.
+
+Makes sense? Great! If not, reply to this email, and we’ll be happy to help!
+
+So, in recap:
+
+* When you swap tokens on a DEX, you're trading against this pool rather than another individual.
+* The **price of tokens** in the pool is determined by a mathematical formula (often a constant product formula: **x\*y=k**), adjusting based on supply and demand.
+* In return for providing liquidity, users earn a **portion of the trading fees** collected by the DEX.
+
+# What to Watch Out for (Because DEXs Can Be Wild)
+
+# 1️⃣ Your Funds Need to Be on the Correct Network
+
+Not all tokens are available on every blockchain.
+
+Some projects only trade on specific networks, like **ETH on Base** or **SOL on Solana**. If you try to buy a token on the wrong network, your transaction **won’t go through**.
+
+✔️ **Before swapping, check which network the token is on.**  
+✔️ **Make sure your funds are on that network**—for example, if you're trading on Uniswap (Ethereum), your funds need to be on **Ethereum Mainnet**, not BSC or Arbitrum.  
+✔️ If you need to switch networks, use a **bridge** (e.g., Across, Stargate, or the official bridge for that blockchain).
+
+💡 **Pro Tip to Save on Fees When Switching Networks:** Instead of using expensive bridges, you can deposit your funds into a centralized exchange like **Binance or Coinbase**, and then withdraw them directly back to your wallet on the correct network. This can be significantly cheaper than using a blockchain bridge.
+
+# 2️⃣ Gas Fees Can Be Brutal
+
+Ethereum gas fees can be **insanely high**, especially when the network is congested. If you’re trading on **Ethereum mainnet**, be prepared for fees that could be more than the trade itself.
+
+✔️ **Try Layer 2s like Arbitrum, Optimism, or Base** to save on fees.  
+✔️ **Trade during off-peak hours** when gas fees are lower.
+
+But, if, for some reason, the token that you want to buy is only available on the Ethereum mainnet, you won’t have any other choice but to do the swap on it, resulting in very high gas fees.
+
+# 3️⃣ Rug Pulls &amp; Scams
+
+Since **anyone** can list a token on a DEX, it’s a breeding ground for scams. Some shady projects launch a token, pump it, and then **pull the liquidity**, leaving buyers with worthless coins.
+
+✔️ **Check liquidity levels** – Low liquidity = high risk.  
+✔️ **Look for token audits** – If a project has been audited, it’s a safer bet (but not a guarantee).  
+✔️ **Check community activity** – If it looks dead or fake, it probably is.
+
+# 4️⃣ Impermanent Loss (For Liquidity Providers)
+
+If you’re providing liquidity in a DEX pool, **impermanent loss** can eat away at your profits. This happens when token prices fluctuate, causing you to end up with less value than you initially deposited.
+
+✔️ **Understand the risks before providing liquidity.**  
+✔️ **Use impermanent loss calculators** to estimate potential losses.
+
+# 5️⃣ Front-Running Bots
+
+Some bots scan pending transactions and place trades before yours, manipulating the price and increasing slippage.
+
+✔️ **Use private transactions** via Flashbots to prevent this.  
+✔️ **Increase gas fees slightly** to speed up your transaction.
+
+# How to Use a DEX (Without Screwing Up)
+
+Using a DEX is pretty straightforward, but let’s make sure you don’t accidentally send your entire portfolio into the void. Here’s a step-by-step guide:
+
+1️⃣ **Get a Web3 Wallet** – You’ll need a crypto wallet like **MetaMask, Trust Wallet, or Coinbase Wallet**. (This also depends on the token you want to swap and which wallet supports it)
+
+2️⃣ **Fund Your Wallet in the Correct Network** – If you’re using Uniswap, make sure your **funds are on Ethereum**. If you’re using PancakeSwap, they need to be on **Binance Smart Chain**.
+
+3️⃣ **Choose a DEX** – Popular options include:
+
+* **Uniswap** (Ethereum &amp; Layer 2s)
+* **PancakeSwap** (Binance Smart Chain)
+* **Trader Joe** (Avalanche)
+* **Jupiter** (Solana)
+* **dYdX** (for advanced trading)
+
+4️⃣ **Connect Your Wallet** – Go to the DEX’s website and click **“Connect Wallet”**. Your wallet will ask for permission—approve it.
+
+5️⃣ **Pick a Trading Pair** – Select the correct network and tokens you want to swap (e.g., ETH for USDC).
+
+6️⃣ **Check the Network &amp; Token Details** –
+
+* Make sure **you’re on the correct blockchain**.
+* Double-check the **token contract address** to avoid scam tokens. (One of our team members bought fake $MELANIA, and let’s just say that he almost changed his meals from pasta to instant noodles)
+
+7️⃣ **Set Slippage** – If your trade keeps failing, increase **slippage tolerance** slightly (usually 1-2%). Be careful—higher slippage can lead to worse prices.
+
+8️⃣ **Confirm and Trade** –
+
+* Double-check all details.
+* Hit **“Swap”**, approve the transaction in your wallet, and wait for the blockchain to do its thing.
+
+9️⃣ **Check Your Wallet** – Your new tokens should appear shortly. If not, try adding the token’s contract address manually.
+
+# Why Use a DEX Instead of a CEX?
+
+✅ **No KYC (Know Your Customer)** – Trade without submitting your passport or ID.  
+✅ **Full Control** – Your funds stay in your wallet. No exchange can freeze or seize them.  
+✅ **More Trading Pairs** – You can trade **new and experimental tokens** before they hit major exchanges. (That is were all the 16 year old driving around in their new Ferrari made 1000x)
+
+We really hope this article helped you understand the DEX better, and we hope it will serve you well!
+
+If you want to receive daily crypto news, updates, and educational content like that, subscribe to my FREE newsletter, Coinscript: [https://www.thecoinscript.com/subscribe](https://www.thecoinscript.com/subscribe)
+URL: https://www.reddit.com/r/btc/comments/1iinol2/what_is_a_dex_and_how_to_use_it/
+Permalink: /r/btc/comments/1iinol2/what_is_a_dex_and_how_to_use_it/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Flygate
+Title: Kraken may know Satoshi’s identity
+Date: Wed Feb 05 22:05:24 WET 2025
+Text: 
+URL: https://www.coinim.net/kraken-may-know-satoshis-identity/
+Permalink: /r/btc/comments/1iimatj/kraken_may_know_satoshis_identity/
+Number of Comments: 29
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: MercedesFanForever
+Title: Where you spend your Bitcoin?
+Date: Wed Feb 05 20:06:10 WET 2025
+Text: Hey folks, I’ve been thinking about how bitcoin is slowly becoming more practical for everyday use. I’ve used it for some casual things here like paying for my vpn subscription and buying a couple of items from newegg. I'm thinking, does anyone use it only for online shopping or travel bookings? I’ve heard some people use it for gaming credits or [security services](https://coingate.com/blog/post/who-accepts-bitcoin-companies-that-accept-btc) too. So what services are you buying with btc? 
+URL: https://www.reddit.com/r/btc/comments/1iijejb/where_you_spend_your_bitcoin/
+Permalink: /r/btc/comments/1iijejb/where_you_spend_your_bitcoin/
+Number of Comments: 23
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: SEC LAUNCHES ITS CRYPTO TASK FORCE WEBSITE.
+Date: Wed Feb 05 18:31:46 WET 2025
+Text: 
+URL: https://i.redd.it/dyzhoezm3dhe1.png
+Permalink: /r/btc/comments/1iih1oe/sec_launches_its_crypto_task_force_website/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Correct-Potential-15
+Title: Trump | Promising A Pump
+Date: Wed Feb 05 16:43:26 WET 2025
+Text: ***Do to my last meme I'm putting this here. I do NOT wanna see anything like "Look at nov 4th", "Crypto is up since nov 4th", "Bitcoin use to be 67k", ect. this is a MEME not a serious thing .***
+
+[Trump Promising A Pump](https://preview.redd.it/gpsc3na6nche1.png?width=754&amp;format=png&amp;auto=webp&amp;s=94f9211014ea169b1389afe0341682f0b513ebf1)
+
+
+URL: https://www.reddit.com/r/btc/comments/1iiedlu/trump_promising_a_pump/
+Permalink: /r/btc/comments/1iiedlu/trump_promising_a_pump/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Satoshi Nakamoto's Enormous $108 Billion Bitcoin Fortune Revealed
+Date: Wed Feb 05 15:04:27 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/satoshi-nakamotos-enormous-108-billion-bitcoin-fortune-revealed/
+Permalink: /r/btc/comments/1iibzz3/satoshi_nakamotos_enormous_108_billion_bitcoin/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2q_x
+Title: Caveat Emptor (Buyer Beware): 14A§4 of the US Constitution dictates the legality and value of US debts in the event of an auto-coup or insurrection. Any asset backed by the debts of the United States has exposure to this legal and market risk.
+Date: Wed Feb 05 14:22:07 WET 2025
+Text: 
+URL: https://i.redd.it/ri0z6bj3wbhe1.png
+Permalink: /r/btc/comments/1iib154/caveat_emptor_buyer_beware_14a4_of_the_us/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: No Hay Almuerzo Gratis! But Thanks to Majamalu, BCH Education is Free!
+Date: Wed Feb 05 13:57:24 WET 2025
+Text: Time to put in spotlight people who actually make the BCH machine work and reach more places in earth with actual actions, such as educate, onboard people and merchants, also built tools in foreign languages such as Majamalu and few people do in Argentina, enjoy. 
+URL: https://read.cash/@alberdioni8406/no-hay-almuerzo-gratis-but-thanks-to-majamalu-bch-education-is-free-a5a3703a
+Permalink: /r/btc/comments/1iiahbo/no_hay_almuerzo_gratis_but_thanks_to_majamalu_bch/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Jem_colley
+Title: Bitcoin entering 2025 smh
+Date: Wed Feb 05 13:09:23 WET 2025
+Text: 
+URL: https://v.redd.it/zb7cpvpfkbhe1
+Permalink: /r/btc/comments/1ii9k8y/bitcoin_entering_2025_smh/
+Number of Comments: 39
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: nddjjsdj
+Title: New to btc
+Date: Wed Feb 05 13:04:47 WET 2025
+Text: Hey all! New to btc and all .. any recommendations on how we can actually learn on how to trade ? Instead of just moving like headless chickens ? 
+Thanks 
+URL: https://www.reddit.com/r/btc/comments/1ii9h9l/new_to_btc/
+Permalink: /r/btc/comments/1ii9h9l/new_to_btc/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Crypto_Mining_
+Title: How Blockchain Technology Is Killing Banks - Jennifer Johnson @Davos
+Date: Wed Feb 05 11:02:47 WET 2025
+Text: 
+URL: https://youtube.com/shorts/Whxca1q5OPI?si=ZRIStVAmnwyy3j1G
+Permalink: /r/btc/comments/1ii7k0k/how_blockchain_technology_is_killing_banks/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Bagatell_
+Title: Tether Is CBDC, It's Just Not Issued By A Central Bank.
+Date: Wed Feb 05 07:35:10 WET 2025
+Text: 
+URL: https://fixupx.com/robinmonotti/status/1887024680676012088
+Permalink: /r/btc/comments/1ii4u36/tether_is_cbdc_its_just_not_issued_by_a_central/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: 🟠 Never-before-seen video of Hal Finney, revealing his diagnosis with ALS, exactly 15 years ago. Absolutely heartbreaking 💔
+Date: Wed Feb 05 06:49:08 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=zibr0LXsSl4&amp;si=GD-uRx14ZQoIXDlL
+Permalink: /r/btc/comments/1ii478r/new_neverbeforeseen_video_of_hal_finney_revealing/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: ToohotmaGandhi
+Title: Would you buy runes/meme coins on BTC if the fees weren't so bad?
+Date: Wed Feb 05 03:40:05 WET 2025
+Text: Odin.fun seems to have completely solved the speed and fee issue. Check it out. 
+URL: https://www.reddit.com/r/btc/comments/1ii11x7/would_you_buy_runesmeme_coins_on_btc_if_the_fees/
+Permalink: /r/btc/comments/1ii11x7/would_you_buy_runesmeme_coins_on_btc_if_the_fees/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: FinanceSpecialistt
+Title: Real live sell execution bitcoin :D
+Date: Wed Feb 05 00:21:05 WET 2025
+Text: 
+URL: https://v.redd.it/48rvz3zqr7he1
+Permalink: /r/btc/comments/1ihwzx9/real_live_sell_execution_bitcoin_d/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

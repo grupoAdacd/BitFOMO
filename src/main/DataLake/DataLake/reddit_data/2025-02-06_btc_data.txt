@@ -1,0 +1,668 @@
+Author: Razoumikhine
+Title: Bitcoin is cool, but part of the BTC community make it look like a conspiracy theory
+Date: Thu Feb 06 23:13:16 WET 2025
+Text: English not my first language so sorry for the possible mistakes.
+
+I’ve been very interested in bitcoin lately. I first heard about it 7 or 8 years ago but never bothered to really look into, until a few months ago. Don’t get me wrong I find BTC very appealing and I understand its perks (decentralised, cap on the amount of BTC, etc.). I even bought some (in small amount). But the (a part of the) community around it makes it really unappealing for newcomers. Some posts on this sub (well, rather the other btc sub, but they won’t let me post this) are akin to what you would find on conspiracy theories or cult forum, going like “we’ve been lied to since forever with government-issued fiat money who is now bound to collapse anytime now, hopefully I found the Truth and took the btc red pill and I’m glad to be part of the pioneering elite that discovered the undeniable power of Bitcoin before the ignorant masses that will have no choice but to buy it when btc will be worth 20M$”. Yeah ok settle down, BTC is a great asset but it doesn’t hurt to realise that it is not a flawless godsend gift. This atmosphere just has a scam-like unpleasant smell attached to it, and it can be off-putting for newcomers I think. Again it’s not everyone but a non-negligible share of what I read around here.
+URL: https://www.reddit.com/r/btc/comments/1ijggsl/bitcoin_is_cool_but_part_of_the_btc_community/
+Permalink: /r/btc/comments/1ijggsl/bitcoin_is_cool_but_part_of_the_btc_community/
+Number of Comments: 40
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Active_Act_7370
+Title: I’m a bitcoin beginner. I’ve seen a lot of posts about the Trezor wallet. Which Trezor bitcoin only wallet would you recommend?
+Date: Thu Feb 06 21:20:42 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ijdss6/im_a_bitcoin_beginner_ive_seen_a_lot_of_posts/
+Permalink: /r/btc/comments/1ijdss6/im_a_bitcoin_beginner_ive_seen_a_lot_of_posts/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Own_Manufacturer6959
+Title: ELI5 to cash out a large amount of Bitcoin to a bank
+Date: Thu Feb 06 20:44:19 WET 2025
+Text: I should start by saying I am helping a friend. This is not my Bitcoin, but this person has struggled all their life and 2017 this person won money from an online Casino and they paid them in Bitcoin. Then it sat there the person not knowing what to do with it and now it is worth almost 200K and they desperately need the money due to losing their place to the fires in LA, and I said I would research it and help. Here are the steps I have given them already:
+1) setup a Coinbase account ( higher fees but they seem the most reliable). We only plan to keep it there long enough to sell the Bitcoin and transfer it to the bank. 
+2) Complete the KYR requirements for Coinbase and add a bank account.
+3) Speak to your bank by going in and explaining what is about to happen and what kinds of holds and reporting requirements he will have. 
+4) Expect to have fees along the way and a large tax liability, and that it will be  a process that takes time. 
+
+I am concerned about how to transfer from the Bitcoin wallet to Coinbase and making sure a mistake doesn't happen and the money goes somewhere else. Also did I miss anything in the first steps? Is there any headwinds my friend is going to run into I am not aware of?
+URL: https://www.reddit.com/r/btc/comments/1ijcw7x/eli5_to_cash_out_a_large_amount_of_bitcoin_to_a/
+Permalink: /r/btc/comments/1ijcw7x/eli5_to_cash_out_a_large_amount_of_bitcoin_to_a/
+Number of Comments: 22
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: allexj
+Title: Are there any proposals or research on making bitcoin's PoW useful for real-world computation?
+Date: Thu Feb 06 18:57:55 WET 2025
+Text: Bitcoin’s **proof of work (PoW)** mechanism secures the network by requiring miners to perform massive amounts of computations to find a valid nonce. However, these computations—though essential for Bitcoin’s security—are **purely wasteful in terms of real-world utility**, as they serve no purpose beyond reaching the target hash.
+
+**Are there any proposals, research papers, or experimental ideas** exploring ways to make PoW contribute to **useful computational tasks** while still maintaining Bitcoin’s security?
+
+For example, could mining be designed to also perform:
+
+* **Scientific simulations**
+* **Protein folding** for medical research
+* **AI model training**
+* **Other forms of distributed computing**
+
+If such ideas exist, what are the **technical and economic challenges** preventing their implementation? Would altering PoW in this way compromise Bitcoin’s decentralization or security?
+
+Curious to hear thoughts and any research on this topic!
+URL: https://www.reddit.com/r/btc/comments/1ija9j7/are_there_any_proposals_or_research_on_making/
+Permalink: /r/btc/comments/1ija9j7/are_there_any_proposals_or_research_on_making/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: IndubitablePrognosis
+Title: Trump Media’s Truth.fi files trademark for bitcoin “plus” ETF
+Date: Thu Feb 06 18:54:49 WET 2025
+Text: 
+URL: https://sherwood.news/crypto/trump-medias-truth-fi-files-trademark-for-bitcoin-plus-etf/
+Permalink: /r/btc/comments/1ija6tz/trump_medias_truthfi_files_trademark_for_bitcoin/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: CoinRabbitFinance
+Title: Opinions on borrowing/lending crypto
+Date: Thu Feb 06 16:41:30 WET 2025
+Text: Hi, I'm Emily, CMO at CoinRabbit. We're gathering feedback - positive or negative regarding crypto lending. We'd be really grateful if you could share your experience and opinions.
+
+Thank you all in advance!
+URL: https://www.reddit.com/r/btc/comments/1ij6wbr/opinions_on_borrowinglending_crypto/
+Permalink: /r/btc/comments/1ij6wbr/opinions_on_borrowinglending_crypto/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2q_x
+Title: FDIC Releases Documents Related to Supervision of Crypto-Related Activities
+Date: Thu Feb 06 16:30:13 WET 2025
+Text: 
+URL: https://www.fdic.gov/foia/correspondence-related-crypto-related-activities
+Permalink: /r/btc/comments/1ij6m5w/fdic_releases_documents_related_to_supervision_of/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: GoFundMe’s Got 10% of the World… Flipstarter’s Got ALL of It!
+Date: Thu Feb 06 13:49:50 WET 2025
+Text: Flipstarter is a tool that enable the world to raise funds in BCH and get their business on "feet" that most of the world doesn't know about. In today's article I dive into it and I hope you enjoy all about this amazing Bitcoin Cash powered tool to empower the globe.
+URL: https://read.cash/@alberdioni8406/gofundmes-got-10-of-the-world-flipstarters-got-all-of-it-50217f3e
+Permalink: /r/btc/comments/1ij2ymp/gofundmes_got_10_of_the_world_flipstarters_got/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: BlackRock To Launch European Bitcoin ETPs Within 2025
+Date: Thu Feb 06 13:09:40 WET 2025
+Text: 
+URL: https://allincrypto.com/blackrock-launch-european-bitcoin-etps-within-2025/
+Permalink: /r/btc/comments/1ij259z/blackrock_to_launch_european_bitcoin_etps_within/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: TTV_alko12121212
+Title: Bitcoin mining app I know it's cloud minging but just want y'all's thoughts on the app
+Date: Thu Feb 06 12:00:17 WET 2025
+Text: 
+URL: /r/BitcoinMining/comments/1ij0w3b/bitcoin_mining_app_i_know_its_cloud_minging_but/
+Permalink: /r/btc/comments/1ij0wli/bitcoin_mining_app_i_know_its_cloud_minging_but/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: yosibop
+Title: No sure why this is moderated from r/bitcoin
+Date: Thu Feb 06 10:18:43 WET 2025
+Text: 
+URL: https://i.redd.it/4nu5ojxhvhhe1.jpeg
+Permalink: /r/btc/comments/1iize5n/no_sure_why_this_is_moderated_from_rbitcoin/
+Number of Comments: 45
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: 🇺🇸 President Trump's Crypto Czar David Sacks says Bitcoin is an "excellent store of value." 👀
+Date: Thu Feb 06 08:29:36 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=JtUICnqbwhI&amp;si=It1UJaFNciLjevR2
+Permalink: /r/btc/comments/1iixx8d/new_president_trumps_crypto_czar_david_sacks_says/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Flygate
+Title: El Salvador's Bitcoin Experiment: Success or Failure?
+Date: Thu Feb 06 07:19:33 WET 2025
+Text: 
+URL: https://www.coinim.net/el-salvadors-bitcoin-experiment-success-or-failure/
+Permalink: /r/btc/comments/1iiwzim/el_salvadors_bitcoin_experiment_success_or_failure/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BroadBreakfast7394
+Title: ?
+Date: Thu Feb 06 05:57:25 WET 2025
+Text: https://www.reddit.com/r/WallStreetBetsCrypto/s/h2eBBo4NRD
+URL: https://www.reddit.com/r/btc/comments/1iivrr4/_/
+Permalink: /r/btc/comments/1iivrr4/_/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Historical_Use6152
+Title: Someone made a song for Tom the Bitcoin Kid
+Date: Thu Feb 06 04:00:05 WET 2025
+Text: 
+URL: https://www.youtube.com/shorts/EyL7hREBtvk
+Permalink: /r/btc/comments/1iitqtk/someone_made_a_song_for_tom_the_bitcoin_kid/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Brad Garlinghouse, Brian Armstrong, Jeremy Allaire, and Others Among Top Candidates for Trump’s Crypto Council
+Date: Thu Feb 06 01:40:28 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/brad-garlinghouse-brian-armstrong-jeremy-allaire-and-others-among-top-candidates-for-trumps-crypto-council/
+Permalink: /r/btc/comments/1iir1eh/brad_garlinghouse_brian_armstrong_jeremy_allaire/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Razoumikhine
+Title: Bitcoin is cool, but part of the BTC community make it look like a conspiracy theory
+Date: Thu Feb 06 23:13:16 WET 2025
+Text: English not my first language so sorry for the possible mistakes.
+
+I’ve been very interested in bitcoin lately. I first heard about it 7 or 8 years ago but never bothered to really look into, until a few months ago. Don’t get me wrong I find BTC very appealing and I understand its perks (decentralised, cap on the amount of BTC, etc.). I even bought some (in small amount). But the (a part of the) community around it makes it really unappealing for newcomers. Some posts on this sub (well, rather the other btc sub, but they won’t let me post this) are akin to what you would find on conspiracy theories or cult forum, going like “we’ve been lied to since forever with government-issued fiat money who is now bound to collapse anytime now, hopefully I found the Truth and took the btc red pill and I’m glad to be part of the pioneering elite that discovered the undeniable power of Bitcoin before the ignorant masses that will have no choice but to buy it when btc will be worth 20M$”. Yeah ok settle down, BTC is a great asset but it doesn’t hurt to realise that it is not a flawless godsend gift. This atmosphere just has a scam-like unpleasant smell attached to it, and it can be off-putting for newcomers I think. Again it’s not everyone but a non-negligible share of what I read around here.
+URL: https://www.reddit.com/r/btc/comments/1ijggsl/bitcoin_is_cool_but_part_of_the_btc_community/
+Permalink: /r/btc/comments/1ijggsl/bitcoin_is_cool_but_part_of_the_btc_community/
+Number of Comments: 40
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Active_Act_7370
+Title: I’m a bitcoin beginner. I’ve seen a lot of posts about the Trezor wallet. Which Trezor bitcoin only wallet would you recommend?
+Date: Thu Feb 06 21:20:42 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ijdss6/im_a_bitcoin_beginner_ive_seen_a_lot_of_posts/
+Permalink: /r/btc/comments/1ijdss6/im_a_bitcoin_beginner_ive_seen_a_lot_of_posts/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Own_Manufacturer6959
+Title: ELI5 to cash out a large amount of Bitcoin to a bank
+Date: Thu Feb 06 20:44:19 WET 2025
+Text: I should start by saying I am helping a friend. This is not my Bitcoin, but this person has struggled all their life and 2017 this person won money from an online Casino and they paid them in Bitcoin. Then it sat there the person not knowing what to do with it and now it is worth almost 200K and they desperately need the money due to losing their place to the fires in LA, and I said I would research it and help. Here are the steps I have given them already:
+1) setup a Coinbase account ( higher fees but they seem the most reliable). We only plan to keep it there long enough to sell the Bitcoin and transfer it to the bank. 
+2) Complete the KYR requirements for Coinbase and add a bank account.
+3) Speak to your bank by going in and explaining what is about to happen and what kinds of holds and reporting requirements he will have. 
+4) Expect to have fees along the way and a large tax liability, and that it will be  a process that takes time. 
+
+I am concerned about how to transfer from the Bitcoin wallet to Coinbase and making sure a mistake doesn't happen and the money goes somewhere else. Also did I miss anything in the first steps? Is there any headwinds my friend is going to run into I am not aware of?
+URL: https://www.reddit.com/r/btc/comments/1ijcw7x/eli5_to_cash_out_a_large_amount_of_bitcoin_to_a/
+Permalink: /r/btc/comments/1ijcw7x/eli5_to_cash_out_a_large_amount_of_bitcoin_to_a/
+Number of Comments: 22
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: allexj
+Title: Are there any proposals or research on making bitcoin's PoW useful for real-world computation?
+Date: Thu Feb 06 18:57:55 WET 2025
+Text: Bitcoin’s **proof of work (PoW)** mechanism secures the network by requiring miners to perform massive amounts of computations to find a valid nonce. However, these computations—though essential for Bitcoin’s security—are **purely wasteful in terms of real-world utility**, as they serve no purpose beyond reaching the target hash.
+
+**Are there any proposals, research papers, or experimental ideas** exploring ways to make PoW contribute to **useful computational tasks** while still maintaining Bitcoin’s security?
+
+For example, could mining be designed to also perform:
+
+* **Scientific simulations**
+* **Protein folding** for medical research
+* **AI model training**
+* **Other forms of distributed computing**
+
+If such ideas exist, what are the **technical and economic challenges** preventing their implementation? Would altering PoW in this way compromise Bitcoin’s decentralization or security?
+
+Curious to hear thoughts and any research on this topic!
+URL: https://www.reddit.com/r/btc/comments/1ija9j7/are_there_any_proposals_or_research_on_making/
+Permalink: /r/btc/comments/1ija9j7/are_there_any_proposals_or_research_on_making/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: IndubitablePrognosis
+Title: Trump Media’s Truth.fi files trademark for bitcoin “plus” ETF
+Date: Thu Feb 06 18:54:49 WET 2025
+Text: 
+URL: https://sherwood.news/crypto/trump-medias-truth-fi-files-trademark-for-bitcoin-plus-etf/
+Permalink: /r/btc/comments/1ija6tz/trump_medias_truthfi_files_trademark_for_bitcoin/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: CoinRabbitFinance
+Title: Opinions on borrowing/lending crypto
+Date: Thu Feb 06 16:41:30 WET 2025
+Text: Hi, I'm Emily, CMO at CoinRabbit. We're gathering feedback - positive or negative regarding crypto lending. We'd be really grateful if you could share your experience and opinions.
+
+Thank you all in advance!
+URL: https://www.reddit.com/r/btc/comments/1ij6wbr/opinions_on_borrowinglending_crypto/
+Permalink: /r/btc/comments/1ij6wbr/opinions_on_borrowinglending_crypto/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2q_x
+Title: FDIC Releases Documents Related to Supervision of Crypto-Related Activities
+Date: Thu Feb 06 16:30:13 WET 2025
+Text: 
+URL: https://www.fdic.gov/foia/correspondence-related-crypto-related-activities
+Permalink: /r/btc/comments/1ij6m5w/fdic_releases_documents_related_to_supervision_of/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: GoFundMe’s Got 10% of the World… Flipstarter’s Got ALL of It!
+Date: Thu Feb 06 13:49:50 WET 2025
+Text: Flipstarter is a tool that enable the world to raise funds in BCH and get their business on "feet" that most of the world doesn't know about. In today's article I dive into it and I hope you enjoy all about this amazing Bitcoin Cash powered tool to empower the globe.
+URL: https://read.cash/@alberdioni8406/gofundmes-got-10-of-the-world-flipstarters-got-all-of-it-50217f3e
+Permalink: /r/btc/comments/1ij2ymp/gofundmes_got_10_of_the_world_flipstarters_got/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: BlackRock To Launch European Bitcoin ETPs Within 2025
+Date: Thu Feb 06 13:09:40 WET 2025
+Text: 
+URL: https://allincrypto.com/blackrock-launch-european-bitcoin-etps-within-2025/
+Permalink: /r/btc/comments/1ij259z/blackrock_to_launch_european_bitcoin_etps_within/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: TTV_alko12121212
+Title: Bitcoin mining app I know it's cloud minging but just want y'all's thoughts on the app
+Date: Thu Feb 06 12:00:17 WET 2025
+Text: 
+URL: /r/BitcoinMining/comments/1ij0w3b/bitcoin_mining_app_i_know_its_cloud_minging_but/
+Permalink: /r/btc/comments/1ij0wli/bitcoin_mining_app_i_know_its_cloud_minging_but/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: yosibop
+Title: No sure why this is moderated from r/bitcoin
+Date: Thu Feb 06 10:18:43 WET 2025
+Text: 
+URL: https://i.redd.it/4nu5ojxhvhhe1.jpeg
+Permalink: /r/btc/comments/1iize5n/no_sure_why_this_is_moderated_from_rbitcoin/
+Number of Comments: 45
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: 🇺🇸 President Trump's Crypto Czar David Sacks says Bitcoin is an "excellent store of value." 👀
+Date: Thu Feb 06 08:29:36 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=JtUICnqbwhI&amp;si=It1UJaFNciLjevR2
+Permalink: /r/btc/comments/1iixx8d/new_president_trumps_crypto_czar_david_sacks_says/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Flygate
+Title: El Salvador's Bitcoin Experiment: Success or Failure?
+Date: Thu Feb 06 07:19:33 WET 2025
+Text: 
+URL: https://www.coinim.net/el-salvadors-bitcoin-experiment-success-or-failure/
+Permalink: /r/btc/comments/1iiwzim/el_salvadors_bitcoin_experiment_success_or_failure/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BroadBreakfast7394
+Title: ?
+Date: Thu Feb 06 05:57:25 WET 2025
+Text: https://www.reddit.com/r/WallStreetBetsCrypto/s/h2eBBo4NRD
+URL: https://www.reddit.com/r/btc/comments/1iivrr4/_/
+Permalink: /r/btc/comments/1iivrr4/_/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Historical_Use6152
+Title: Someone made a song for Tom the Bitcoin Kid
+Date: Thu Feb 06 04:00:05 WET 2025
+Text: 
+URL: https://www.youtube.com/shorts/EyL7hREBtvk
+Permalink: /r/btc/comments/1iitqtk/someone_made_a_song_for_tom_the_bitcoin_kid/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Brad Garlinghouse, Brian Armstrong, Jeremy Allaire, and Others Among Top Candidates for Trump’s Crypto Council
+Date: Thu Feb 06 01:40:28 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/brad-garlinghouse-brian-armstrong-jeremy-allaire-and-others-among-top-candidates-for-trumps-crypto-council/
+Permalink: /r/btc/comments/1iir1eh/brad_garlinghouse_brian_armstrong_jeremy_allaire/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Razoumikhine
+Title: Bitcoin is cool, but part of the BTC community make it look like a conspiracy theory
+Date: Thu Feb 06 23:13:16 WET 2025
+Text: English not my first language so sorry for the possible mistakes.
+
+I’ve been very interested in bitcoin lately. I first heard about it 7 or 8 years ago but never bothered to really look into, until a few months ago. Don’t get me wrong I find BTC very appealing and I understand its perks (decentralised, cap on the amount of BTC, etc.). I even bought some (in small amount). But the (a part of the) community around it makes it really unappealing for newcomers. Some posts on this sub (well, rather the other btc sub, but they won’t let me post this) are akin to what you would find on conspiracy theories or cult forum, going like “we’ve been lied to since forever with government-issued fiat money who is now bound to collapse anytime now, hopefully I found the Truth and took the btc red pill and I’m glad to be part of the pioneering elite that discovered the undeniable power of Bitcoin before the ignorant masses that will have no choice but to buy it when btc will be worth 20M$”. Yeah ok settle down, BTC is a great asset but it doesn’t hurt to realise that it is not a flawless godsend gift. This atmosphere just has a scam-like unpleasant smell attached to it, and it can be off-putting for newcomers I think. Again it’s not everyone but a non-negligible share of what I read around here.
+URL: https://www.reddit.com/r/btc/comments/1ijggsl/bitcoin_is_cool_but_part_of_the_btc_community/
+Permalink: /r/btc/comments/1ijggsl/bitcoin_is_cool_but_part_of_the_btc_community/
+Number of Comments: 40
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Active_Act_7370
+Title: I’m a bitcoin beginner. I’ve seen a lot of posts about the Trezor wallet. Which Trezor bitcoin only wallet would you recommend?
+Date: Thu Feb 06 21:20:42 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ijdss6/im_a_bitcoin_beginner_ive_seen_a_lot_of_posts/
+Permalink: /r/btc/comments/1ijdss6/im_a_bitcoin_beginner_ive_seen_a_lot_of_posts/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Own_Manufacturer6959
+Title: ELI5 to cash out a large amount of Bitcoin to a bank
+Date: Thu Feb 06 20:44:19 WET 2025
+Text: I should start by saying I am helping a friend. This is not my Bitcoin, but this person has struggled all their life and 2017 this person won money from an online Casino and they paid them in Bitcoin. Then it sat there the person not knowing what to do with it and now it is worth almost 200K and they desperately need the money due to losing their place to the fires in LA, and I said I would research it and help. Here are the steps I have given them already:
+1) setup a Coinbase account ( higher fees but they seem the most reliable). We only plan to keep it there long enough to sell the Bitcoin and transfer it to the bank. 
+2) Complete the KYR requirements for Coinbase and add a bank account.
+3) Speak to your bank by going in and explaining what is about to happen and what kinds of holds and reporting requirements he will have. 
+4) Expect to have fees along the way and a large tax liability, and that it will be  a process that takes time. 
+
+I am concerned about how to transfer from the Bitcoin wallet to Coinbase and making sure a mistake doesn't happen and the money goes somewhere else. Also did I miss anything in the first steps? Is there any headwinds my friend is going to run into I am not aware of?
+URL: https://www.reddit.com/r/btc/comments/1ijcw7x/eli5_to_cash_out_a_large_amount_of_bitcoin_to_a/
+Permalink: /r/btc/comments/1ijcw7x/eli5_to_cash_out_a_large_amount_of_bitcoin_to_a/
+Number of Comments: 22
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: allexj
+Title: Are there any proposals or research on making bitcoin's PoW useful for real-world computation?
+Date: Thu Feb 06 18:57:55 WET 2025
+Text: Bitcoin’s **proof of work (PoW)** mechanism secures the network by requiring miners to perform massive amounts of computations to find a valid nonce. However, these computations—though essential for Bitcoin’s security—are **purely wasteful in terms of real-world utility**, as they serve no purpose beyond reaching the target hash.
+
+**Are there any proposals, research papers, or experimental ideas** exploring ways to make PoW contribute to **useful computational tasks** while still maintaining Bitcoin’s security?
+
+For example, could mining be designed to also perform:
+
+* **Scientific simulations**
+* **Protein folding** for medical research
+* **AI model training**
+* **Other forms of distributed computing**
+
+If such ideas exist, what are the **technical and economic challenges** preventing their implementation? Would altering PoW in this way compromise Bitcoin’s decentralization or security?
+
+Curious to hear thoughts and any research on this topic!
+URL: https://www.reddit.com/r/btc/comments/1ija9j7/are_there_any_proposals_or_research_on_making/
+Permalink: /r/btc/comments/1ija9j7/are_there_any_proposals_or_research_on_making/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: IndubitablePrognosis
+Title: Trump Media’s Truth.fi files trademark for bitcoin “plus” ETF
+Date: Thu Feb 06 18:54:49 WET 2025
+Text: 
+URL: https://sherwood.news/crypto/trump-medias-truth-fi-files-trademark-for-bitcoin-plus-etf/
+Permalink: /r/btc/comments/1ija6tz/trump_medias_truthfi_files_trademark_for_bitcoin/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: CoinRabbitFinance
+Title: Opinions on borrowing/lending crypto
+Date: Thu Feb 06 16:41:30 WET 2025
+Text: Hi, I'm Emily, CMO at CoinRabbit. We're gathering feedback - positive or negative regarding crypto lending. We'd be really grateful if you could share your experience and opinions.
+
+Thank you all in advance!
+URL: https://www.reddit.com/r/btc/comments/1ij6wbr/opinions_on_borrowinglending_crypto/
+Permalink: /r/btc/comments/1ij6wbr/opinions_on_borrowinglending_crypto/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2q_x
+Title: FDIC Releases Documents Related to Supervision of Crypto-Related Activities
+Date: Thu Feb 06 16:30:13 WET 2025
+Text: 
+URL: https://www.fdic.gov/foia/correspondence-related-crypto-related-activities
+Permalink: /r/btc/comments/1ij6m5w/fdic_releases_documents_related_to_supervision_of/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: GoFundMe’s Got 10% of the World… Flipstarter’s Got ALL of It!
+Date: Thu Feb 06 13:49:50 WET 2025
+Text: Flipstarter is a tool that enable the world to raise funds in BCH and get their business on "feet" that most of the world doesn't know about. In today's article I dive into it and I hope you enjoy all about this amazing Bitcoin Cash powered tool to empower the globe.
+URL: https://read.cash/@alberdioni8406/gofundmes-got-10-of-the-world-flipstarters-got-all-of-it-50217f3e
+Permalink: /r/btc/comments/1ij2ymp/gofundmes_got_10_of_the_world_flipstarters_got/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: BlackRock To Launch European Bitcoin ETPs Within 2025
+Date: Thu Feb 06 13:09:40 WET 2025
+Text: 
+URL: https://allincrypto.com/blackrock-launch-european-bitcoin-etps-within-2025/
+Permalink: /r/btc/comments/1ij259z/blackrock_to_launch_european_bitcoin_etps_within/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: TTV_alko12121212
+Title: Bitcoin mining app I know it's cloud minging but just want y'all's thoughts on the app
+Date: Thu Feb 06 12:00:17 WET 2025
+Text: 
+URL: /r/BitcoinMining/comments/1ij0w3b/bitcoin_mining_app_i_know_its_cloud_minging_but/
+Permalink: /r/btc/comments/1ij0wli/bitcoin_mining_app_i_know_its_cloud_minging_but/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: yosibop
+Title: No sure why this is moderated from r/bitcoin
+Date: Thu Feb 06 10:18:43 WET 2025
+Text: 
+URL: https://i.redd.it/4nu5ojxhvhhe1.jpeg
+Permalink: /r/btc/comments/1iize5n/no_sure_why_this_is_moderated_from_rbitcoin/
+Number of Comments: 45
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: 🇺🇸 President Trump's Crypto Czar David Sacks says Bitcoin is an "excellent store of value." 👀
+Date: Thu Feb 06 08:29:36 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=JtUICnqbwhI&amp;si=It1UJaFNciLjevR2
+Permalink: /r/btc/comments/1iixx8d/new_president_trumps_crypto_czar_david_sacks_says/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Flygate
+Title: El Salvador's Bitcoin Experiment: Success or Failure?
+Date: Thu Feb 06 07:19:33 WET 2025
+Text: 
+URL: https://www.coinim.net/el-salvadors-bitcoin-experiment-success-or-failure/
+Permalink: /r/btc/comments/1iiwzim/el_salvadors_bitcoin_experiment_success_or_failure/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BroadBreakfast7394
+Title: ?
+Date: Thu Feb 06 05:57:25 WET 2025
+Text: https://www.reddit.com/r/WallStreetBetsCrypto/s/h2eBBo4NRD
+URL: https://www.reddit.com/r/btc/comments/1iivrr4/_/
+Permalink: /r/btc/comments/1iivrr4/_/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Historical_Use6152
+Title: Someone made a song for Tom the Bitcoin Kid
+Date: Thu Feb 06 04:00:05 WET 2025
+Text: 
+URL: https://www.youtube.com/shorts/EyL7hREBtvk
+Permalink: /r/btc/comments/1iitqtk/someone_made_a_song_for_tom_the_bitcoin_kid/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Brad Garlinghouse, Brian Armstrong, Jeremy Allaire, and Others Among Top Candidates for Trump’s Crypto Council
+Date: Thu Feb 06 01:40:28 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/brad-garlinghouse-brian-armstrong-jeremy-allaire-and-others-among-top-candidates-for-trumps-crypto-council/
+Permalink: /r/btc/comments/1iir1eh/brad_garlinghouse_brian_armstrong_jeremy_allaire/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Razoumikhine
+Title: Bitcoin is cool, but part of the BTC community make it look like a conspiracy theory
+Date: Thu Feb 06 23:13:16 WET 2025
+Text: English not my first language so sorry for the possible mistakes.
+
+I’ve been very interested in bitcoin lately. I first heard about it 7 or 8 years ago but never bothered to really look into, until a few months ago. Don’t get me wrong I find BTC very appealing and I understand its perks (decentralised, cap on the amount of BTC, etc.). I even bought some (in small amount). But the (a part of the) community around it makes it really unappealing for newcomers. Some posts on this sub (well, rather the other btc sub, but they won’t let me post this) are akin to what you would find on conspiracy theories or cult forum, going like “we’ve been lied to since forever with government-issued fiat money who is now bound to collapse anytime now, hopefully I found the Truth and took the btc red pill and I’m glad to be part of the pioneering elite that discovered the undeniable power of Bitcoin before the ignorant masses that will have no choice but to buy it when btc will be worth 20M$”. Yeah ok settle down, BTC is a great asset but it doesn’t hurt to realise that it is not a flawless godsend gift. This atmosphere just has a scam-like unpleasant smell attached to it, and it can be off-putting for newcomers I think. Again it’s not everyone but a non-negligible share of what I read around here.
+URL: https://www.reddit.com/r/btc/comments/1ijggsl/bitcoin_is_cool_but_part_of_the_btc_community/
+Permalink: /r/btc/comments/1ijggsl/bitcoin_is_cool_but_part_of_the_btc_community/
+Number of Comments: 40
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Active_Act_7370
+Title: I’m a bitcoin beginner. I’ve seen a lot of posts about the Trezor wallet. Which Trezor bitcoin only wallet would you recommend?
+Date: Thu Feb 06 21:20:42 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ijdss6/im_a_bitcoin_beginner_ive_seen_a_lot_of_posts/
+Permalink: /r/btc/comments/1ijdss6/im_a_bitcoin_beginner_ive_seen_a_lot_of_posts/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Own_Manufacturer6959
+Title: ELI5 to cash out a large amount of Bitcoin to a bank
+Date: Thu Feb 06 20:44:19 WET 2025
+Text: I should start by saying I am helping a friend. This is not my Bitcoin, but this person has struggled all their life and 2017 this person won money from an online Casino and they paid them in Bitcoin. Then it sat there the person not knowing what to do with it and now it is worth almost 200K and they desperately need the money due to losing their place to the fires in LA, and I said I would research it and help. Here are the steps I have given them already:
+1) setup a Coinbase account ( higher fees but they seem the most reliable). We only plan to keep it there long enough to sell the Bitcoin and transfer it to the bank. 
+2) Complete the KYR requirements for Coinbase and add a bank account.
+3) Speak to your bank by going in and explaining what is about to happen and what kinds of holds and reporting requirements he will have. 
+4) Expect to have fees along the way and a large tax liability, and that it will be  a process that takes time. 
+
+I am concerned about how to transfer from the Bitcoin wallet to Coinbase and making sure a mistake doesn't happen and the money goes somewhere else. Also did I miss anything in the first steps? Is there any headwinds my friend is going to run into I am not aware of?
+URL: https://www.reddit.com/r/btc/comments/1ijcw7x/eli5_to_cash_out_a_large_amount_of_bitcoin_to_a/
+Permalink: /r/btc/comments/1ijcw7x/eli5_to_cash_out_a_large_amount_of_bitcoin_to_a/
+Number of Comments: 22
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: allexj
+Title: Are there any proposals or research on making bitcoin's PoW useful for real-world computation?
+Date: Thu Feb 06 18:57:55 WET 2025
+Text: Bitcoin’s **proof of work (PoW)** mechanism secures the network by requiring miners to perform massive amounts of computations to find a valid nonce. However, these computations—though essential for Bitcoin’s security—are **purely wasteful in terms of real-world utility**, as they serve no purpose beyond reaching the target hash.
+
+**Are there any proposals, research papers, or experimental ideas** exploring ways to make PoW contribute to **useful computational tasks** while still maintaining Bitcoin’s security?
+
+For example, could mining be designed to also perform:
+
+* **Scientific simulations**
+* **Protein folding** for medical research
+* **AI model training**
+* **Other forms of distributed computing**
+
+If such ideas exist, what are the **technical and economic challenges** preventing their implementation? Would altering PoW in this way compromise Bitcoin’s decentralization or security?
+
+Curious to hear thoughts and any research on this topic!
+URL: https://www.reddit.com/r/btc/comments/1ija9j7/are_there_any_proposals_or_research_on_making/
+Permalink: /r/btc/comments/1ija9j7/are_there_any_proposals_or_research_on_making/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: IndubitablePrognosis
+Title: Trump Media’s Truth.fi files trademark for bitcoin “plus” ETF
+Date: Thu Feb 06 18:54:49 WET 2025
+Text: 
+URL: https://sherwood.news/crypto/trump-medias-truth-fi-files-trademark-for-bitcoin-plus-etf/
+Permalink: /r/btc/comments/1ija6tz/trump_medias_truthfi_files_trademark_for_bitcoin/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: CoinRabbitFinance
+Title: Opinions on borrowing/lending crypto
+Date: Thu Feb 06 16:41:30 WET 2025
+Text: Hi, I'm Emily, CMO at CoinRabbit. We're gathering feedback - positive or negative regarding crypto lending. We'd be really grateful if you could share your experience and opinions.
+
+Thank you all in advance!
+URL: https://www.reddit.com/r/btc/comments/1ij6wbr/opinions_on_borrowinglending_crypto/
+Permalink: /r/btc/comments/1ij6wbr/opinions_on_borrowinglending_crypto/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2q_x
+Title: FDIC Releases Documents Related to Supervision of Crypto-Related Activities
+Date: Thu Feb 06 16:30:13 WET 2025
+Text: 
+URL: https://www.fdic.gov/foia/correspondence-related-crypto-related-activities
+Permalink: /r/btc/comments/1ij6m5w/fdic_releases_documents_related_to_supervision_of/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: GoFundMe’s Got 10% of the World… Flipstarter’s Got ALL of It!
+Date: Thu Feb 06 13:49:50 WET 2025
+Text: Flipstarter is a tool that enable the world to raise funds in BCH and get their business on "feet" that most of the world doesn't know about. In today's article I dive into it and I hope you enjoy all about this amazing Bitcoin Cash powered tool to empower the globe.
+URL: https://read.cash/@alberdioni8406/gofundmes-got-10-of-the-world-flipstarters-got-all-of-it-50217f3e
+Permalink: /r/btc/comments/1ij2ymp/gofundmes_got_10_of_the_world_flipstarters_got/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: BlackRock To Launch European Bitcoin ETPs Within 2025
+Date: Thu Feb 06 13:09:40 WET 2025
+Text: 
+URL: https://allincrypto.com/blackrock-launch-european-bitcoin-etps-within-2025/
+Permalink: /r/btc/comments/1ij259z/blackrock_to_launch_european_bitcoin_etps_within/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: TTV_alko12121212
+Title: Bitcoin mining app I know it's cloud minging but just want y'all's thoughts on the app
+Date: Thu Feb 06 12:00:17 WET 2025
+Text: 
+URL: /r/BitcoinMining/comments/1ij0w3b/bitcoin_mining_app_i_know_its_cloud_minging_but/
+Permalink: /r/btc/comments/1ij0wli/bitcoin_mining_app_i_know_its_cloud_minging_but/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: yosibop
+Title: No sure why this is moderated from r/bitcoin
+Date: Thu Feb 06 10:18:43 WET 2025
+Text: 
+URL: https://i.redd.it/4nu5ojxhvhhe1.jpeg
+Permalink: /r/btc/comments/1iize5n/no_sure_why_this_is_moderated_from_rbitcoin/
+Number of Comments: 45
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: NEW: 🇺🇸 President Trump's Crypto Czar David Sacks says Bitcoin is an "excellent store of value." 👀
+Date: Thu Feb 06 08:29:36 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=JtUICnqbwhI&amp;si=It1UJaFNciLjevR2
+Permalink: /r/btc/comments/1iixx8d/new_president_trumps_crypto_czar_david_sacks_says/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Flygate
+Title: El Salvador's Bitcoin Experiment: Success or Failure?
+Date: Thu Feb 06 07:19:33 WET 2025
+Text: 
+URL: https://www.coinim.net/el-salvadors-bitcoin-experiment-success-or-failure/
+Permalink: /r/btc/comments/1iiwzim/el_salvadors_bitcoin_experiment_success_or_failure/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BroadBreakfast7394
+Title: ?
+Date: Thu Feb 06 05:57:25 WET 2025
+Text: https://www.reddit.com/r/WallStreetBetsCrypto/s/h2eBBo4NRD
+URL: https://www.reddit.com/r/btc/comments/1iivrr4/_/
+Permalink: /r/btc/comments/1iivrr4/_/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Historical_Use6152
+Title: Someone made a song for Tom the Bitcoin Kid
+Date: Thu Feb 06 04:00:05 WET 2025
+Text: 
+URL: https://www.youtube.com/shorts/EyL7hREBtvk
+Permalink: /r/btc/comments/1iitqtk/someone_made_a_song_for_tom_the_bitcoin_kid/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Brad Garlinghouse, Brian Armstrong, Jeremy Allaire, and Others Among Top Candidates for Trump’s Crypto Council
+Date: Thu Feb 06 01:40:28 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/brad-garlinghouse-brian-armstrong-jeremy-allaire-and-others-among-top-candidates-for-trumps-crypto-council/
+Permalink: /r/btc/comments/1iir1eh/brad_garlinghouse_brian_armstrong_jeremy_allaire/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

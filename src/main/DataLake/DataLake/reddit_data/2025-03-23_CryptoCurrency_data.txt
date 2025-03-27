@@ -1,0 +1,2705 @@
+Author: letsgooo26
+Title: OCC Broadens Crypto Banking Options🚀🚀🚀
+Date: Sun Mar 23 22:55:19 WET 2025
+Text: The Office of the Comptroller of the Currency (OCC) is creating more ways for banks to get involved with crypto, treating it more like traditional finance. They're offering clearer guidance to banks that want to offer crypto services, requiring them to manage crypto risks like they would with regular assets. 
+
+"The publication that has attracted such attention in recent days actually can be traced back to a 2020 publication, titled Interpretative Letter 1170, which addressed the authority and manner in which banks can offer crypto-adjacent services to customers. In the 2020 publication the OCC also reiterated that banks seeking to offer services to crypto clients and investors would need to apply the same risk management practices to crypto as are applied to traditional assets. In March 2025 the Acting Comptroller of the Currency issued a new publication, Interpretative Letter 1183, that has provided the sought after clarity and specificity requested by the TradFi space to engage in crypto activities."
+
+The gates are finally opening up. This is great for the entire crypto industry and once clarity is added and banks are integrated into crypto ecosystem, we will then be shooting up into space. By then rate cuts are in as well and 💥 💯🚀🚀🚀
+URL: https://www.forbes.com/sites/digital-assets/2025/03/23/what-crypto-investors-should-know-about-the-recent-occ-pivot-on-crypto-banking/?utm_source
+Permalink: /r/CryptoCurrency/comments/1jic8ca/occ_broadens_crypto_banking_options/
+Number of Comments: 6
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: InclineDumbbellPress
+Title: Global Bitcoin Ownership by Continent in 2025: North America Leads with 10.7% Adoption
+Date: Sun Mar 23 22:33:34 WET 2025
+Text: 
+URL: https://i.redd.it/r3m5kj3aniqe1.png
+Permalink: /r/CryptoCurrency/comments/1jibqxb/global_bitcoin_ownership_by_continent_in_2025/
+Number of Comments: 12
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Shoddy_Trick7610
+Title: Fidelity Files for OnChain U.S. Treasury Fund, Joining the Asset Tokenization Race
+Date: Sun Mar 23 22:11:20 WET 2025
+Text: 
+URL: https://www.coindesk.com/business/2025/03/22/fidelity-files-for-onchain-u-s-treasury-fund-joining-the-asset-tokenization-race
+Permalink: /r/CryptoCurrency/comments/1jib919/fidelity_files_for_onchain_us_treasury_fund/
+Number of Comments: 9
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: How is generating hashes useful to anyone?
+Date: Sun Mar 23 21:37:39 WET 2025
+Text: Ok, so it was explained to me that bitcoin mining is about generating hash tags to find one that is numerically unique. There are two parts to this:
+
+1: Proving you did the work and rewarding you for the work done.
+
+2: Rewarding you for the result.
+
+People have described it like gold mining, where everyone works to find something rare. It’s also been described as a lottery.
+
+If you have three miners mining gold, and one finds 1 ounce of gold every 8 hours, and that’s average, and you pay them roughly $3000 for that, are you paying for the one ounce of gold or the 8 hours of work?
+
+If the second miner does the same amount of work yet only finds half an ounce, what are they paid? Is it assumed that they didn’t work 8 hours due to their result? That the result is the proof of work?
+
+If the third miner has a magic pick that locates and digs twice as fast, so they spend four hours finding an ounce of gold, and four hours sleeping, what are they paid? Their result indicates they worked 8 hours, as far as anyone else is concerned.
+
+Gold can actually be made into something. It has value based on its beauty. It can be made into things and shown off and appreciated. How is a string of numbers (a hash code or a bitcoin balance) in any way comparable to that?
+
+As for a lottery, people are investing in that. Everyone puts money in a box, and one person gets the box at the end. With bitcoin, my electric company gets the money from my computer’s processing. Then new money appears out of nowhere and is rewarded to me.
+
+I think I’m understanding WHAT is happening, but I’m confused by WHY. What value is being generated? If gold wasn’t beautiful, why would you pay someone to mine it? Or is it simply the rarity? The hoarding and exchanging of hash values as some symbol of “I have a rare thing, don’t you want this rare thing?”
+
+I mean, at the end of the day, I do work to provide someone with goods and services they want and need, and in exchange, I get the goods and services I want and need. By way of a silly middleman called money. So what good or service is spending time and energy generating hash values creating?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Permalink: /r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Number of Comments: 20
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: partymsl
+Title: Circle Mints $250 Million USDC at Treasury, Totaling 249,973,750 USD on March 23, 2025
+Date: Sun Mar 23 21:21:26 WET 2025
+Text: 
+URL: https://thedefiant.io/news/blockchains/circle-mints-250-million-usdc-treasury-totaling-249973750-usd-on-march-23-2025-49ca0e03
+Permalink: /r/CryptoCurrency/comments/1jia41f/circle_mints_250_million_usdc_at_treasury/
+Number of Comments: 5
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: kirtash93
+Title: Normal People vs Traders
+Date: Sun Mar 23 21:05:28 WET 2025
+Text: 
+URL: https://i.redd.it/saxw0e5x7iqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji9r0b/normal_people_vs_traders/
+Number of Comments: 39
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Illperformance6969
+Title: Solana has become a breeding ground for pump and dump memecoin ‘cabals’: Bloomberg
+Date: Sun Mar 23 20:39:50 WET 2025
+Text: 
+URL: https://cryptoslate.com/solana-has-become-a-breeding-ground-for-pump-and-dump-memecoin-cabals-bloomberg/
+Permalink: /r/CryptoCurrency/comments/1ji95el/solana_has_become_a_breeding_ground_for_pump_and/
+Number of Comments: 64
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: KIG45
+Title: Saylor hints at impending BTC purchase after latest capital raise
+Date: Sun Mar 23 19:09:22 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/saylor-hints-impending-btc-buy-after-capital-raise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound
+Permalink: /r/CryptoCurrency/comments/1ji70kc/saylor_hints_at_impending_btc_purchase_after/
+Number of Comments: 29
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: squeeps1
+Title: The Tokenization Revolution: Reshaping How We Own and Trade Assets
+Date: Sun Mar 23 18:55:05 WET 2025
+Text: 
+URL: https://www.entrepreneur.com/en-au/news-and-trends/the-tokenization-revolution-reshaping-how-we-own-and-trade/487127
+Permalink: /r/CryptoCurrency/comments/1ji6o09/the_tokenization_revolution_reshaping_how_we_own/
+Number of Comments: 11
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Numerous_Wonders81
+Title: Oracle Check: Where Chainlink Isn’t the Default
+Date: Sun Mar 23 18:50:29 WET 2025
+Text: Algorand (ALGO) – ❌ No: Uses native oracles like Algoracle.
+
+Hedera (HBAR) – ❌ No: Relies on its own consensus service.
+
+Sui – ❌ No: Non-EVM; no Chainlink integration.
+
+NEAR – ❌ No: native support. Aurora (EVM layer) might allow it.
+
+Cardano (ADA) – ❌ No: Uses custom oracles like Charli3. No Chainlink.
+
+While Chainlink is dominant in the EVM world, it’s not the default across newer L1s. Worth watching. These chains have taken different approaches to data feeds, and not all rely on third-party oracle networks like Chainlink.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Permalink: /r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Number of Comments: 9
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Fidelity launches 'OnChain' Ethereum-tracked shares for Treasury money market fund
+Date: Sun Mar 23 16:50:44 WET 2025
+Text: 
+URL: https://www.theblock.co/post/347637/fidelity-launches-onchain-ethereum-tracked-shares-for-treasury-money-market-fund
+Permalink: /r/CryptoCurrency/comments/1ji3p9s/fidelity_launches_onchain_ethereumtracked_shares/
+Number of Comments: 2
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Odd-Radio-8500
+Title: Degen in the womb...
+Date: Sun Mar 23 16:36:11 WET 2025
+Text: 
+URL: https://i.redd.it/zp668gfvvgqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji3d1u/degen_in_the_womb/
+Number of Comments: 29
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: GabeSter
+Title: How can anyone justify this? Crypto.com user loses 13% of their funds to sell their crypto. Their position was up 15% and considering the buy fee they probably lost 20% in fees overall - which makes their +15% profit on the trade a net loss.
+Date: Sun Mar 23 16:33:13 WET 2025
+Text: What you are seeing is Crypto.com's way of robbing their users through spread. They mass market and direct crypto noobs to the crypto.com app where they scam users with insane fees. Historically around 15% for a full trade but this full trade would be closer to 20% in fees.  
+  
+When you buy on the app crypto.com sells you crypto for way above above market price, and when you sell on the app crypto.com sells your crypto for way below market price, robbing you of your funds in both directions. In this case this user was up 15% but is still set to lose money on the trade - due to crypto.com's scammy practices and stealing 20% of their funds on the trade.
+
+You might recall a crypto.com ad "ace your trades and we'll manage everything else" - it should have just said "ace your trades so we can steal your profit."
+URL: https://i.redd.it/429vu7t0sgqe1.png
+Permalink: /r/CryptoCurrency/comments/1ji3al8/how_can_anyone_justify_this_cryptocom_user_loses/
+Number of Comments: 268
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Illperformance6969
+Title: PancakeSwap overtakes Uniswap as leading DEX with $14b weekly volume
+Date: Sun Mar 23 16:14:40 WET 2025
+Text: 
+URL: https://crypto.news/pancakeswap-overtakes-uniswap-as-leading-dex-with-14b-weekly-volume/
+Permalink: /r/CryptoCurrency/comments/1ji2vaf/pancakeswap_overtakes_uniswap_as_leading_dex_with/
+Number of Comments: 7
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: goldyluckinblokchain
+Title: Dormant Bitcoin Whale Wallet From 2016 Moves 3,000 BTC
+Date: Sun Mar 23 16:00:53 WET 2025
+Text: 
+URL: https://beincrypto.com/bitcoin-whale-resurfaces-after-8-years/
+Permalink: /r/CryptoCurrency/comments/1ji2jmm/dormant_bitcoin_whale_wallet_from_2016_moves_3000/
+Number of Comments: 49
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: davideownzall
+Title: Ethereum VS Solana | Data on Wallets, Transactions, Fees, TVL and Marketcap | March 2025
+Date: Sun Mar 23 15:40:15 WET 2025
+Text: 
+URL: https://peakd.com/ethereum/@dalz/ethereum-vs-solana-or-data-on-wallets-transactions-fees-tvl-and-marketcap-or-march-2025
+Permalink: /r/CryptoCurrency/comments/1ji22uh/ethereum_vs_solana_data_on_wallets_transactions/
+Number of Comments: 0
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: northcasewhite
+Title: Kraken posts doctored image of Trump revealing the BTC whitepaper on the Oval Office wall.
+Date: Sun Mar 23 15:31:28 WET 2025
+Text: 
+URL: https://x.com/krakenfx/status/1903510367587745866
+Permalink: /r/CryptoCurrency/comments/1ji1vtz/kraken_posts_doctored_image_of_trump_revealing/
+Number of Comments: 0
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: sadiq_238
+Title: Ripple, Mt. Gox Founder Bets $1 Billion That He Can Replace the International Space Station
+Date: Sun Mar 23 15:26:38 WET 2025
+Text: 
+URL: https://decrypt.co/311219/ripple-mtgox-founder-bets-billion-space-station
+Permalink: /r/CryptoCurrency/comments/1ji1rwb/ripple_mt_gox_founder_bets_1_billion_that_he_can/
+Number of Comments: 21
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: KIG45
+Title: Coinbase fends off targeted GitHub Action attack in early-stage breach attempt
+Date: Sun Mar 23 14:43:06 WET 2025
+Text: 
+URL: https://www.cryptopolitan.com/coinbase-fends-off-github-action-attack/
+Permalink: /r/CryptoCurrency/comments/1ji0tej/coinbase_fends_off_targeted_github_action_attack/
+Number of Comments: 5
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Outsider-Trading
+Title: "The entire U.S. legislative body seems to have finally embraced our industry" - Sergey Nazarov
+Date: Sun Mar 23 14:25:58 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=jqzPXyiHzr4
+Permalink: /r/CryptoCurrency/comments/1ji0g09/the_entire_us_legislative_body_seems_to_have/
+Number of Comments: 1
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: What are the computers actually doing when mining bitcoin?
+Date: Sun Mar 23 13:50:00 WET 2025
+Text: So one complaint about bitcoin is all the energy used during mining. Bitcoin isn’t a physical thing — it doesn’t require work to generate it. If you want a million bitcoin, you just increase a variable. But that would just create inflation. The mining must provide something of value that the new bitcoin is being generated and exchanged for. So what is that computer generating? Is it something like folding@home, where the processing power is solving a problem (in that case, calculating protein folding) for someone who is then giving you new bitcoin for it? ChatGPT uses a lot of power, but it is providing an answer to a question. Whoever is generating the new bitcoin, what are they gaining from you mining it?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Permalink: /r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Number of Comments: 198
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: hiorea
+Title: U.S. Spot Bitcoin ETFs Buy $750M Worth of Bitcoin, Acquiring 8,775 BTC While 3,150 BTC Mined
+Date: Sun Mar 23 13:23:39 WET 2025
+Text: 
+URL: https://thedefiant.io/news/markets/u-s-spot-bitcoin-etfs-buy-750m-worth-bitcoin-acquiring-8775-btc-3150-btc-mined-c398785b
+Permalink: /r/CryptoCurrency/comments/1jhz63r/us_spot_bitcoin_etfs_buy_750m_worth_of_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Specialist_Ask_7058
+Title: Pretty thorough recommendations here on seed backups
+Date: Sun Mar 23 13:19:59 WET 2025
+Text: 
+URL: https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/
+Permalink: /r/CryptoCurrency/comments/1jhz3io/pretty_thorough_recommendations_here_on_seed/
+Number of Comments: 1
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Next_Statement6145
+Title: Trump’s White House return wipes out nearly 20% of Bitcoin millionaires
+Date: Sun Mar 23 13:15:03 WET 2025
+Text: 
+URL: https://finbold.com/trumps-white-house-return-wipes-out-nearly-20-of-bitcoin-millionaires/
+Permalink: /r/CryptoCurrency/comments/1jhz08e/trumps_white_house_return_wipes_out_nearly_20_of/
+Number of Comments: 366
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: CyberPunkMetalHead
+Title: How I built a crypto trading bot platform over the last 3 years
+Date: Sun Mar 23 12:18:05 WET 2025
+Text: 
+URL: https://cryptomaton.medium.com/how-i-built-a-crypto-trading-bot-platform-over-the-last-3-years-292c17132d99
+Permalink: /r/CryptoCurrency/comments/1jhxywv/how_i_built_a_crypto_trading_bot_platform_over/
+Number of Comments: 4
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: 4rkal
+Title: Not your keys, not your coins: keep your money off centralized exchanges
+Date: Sun Mar 23 11:46:55 WET 2025
+Text: 
+URL: https://cyphergoat.com/blog/posts/not-your-keys-not-your-coins/
+Permalink: /r/CryptoCurrency/comments/1jhxg4h/not_your_keys_not_your_coins_keep_your_money_off/
+Number of Comments: 28
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: KIG45
+Title: UAE Leads World in Crypto Obsession, Study Finds
+Date: Sun Mar 23 10:58:18 WET 2025
+Text: 
+URL: https://news.bitcoin.com/uae-leads-world-in-crypto-obsession-study-finds/
+Permalink: /r/CryptoCurrency/comments/1jhwpvf/uae_leads_world_in_crypto_obsession_study_finds/
+Number of Comments: 7
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: sadiq_238
+Title: Misleading crypto narratives continue, driven by 'sensationalist' sentiment
+Date: Sun Mar 23 10:43:52 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-market-narratives-misleading-sensationalist-sentiment-analysts
+Permalink: /r/CryptoCurrency/comments/1jhwign/misleading_crypto_narratives_continue_driven_by/
+Number of Comments: 14
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Shiratori-3
+Title: Sonic unveils high-yield algorithmic stablecoin, reigniting Terra-Luna ‘PTSD’
+Date: Sun Mar 23 10:38:23 WET 2025
+Text: ... Here we go again....
+
+&gt; The Sonic blockchain is working on the implementation of its yield-generating, algorithmic stablecoin despite fears over a potential collapse similar to the Terra-Luna meltdown that led to the industry’s longest crypto winter.
+
+&gt; Algorithmic stablecoins employ code-based mechanisms to ensure their price stability, as opposed to fiat stablecoins pegged directly to the value of the underlying currency.
+
+&gt; The Sonic blockchain is working on the implementation of an algorithmic stablecoin with up to 23% annual percentage rate (APR), according to Andre Cronje, co-founder of Sonic Labs and founder of Yearn.finance.
+
+&gt; Cronje wrote in a March 22 X post:
+
+&gt; “POC looks good. Yielding &gt; 200% APR @ 10m tvl, around 23.5% APR @ 100m, steady at around 4.9% at 1bn+. Will scale up and get team for a full release.”
+
+&gt; Sonic claims to be the world’s fastest Ethereum Virtual Machine (EVM) chain, with a “true” 720 milliseconds (ms) finality — the assurance that a transaction is irreversible, which happens after it is added to a block on the blockchain ledger.
+
+
+
+
+URL: https://cointelegraph.com/news/sonic-blockchain-algorithmic-stablecoin-andre-cronje
+Permalink: /r/CryptoCurrency/comments/1jhwfm3/sonic_unveils_highyield_algorithmic_stablecoin/
+Number of Comments: 7
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: kirtash93
+Title: Fidelity Joining the Tokenization Race: Launching an Ethereum Based Treasury Fund Investing in U.S. Treasury Bills, Competing with BlackRock's BUIDL
+Date: Sun Mar 23 10:37:12 WET 2025
+Text: According to this [tweet ](https://x.com/AggrNews/status/1903280631296950544)from AggrNews Fidelity is officially entering the tokenized assets competition launching a fund that invests in US Treasury Bills and of course **built on Ethereum**. Another TradFi giant embracing the best smart contract network out there.
+
+https://preview.redd.it/qzn0ctpq3fqe1.jpg?width=2092&amp;format=pjpg&amp;auto=webp&amp;s=2554f57586039669891fc3511bc200cc975a6705
+
+This is really big for Ethereum. It already has BlackRock BUIDL that has gained a lot of traction and now Fidelity, one of the largest asset managers in the world is trying to catch up in this competition. This news if confirmed to be true would validate Ethereum again as the go to network for institutional grade tokenization.
+
+This is big because it means more institutional adoption meaning in more money flows into Ethereum. It also shows the world that Ethereum is a great place to develop RWAs (Real World Assets).
+
+I don't know how we can be bearish on Ethereum with everything being built on Ethereum itself. It is a matter of time that this great project skyrockets again. Price is highly manipulated while whales keep buying from weak hands. It will come the day that they stop manipulating the price to buy cheap.
+
+Ethereum ecosystem keeps growing and it is going to be one of the biggest thing we have ever seen in our lives.
+
+Source:
+
+* Tweet: [https://x.com/AggrNews/status/1903280631296950544](https://x.com/AggrNews/status/1903280631296950544)
+* Transaction: [https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d](https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d)
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Permalink: /r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Number of Comments: 4
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Senicko65
+Title: Consolidation
+Date: Sun Mar 23 09:58:18 WET 2025
+Text: Alright, if you’re keeping tabs on the charts, you’ve clocked it already: Bitcoin, Ethereum, and XRP—the top three—are all in consolidation, trading flat in tight ranges. No breakout, no breakdown, just sideways action. You know the drill, but let’s unpack why it’s happening and what’s next.
+
+This consolidation screams indecision. The market’s basically paused, with traders sitting on their hands. Macro’s a big driver here—interest rate hikes, inflation still lingering, and the Fed’s next move hanging over everything like a cloud. Regulatory noise isn’t helping either; XRP’s still got that SEC/Ripple saga dragging on, and any ruling could flip its script fast. Meanwhile, BTC and ETH aren’t immune—global uncertainty’s keeping everyone cautious.
+
+But it’s not just the outside noise. We’ve got on-chain and ecosystem factors simmering too. Bitcoin’s halving is creeping closer, and you know how that tightens supply and sparks FOMO. Ethereum’s post-Merge upgrades are still settling in, with staking dynamics shifting the game. XRP’s banking on its cross-border niche, but adoption’s a slow burn. The market’s waiting for one of these to light the fuse.
+
+You’ve seen this pattern before—consolidation’s the calm before the storm. Bollinger Bands are probably squeezing, RSI’s neutral, and volume’s drying up. It’s textbook coiling. When it snaps, we’ll get a breakout—could be a bullish run if sentiment flips green, or a bleed-out if support cracks. Check the 50-day MA and key levels; they’ll tell you where it’s leaning.
+
+So, while it’s quiet, don’t zone out. Watch the catalysts—macro data drops, XRP court updates, or a whale move. This range won’t hold forever; the next shift’s coming, and you’ll want to be positioned when it hits.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Permalink: /r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Number of Comments: 23
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Dongerated
+Title: Feds Recover $7M—Now DOJ Urges Victims to Claim Share of Recovered Funds
+Date: Sun Mar 23 09:18:35 WET 2025
+Text: 
+URL: https://news.bitcoin.com/feds-seize-7m-in-crypto-scam-doj-tells-victims-come-get-your-money/
+Permalink: /r/CryptoCurrency/comments/1jhvbzw/feds_recover_7mnow_doj_urges_victims_to_claim/
+Number of Comments: 1
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Realistic_Poetry5800
+Title: XRP wipes $11 billion just 48 hours after Ripple case dismissed
+Date: Sun Mar 23 08:47:58 WET 2025
+Text: 
+URL: https://finbold.com/xrp-wipes-11-billion-just-48-hours-after-ripple-case-dismissed/
+Permalink: /r/CryptoCurrency/comments/1jhuxea/xrp_wipes_11_billion_just_48_hours_after_ripple/
+Number of Comments: 54
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: donutloop
+Title: D-Wave Introduces Quantum Blockchain Architecture, Featuring Enhanced Security and Efficiency over Classical Computing
+Date: Sun Mar 23 07:53:31 WET 2025
+Text: 
+URL: https://www.dwavequantum.com/company/newsroom/press-release/d-wave-introduces-quantum-blockchain-architecture-featuring-enhanced-security-and-efficiency-over-classical-computing/
+Permalink: /r/CryptoCurrency/comments/1jhu6rn/dwave_introduces_quantum_blockchain_architecture/
+Number of Comments: 2
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: blkchnDE
+Title: Australia Attempts To Establish Itself As A Crypto Leader | PeakD
+Date: Sun Mar 23 06:50:02 WET 2025
+Text: Hey everyone thanks for landing on another crypto blog. As we are waiting for a good rally for altcoin, some countries are doing great to adopt crypto. here I am talking about The Australian Treasury it is working closely with the crypto asset industry and the motive behind it is to establish clear regulations and make Australia a global leader in the sector.
+URL: https://peakd.com/hive-167922/@luckyali/australia-attempts-to-establish-itself-as-a-crypto-leader-2hf
+Permalink: /r/CryptoCurrency/comments/1jhtcbt/australia_attempts_to_establish_itself_as_a/
+Number of Comments: 25
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Crypto security will always be a game of ‘cat and mouse’ — Wallet exec
+Date: Sun Mar 23 03:53:20 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-security-hackers-cat-and-mouse-game-ledger-wallet-executive
+Permalink: /r/CryptoCurrency/comments/1jhqoai/crypto_security_will_always_be_a_game_of_cat_and/
+Number of Comments: 3
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: PornSoftware
+Title: Building a Blockchain Sports League (For a Sport You’ve Never Heard Of)
+Date: Sun Mar 23 03:21:01 WET 2025
+Text: 
+URL: https://dooplejoy.medium.com/topl-the-pole-join-my-weird-blockchain-sports-league-091c16ce1d8d
+Permalink: /r/CryptoCurrency/comments/1jhq4m2/building_a_blockchain_sports_league_for_a_sport/
+Number of Comments: 6
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Marius_jar
+Title: Dexscreener newly launched token email notification
+Date: Sun Mar 23 02:19:09 WET 2025
+Text: Does anyone know if there is some tool, script, bot or whatever that would send you email/telegram notifications when a new token appears on dexscreener based on your filters? Let's say "boosted token on solana chain and raydium dex with 5k minimum market cap and 2k liquidity". Something like that.
+
+  
+Or do I need custom script for that? Which I tried actually to make myself but shit doesn't work.
+
+This isn't some advanced or very custom like request. Surely there must be something like that? Or maybe at least some already existing and working script template/framework which you could customize. 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Permalink: /r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Number of Comments: 0
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Bitman321
+Title: Schedule Bitcoin transactions by lock time, fees or price (my open-source project)
+Date: Sun Mar 23 01:24:06 WET 2025
+Text: Hi Everyone, 
+
+I thought for a while about applications that could be useful for bitcoiners. I realised that there is no service on the market that allows you to schedule bitcoin transactions. 
+
+The problems such a service could solve: 
+
+* dead man's switch: allows someone to create a timelocked transaction that sends funds to a backup wallet if a user loses access to their keys or passes away, this would use nLockTime to ensure that the transaction is only broadcast after a certain amount of time
+* Auto reset your blockstream green 2fa multisig by scheduling a self transfer transaction to a fresh address
+* Transfer bitcoin when fees are low: create a transaction with a low fee and only broadcast it when fees come down, preventing it from getting stuck in the mempool
+* Transfer bitcoin at a certain USD price: send your bitcoin to the exchange, or to buy a particular item only when it is at a certain price
+
+My project allows you to do all this. It is an open-source API that allows you to post your signed raw transactions and only broadcast them when certain conditions are met. Transactions can also be removed from the service at anytime. 
+
+Code: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler
+
+API docs: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler?tab=readme-ov-file#api
+
+Endpoint: https://bitcoin-transaction-scheduler-e26333afefee.herokuapp.com
+
+What do you guys think about this project? Any suggestions for additional features? Please let me know. 
+
+Please note that this is just a hobby project and should only be used for trivial amounts. Use it at your own risk.
+
+Interested in other bitcoin projects? Check out https://bitcoinprojects.net/.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Permalink: /r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Number of Comments: 3
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: Savi321
+Title: Centralized exchanges’ Kodak moment — time to adopt a new model or stay behind
+Date: Sun Mar 23 01:15:42 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/centralized-exchanges-kodak-moment
+Permalink: /r/CryptoCurrency/comments/1jhnuif/centralized_exchanges_kodak_moment_time_to_adopt/
+Number of Comments: 2
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: MangoGoLucky
+Title: Best app for fast trading?
+Date: Sun Mar 23 01:15:20 WET 2025
+Text: Hello, I am thinking of getting into day trading crypto and have been paper trading on the app trading game were you can quickly buy and sell crypto quickly as it is very mobile friendly. The buy and sell buttons are on the same page and below a graph of the stock. Does anyone know an app for real tradinf that had a similiar interface?
+
+I have coinbase downloaded but it seems like between buying I would then need to click alot of buttons between selling and I prefer to operate quickly. 
+
+Thank you 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Permalink: /r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Number of Comments: 5
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: CryptoDaily-
+Title: Daily Crypto Discussion - March 23, 2025 (GMT+0)
+Date: Sun Mar 23 00:00:58 WET 2025
+Text: **Welcome to the Daily Crypto Discussion thread. Please read the disclaimer and rules before participating.**
+ 
+***
+&amp;nbsp;
+    
+###Disclaimer:
+
+Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known "pump and dump (PnD) groups" for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here. 
+
+
+**Please be careful about what information you share and the actions you take.** Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.
+    
+***
+&amp;nbsp;
+    
+###Rules:
+
+  - All [sub rules](https://www.reddit.com/r/CryptoCurrency/about/rules/) apply in this thread. The prior exemption for karma and age requirements is no longer in effect. 
+  - Discussion topics must be related to cryptocurrency.
+  - Behave with civility and politeness. Do not use offensive, racist or homophobic language.
+  - Comments will be sorted by newest first.
+  
+***
+&amp;nbsp;
+
+###Useful Links:
+
+  - [**Beginner Resources**](https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources)
+
+  - [**Intro to r/Cryptocurrency MOONs 🌔**](https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/)
+
+  - [**MOONs Wiki Page**](https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/)
+
+  - [**r/CryptoCurrency Discord**](https://www.reddit.com/r/CryptoCurrency/comments/kth255/join_the_crypto_currency_discord/)
+
+  - [**r/CryptoCurrencyMemes**](https://www.reddit.com/r/cryptocurrencymemes)
+
+  - [**Prior Daily Discussions**](https://www.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Crypto+Discussion+-+%22+&amp;restrict_sr=on&amp;sort=new&amp;t=all) - (Link fixed.)
+
+  - [**r/CryptoCurrencyMeta**](https://www.reddit.com/r/CryptoCurrencyMeta/) - Join in on all meta discussions regarding r/CryptoCurrency whether it be moon distributions or governance.
+
+***
+&amp;nbsp;
+
+### Finding Other Discussion Threads
+
+Follow a mod account below to be notified in your home feed when the latest r/CC discussion thread of your interest is posted.
+
+* u/CryptoDaily- — Posts the Daily Crypto Discussion threads. 
+
+* u/CryptoSkeptics — Posts the Monthly Skeptics Discussion threads.
+ 
+* u/CryptoOptimists- — Posts the Monthly Optimists Discussion threads.
+
+* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Permalink: /r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Number of Comments: 266
+Subreddit Subscribers: 9829049
+------------------------------------------------------------
+Author: letsgooo26
+Title: OCC Broadens Crypto Banking Options🚀🚀🚀
+Date: Sun Mar 23 22:55:19 WET 2025
+Text: The Office of the Comptroller of the Currency (OCC) is creating more ways for banks to get involved with crypto, treating it more like traditional finance. They're offering clearer guidance to banks that want to offer crypto services, requiring them to manage crypto risks like they would with regular assets. 
+
+"The publication that has attracted such attention in recent days actually can be traced back to a 2020 publication, titled Interpretative Letter 1170, which addressed the authority and manner in which banks can offer crypto-adjacent services to customers. In the 2020 publication the OCC also reiterated that banks seeking to offer services to crypto clients and investors would need to apply the same risk management practices to crypto as are applied to traditional assets. In March 2025 the Acting Comptroller of the Currency issued a new publication, Interpretative Letter 1183, that has provided the sought after clarity and specificity requested by the TradFi space to engage in crypto activities."
+
+The gates are finally opening up. This is great for the entire crypto industry and once clarity is added and banks are integrated into crypto ecosystem, we will then be shooting up into space. By then rate cuts are in as well and 💥 💯🚀🚀🚀
+URL: https://www.forbes.com/sites/digital-assets/2025/03/23/what-crypto-investors-should-know-about-the-recent-occ-pivot-on-crypto-banking/?utm_source
+Permalink: /r/CryptoCurrency/comments/1jic8ca/occ_broadens_crypto_banking_options/
+Number of Comments: 6
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: InclineDumbbellPress
+Title: Global Bitcoin Ownership by Continent in 2025: North America Leads with 10.7% Adoption
+Date: Sun Mar 23 22:33:34 WET 2025
+Text: 
+URL: https://i.redd.it/r3m5kj3aniqe1.png
+Permalink: /r/CryptoCurrency/comments/1jibqxb/global_bitcoin_ownership_by_continent_in_2025/
+Number of Comments: 12
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Shoddy_Trick7610
+Title: Fidelity Files for OnChain U.S. Treasury Fund, Joining the Asset Tokenization Race
+Date: Sun Mar 23 22:11:20 WET 2025
+Text: 
+URL: https://www.coindesk.com/business/2025/03/22/fidelity-files-for-onchain-u-s-treasury-fund-joining-the-asset-tokenization-race
+Permalink: /r/CryptoCurrency/comments/1jib919/fidelity_files_for_onchain_us_treasury_fund/
+Number of Comments: 9
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: How is generating hashes useful to anyone?
+Date: Sun Mar 23 21:37:39 WET 2025
+Text: Ok, so it was explained to me that bitcoin mining is about generating hash tags to find one that is numerically unique. There are two parts to this:
+
+1: Proving you did the work and rewarding you for the work done.
+
+2: Rewarding you for the result.
+
+People have described it like gold mining, where everyone works to find something rare. It’s also been described as a lottery.
+
+If you have three miners mining gold, and one finds 1 ounce of gold every 8 hours, and that’s average, and you pay them roughly $3000 for that, are you paying for the one ounce of gold or the 8 hours of work?
+
+If the second miner does the same amount of work yet only finds half an ounce, what are they paid? Is it assumed that they didn’t work 8 hours due to their result? That the result is the proof of work?
+
+If the third miner has a magic pick that locates and digs twice as fast, so they spend four hours finding an ounce of gold, and four hours sleeping, what are they paid? Their result indicates they worked 8 hours, as far as anyone else is concerned.
+
+Gold can actually be made into something. It has value based on its beauty. It can be made into things and shown off and appreciated. How is a string of numbers (a hash code or a bitcoin balance) in any way comparable to that?
+
+As for a lottery, people are investing in that. Everyone puts money in a box, and one person gets the box at the end. With bitcoin, my electric company gets the money from my computer’s processing. Then new money appears out of nowhere and is rewarded to me.
+
+I think I’m understanding WHAT is happening, but I’m confused by WHY. What value is being generated? If gold wasn’t beautiful, why would you pay someone to mine it? Or is it simply the rarity? The hoarding and exchanging of hash values as some symbol of “I have a rare thing, don’t you want this rare thing?”
+
+I mean, at the end of the day, I do work to provide someone with goods and services they want and need, and in exchange, I get the goods and services I want and need. By way of a silly middleman called money. So what good or service is spending time and energy generating hash values creating?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Permalink: /r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Number of Comments: 20
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: partymsl
+Title: Circle Mints $250 Million USDC at Treasury, Totaling 249,973,750 USD on March 23, 2025
+Date: Sun Mar 23 21:21:26 WET 2025
+Text: 
+URL: https://thedefiant.io/news/blockchains/circle-mints-250-million-usdc-treasury-totaling-249973750-usd-on-march-23-2025-49ca0e03
+Permalink: /r/CryptoCurrency/comments/1jia41f/circle_mints_250_million_usdc_at_treasury/
+Number of Comments: 5
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: kirtash93
+Title: Normal People vs Traders
+Date: Sun Mar 23 21:05:28 WET 2025
+Text: 
+URL: https://i.redd.it/saxw0e5x7iqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji9r0b/normal_people_vs_traders/
+Number of Comments: 39
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Illperformance6969
+Title: Solana has become a breeding ground for pump and dump memecoin ‘cabals’: Bloomberg
+Date: Sun Mar 23 20:39:50 WET 2025
+Text: 
+URL: https://cryptoslate.com/solana-has-become-a-breeding-ground-for-pump-and-dump-memecoin-cabals-bloomberg/
+Permalink: /r/CryptoCurrency/comments/1ji95el/solana_has_become_a_breeding_ground_for_pump_and/
+Number of Comments: 64
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: KIG45
+Title: Saylor hints at impending BTC purchase after latest capital raise
+Date: Sun Mar 23 19:09:22 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/saylor-hints-impending-btc-buy-after-capital-raise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound
+Permalink: /r/CryptoCurrency/comments/1ji70kc/saylor_hints_at_impending_btc_purchase_after/
+Number of Comments: 29
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: squeeps1
+Title: The Tokenization Revolution: Reshaping How We Own and Trade Assets
+Date: Sun Mar 23 18:55:05 WET 2025
+Text: 
+URL: https://www.entrepreneur.com/en-au/news-and-trends/the-tokenization-revolution-reshaping-how-we-own-and-trade/487127
+Permalink: /r/CryptoCurrency/comments/1ji6o09/the_tokenization_revolution_reshaping_how_we_own/
+Number of Comments: 11
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Numerous_Wonders81
+Title: Oracle Check: Where Chainlink Isn’t the Default
+Date: Sun Mar 23 18:50:29 WET 2025
+Text: Algorand (ALGO) – ❌ No: Uses native oracles like Algoracle.
+
+Hedera (HBAR) – ❌ No: Relies on its own consensus service.
+
+Sui – ❌ No: Non-EVM; no Chainlink integration.
+
+NEAR – ❌ No: native support. Aurora (EVM layer) might allow it.
+
+Cardano (ADA) – ❌ No: Uses custom oracles like Charli3. No Chainlink.
+
+While Chainlink is dominant in the EVM world, it’s not the default across newer L1s. Worth watching. These chains have taken different approaches to data feeds, and not all rely on third-party oracle networks like Chainlink.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Permalink: /r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Number of Comments: 9
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Fidelity launches 'OnChain' Ethereum-tracked shares for Treasury money market fund
+Date: Sun Mar 23 16:50:44 WET 2025
+Text: 
+URL: https://www.theblock.co/post/347637/fidelity-launches-onchain-ethereum-tracked-shares-for-treasury-money-market-fund
+Permalink: /r/CryptoCurrency/comments/1ji3p9s/fidelity_launches_onchain_ethereumtracked_shares/
+Number of Comments: 2
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Odd-Radio-8500
+Title: Degen in the womb...
+Date: Sun Mar 23 16:36:11 WET 2025
+Text: 
+URL: https://i.redd.it/zp668gfvvgqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji3d1u/degen_in_the_womb/
+Number of Comments: 29
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: GabeSter
+Title: How can anyone justify this? Crypto.com user loses 13% of their funds to sell their crypto. Their position was up 15% and considering the buy fee they probably lost 20% in fees overall - which makes their +15% profit on the trade a net loss.
+Date: Sun Mar 23 16:33:13 WET 2025
+Text: What you are seeing is Crypto.com's way of robbing their users through spread. They mass market and direct crypto noobs to the crypto.com app where they scam users with insane fees. Historically around 15% for a full trade but this full trade would be closer to 20% in fees.  
+  
+When you buy on the app crypto.com sells you crypto for way above above market price, and when you sell on the app crypto.com sells your crypto for way below market price, robbing you of your funds in both directions. In this case this user was up 15% but is still set to lose money on the trade - due to crypto.com's scammy practices and stealing 20% of their funds on the trade.
+
+You might recall a crypto.com ad "ace your trades and we'll manage everything else" - it should have just said "ace your trades so we can steal your profit."
+URL: https://i.redd.it/429vu7t0sgqe1.png
+Permalink: /r/CryptoCurrency/comments/1ji3al8/how_can_anyone_justify_this_cryptocom_user_loses/
+Number of Comments: 268
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Illperformance6969
+Title: PancakeSwap overtakes Uniswap as leading DEX with $14b weekly volume
+Date: Sun Mar 23 16:14:40 WET 2025
+Text: 
+URL: https://crypto.news/pancakeswap-overtakes-uniswap-as-leading-dex-with-14b-weekly-volume/
+Permalink: /r/CryptoCurrency/comments/1ji2vaf/pancakeswap_overtakes_uniswap_as_leading_dex_with/
+Number of Comments: 7
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: goldyluckinblokchain
+Title: Dormant Bitcoin Whale Wallet From 2016 Moves 3,000 BTC
+Date: Sun Mar 23 16:00:53 WET 2025
+Text: 
+URL: https://beincrypto.com/bitcoin-whale-resurfaces-after-8-years/
+Permalink: /r/CryptoCurrency/comments/1ji2jmm/dormant_bitcoin_whale_wallet_from_2016_moves_3000/
+Number of Comments: 49
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: davideownzall
+Title: Ethereum VS Solana | Data on Wallets, Transactions, Fees, TVL and Marketcap | March 2025
+Date: Sun Mar 23 15:40:15 WET 2025
+Text: 
+URL: https://peakd.com/ethereum/@dalz/ethereum-vs-solana-or-data-on-wallets-transactions-fees-tvl-and-marketcap-or-march-2025
+Permalink: /r/CryptoCurrency/comments/1ji22uh/ethereum_vs_solana_data_on_wallets_transactions/
+Number of Comments: 0
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: northcasewhite
+Title: Kraken posts doctored image of Trump revealing the BTC whitepaper on the Oval Office wall.
+Date: Sun Mar 23 15:31:28 WET 2025
+Text: 
+URL: https://x.com/krakenfx/status/1903510367587745866
+Permalink: /r/CryptoCurrency/comments/1ji1vtz/kraken_posts_doctored_image_of_trump_revealing/
+Number of Comments: 0
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: sadiq_238
+Title: Ripple, Mt. Gox Founder Bets $1 Billion That He Can Replace the International Space Station
+Date: Sun Mar 23 15:26:38 WET 2025
+Text: 
+URL: https://decrypt.co/311219/ripple-mtgox-founder-bets-billion-space-station
+Permalink: /r/CryptoCurrency/comments/1ji1rwb/ripple_mt_gox_founder_bets_1_billion_that_he_can/
+Number of Comments: 21
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: KIG45
+Title: Coinbase fends off targeted GitHub Action attack in early-stage breach attempt
+Date: Sun Mar 23 14:43:06 WET 2025
+Text: 
+URL: https://www.cryptopolitan.com/coinbase-fends-off-github-action-attack/
+Permalink: /r/CryptoCurrency/comments/1ji0tej/coinbase_fends_off_targeted_github_action_attack/
+Number of Comments: 5
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Outsider-Trading
+Title: "The entire U.S. legislative body seems to have finally embraced our industry" - Sergey Nazarov
+Date: Sun Mar 23 14:25:58 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=jqzPXyiHzr4
+Permalink: /r/CryptoCurrency/comments/1ji0g09/the_entire_us_legislative_body_seems_to_have/
+Number of Comments: 1
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: What are the computers actually doing when mining bitcoin?
+Date: Sun Mar 23 13:50:00 WET 2025
+Text: So one complaint about bitcoin is all the energy used during mining. Bitcoin isn’t a physical thing — it doesn’t require work to generate it. If you want a million bitcoin, you just increase a variable. But that would just create inflation. The mining must provide something of value that the new bitcoin is being generated and exchanged for. So what is that computer generating? Is it something like folding@home, where the processing power is solving a problem (in that case, calculating protein folding) for someone who is then giving you new bitcoin for it? ChatGPT uses a lot of power, but it is providing an answer to a question. Whoever is generating the new bitcoin, what are they gaining from you mining it?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Permalink: /r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Number of Comments: 198
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: hiorea
+Title: U.S. Spot Bitcoin ETFs Buy $750M Worth of Bitcoin, Acquiring 8,775 BTC While 3,150 BTC Mined
+Date: Sun Mar 23 13:23:39 WET 2025
+Text: 
+URL: https://thedefiant.io/news/markets/u-s-spot-bitcoin-etfs-buy-750m-worth-bitcoin-acquiring-8775-btc-3150-btc-mined-c398785b
+Permalink: /r/CryptoCurrency/comments/1jhz63r/us_spot_bitcoin_etfs_buy_750m_worth_of_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Specialist_Ask_7058
+Title: Pretty thorough recommendations here on seed backups
+Date: Sun Mar 23 13:19:59 WET 2025
+Text: 
+URL: https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/
+Permalink: /r/CryptoCurrency/comments/1jhz3io/pretty_thorough_recommendations_here_on_seed/
+Number of Comments: 1
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Next_Statement6145
+Title: Trump’s White House return wipes out nearly 20% of Bitcoin millionaires
+Date: Sun Mar 23 13:15:03 WET 2025
+Text: 
+URL: https://finbold.com/trumps-white-house-return-wipes-out-nearly-20-of-bitcoin-millionaires/
+Permalink: /r/CryptoCurrency/comments/1jhz08e/trumps_white_house_return_wipes_out_nearly_20_of/
+Number of Comments: 366
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: CyberPunkMetalHead
+Title: How I built a crypto trading bot platform over the last 3 years
+Date: Sun Mar 23 12:18:05 WET 2025
+Text: 
+URL: https://cryptomaton.medium.com/how-i-built-a-crypto-trading-bot-platform-over-the-last-3-years-292c17132d99
+Permalink: /r/CryptoCurrency/comments/1jhxywv/how_i_built_a_crypto_trading_bot_platform_over/
+Number of Comments: 4
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: 4rkal
+Title: Not your keys, not your coins: keep your money off centralized exchanges
+Date: Sun Mar 23 11:46:55 WET 2025
+Text: 
+URL: https://cyphergoat.com/blog/posts/not-your-keys-not-your-coins/
+Permalink: /r/CryptoCurrency/comments/1jhxg4h/not_your_keys_not_your_coins_keep_your_money_off/
+Number of Comments: 28
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: KIG45
+Title: UAE Leads World in Crypto Obsession, Study Finds
+Date: Sun Mar 23 10:58:18 WET 2025
+Text: 
+URL: https://news.bitcoin.com/uae-leads-world-in-crypto-obsession-study-finds/
+Permalink: /r/CryptoCurrency/comments/1jhwpvf/uae_leads_world_in_crypto_obsession_study_finds/
+Number of Comments: 7
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: sadiq_238
+Title: Misleading crypto narratives continue, driven by 'sensationalist' sentiment
+Date: Sun Mar 23 10:43:52 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-market-narratives-misleading-sensationalist-sentiment-analysts
+Permalink: /r/CryptoCurrency/comments/1jhwign/misleading_crypto_narratives_continue_driven_by/
+Number of Comments: 14
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Shiratori-3
+Title: Sonic unveils high-yield algorithmic stablecoin, reigniting Terra-Luna ‘PTSD’
+Date: Sun Mar 23 10:38:23 WET 2025
+Text: ... Here we go again....
+
+&gt; The Sonic blockchain is working on the implementation of its yield-generating, algorithmic stablecoin despite fears over a potential collapse similar to the Terra-Luna meltdown that led to the industry’s longest crypto winter.
+
+&gt; Algorithmic stablecoins employ code-based mechanisms to ensure their price stability, as opposed to fiat stablecoins pegged directly to the value of the underlying currency.
+
+&gt; The Sonic blockchain is working on the implementation of an algorithmic stablecoin with up to 23% annual percentage rate (APR), according to Andre Cronje, co-founder of Sonic Labs and founder of Yearn.finance.
+
+&gt; Cronje wrote in a March 22 X post:
+
+&gt; “POC looks good. Yielding &gt; 200% APR @ 10m tvl, around 23.5% APR @ 100m, steady at around 4.9% at 1bn+. Will scale up and get team for a full release.”
+
+&gt; Sonic claims to be the world’s fastest Ethereum Virtual Machine (EVM) chain, with a “true” 720 milliseconds (ms) finality — the assurance that a transaction is irreversible, which happens after it is added to a block on the blockchain ledger.
+
+
+
+
+URL: https://cointelegraph.com/news/sonic-blockchain-algorithmic-stablecoin-andre-cronje
+Permalink: /r/CryptoCurrency/comments/1jhwfm3/sonic_unveils_highyield_algorithmic_stablecoin/
+Number of Comments: 7
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: kirtash93
+Title: Fidelity Joining the Tokenization Race: Launching an Ethereum Based Treasury Fund Investing in U.S. Treasury Bills, Competing with BlackRock's BUIDL
+Date: Sun Mar 23 10:37:12 WET 2025
+Text: According to this [tweet ](https://x.com/AggrNews/status/1903280631296950544)from AggrNews Fidelity is officially entering the tokenized assets competition launching a fund that invests in US Treasury Bills and of course **built on Ethereum**. Another TradFi giant embracing the best smart contract network out there.
+
+https://preview.redd.it/qzn0ctpq3fqe1.jpg?width=2092&amp;format=pjpg&amp;auto=webp&amp;s=2554f57586039669891fc3511bc200cc975a6705
+
+This is really big for Ethereum. It already has BlackRock BUIDL that has gained a lot of traction and now Fidelity, one of the largest asset managers in the world is trying to catch up in this competition. This news if confirmed to be true would validate Ethereum again as the go to network for institutional grade tokenization.
+
+This is big because it means more institutional adoption meaning in more money flows into Ethereum. It also shows the world that Ethereum is a great place to develop RWAs (Real World Assets).
+
+I don't know how we can be bearish on Ethereum with everything being built on Ethereum itself. It is a matter of time that this great project skyrockets again. Price is highly manipulated while whales keep buying from weak hands. It will come the day that they stop manipulating the price to buy cheap.
+
+Ethereum ecosystem keeps growing and it is going to be one of the biggest thing we have ever seen in our lives.
+
+Source:
+
+* Tweet: [https://x.com/AggrNews/status/1903280631296950544](https://x.com/AggrNews/status/1903280631296950544)
+* Transaction: [https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d](https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d)
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Permalink: /r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Number of Comments: 4
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Senicko65
+Title: Consolidation
+Date: Sun Mar 23 09:58:18 WET 2025
+Text: Alright, if you’re keeping tabs on the charts, you’ve clocked it already: Bitcoin, Ethereum, and XRP—the top three—are all in consolidation, trading flat in tight ranges. No breakout, no breakdown, just sideways action. You know the drill, but let’s unpack why it’s happening and what’s next.
+
+This consolidation screams indecision. The market’s basically paused, with traders sitting on their hands. Macro’s a big driver here—interest rate hikes, inflation still lingering, and the Fed’s next move hanging over everything like a cloud. Regulatory noise isn’t helping either; XRP’s still got that SEC/Ripple saga dragging on, and any ruling could flip its script fast. Meanwhile, BTC and ETH aren’t immune—global uncertainty’s keeping everyone cautious.
+
+But it’s not just the outside noise. We’ve got on-chain and ecosystem factors simmering too. Bitcoin’s halving is creeping closer, and you know how that tightens supply and sparks FOMO. Ethereum’s post-Merge upgrades are still settling in, with staking dynamics shifting the game. XRP’s banking on its cross-border niche, but adoption’s a slow burn. The market’s waiting for one of these to light the fuse.
+
+You’ve seen this pattern before—consolidation’s the calm before the storm. Bollinger Bands are probably squeezing, RSI’s neutral, and volume’s drying up. It’s textbook coiling. When it snaps, we’ll get a breakout—could be a bullish run if sentiment flips green, or a bleed-out if support cracks. Check the 50-day MA and key levels; they’ll tell you where it’s leaning.
+
+So, while it’s quiet, don’t zone out. Watch the catalysts—macro data drops, XRP court updates, or a whale move. This range won’t hold forever; the next shift’s coming, and you’ll want to be positioned when it hits.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Permalink: /r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Number of Comments: 23
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Dongerated
+Title: Feds Recover $7M—Now DOJ Urges Victims to Claim Share of Recovered Funds
+Date: Sun Mar 23 09:18:35 WET 2025
+Text: 
+URL: https://news.bitcoin.com/feds-seize-7m-in-crypto-scam-doj-tells-victims-come-get-your-money/
+Permalink: /r/CryptoCurrency/comments/1jhvbzw/feds_recover_7mnow_doj_urges_victims_to_claim/
+Number of Comments: 1
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Realistic_Poetry5800
+Title: XRP wipes $11 billion just 48 hours after Ripple case dismissed
+Date: Sun Mar 23 08:47:58 WET 2025
+Text: 
+URL: https://finbold.com/xrp-wipes-11-billion-just-48-hours-after-ripple-case-dismissed/
+Permalink: /r/CryptoCurrency/comments/1jhuxea/xrp_wipes_11_billion_just_48_hours_after_ripple/
+Number of Comments: 54
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: donutloop
+Title: D-Wave Introduces Quantum Blockchain Architecture, Featuring Enhanced Security and Efficiency over Classical Computing
+Date: Sun Mar 23 07:53:31 WET 2025
+Text: 
+URL: https://www.dwavequantum.com/company/newsroom/press-release/d-wave-introduces-quantum-blockchain-architecture-featuring-enhanced-security-and-efficiency-over-classical-computing/
+Permalink: /r/CryptoCurrency/comments/1jhu6rn/dwave_introduces_quantum_blockchain_architecture/
+Number of Comments: 2
+Subreddit Subscribers: 9829059
+------------------------------------------------------------
+Author: blkchnDE
+Title: Australia Attempts To Establish Itself As A Crypto Leader | PeakD
+Date: Sun Mar 23 06:50:02 WET 2025
+Text: Hey everyone thanks for landing on another crypto blog. As we are waiting for a good rally for altcoin, some countries are doing great to adopt crypto. here I am talking about The Australian Treasury it is working closely with the crypto asset industry and the motive behind it is to establish clear regulations and make Australia a global leader in the sector.
+URL: https://peakd.com/hive-167922/@luckyali/australia-attempts-to-establish-itself-as-a-crypto-leader-2hf
+Permalink: /r/CryptoCurrency/comments/1jhtcbt/australia_attempts_to_establish_itself_as_a/
+Number of Comments: 25
+Subreddit Subscribers: 9829059
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Crypto security will always be a game of ‘cat and mouse’ — Wallet exec
+Date: Sun Mar 23 03:53:20 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-security-hackers-cat-and-mouse-game-ledger-wallet-executive
+Permalink: /r/CryptoCurrency/comments/1jhqoai/crypto_security_will_always_be_a_game_of_cat_and/
+Number of Comments: 3
+Subreddit Subscribers: 9829059
+------------------------------------------------------------
+Author: PornSoftware
+Title: Building a Blockchain Sports League (For a Sport You’ve Never Heard Of)
+Date: Sun Mar 23 03:21:01 WET 2025
+Text: 
+URL: https://dooplejoy.medium.com/topl-the-pole-join-my-weird-blockchain-sports-league-091c16ce1d8d
+Permalink: /r/CryptoCurrency/comments/1jhq4m2/building_a_blockchain_sports_league_for_a_sport/
+Number of Comments: 6
+Subreddit Subscribers: 9829059
+------------------------------------------------------------
+Author: Marius_jar
+Title: Dexscreener newly launched token email notification
+Date: Sun Mar 23 02:19:09 WET 2025
+Text: Does anyone know if there is some tool, script, bot or whatever that would send you email/telegram notifications when a new token appears on dexscreener based on your filters? Let's say "boosted token on solana chain and raydium dex with 5k minimum market cap and 2k liquidity". Something like that.
+
+  
+Or do I need custom script for that? Which I tried actually to make myself but shit doesn't work.
+
+This isn't some advanced or very custom like request. Surely there must be something like that? Or maybe at least some already existing and working script template/framework which you could customize. 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Permalink: /r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Number of Comments: 0
+Subreddit Subscribers: 9829059
+------------------------------------------------------------
+Author: Bitman321
+Title: Schedule Bitcoin transactions by lock time, fees or price (my open-source project)
+Date: Sun Mar 23 01:24:06 WET 2025
+Text: Hi Everyone, 
+
+I thought for a while about applications that could be useful for bitcoiners. I realised that there is no service on the market that allows you to schedule bitcoin transactions. 
+
+The problems such a service could solve: 
+
+* dead man's switch: allows someone to create a timelocked transaction that sends funds to a backup wallet if a user loses access to their keys or passes away, this would use nLockTime to ensure that the transaction is only broadcast after a certain amount of time
+* Auto reset your blockstream green 2fa multisig by scheduling a self transfer transaction to a fresh address
+* Transfer bitcoin when fees are low: create a transaction with a low fee and only broadcast it when fees come down, preventing it from getting stuck in the mempool
+* Transfer bitcoin at a certain USD price: send your bitcoin to the exchange, or to buy a particular item only when it is at a certain price
+
+My project allows you to do all this. It is an open-source API that allows you to post your signed raw transactions and only broadcast them when certain conditions are met. Transactions can also be removed from the service at anytime. 
+
+Code: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler
+
+API docs: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler?tab=readme-ov-file#api
+
+Endpoint: https://bitcoin-transaction-scheduler-e26333afefee.herokuapp.com
+
+What do you guys think about this project? Any suggestions for additional features? Please let me know. 
+
+Please note that this is just a hobby project and should only be used for trivial amounts. Use it at your own risk.
+
+Interested in other bitcoin projects? Check out https://bitcoinprojects.net/.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Permalink: /r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Number of Comments: 3
+Subreddit Subscribers: 9829059
+------------------------------------------------------------
+Author: Savi321
+Title: Centralized exchanges’ Kodak moment — time to adopt a new model or stay behind
+Date: Sun Mar 23 01:15:42 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/centralized-exchanges-kodak-moment
+Permalink: /r/CryptoCurrency/comments/1jhnuif/centralized_exchanges_kodak_moment_time_to_adopt/
+Number of Comments: 2
+Subreddit Subscribers: 9829059
+------------------------------------------------------------
+Author: MangoGoLucky
+Title: Best app for fast trading?
+Date: Sun Mar 23 01:15:20 WET 2025
+Text: Hello, I am thinking of getting into day trading crypto and have been paper trading on the app trading game were you can quickly buy and sell crypto quickly as it is very mobile friendly. The buy and sell buttons are on the same page and below a graph of the stock. Does anyone know an app for real tradinf that had a similiar interface?
+
+I have coinbase downloaded but it seems like between buying I would then need to click alot of buttons between selling and I prefer to operate quickly. 
+
+Thank you 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Permalink: /r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Number of Comments: 5
+Subreddit Subscribers: 9829059
+------------------------------------------------------------
+Author: CryptoDaily-
+Title: Daily Crypto Discussion - March 23, 2025 (GMT+0)
+Date: Sun Mar 23 00:00:58 WET 2025
+Text: **Welcome to the Daily Crypto Discussion thread. Please read the disclaimer and rules before participating.**
+ 
+***
+&amp;nbsp;
+    
+###Disclaimer:
+
+Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known "pump and dump (PnD) groups" for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here. 
+
+
+**Please be careful about what information you share and the actions you take.** Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.
+    
+***
+&amp;nbsp;
+    
+###Rules:
+
+  - All [sub rules](https://www.reddit.com/r/CryptoCurrency/about/rules/) apply in this thread. The prior exemption for karma and age requirements is no longer in effect. 
+  - Discussion topics must be related to cryptocurrency.
+  - Behave with civility and politeness. Do not use offensive, racist or homophobic language.
+  - Comments will be sorted by newest first.
+  
+***
+&amp;nbsp;
+
+###Useful Links:
+
+  - [**Beginner Resources**](https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources)
+
+  - [**Intro to r/Cryptocurrency MOONs 🌔**](https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/)
+
+  - [**MOONs Wiki Page**](https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/)
+
+  - [**r/CryptoCurrency Discord**](https://www.reddit.com/r/CryptoCurrency/comments/kth255/join_the_crypto_currency_discord/)
+
+  - [**r/CryptoCurrencyMemes**](https://www.reddit.com/r/cryptocurrencymemes)
+
+  - [**Prior Daily Discussions**](https://www.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Crypto+Discussion+-+%22+&amp;restrict_sr=on&amp;sort=new&amp;t=all) - (Link fixed.)
+
+  - [**r/CryptoCurrencyMeta**](https://www.reddit.com/r/CryptoCurrencyMeta/) - Join in on all meta discussions regarding r/CryptoCurrency whether it be moon distributions or governance.
+
+***
+&amp;nbsp;
+
+### Finding Other Discussion Threads
+
+Follow a mod account below to be notified in your home feed when the latest r/CC discussion thread of your interest is posted.
+
+* u/CryptoDaily- — Posts the Daily Crypto Discussion threads. 
+
+* u/CryptoSkeptics — Posts the Monthly Skeptics Discussion threads.
+ 
+* u/CryptoOptimists- — Posts the Monthly Optimists Discussion threads.
+
+* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Permalink: /r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Number of Comments: 266
+Subreddit Subscribers: 9829059
+------------------------------------------------------------
+Author: letsgooo26
+Title: OCC Broadens Crypto Banking Options🚀🚀🚀
+Date: Sun Mar 23 22:55:19 WET 2025
+Text: The Office of the Comptroller of the Currency (OCC) is creating more ways for banks to get involved with crypto, treating it more like traditional finance. They're offering clearer guidance to banks that want to offer crypto services, requiring them to manage crypto risks like they would with regular assets. 
+
+"The publication that has attracted such attention in recent days actually can be traced back to a 2020 publication, titled Interpretative Letter 1170, which addressed the authority and manner in which banks can offer crypto-adjacent services to customers. In the 2020 publication the OCC also reiterated that banks seeking to offer services to crypto clients and investors would need to apply the same risk management practices to crypto as are applied to traditional assets. In March 2025 the Acting Comptroller of the Currency issued a new publication, Interpretative Letter 1183, that has provided the sought after clarity and specificity requested by the TradFi space to engage in crypto activities."
+
+The gates are finally opening up. This is great for the entire crypto industry and once clarity is added and banks are integrated into crypto ecosystem, we will then be shooting up into space. By then rate cuts are in as well and 💥 💯🚀🚀🚀
+URL: https://www.forbes.com/sites/digital-assets/2025/03/23/what-crypto-investors-should-know-about-the-recent-occ-pivot-on-crypto-banking/?utm_source
+Permalink: /r/CryptoCurrency/comments/1jic8ca/occ_broadens_crypto_banking_options/
+Number of Comments: 6
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: InclineDumbbellPress
+Title: Global Bitcoin Ownership by Continent in 2025: North America Leads with 10.7% Adoption
+Date: Sun Mar 23 22:33:34 WET 2025
+Text: 
+URL: https://i.redd.it/r3m5kj3aniqe1.png
+Permalink: /r/CryptoCurrency/comments/1jibqxb/global_bitcoin_ownership_by_continent_in_2025/
+Number of Comments: 12
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Shoddy_Trick7610
+Title: Fidelity Files for OnChain U.S. Treasury Fund, Joining the Asset Tokenization Race
+Date: Sun Mar 23 22:11:20 WET 2025
+Text: 
+URL: https://www.coindesk.com/business/2025/03/22/fidelity-files-for-onchain-u-s-treasury-fund-joining-the-asset-tokenization-race
+Permalink: /r/CryptoCurrency/comments/1jib919/fidelity_files_for_onchain_us_treasury_fund/
+Number of Comments: 9
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: How is generating hashes useful to anyone?
+Date: Sun Mar 23 21:37:39 WET 2025
+Text: Ok, so it was explained to me that bitcoin mining is about generating hash tags to find one that is numerically unique. There are two parts to this:
+
+1: Proving you did the work and rewarding you for the work done.
+
+2: Rewarding you for the result.
+
+People have described it like gold mining, where everyone works to find something rare. It’s also been described as a lottery.
+
+If you have three miners mining gold, and one finds 1 ounce of gold every 8 hours, and that’s average, and you pay them roughly $3000 for that, are you paying for the one ounce of gold or the 8 hours of work?
+
+If the second miner does the same amount of work yet only finds half an ounce, what are they paid? Is it assumed that they didn’t work 8 hours due to their result? That the result is the proof of work?
+
+If the third miner has a magic pick that locates and digs twice as fast, so they spend four hours finding an ounce of gold, and four hours sleeping, what are they paid? Their result indicates they worked 8 hours, as far as anyone else is concerned.
+
+Gold can actually be made into something. It has value based on its beauty. It can be made into things and shown off and appreciated. How is a string of numbers (a hash code or a bitcoin balance) in any way comparable to that?
+
+As for a lottery, people are investing in that. Everyone puts money in a box, and one person gets the box at the end. With bitcoin, my electric company gets the money from my computer’s processing. Then new money appears out of nowhere and is rewarded to me.
+
+I think I’m understanding WHAT is happening, but I’m confused by WHY. What value is being generated? If gold wasn’t beautiful, why would you pay someone to mine it? Or is it simply the rarity? The hoarding and exchanging of hash values as some symbol of “I have a rare thing, don’t you want this rare thing?”
+
+I mean, at the end of the day, I do work to provide someone with goods and services they want and need, and in exchange, I get the goods and services I want and need. By way of a silly middleman called money. So what good or service is spending time and energy generating hash values creating?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Permalink: /r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Number of Comments: 20
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: partymsl
+Title: Circle Mints $250 Million USDC at Treasury, Totaling 249,973,750 USD on March 23, 2025
+Date: Sun Mar 23 21:21:26 WET 2025
+Text: 
+URL: https://thedefiant.io/news/blockchains/circle-mints-250-million-usdc-treasury-totaling-249973750-usd-on-march-23-2025-49ca0e03
+Permalink: /r/CryptoCurrency/comments/1jia41f/circle_mints_250_million_usdc_at_treasury/
+Number of Comments: 5
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: kirtash93
+Title: Normal People vs Traders
+Date: Sun Mar 23 21:05:28 WET 2025
+Text: 
+URL: https://i.redd.it/saxw0e5x7iqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji9r0b/normal_people_vs_traders/
+Number of Comments: 39
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Illperformance6969
+Title: Solana has become a breeding ground for pump and dump memecoin ‘cabals’: Bloomberg
+Date: Sun Mar 23 20:39:50 WET 2025
+Text: 
+URL: https://cryptoslate.com/solana-has-become-a-breeding-ground-for-pump-and-dump-memecoin-cabals-bloomberg/
+Permalink: /r/CryptoCurrency/comments/1ji95el/solana_has_become_a_breeding_ground_for_pump_and/
+Number of Comments: 64
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: KIG45
+Title: Saylor hints at impending BTC purchase after latest capital raise
+Date: Sun Mar 23 19:09:22 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/saylor-hints-impending-btc-buy-after-capital-raise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound
+Permalink: /r/CryptoCurrency/comments/1ji70kc/saylor_hints_at_impending_btc_purchase_after/
+Number of Comments: 29
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: squeeps1
+Title: The Tokenization Revolution: Reshaping How We Own and Trade Assets
+Date: Sun Mar 23 18:55:05 WET 2025
+Text: 
+URL: https://www.entrepreneur.com/en-au/news-and-trends/the-tokenization-revolution-reshaping-how-we-own-and-trade/487127
+Permalink: /r/CryptoCurrency/comments/1ji6o09/the_tokenization_revolution_reshaping_how_we_own/
+Number of Comments: 11
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Numerous_Wonders81
+Title: Oracle Check: Where Chainlink Isn’t the Default
+Date: Sun Mar 23 18:50:29 WET 2025
+Text: Algorand (ALGO) – ❌ No: Uses native oracles like Algoracle.
+
+Hedera (HBAR) – ❌ No: Relies on its own consensus service.
+
+Sui – ❌ No: Non-EVM; no Chainlink integration.
+
+NEAR – ❌ No: native support. Aurora (EVM layer) might allow it.
+
+Cardano (ADA) – ❌ No: Uses custom oracles like Charli3. No Chainlink.
+
+While Chainlink is dominant in the EVM world, it’s not the default across newer L1s. Worth watching. These chains have taken different approaches to data feeds, and not all rely on third-party oracle networks like Chainlink.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Permalink: /r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Number of Comments: 9
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Fidelity launches 'OnChain' Ethereum-tracked shares for Treasury money market fund
+Date: Sun Mar 23 16:50:44 WET 2025
+Text: 
+URL: https://www.theblock.co/post/347637/fidelity-launches-onchain-ethereum-tracked-shares-for-treasury-money-market-fund
+Permalink: /r/CryptoCurrency/comments/1ji3p9s/fidelity_launches_onchain_ethereumtracked_shares/
+Number of Comments: 2
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Odd-Radio-8500
+Title: Degen in the womb...
+Date: Sun Mar 23 16:36:11 WET 2025
+Text: 
+URL: https://i.redd.it/zp668gfvvgqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji3d1u/degen_in_the_womb/
+Number of Comments: 29
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: GabeSter
+Title: How can anyone justify this? Crypto.com user loses 13% of their funds to sell their crypto. Their position was up 15% and considering the buy fee they probably lost 20% in fees overall - which makes their +15% profit on the trade a net loss.
+Date: Sun Mar 23 16:33:13 WET 2025
+Text: What you are seeing is Crypto.com's way of robbing their users through spread. They mass market and direct crypto noobs to the crypto.com app where they scam users with insane fees. Historically around 15% for a full trade but this full trade would be closer to 20% in fees.  
+  
+When you buy on the app crypto.com sells you crypto for way above above market price, and when you sell on the app crypto.com sells your crypto for way below market price, robbing you of your funds in both directions. In this case this user was up 15% but is still set to lose money on the trade - due to crypto.com's scammy practices and stealing 20% of their funds on the trade.
+
+You might recall a crypto.com ad "ace your trades and we'll manage everything else" - it should have just said "ace your trades so we can steal your profit."
+URL: https://i.redd.it/429vu7t0sgqe1.png
+Permalink: /r/CryptoCurrency/comments/1ji3al8/how_can_anyone_justify_this_cryptocom_user_loses/
+Number of Comments: 268
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Illperformance6969
+Title: PancakeSwap overtakes Uniswap as leading DEX with $14b weekly volume
+Date: Sun Mar 23 16:14:40 WET 2025
+Text: 
+URL: https://crypto.news/pancakeswap-overtakes-uniswap-as-leading-dex-with-14b-weekly-volume/
+Permalink: /r/CryptoCurrency/comments/1ji2vaf/pancakeswap_overtakes_uniswap_as_leading_dex_with/
+Number of Comments: 7
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: goldyluckinblokchain
+Title: Dormant Bitcoin Whale Wallet From 2016 Moves 3,000 BTC
+Date: Sun Mar 23 16:00:53 WET 2025
+Text: 
+URL: https://beincrypto.com/bitcoin-whale-resurfaces-after-8-years/
+Permalink: /r/CryptoCurrency/comments/1ji2jmm/dormant_bitcoin_whale_wallet_from_2016_moves_3000/
+Number of Comments: 49
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: davideownzall
+Title: Ethereum VS Solana | Data on Wallets, Transactions, Fees, TVL and Marketcap | March 2025
+Date: Sun Mar 23 15:40:15 WET 2025
+Text: 
+URL: https://peakd.com/ethereum/@dalz/ethereum-vs-solana-or-data-on-wallets-transactions-fees-tvl-and-marketcap-or-march-2025
+Permalink: /r/CryptoCurrency/comments/1ji22uh/ethereum_vs_solana_data_on_wallets_transactions/
+Number of Comments: 0
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: northcasewhite
+Title: Kraken posts doctored image of Trump revealing the BTC whitepaper on the Oval Office wall.
+Date: Sun Mar 23 15:31:28 WET 2025
+Text: 
+URL: https://x.com/krakenfx/status/1903510367587745866
+Permalink: /r/CryptoCurrency/comments/1ji1vtz/kraken_posts_doctored_image_of_trump_revealing/
+Number of Comments: 0
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: sadiq_238
+Title: Ripple, Mt. Gox Founder Bets $1 Billion That He Can Replace the International Space Station
+Date: Sun Mar 23 15:26:38 WET 2025
+Text: 
+URL: https://decrypt.co/311219/ripple-mtgox-founder-bets-billion-space-station
+Permalink: /r/CryptoCurrency/comments/1ji1rwb/ripple_mt_gox_founder_bets_1_billion_that_he_can/
+Number of Comments: 21
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: KIG45
+Title: Coinbase fends off targeted GitHub Action attack in early-stage breach attempt
+Date: Sun Mar 23 14:43:06 WET 2025
+Text: 
+URL: https://www.cryptopolitan.com/coinbase-fends-off-github-action-attack/
+Permalink: /r/CryptoCurrency/comments/1ji0tej/coinbase_fends_off_targeted_github_action_attack/
+Number of Comments: 5
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Outsider-Trading
+Title: "The entire U.S. legislative body seems to have finally embraced our industry" - Sergey Nazarov
+Date: Sun Mar 23 14:25:58 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=jqzPXyiHzr4
+Permalink: /r/CryptoCurrency/comments/1ji0g09/the_entire_us_legislative_body_seems_to_have/
+Number of Comments: 1
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: What are the computers actually doing when mining bitcoin?
+Date: Sun Mar 23 13:50:00 WET 2025
+Text: So one complaint about bitcoin is all the energy used during mining. Bitcoin isn’t a physical thing — it doesn’t require work to generate it. If you want a million bitcoin, you just increase a variable. But that would just create inflation. The mining must provide something of value that the new bitcoin is being generated and exchanged for. So what is that computer generating? Is it something like folding@home, where the processing power is solving a problem (in that case, calculating protein folding) for someone who is then giving you new bitcoin for it? ChatGPT uses a lot of power, but it is providing an answer to a question. Whoever is generating the new bitcoin, what are they gaining from you mining it?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Permalink: /r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Number of Comments: 198
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: hiorea
+Title: U.S. Spot Bitcoin ETFs Buy $750M Worth of Bitcoin, Acquiring 8,775 BTC While 3,150 BTC Mined
+Date: Sun Mar 23 13:23:39 WET 2025
+Text: 
+URL: https://thedefiant.io/news/markets/u-s-spot-bitcoin-etfs-buy-750m-worth-bitcoin-acquiring-8775-btc-3150-btc-mined-c398785b
+Permalink: /r/CryptoCurrency/comments/1jhz63r/us_spot_bitcoin_etfs_buy_750m_worth_of_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Specialist_Ask_7058
+Title: Pretty thorough recommendations here on seed backups
+Date: Sun Mar 23 13:19:59 WET 2025
+Text: 
+URL: https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/
+Permalink: /r/CryptoCurrency/comments/1jhz3io/pretty_thorough_recommendations_here_on_seed/
+Number of Comments: 1
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Next_Statement6145
+Title: Trump’s White House return wipes out nearly 20% of Bitcoin millionaires
+Date: Sun Mar 23 13:15:03 WET 2025
+Text: 
+URL: https://finbold.com/trumps-white-house-return-wipes-out-nearly-20-of-bitcoin-millionaires/
+Permalink: /r/CryptoCurrency/comments/1jhz08e/trumps_white_house_return_wipes_out_nearly_20_of/
+Number of Comments: 366
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: CyberPunkMetalHead
+Title: How I built a crypto trading bot platform over the last 3 years
+Date: Sun Mar 23 12:18:05 WET 2025
+Text: 
+URL: https://cryptomaton.medium.com/how-i-built-a-crypto-trading-bot-platform-over-the-last-3-years-292c17132d99
+Permalink: /r/CryptoCurrency/comments/1jhxywv/how_i_built_a_crypto_trading_bot_platform_over/
+Number of Comments: 4
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: 4rkal
+Title: Not your keys, not your coins: keep your money off centralized exchanges
+Date: Sun Mar 23 11:46:55 WET 2025
+Text: 
+URL: https://cyphergoat.com/blog/posts/not-your-keys-not-your-coins/
+Permalink: /r/CryptoCurrency/comments/1jhxg4h/not_your_keys_not_your_coins_keep_your_money_off/
+Number of Comments: 28
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: KIG45
+Title: UAE Leads World in Crypto Obsession, Study Finds
+Date: Sun Mar 23 10:58:18 WET 2025
+Text: 
+URL: https://news.bitcoin.com/uae-leads-world-in-crypto-obsession-study-finds/
+Permalink: /r/CryptoCurrency/comments/1jhwpvf/uae_leads_world_in_crypto_obsession_study_finds/
+Number of Comments: 7
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: sadiq_238
+Title: Misleading crypto narratives continue, driven by 'sensationalist' sentiment
+Date: Sun Mar 23 10:43:52 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-market-narratives-misleading-sensationalist-sentiment-analysts
+Permalink: /r/CryptoCurrency/comments/1jhwign/misleading_crypto_narratives_continue_driven_by/
+Number of Comments: 14
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Shiratori-3
+Title: Sonic unveils high-yield algorithmic stablecoin, reigniting Terra-Luna ‘PTSD’
+Date: Sun Mar 23 10:38:23 WET 2025
+Text: ... Here we go again....
+
+&gt; The Sonic blockchain is working on the implementation of its yield-generating, algorithmic stablecoin despite fears over a potential collapse similar to the Terra-Luna meltdown that led to the industry’s longest crypto winter.
+
+&gt; Algorithmic stablecoins employ code-based mechanisms to ensure their price stability, as opposed to fiat stablecoins pegged directly to the value of the underlying currency.
+
+&gt; The Sonic blockchain is working on the implementation of an algorithmic stablecoin with up to 23% annual percentage rate (APR), according to Andre Cronje, co-founder of Sonic Labs and founder of Yearn.finance.
+
+&gt; Cronje wrote in a March 22 X post:
+
+&gt; “POC looks good. Yielding &gt; 200% APR @ 10m tvl, around 23.5% APR @ 100m, steady at around 4.9% at 1bn+. Will scale up and get team for a full release.”
+
+&gt; Sonic claims to be the world’s fastest Ethereum Virtual Machine (EVM) chain, with a “true” 720 milliseconds (ms) finality — the assurance that a transaction is irreversible, which happens after it is added to a block on the blockchain ledger.
+
+
+
+
+URL: https://cointelegraph.com/news/sonic-blockchain-algorithmic-stablecoin-andre-cronje
+Permalink: /r/CryptoCurrency/comments/1jhwfm3/sonic_unveils_highyield_algorithmic_stablecoin/
+Number of Comments: 7
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: kirtash93
+Title: Fidelity Joining the Tokenization Race: Launching an Ethereum Based Treasury Fund Investing in U.S. Treasury Bills, Competing with BlackRock's BUIDL
+Date: Sun Mar 23 10:37:12 WET 2025
+Text: According to this [tweet ](https://x.com/AggrNews/status/1903280631296950544)from AggrNews Fidelity is officially entering the tokenized assets competition launching a fund that invests in US Treasury Bills and of course **built on Ethereum**. Another TradFi giant embracing the best smart contract network out there.
+
+https://preview.redd.it/qzn0ctpq3fqe1.jpg?width=2092&amp;format=pjpg&amp;auto=webp&amp;s=2554f57586039669891fc3511bc200cc975a6705
+
+This is really big for Ethereum. It already has BlackRock BUIDL that has gained a lot of traction and now Fidelity, one of the largest asset managers in the world is trying to catch up in this competition. This news if confirmed to be true would validate Ethereum again as the go to network for institutional grade tokenization.
+
+This is big because it means more institutional adoption meaning in more money flows into Ethereum. It also shows the world that Ethereum is a great place to develop RWAs (Real World Assets).
+
+I don't know how we can be bearish on Ethereum with everything being built on Ethereum itself. It is a matter of time that this great project skyrockets again. Price is highly manipulated while whales keep buying from weak hands. It will come the day that they stop manipulating the price to buy cheap.
+
+Ethereum ecosystem keeps growing and it is going to be one of the biggest thing we have ever seen in our lives.
+
+Source:
+
+* Tweet: [https://x.com/AggrNews/status/1903280631296950544](https://x.com/AggrNews/status/1903280631296950544)
+* Transaction: [https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d](https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d)
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Permalink: /r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Number of Comments: 4
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Senicko65
+Title: Consolidation
+Date: Sun Mar 23 09:58:18 WET 2025
+Text: Alright, if you’re keeping tabs on the charts, you’ve clocked it already: Bitcoin, Ethereum, and XRP—the top three—are all in consolidation, trading flat in tight ranges. No breakout, no breakdown, just sideways action. You know the drill, but let’s unpack why it’s happening and what’s next.
+
+This consolidation screams indecision. The market’s basically paused, with traders sitting on their hands. Macro’s a big driver here—interest rate hikes, inflation still lingering, and the Fed’s next move hanging over everything like a cloud. Regulatory noise isn’t helping either; XRP’s still got that SEC/Ripple saga dragging on, and any ruling could flip its script fast. Meanwhile, BTC and ETH aren’t immune—global uncertainty’s keeping everyone cautious.
+
+But it’s not just the outside noise. We’ve got on-chain and ecosystem factors simmering too. Bitcoin’s halving is creeping closer, and you know how that tightens supply and sparks FOMO. Ethereum’s post-Merge upgrades are still settling in, with staking dynamics shifting the game. XRP’s banking on its cross-border niche, but adoption’s a slow burn. The market’s waiting for one of these to light the fuse.
+
+You’ve seen this pattern before—consolidation’s the calm before the storm. Bollinger Bands are probably squeezing, RSI’s neutral, and volume’s drying up. It’s textbook coiling. When it snaps, we’ll get a breakout—could be a bullish run if sentiment flips green, or a bleed-out if support cracks. Check the 50-day MA and key levels; they’ll tell you where it’s leaning.
+
+So, while it’s quiet, don’t zone out. Watch the catalysts—macro data drops, XRP court updates, or a whale move. This range won’t hold forever; the next shift’s coming, and you’ll want to be positioned when it hits.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Permalink: /r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Number of Comments: 23
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Dongerated
+Title: Feds Recover $7M—Now DOJ Urges Victims to Claim Share of Recovered Funds
+Date: Sun Mar 23 09:18:35 WET 2025
+Text: 
+URL: https://news.bitcoin.com/feds-seize-7m-in-crypto-scam-doj-tells-victims-come-get-your-money/
+Permalink: /r/CryptoCurrency/comments/1jhvbzw/feds_recover_7mnow_doj_urges_victims_to_claim/
+Number of Comments: 1
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Realistic_Poetry5800
+Title: XRP wipes $11 billion just 48 hours after Ripple case dismissed
+Date: Sun Mar 23 08:47:58 WET 2025
+Text: 
+URL: https://finbold.com/xrp-wipes-11-billion-just-48-hours-after-ripple-case-dismissed/
+Permalink: /r/CryptoCurrency/comments/1jhuxea/xrp_wipes_11_billion_just_48_hours_after_ripple/
+Number of Comments: 54
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: donutloop
+Title: D-Wave Introduces Quantum Blockchain Architecture, Featuring Enhanced Security and Efficiency over Classical Computing
+Date: Sun Mar 23 07:53:31 WET 2025
+Text: 
+URL: https://www.dwavequantum.com/company/newsroom/press-release/d-wave-introduces-quantum-blockchain-architecture-featuring-enhanced-security-and-efficiency-over-classical-computing/
+Permalink: /r/CryptoCurrency/comments/1jhu6rn/dwave_introduces_quantum_blockchain_architecture/
+Number of Comments: 2
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: blkchnDE
+Title: Australia Attempts To Establish Itself As A Crypto Leader | PeakD
+Date: Sun Mar 23 06:50:02 WET 2025
+Text: Hey everyone thanks for landing on another crypto blog. As we are waiting for a good rally for altcoin, some countries are doing great to adopt crypto. here I am talking about The Australian Treasury it is working closely with the crypto asset industry and the motive behind it is to establish clear regulations and make Australia a global leader in the sector.
+URL: https://peakd.com/hive-167922/@luckyali/australia-attempts-to-establish-itself-as-a-crypto-leader-2hf
+Permalink: /r/CryptoCurrency/comments/1jhtcbt/australia_attempts_to_establish_itself_as_a/
+Number of Comments: 25
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Crypto security will always be a game of ‘cat and mouse’ — Wallet exec
+Date: Sun Mar 23 03:53:20 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-security-hackers-cat-and-mouse-game-ledger-wallet-executive
+Permalink: /r/CryptoCurrency/comments/1jhqoai/crypto_security_will_always_be_a_game_of_cat_and/
+Number of Comments: 3
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: PornSoftware
+Title: Building a Blockchain Sports League (For a Sport You’ve Never Heard Of)
+Date: Sun Mar 23 03:21:01 WET 2025
+Text: 
+URL: https://dooplejoy.medium.com/topl-the-pole-join-my-weird-blockchain-sports-league-091c16ce1d8d
+Permalink: /r/CryptoCurrency/comments/1jhq4m2/building_a_blockchain_sports_league_for_a_sport/
+Number of Comments: 6
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Marius_jar
+Title: Dexscreener newly launched token email notification
+Date: Sun Mar 23 02:19:09 WET 2025
+Text: Does anyone know if there is some tool, script, bot or whatever that would send you email/telegram notifications when a new token appears on dexscreener based on your filters? Let's say "boosted token on solana chain and raydium dex with 5k minimum market cap and 2k liquidity". Something like that.
+
+  
+Or do I need custom script for that? Which I tried actually to make myself but shit doesn't work.
+
+This isn't some advanced or very custom like request. Surely there must be something like that? Or maybe at least some already existing and working script template/framework which you could customize. 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Permalink: /r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Number of Comments: 0
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Bitman321
+Title: Schedule Bitcoin transactions by lock time, fees or price (my open-source project)
+Date: Sun Mar 23 01:24:06 WET 2025
+Text: Hi Everyone, 
+
+I thought for a while about applications that could be useful for bitcoiners. I realised that there is no service on the market that allows you to schedule bitcoin transactions. 
+
+The problems such a service could solve: 
+
+* dead man's switch: allows someone to create a timelocked transaction that sends funds to a backup wallet if a user loses access to their keys or passes away, this would use nLockTime to ensure that the transaction is only broadcast after a certain amount of time
+* Auto reset your blockstream green 2fa multisig by scheduling a self transfer transaction to a fresh address
+* Transfer bitcoin when fees are low: create a transaction with a low fee and only broadcast it when fees come down, preventing it from getting stuck in the mempool
+* Transfer bitcoin at a certain USD price: send your bitcoin to the exchange, or to buy a particular item only when it is at a certain price
+
+My project allows you to do all this. It is an open-source API that allows you to post your signed raw transactions and only broadcast them when certain conditions are met. Transactions can also be removed from the service at anytime. 
+
+Code: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler
+
+API docs: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler?tab=readme-ov-file#api
+
+Endpoint: https://bitcoin-transaction-scheduler-e26333afefee.herokuapp.com
+
+What do you guys think about this project? Any suggestions for additional features? Please let me know. 
+
+Please note that this is just a hobby project and should only be used for trivial amounts. Use it at your own risk.
+
+Interested in other bitcoin projects? Check out https://bitcoinprojects.net/.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Permalink: /r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Number of Comments: 3
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: Savi321
+Title: Centralized exchanges’ Kodak moment — time to adopt a new model or stay behind
+Date: Sun Mar 23 01:15:42 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/centralized-exchanges-kodak-moment
+Permalink: /r/CryptoCurrency/comments/1jhnuif/centralized_exchanges_kodak_moment_time_to_adopt/
+Number of Comments: 2
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: MangoGoLucky
+Title: Best app for fast trading?
+Date: Sun Mar 23 01:15:20 WET 2025
+Text: Hello, I am thinking of getting into day trading crypto and have been paper trading on the app trading game were you can quickly buy and sell crypto quickly as it is very mobile friendly. The buy and sell buttons are on the same page and below a graph of the stock. Does anyone know an app for real tradinf that had a similiar interface?
+
+I have coinbase downloaded but it seems like between buying I would then need to click alot of buttons between selling and I prefer to operate quickly. 
+
+Thank you 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Permalink: /r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Number of Comments: 5
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: CryptoDaily-
+Title: Daily Crypto Discussion - March 23, 2025 (GMT+0)
+Date: Sun Mar 23 00:00:58 WET 2025
+Text: **Welcome to the Daily Crypto Discussion thread. Please read the disclaimer and rules before participating.**
+ 
+***
+&amp;nbsp;
+    
+###Disclaimer:
+
+Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known "pump and dump (PnD) groups" for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here. 
+
+
+**Please be careful about what information you share and the actions you take.** Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.
+    
+***
+&amp;nbsp;
+    
+###Rules:
+
+  - All [sub rules](https://www.reddit.com/r/CryptoCurrency/about/rules/) apply in this thread. The prior exemption for karma and age requirements is no longer in effect. 
+  - Discussion topics must be related to cryptocurrency.
+  - Behave with civility and politeness. Do not use offensive, racist or homophobic language.
+  - Comments will be sorted by newest first.
+  
+***
+&amp;nbsp;
+
+###Useful Links:
+
+  - [**Beginner Resources**](https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources)
+
+  - [**Intro to r/Cryptocurrency MOONs 🌔**](https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/)
+
+  - [**MOONs Wiki Page**](https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/)
+
+  - [**r/CryptoCurrency Discord**](https://www.reddit.com/r/CryptoCurrency/comments/kth255/join_the_crypto_currency_discord/)
+
+  - [**r/CryptoCurrencyMemes**](https://www.reddit.com/r/cryptocurrencymemes)
+
+  - [**Prior Daily Discussions**](https://www.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Crypto+Discussion+-+%22+&amp;restrict_sr=on&amp;sort=new&amp;t=all) - (Link fixed.)
+
+  - [**r/CryptoCurrencyMeta**](https://www.reddit.com/r/CryptoCurrencyMeta/) - Join in on all meta discussions regarding r/CryptoCurrency whether it be moon distributions or governance.
+
+***
+&amp;nbsp;
+
+### Finding Other Discussion Threads
+
+Follow a mod account below to be notified in your home feed when the latest r/CC discussion thread of your interest is posted.
+
+* u/CryptoDaily- — Posts the Daily Crypto Discussion threads. 
+
+* u/CryptoSkeptics — Posts the Monthly Skeptics Discussion threads.
+ 
+* u/CryptoOptimists- — Posts the Monthly Optimists Discussion threads.
+
+* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Permalink: /r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Number of Comments: 266
+Subreddit Subscribers: 9829060
+------------------------------------------------------------
+Author: letsgooo26
+Title: OCC Broadens Crypto Banking Options🚀🚀🚀
+Date: Sun Mar 23 22:55:19 WET 2025
+Text: The Office of the Comptroller of the Currency (OCC) is creating more ways for banks to get involved with crypto, treating it more like traditional finance. They're offering clearer guidance to banks that want to offer crypto services, requiring them to manage crypto risks like they would with regular assets. 
+
+"The publication that has attracted such attention in recent days actually can be traced back to a 2020 publication, titled Interpretative Letter 1170, which addressed the authority and manner in which banks can offer crypto-adjacent services to customers. In the 2020 publication the OCC also reiterated that banks seeking to offer services to crypto clients and investors would need to apply the same risk management practices to crypto as are applied to traditional assets. In March 2025 the Acting Comptroller of the Currency issued a new publication, Interpretative Letter 1183, that has provided the sought after clarity and specificity requested by the TradFi space to engage in crypto activities."
+
+The gates are finally opening up. This is great for the entire crypto industry and once clarity is added and banks are integrated into crypto ecosystem, we will then be shooting up into space. By then rate cuts are in as well and 💥 💯🚀🚀🚀
+URL: https://www.forbes.com/sites/digital-assets/2025/03/23/what-crypto-investors-should-know-about-the-recent-occ-pivot-on-crypto-banking/?utm_source
+Permalink: /r/CryptoCurrency/comments/1jic8ca/occ_broadens_crypto_banking_options/
+Number of Comments: 6
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: InclineDumbbellPress
+Title: Global Bitcoin Ownership by Continent in 2025: North America Leads with 10.7% Adoption
+Date: Sun Mar 23 22:33:34 WET 2025
+Text: 
+URL: https://i.redd.it/r3m5kj3aniqe1.png
+Permalink: /r/CryptoCurrency/comments/1jibqxb/global_bitcoin_ownership_by_continent_in_2025/
+Number of Comments: 12
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Shoddy_Trick7610
+Title: Fidelity Files for OnChain U.S. Treasury Fund, Joining the Asset Tokenization Race
+Date: Sun Mar 23 22:11:20 WET 2025
+Text: 
+URL: https://www.coindesk.com/business/2025/03/22/fidelity-files-for-onchain-u-s-treasury-fund-joining-the-asset-tokenization-race
+Permalink: /r/CryptoCurrency/comments/1jib919/fidelity_files_for_onchain_us_treasury_fund/
+Number of Comments: 9
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: How is generating hashes useful to anyone?
+Date: Sun Mar 23 21:37:39 WET 2025
+Text: Ok, so it was explained to me that bitcoin mining is about generating hash tags to find one that is numerically unique. There are two parts to this:
+
+1: Proving you did the work and rewarding you for the work done.
+
+2: Rewarding you for the result.
+
+People have described it like gold mining, where everyone works to find something rare. It’s also been described as a lottery.
+
+If you have three miners mining gold, and one finds 1 ounce of gold every 8 hours, and that’s average, and you pay them roughly $3000 for that, are you paying for the one ounce of gold or the 8 hours of work?
+
+If the second miner does the same amount of work yet only finds half an ounce, what are they paid? Is it assumed that they didn’t work 8 hours due to their result? That the result is the proof of work?
+
+If the third miner has a magic pick that locates and digs twice as fast, so they spend four hours finding an ounce of gold, and four hours sleeping, what are they paid? Their result indicates they worked 8 hours, as far as anyone else is concerned.
+
+Gold can actually be made into something. It has value based on its beauty. It can be made into things and shown off and appreciated. How is a string of numbers (a hash code or a bitcoin balance) in any way comparable to that?
+
+As for a lottery, people are investing in that. Everyone puts money in a box, and one person gets the box at the end. With bitcoin, my electric company gets the money from my computer’s processing. Then new money appears out of nowhere and is rewarded to me.
+
+I think I’m understanding WHAT is happening, but I’m confused by WHY. What value is being generated? If gold wasn’t beautiful, why would you pay someone to mine it? Or is it simply the rarity? The hoarding and exchanging of hash values as some symbol of “I have a rare thing, don’t you want this rare thing?”
+
+I mean, at the end of the day, I do work to provide someone with goods and services they want and need, and in exchange, I get the goods and services I want and need. By way of a silly middleman called money. So what good or service is spending time and energy generating hash values creating?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Permalink: /r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Number of Comments: 20
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: partymsl
+Title: Circle Mints $250 Million USDC at Treasury, Totaling 249,973,750 USD on March 23, 2025
+Date: Sun Mar 23 21:21:26 WET 2025
+Text: 
+URL: https://thedefiant.io/news/blockchains/circle-mints-250-million-usdc-treasury-totaling-249973750-usd-on-march-23-2025-49ca0e03
+Permalink: /r/CryptoCurrency/comments/1jia41f/circle_mints_250_million_usdc_at_treasury/
+Number of Comments: 5
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: kirtash93
+Title: Normal People vs Traders
+Date: Sun Mar 23 21:05:28 WET 2025
+Text: 
+URL: https://i.redd.it/saxw0e5x7iqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji9r0b/normal_people_vs_traders/
+Number of Comments: 39
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Illperformance6969
+Title: Solana has become a breeding ground for pump and dump memecoin ‘cabals’: Bloomberg
+Date: Sun Mar 23 20:39:50 WET 2025
+Text: 
+URL: https://cryptoslate.com/solana-has-become-a-breeding-ground-for-pump-and-dump-memecoin-cabals-bloomberg/
+Permalink: /r/CryptoCurrency/comments/1ji95el/solana_has_become_a_breeding_ground_for_pump_and/
+Number of Comments: 64
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: KIG45
+Title: Saylor hints at impending BTC purchase after latest capital raise
+Date: Sun Mar 23 19:09:22 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/saylor-hints-impending-btc-buy-after-capital-raise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound
+Permalink: /r/CryptoCurrency/comments/1ji70kc/saylor_hints_at_impending_btc_purchase_after/
+Number of Comments: 29
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: squeeps1
+Title: The Tokenization Revolution: Reshaping How We Own and Trade Assets
+Date: Sun Mar 23 18:55:05 WET 2025
+Text: 
+URL: https://www.entrepreneur.com/en-au/news-and-trends/the-tokenization-revolution-reshaping-how-we-own-and-trade/487127
+Permalink: /r/CryptoCurrency/comments/1ji6o09/the_tokenization_revolution_reshaping_how_we_own/
+Number of Comments: 11
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Numerous_Wonders81
+Title: Oracle Check: Where Chainlink Isn’t the Default
+Date: Sun Mar 23 18:50:29 WET 2025
+Text: Algorand (ALGO) – ❌ No: Uses native oracles like Algoracle.
+
+Hedera (HBAR) – ❌ No: Relies on its own consensus service.
+
+Sui – ❌ No: Non-EVM; no Chainlink integration.
+
+NEAR – ❌ No: native support. Aurora (EVM layer) might allow it.
+
+Cardano (ADA) – ❌ No: Uses custom oracles like Charli3. No Chainlink.
+
+While Chainlink is dominant in the EVM world, it’s not the default across newer L1s. Worth watching. These chains have taken different approaches to data feeds, and not all rely on third-party oracle networks like Chainlink.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Permalink: /r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Number of Comments: 9
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Fidelity launches 'OnChain' Ethereum-tracked shares for Treasury money market fund
+Date: Sun Mar 23 16:50:44 WET 2025
+Text: 
+URL: https://www.theblock.co/post/347637/fidelity-launches-onchain-ethereum-tracked-shares-for-treasury-money-market-fund
+Permalink: /r/CryptoCurrency/comments/1ji3p9s/fidelity_launches_onchain_ethereumtracked_shares/
+Number of Comments: 2
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Odd-Radio-8500
+Title: Degen in the womb...
+Date: Sun Mar 23 16:36:11 WET 2025
+Text: 
+URL: https://i.redd.it/zp668gfvvgqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji3d1u/degen_in_the_womb/
+Number of Comments: 29
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: GabeSter
+Title: How can anyone justify this? Crypto.com user loses 13% of their funds to sell their crypto. Their position was up 15% and considering the buy fee they probably lost 20% in fees overall - which makes their +15% profit on the trade a net loss.
+Date: Sun Mar 23 16:33:13 WET 2025
+Text: What you are seeing is Crypto.com's way of robbing their users through spread. They mass market and direct crypto noobs to the crypto.com app where they scam users with insane fees. Historically around 15% for a full trade but this full trade would be closer to 20% in fees.  
+  
+When you buy on the app crypto.com sells you crypto for way above above market price, and when you sell on the app crypto.com sells your crypto for way below market price, robbing you of your funds in both directions. In this case this user was up 15% but is still set to lose money on the trade - due to crypto.com's scammy practices and stealing 20% of their funds on the trade.
+
+You might recall a crypto.com ad "ace your trades and we'll manage everything else" - it should have just said "ace your trades so we can steal your profit."
+URL: https://i.redd.it/429vu7t0sgqe1.png
+Permalink: /r/CryptoCurrency/comments/1ji3al8/how_can_anyone_justify_this_cryptocom_user_loses/
+Number of Comments: 268
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Illperformance6969
+Title: PancakeSwap overtakes Uniswap as leading DEX with $14b weekly volume
+Date: Sun Mar 23 16:14:40 WET 2025
+Text: 
+URL: https://crypto.news/pancakeswap-overtakes-uniswap-as-leading-dex-with-14b-weekly-volume/
+Permalink: /r/CryptoCurrency/comments/1ji2vaf/pancakeswap_overtakes_uniswap_as_leading_dex_with/
+Number of Comments: 7
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: goldyluckinblokchain
+Title: Dormant Bitcoin Whale Wallet From 2016 Moves 3,000 BTC
+Date: Sun Mar 23 16:00:53 WET 2025
+Text: 
+URL: https://beincrypto.com/bitcoin-whale-resurfaces-after-8-years/
+Permalink: /r/CryptoCurrency/comments/1ji2jmm/dormant_bitcoin_whale_wallet_from_2016_moves_3000/
+Number of Comments: 49
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: davideownzall
+Title: Ethereum VS Solana | Data on Wallets, Transactions, Fees, TVL and Marketcap | March 2025
+Date: Sun Mar 23 15:40:15 WET 2025
+Text: 
+URL: https://peakd.com/ethereum/@dalz/ethereum-vs-solana-or-data-on-wallets-transactions-fees-tvl-and-marketcap-or-march-2025
+Permalink: /r/CryptoCurrency/comments/1ji22uh/ethereum_vs_solana_data_on_wallets_transactions/
+Number of Comments: 0
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: northcasewhite
+Title: Kraken posts doctored image of Trump revealing the BTC whitepaper on the Oval Office wall.
+Date: Sun Mar 23 15:31:28 WET 2025
+Text: 
+URL: https://x.com/krakenfx/status/1903510367587745866
+Permalink: /r/CryptoCurrency/comments/1ji1vtz/kraken_posts_doctored_image_of_trump_revealing/
+Number of Comments: 0
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: sadiq_238
+Title: Ripple, Mt. Gox Founder Bets $1 Billion That He Can Replace the International Space Station
+Date: Sun Mar 23 15:26:38 WET 2025
+Text: 
+URL: https://decrypt.co/311219/ripple-mtgox-founder-bets-billion-space-station
+Permalink: /r/CryptoCurrency/comments/1ji1rwb/ripple_mt_gox_founder_bets_1_billion_that_he_can/
+Number of Comments: 21
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: KIG45
+Title: Coinbase fends off targeted GitHub Action attack in early-stage breach attempt
+Date: Sun Mar 23 14:43:06 WET 2025
+Text: 
+URL: https://www.cryptopolitan.com/coinbase-fends-off-github-action-attack/
+Permalink: /r/CryptoCurrency/comments/1ji0tej/coinbase_fends_off_targeted_github_action_attack/
+Number of Comments: 5
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Outsider-Trading
+Title: "The entire U.S. legislative body seems to have finally embraced our industry" - Sergey Nazarov
+Date: Sun Mar 23 14:25:58 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=jqzPXyiHzr4
+Permalink: /r/CryptoCurrency/comments/1ji0g09/the_entire_us_legislative_body_seems_to_have/
+Number of Comments: 1
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: What are the computers actually doing when mining bitcoin?
+Date: Sun Mar 23 13:50:00 WET 2025
+Text: So one complaint about bitcoin is all the energy used during mining. Bitcoin isn’t a physical thing — it doesn’t require work to generate it. If you want a million bitcoin, you just increase a variable. But that would just create inflation. The mining must provide something of value that the new bitcoin is being generated and exchanged for. So what is that computer generating? Is it something like folding@home, where the processing power is solving a problem (in that case, calculating protein folding) for someone who is then giving you new bitcoin for it? ChatGPT uses a lot of power, but it is providing an answer to a question. Whoever is generating the new bitcoin, what are they gaining from you mining it?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Permalink: /r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Number of Comments: 198
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: hiorea
+Title: U.S. Spot Bitcoin ETFs Buy $750M Worth of Bitcoin, Acquiring 8,775 BTC While 3,150 BTC Mined
+Date: Sun Mar 23 13:23:39 WET 2025
+Text: 
+URL: https://thedefiant.io/news/markets/u-s-spot-bitcoin-etfs-buy-750m-worth-bitcoin-acquiring-8775-btc-3150-btc-mined-c398785b
+Permalink: /r/CryptoCurrency/comments/1jhz63r/us_spot_bitcoin_etfs_buy_750m_worth_of_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Specialist_Ask_7058
+Title: Pretty thorough recommendations here on seed backups
+Date: Sun Mar 23 13:19:59 WET 2025
+Text: 
+URL: https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/
+Permalink: /r/CryptoCurrency/comments/1jhz3io/pretty_thorough_recommendations_here_on_seed/
+Number of Comments: 1
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Next_Statement6145
+Title: Trump’s White House return wipes out nearly 20% of Bitcoin millionaires
+Date: Sun Mar 23 13:15:03 WET 2025
+Text: 
+URL: https://finbold.com/trumps-white-house-return-wipes-out-nearly-20-of-bitcoin-millionaires/
+Permalink: /r/CryptoCurrency/comments/1jhz08e/trumps_white_house_return_wipes_out_nearly_20_of/
+Number of Comments: 366
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: CyberPunkMetalHead
+Title: How I built a crypto trading bot platform over the last 3 years
+Date: Sun Mar 23 12:18:05 WET 2025
+Text: 
+URL: https://cryptomaton.medium.com/how-i-built-a-crypto-trading-bot-platform-over-the-last-3-years-292c17132d99
+Permalink: /r/CryptoCurrency/comments/1jhxywv/how_i_built_a_crypto_trading_bot_platform_over/
+Number of Comments: 4
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: 4rkal
+Title: Not your keys, not your coins: keep your money off centralized exchanges
+Date: Sun Mar 23 11:46:55 WET 2025
+Text: 
+URL: https://cyphergoat.com/blog/posts/not-your-keys-not-your-coins/
+Permalink: /r/CryptoCurrency/comments/1jhxg4h/not_your_keys_not_your_coins_keep_your_money_off/
+Number of Comments: 28
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: KIG45
+Title: UAE Leads World in Crypto Obsession, Study Finds
+Date: Sun Mar 23 10:58:18 WET 2025
+Text: 
+URL: https://news.bitcoin.com/uae-leads-world-in-crypto-obsession-study-finds/
+Permalink: /r/CryptoCurrency/comments/1jhwpvf/uae_leads_world_in_crypto_obsession_study_finds/
+Number of Comments: 7
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: sadiq_238
+Title: Misleading crypto narratives continue, driven by 'sensationalist' sentiment
+Date: Sun Mar 23 10:43:52 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-market-narratives-misleading-sensationalist-sentiment-analysts
+Permalink: /r/CryptoCurrency/comments/1jhwign/misleading_crypto_narratives_continue_driven_by/
+Number of Comments: 14
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Shiratori-3
+Title: Sonic unveils high-yield algorithmic stablecoin, reigniting Terra-Luna ‘PTSD’
+Date: Sun Mar 23 10:38:23 WET 2025
+Text: ... Here we go again....
+
+&gt; The Sonic blockchain is working on the implementation of its yield-generating, algorithmic stablecoin despite fears over a potential collapse similar to the Terra-Luna meltdown that led to the industry’s longest crypto winter.
+
+&gt; Algorithmic stablecoins employ code-based mechanisms to ensure their price stability, as opposed to fiat stablecoins pegged directly to the value of the underlying currency.
+
+&gt; The Sonic blockchain is working on the implementation of an algorithmic stablecoin with up to 23% annual percentage rate (APR), according to Andre Cronje, co-founder of Sonic Labs and founder of Yearn.finance.
+
+&gt; Cronje wrote in a March 22 X post:
+
+&gt; “POC looks good. Yielding &gt; 200% APR @ 10m tvl, around 23.5% APR @ 100m, steady at around 4.9% at 1bn+. Will scale up and get team for a full release.”
+
+&gt; Sonic claims to be the world’s fastest Ethereum Virtual Machine (EVM) chain, with a “true” 720 milliseconds (ms) finality — the assurance that a transaction is irreversible, which happens after it is added to a block on the blockchain ledger.
+
+
+
+
+URL: https://cointelegraph.com/news/sonic-blockchain-algorithmic-stablecoin-andre-cronje
+Permalink: /r/CryptoCurrency/comments/1jhwfm3/sonic_unveils_highyield_algorithmic_stablecoin/
+Number of Comments: 7
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: kirtash93
+Title: Fidelity Joining the Tokenization Race: Launching an Ethereum Based Treasury Fund Investing in U.S. Treasury Bills, Competing with BlackRock's BUIDL
+Date: Sun Mar 23 10:37:12 WET 2025
+Text: According to this [tweet ](https://x.com/AggrNews/status/1903280631296950544)from AggrNews Fidelity is officially entering the tokenized assets competition launching a fund that invests in US Treasury Bills and of course **built on Ethereum**. Another TradFi giant embracing the best smart contract network out there.
+
+https://preview.redd.it/qzn0ctpq3fqe1.jpg?width=2092&amp;format=pjpg&amp;auto=webp&amp;s=2554f57586039669891fc3511bc200cc975a6705
+
+This is really big for Ethereum. It already has BlackRock BUIDL that has gained a lot of traction and now Fidelity, one of the largest asset managers in the world is trying to catch up in this competition. This news if confirmed to be true would validate Ethereum again as the go to network for institutional grade tokenization.
+
+This is big because it means more institutional adoption meaning in more money flows into Ethereum. It also shows the world that Ethereum is a great place to develop RWAs (Real World Assets).
+
+I don't know how we can be bearish on Ethereum with everything being built on Ethereum itself. It is a matter of time that this great project skyrockets again. Price is highly manipulated while whales keep buying from weak hands. It will come the day that they stop manipulating the price to buy cheap.
+
+Ethereum ecosystem keeps growing and it is going to be one of the biggest thing we have ever seen in our lives.
+
+Source:
+
+* Tweet: [https://x.com/AggrNews/status/1903280631296950544](https://x.com/AggrNews/status/1903280631296950544)
+* Transaction: [https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d](https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d)
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Permalink: /r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Number of Comments: 4
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Senicko65
+Title: Consolidation
+Date: Sun Mar 23 09:58:18 WET 2025
+Text: Alright, if you’re keeping tabs on the charts, you’ve clocked it already: Bitcoin, Ethereum, and XRP—the top three—are all in consolidation, trading flat in tight ranges. No breakout, no breakdown, just sideways action. You know the drill, but let’s unpack why it’s happening and what’s next.
+
+This consolidation screams indecision. The market’s basically paused, with traders sitting on their hands. Macro’s a big driver here—interest rate hikes, inflation still lingering, and the Fed’s next move hanging over everything like a cloud. Regulatory noise isn’t helping either; XRP’s still got that SEC/Ripple saga dragging on, and any ruling could flip its script fast. Meanwhile, BTC and ETH aren’t immune—global uncertainty’s keeping everyone cautious.
+
+But it’s not just the outside noise. We’ve got on-chain and ecosystem factors simmering too. Bitcoin’s halving is creeping closer, and you know how that tightens supply and sparks FOMO. Ethereum’s post-Merge upgrades are still settling in, with staking dynamics shifting the game. XRP’s banking on its cross-border niche, but adoption’s a slow burn. The market’s waiting for one of these to light the fuse.
+
+You’ve seen this pattern before—consolidation’s the calm before the storm. Bollinger Bands are probably squeezing, RSI’s neutral, and volume’s drying up. It’s textbook coiling. When it snaps, we’ll get a breakout—could be a bullish run if sentiment flips green, or a bleed-out if support cracks. Check the 50-day MA and key levels; they’ll tell you where it’s leaning.
+
+So, while it’s quiet, don’t zone out. Watch the catalysts—macro data drops, XRP court updates, or a whale move. This range won’t hold forever; the next shift’s coming, and you’ll want to be positioned when it hits.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Permalink: /r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Number of Comments: 23
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Dongerated
+Title: Feds Recover $7M—Now DOJ Urges Victims to Claim Share of Recovered Funds
+Date: Sun Mar 23 09:18:35 WET 2025
+Text: 
+URL: https://news.bitcoin.com/feds-seize-7m-in-crypto-scam-doj-tells-victims-come-get-your-money/
+Permalink: /r/CryptoCurrency/comments/1jhvbzw/feds_recover_7mnow_doj_urges_victims_to_claim/
+Number of Comments: 1
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Realistic_Poetry5800
+Title: XRP wipes $11 billion just 48 hours after Ripple case dismissed
+Date: Sun Mar 23 08:47:58 WET 2025
+Text: 
+URL: https://finbold.com/xrp-wipes-11-billion-just-48-hours-after-ripple-case-dismissed/
+Permalink: /r/CryptoCurrency/comments/1jhuxea/xrp_wipes_11_billion_just_48_hours_after_ripple/
+Number of Comments: 54
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: donutloop
+Title: D-Wave Introduces Quantum Blockchain Architecture, Featuring Enhanced Security and Efficiency over Classical Computing
+Date: Sun Mar 23 07:53:31 WET 2025
+Text: 
+URL: https://www.dwavequantum.com/company/newsroom/press-release/d-wave-introduces-quantum-blockchain-architecture-featuring-enhanced-security-and-efficiency-over-classical-computing/
+Permalink: /r/CryptoCurrency/comments/1jhu6rn/dwave_introduces_quantum_blockchain_architecture/
+Number of Comments: 2
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: blkchnDE
+Title: Australia Attempts To Establish Itself As A Crypto Leader | PeakD
+Date: Sun Mar 23 06:50:02 WET 2025
+Text: Hey everyone thanks for landing on another crypto blog. As we are waiting for a good rally for altcoin, some countries are doing great to adopt crypto. here I am talking about The Australian Treasury it is working closely with the crypto asset industry and the motive behind it is to establish clear regulations and make Australia a global leader in the sector.
+URL: https://peakd.com/hive-167922/@luckyali/australia-attempts-to-establish-itself-as-a-crypto-leader-2hf
+Permalink: /r/CryptoCurrency/comments/1jhtcbt/australia_attempts_to_establish_itself_as_a/
+Number of Comments: 25
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Crypto security will always be a game of ‘cat and mouse’ — Wallet exec
+Date: Sun Mar 23 03:53:20 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-security-hackers-cat-and-mouse-game-ledger-wallet-executive
+Permalink: /r/CryptoCurrency/comments/1jhqoai/crypto_security_will_always_be_a_game_of_cat_and/
+Number of Comments: 3
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: PornSoftware
+Title: Building a Blockchain Sports League (For a Sport You’ve Never Heard Of)
+Date: Sun Mar 23 03:21:01 WET 2025
+Text: 
+URL: https://dooplejoy.medium.com/topl-the-pole-join-my-weird-blockchain-sports-league-091c16ce1d8d
+Permalink: /r/CryptoCurrency/comments/1jhq4m2/building_a_blockchain_sports_league_for_a_sport/
+Number of Comments: 6
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Marius_jar
+Title: Dexscreener newly launched token email notification
+Date: Sun Mar 23 02:19:09 WET 2025
+Text: Does anyone know if there is some tool, script, bot or whatever that would send you email/telegram notifications when a new token appears on dexscreener based on your filters? Let's say "boosted token on solana chain and raydium dex with 5k minimum market cap and 2k liquidity". Something like that.
+
+  
+Or do I need custom script for that? Which I tried actually to make myself but shit doesn't work.
+
+This isn't some advanced or very custom like request. Surely there must be something like that? Or maybe at least some already existing and working script template/framework which you could customize. 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Permalink: /r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Number of Comments: 0
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Bitman321
+Title: Schedule Bitcoin transactions by lock time, fees or price (my open-source project)
+Date: Sun Mar 23 01:24:06 WET 2025
+Text: Hi Everyone, 
+
+I thought for a while about applications that could be useful for bitcoiners. I realised that there is no service on the market that allows you to schedule bitcoin transactions. 
+
+The problems such a service could solve: 
+
+* dead man's switch: allows someone to create a timelocked transaction that sends funds to a backup wallet if a user loses access to their keys or passes away, this would use nLockTime to ensure that the transaction is only broadcast after a certain amount of time
+* Auto reset your blockstream green 2fa multisig by scheduling a self transfer transaction to a fresh address
+* Transfer bitcoin when fees are low: create a transaction with a low fee and only broadcast it when fees come down, preventing it from getting stuck in the mempool
+* Transfer bitcoin at a certain USD price: send your bitcoin to the exchange, or to buy a particular item only when it is at a certain price
+
+My project allows you to do all this. It is an open-source API that allows you to post your signed raw transactions and only broadcast them when certain conditions are met. Transactions can also be removed from the service at anytime. 
+
+Code: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler
+
+API docs: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler?tab=readme-ov-file#api
+
+Endpoint: https://bitcoin-transaction-scheduler-e26333afefee.herokuapp.com
+
+What do you guys think about this project? Any suggestions for additional features? Please let me know. 
+
+Please note that this is just a hobby project and should only be used for trivial amounts. Use it at your own risk.
+
+Interested in other bitcoin projects? Check out https://bitcoinprojects.net/.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Permalink: /r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Number of Comments: 3
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: Savi321
+Title: Centralized exchanges’ Kodak moment — time to adopt a new model or stay behind
+Date: Sun Mar 23 01:15:42 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/centralized-exchanges-kodak-moment
+Permalink: /r/CryptoCurrency/comments/1jhnuif/centralized_exchanges_kodak_moment_time_to_adopt/
+Number of Comments: 2
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: MangoGoLucky
+Title: Best app for fast trading?
+Date: Sun Mar 23 01:15:20 WET 2025
+Text: Hello, I am thinking of getting into day trading crypto and have been paper trading on the app trading game were you can quickly buy and sell crypto quickly as it is very mobile friendly. The buy and sell buttons are on the same page and below a graph of the stock. Does anyone know an app for real tradinf that had a similiar interface?
+
+I have coinbase downloaded but it seems like between buying I would then need to click alot of buttons between selling and I prefer to operate quickly. 
+
+Thank you 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Permalink: /r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Number of Comments: 5
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: CryptoDaily-
+Title: Daily Crypto Discussion - March 23, 2025 (GMT+0)
+Date: Sun Mar 23 00:00:58 WET 2025
+Text: **Welcome to the Daily Crypto Discussion thread. Please read the disclaimer and rules before participating.**
+ 
+***
+&amp;nbsp;
+    
+###Disclaimer:
+
+Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known "pump and dump (PnD) groups" for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here. 
+
+
+**Please be careful about what information you share and the actions you take.** Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.
+    
+***
+&amp;nbsp;
+    
+###Rules:
+
+  - All [sub rules](https://www.reddit.com/r/CryptoCurrency/about/rules/) apply in this thread. The prior exemption for karma and age requirements is no longer in effect. 
+  - Discussion topics must be related to cryptocurrency.
+  - Behave with civility and politeness. Do not use offensive, racist or homophobic language.
+  - Comments will be sorted by newest first.
+  
+***
+&amp;nbsp;
+
+###Useful Links:
+
+  - [**Beginner Resources**](https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources)
+
+  - [**Intro to r/Cryptocurrency MOONs 🌔**](https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/)
+
+  - [**MOONs Wiki Page**](https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/)
+
+  - [**r/CryptoCurrency Discord**](https://www.reddit.com/r/CryptoCurrency/comments/kth255/join_the_crypto_currency_discord/)
+
+  - [**r/CryptoCurrencyMemes**](https://www.reddit.com/r/cryptocurrencymemes)
+
+  - [**Prior Daily Discussions**](https://www.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Crypto+Discussion+-+%22+&amp;restrict_sr=on&amp;sort=new&amp;t=all) - (Link fixed.)
+
+  - [**r/CryptoCurrencyMeta**](https://www.reddit.com/r/CryptoCurrencyMeta/) - Join in on all meta discussions regarding r/CryptoCurrency whether it be moon distributions or governance.
+
+***
+&amp;nbsp;
+
+### Finding Other Discussion Threads
+
+Follow a mod account below to be notified in your home feed when the latest r/CC discussion thread of your interest is posted.
+
+* u/CryptoDaily- — Posts the Daily Crypto Discussion threads. 
+
+* u/CryptoSkeptics — Posts the Monthly Skeptics Discussion threads.
+ 
+* u/CryptoOptimists- — Posts the Monthly Optimists Discussion threads.
+
+* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Permalink: /r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Number of Comments: 266
+Subreddit Subscribers: 9829074
+------------------------------------------------------------
+Author: letsgooo26
+Title: OCC Broadens Crypto Banking Options🚀🚀🚀
+Date: Sun Mar 23 22:55:19 WET 2025
+Text: The Office of the Comptroller of the Currency (OCC) is creating more ways for banks to get involved with crypto, treating it more like traditional finance. They're offering clearer guidance to banks that want to offer crypto services, requiring them to manage crypto risks like they would with regular assets. 
+
+"The publication that has attracted such attention in recent days actually can be traced back to a 2020 publication, titled Interpretative Letter 1170, which addressed the authority and manner in which banks can offer crypto-adjacent services to customers. In the 2020 publication the OCC also reiterated that banks seeking to offer services to crypto clients and investors would need to apply the same risk management practices to crypto as are applied to traditional assets. In March 2025 the Acting Comptroller of the Currency issued a new publication, Interpretative Letter 1183, that has provided the sought after clarity and specificity requested by the TradFi space to engage in crypto activities."
+
+The gates are finally opening up. This is great for the entire crypto industry and once clarity is added and banks are integrated into crypto ecosystem, we will then be shooting up into space. By then rate cuts are in as well and 💥 💯🚀🚀🚀
+URL: https://www.forbes.com/sites/digital-assets/2025/03/23/what-crypto-investors-should-know-about-the-recent-occ-pivot-on-crypto-banking/?utm_source
+Permalink: /r/CryptoCurrency/comments/1jic8ca/occ_broadens_crypto_banking_options/
+Number of Comments: 6
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: InclineDumbbellPress
+Title: Global Bitcoin Ownership by Continent in 2025: North America Leads with 10.7% Adoption
+Date: Sun Mar 23 22:33:34 WET 2025
+Text: 
+URL: https://i.redd.it/r3m5kj3aniqe1.png
+Permalink: /r/CryptoCurrency/comments/1jibqxb/global_bitcoin_ownership_by_continent_in_2025/
+Number of Comments: 12
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Shoddy_Trick7610
+Title: Fidelity Files for OnChain U.S. Treasury Fund, Joining the Asset Tokenization Race
+Date: Sun Mar 23 22:11:20 WET 2025
+Text: 
+URL: https://www.coindesk.com/business/2025/03/22/fidelity-files-for-onchain-u-s-treasury-fund-joining-the-asset-tokenization-race
+Permalink: /r/CryptoCurrency/comments/1jib919/fidelity_files_for_onchain_us_treasury_fund/
+Number of Comments: 9
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: How is generating hashes useful to anyone?
+Date: Sun Mar 23 21:37:39 WET 2025
+Text: Ok, so it was explained to me that bitcoin mining is about generating hash tags to find one that is numerically unique. There are two parts to this:
+
+1: Proving you did the work and rewarding you for the work done.
+
+2: Rewarding you for the result.
+
+People have described it like gold mining, where everyone works to find something rare. It’s also been described as a lottery.
+
+If you have three miners mining gold, and one finds 1 ounce of gold every 8 hours, and that’s average, and you pay them roughly $3000 for that, are you paying for the one ounce of gold or the 8 hours of work?
+
+If the second miner does the same amount of work yet only finds half an ounce, what are they paid? Is it assumed that they didn’t work 8 hours due to their result? That the result is the proof of work?
+
+If the third miner has a magic pick that locates and digs twice as fast, so they spend four hours finding an ounce of gold, and four hours sleeping, what are they paid? Their result indicates they worked 8 hours, as far as anyone else is concerned.
+
+Gold can actually be made into something. It has value based on its beauty. It can be made into things and shown off and appreciated. How is a string of numbers (a hash code or a bitcoin balance) in any way comparable to that?
+
+As for a lottery, people are investing in that. Everyone puts money in a box, and one person gets the box at the end. With bitcoin, my electric company gets the money from my computer’s processing. Then new money appears out of nowhere and is rewarded to me.
+
+I think I’m understanding WHAT is happening, but I’m confused by WHY. What value is being generated? If gold wasn’t beautiful, why would you pay someone to mine it? Or is it simply the rarity? The hoarding and exchanging of hash values as some symbol of “I have a rare thing, don’t you want this rare thing?”
+
+I mean, at the end of the day, I do work to provide someone with goods and services they want and need, and in exchange, I get the goods and services I want and need. By way of a silly middleman called money. So what good or service is spending time and energy generating hash values creating?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Permalink: /r/CryptoCurrency/comments/1jiahpt/how_is_generating_hashes_useful_to_anyone/
+Number of Comments: 20
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: partymsl
+Title: Circle Mints $250 Million USDC at Treasury, Totaling 249,973,750 USD on March 23, 2025
+Date: Sun Mar 23 21:21:26 WET 2025
+Text: 
+URL: https://thedefiant.io/news/blockchains/circle-mints-250-million-usdc-treasury-totaling-249973750-usd-on-march-23-2025-49ca0e03
+Permalink: /r/CryptoCurrency/comments/1jia41f/circle_mints_250_million_usdc_at_treasury/
+Number of Comments: 5
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: kirtash93
+Title: Normal People vs Traders
+Date: Sun Mar 23 21:05:28 WET 2025
+Text: 
+URL: https://i.redd.it/saxw0e5x7iqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji9r0b/normal_people_vs_traders/
+Number of Comments: 39
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Illperformance6969
+Title: Solana has become a breeding ground for pump and dump memecoin ‘cabals’: Bloomberg
+Date: Sun Mar 23 20:39:50 WET 2025
+Text: 
+URL: https://cryptoslate.com/solana-has-become-a-breeding-ground-for-pump-and-dump-memecoin-cabals-bloomberg/
+Permalink: /r/CryptoCurrency/comments/1ji95el/solana_has_become_a_breeding_ground_for_pump_and/
+Number of Comments: 64
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: KIG45
+Title: Saylor hints at impending BTC purchase after latest capital raise
+Date: Sun Mar 23 19:09:22 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/saylor-hints-impending-btc-buy-after-capital-raise?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound
+Permalink: /r/CryptoCurrency/comments/1ji70kc/saylor_hints_at_impending_btc_purchase_after/
+Number of Comments: 29
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: squeeps1
+Title: The Tokenization Revolution: Reshaping How We Own and Trade Assets
+Date: Sun Mar 23 18:55:05 WET 2025
+Text: 
+URL: https://www.entrepreneur.com/en-au/news-and-trends/the-tokenization-revolution-reshaping-how-we-own-and-trade/487127
+Permalink: /r/CryptoCurrency/comments/1ji6o09/the_tokenization_revolution_reshaping_how_we_own/
+Number of Comments: 11
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Numerous_Wonders81
+Title: Oracle Check: Where Chainlink Isn’t the Default
+Date: Sun Mar 23 18:50:29 WET 2025
+Text: Algorand (ALGO) – ❌ No: Uses native oracles like Algoracle.
+
+Hedera (HBAR) – ❌ No: Relies on its own consensus service.
+
+Sui – ❌ No: Non-EVM; no Chainlink integration.
+
+NEAR – ❌ No: native support. Aurora (EVM layer) might allow it.
+
+Cardano (ADA) – ❌ No: Uses custom oracles like Charli3. No Chainlink.
+
+While Chainlink is dominant in the EVM world, it’s not the default across newer L1s. Worth watching. These chains have taken different approaches to data feeds, and not all rely on third-party oracle networks like Chainlink.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Permalink: /r/CryptoCurrency/comments/1ji6k0z/oracle_check_where_chainlink_isnt_the_default/
+Number of Comments: 9
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Fidelity launches 'OnChain' Ethereum-tracked shares for Treasury money market fund
+Date: Sun Mar 23 16:50:44 WET 2025
+Text: 
+URL: https://www.theblock.co/post/347637/fidelity-launches-onchain-ethereum-tracked-shares-for-treasury-money-market-fund
+Permalink: /r/CryptoCurrency/comments/1ji3p9s/fidelity_launches_onchain_ethereumtracked_shares/
+Number of Comments: 2
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Odd-Radio-8500
+Title: Degen in the womb...
+Date: Sun Mar 23 16:36:11 WET 2025
+Text: 
+URL: https://i.redd.it/zp668gfvvgqe1.jpeg
+Permalink: /r/CryptoCurrency/comments/1ji3d1u/degen_in_the_womb/
+Number of Comments: 29
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: GabeSter
+Title: How can anyone justify this? Crypto.com user loses 13% of their funds to sell their crypto. Their position was up 15% and considering the buy fee they probably lost 20% in fees overall - which makes their +15% profit on the trade a net loss.
+Date: Sun Mar 23 16:33:13 WET 2025
+Text: What you are seeing is Crypto.com's way of robbing their users through spread. They mass market and direct crypto noobs to the crypto.com app where they scam users with insane fees. Historically around 15% for a full trade but this full trade would be closer to 20% in fees.  
+  
+When you buy on the app crypto.com sells you crypto for way above above market price, and when you sell on the app crypto.com sells your crypto for way below market price, robbing you of your funds in both directions. In this case this user was up 15% but is still set to lose money on the trade - due to crypto.com's scammy practices and stealing 20% of their funds on the trade.
+
+You might recall a crypto.com ad "ace your trades and we'll manage everything else" - it should have just said "ace your trades so we can steal your profit."
+URL: https://i.redd.it/429vu7t0sgqe1.png
+Permalink: /r/CryptoCurrency/comments/1ji3al8/how_can_anyone_justify_this_cryptocom_user_loses/
+Number of Comments: 268
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Illperformance6969
+Title: PancakeSwap overtakes Uniswap as leading DEX with $14b weekly volume
+Date: Sun Mar 23 16:14:40 WET 2025
+Text: 
+URL: https://crypto.news/pancakeswap-overtakes-uniswap-as-leading-dex-with-14b-weekly-volume/
+Permalink: /r/CryptoCurrency/comments/1ji2vaf/pancakeswap_overtakes_uniswap_as_leading_dex_with/
+Number of Comments: 7
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: goldyluckinblokchain
+Title: Dormant Bitcoin Whale Wallet From 2016 Moves 3,000 BTC
+Date: Sun Mar 23 16:00:53 WET 2025
+Text: 
+URL: https://beincrypto.com/bitcoin-whale-resurfaces-after-8-years/
+Permalink: /r/CryptoCurrency/comments/1ji2jmm/dormant_bitcoin_whale_wallet_from_2016_moves_3000/
+Number of Comments: 49
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: davideownzall
+Title: Ethereum VS Solana | Data on Wallets, Transactions, Fees, TVL and Marketcap | March 2025
+Date: Sun Mar 23 15:40:15 WET 2025
+Text: 
+URL: https://peakd.com/ethereum/@dalz/ethereum-vs-solana-or-data-on-wallets-transactions-fees-tvl-and-marketcap-or-march-2025
+Permalink: /r/CryptoCurrency/comments/1ji22uh/ethereum_vs_solana_data_on_wallets_transactions/
+Number of Comments: 0
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: northcasewhite
+Title: Kraken posts doctored image of Trump revealing the BTC whitepaper on the Oval Office wall.
+Date: Sun Mar 23 15:31:28 WET 2025
+Text: 
+URL: https://x.com/krakenfx/status/1903510367587745866
+Permalink: /r/CryptoCurrency/comments/1ji1vtz/kraken_posts_doctored_image_of_trump_revealing/
+Number of Comments: 0
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: sadiq_238
+Title: Ripple, Mt. Gox Founder Bets $1 Billion That He Can Replace the International Space Station
+Date: Sun Mar 23 15:26:38 WET 2025
+Text: 
+URL: https://decrypt.co/311219/ripple-mtgox-founder-bets-billion-space-station
+Permalink: /r/CryptoCurrency/comments/1ji1rwb/ripple_mt_gox_founder_bets_1_billion_that_he_can/
+Number of Comments: 21
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: KIG45
+Title: Coinbase fends off targeted GitHub Action attack in early-stage breach attempt
+Date: Sun Mar 23 14:43:06 WET 2025
+Text: 
+URL: https://www.cryptopolitan.com/coinbase-fends-off-github-action-attack/
+Permalink: /r/CryptoCurrency/comments/1ji0tej/coinbase_fends_off_targeted_github_action_attack/
+Number of Comments: 5
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Outsider-Trading
+Title: "The entire U.S. legislative body seems to have finally embraced our industry" - Sergey Nazarov
+Date: Sun Mar 23 14:25:58 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=jqzPXyiHzr4
+Permalink: /r/CryptoCurrency/comments/1ji0g09/the_entire_us_legislative_body_seems_to_have/
+Number of Comments: 1
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: SlapstickMojo
+Title: What are the computers actually doing when mining bitcoin?
+Date: Sun Mar 23 13:50:00 WET 2025
+Text: So one complaint about bitcoin is all the energy used during mining. Bitcoin isn’t a physical thing — it doesn’t require work to generate it. If you want a million bitcoin, you just increase a variable. But that would just create inflation. The mining must provide something of value that the new bitcoin is being generated and exchanged for. So what is that computer generating? Is it something like folding@home, where the processing power is solving a problem (in that case, calculating protein folding) for someone who is then giving you new bitcoin for it? ChatGPT uses a lot of power, but it is providing an answer to a question. Whoever is generating the new bitcoin, what are they gaining from you mining it?
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Permalink: /r/CryptoCurrency/comments/1jhzosq/what_are_the_computers_actually_doing_when_mining/
+Number of Comments: 198
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: hiorea
+Title: U.S. Spot Bitcoin ETFs Buy $750M Worth of Bitcoin, Acquiring 8,775 BTC While 3,150 BTC Mined
+Date: Sun Mar 23 13:23:39 WET 2025
+Text: 
+URL: https://thedefiant.io/news/markets/u-s-spot-bitcoin-etfs-buy-750m-worth-bitcoin-acquiring-8775-btc-3150-btc-mined-c398785b
+Permalink: /r/CryptoCurrency/comments/1jhz63r/us_spot_bitcoin_etfs_buy_750m_worth_of_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Specialist_Ask_7058
+Title: Pretty thorough recommendations here on seed backups
+Date: Sun Mar 23 13:19:59 WET 2025
+Text: 
+URL: https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/
+Permalink: /r/CryptoCurrency/comments/1jhz3io/pretty_thorough_recommendations_here_on_seed/
+Number of Comments: 1
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Next_Statement6145
+Title: Trump’s White House return wipes out nearly 20% of Bitcoin millionaires
+Date: Sun Mar 23 13:15:03 WET 2025
+Text: 
+URL: https://finbold.com/trumps-white-house-return-wipes-out-nearly-20-of-bitcoin-millionaires/
+Permalink: /r/CryptoCurrency/comments/1jhz08e/trumps_white_house_return_wipes_out_nearly_20_of/
+Number of Comments: 366
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: CyberPunkMetalHead
+Title: How I built a crypto trading bot platform over the last 3 years
+Date: Sun Mar 23 12:18:05 WET 2025
+Text: 
+URL: https://cryptomaton.medium.com/how-i-built-a-crypto-trading-bot-platform-over-the-last-3-years-292c17132d99
+Permalink: /r/CryptoCurrency/comments/1jhxywv/how_i_built_a_crypto_trading_bot_platform_over/
+Number of Comments: 4
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: 4rkal
+Title: Not your keys, not your coins: keep your money off centralized exchanges
+Date: Sun Mar 23 11:46:55 WET 2025
+Text: 
+URL: https://cyphergoat.com/blog/posts/not-your-keys-not-your-coins/
+Permalink: /r/CryptoCurrency/comments/1jhxg4h/not_your_keys_not_your_coins_keep_your_money_off/
+Number of Comments: 28
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: KIG45
+Title: UAE Leads World in Crypto Obsession, Study Finds
+Date: Sun Mar 23 10:58:18 WET 2025
+Text: 
+URL: https://news.bitcoin.com/uae-leads-world-in-crypto-obsession-study-finds/
+Permalink: /r/CryptoCurrency/comments/1jhwpvf/uae_leads_world_in_crypto_obsession_study_finds/
+Number of Comments: 7
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: sadiq_238
+Title: Misleading crypto narratives continue, driven by 'sensationalist' sentiment
+Date: Sun Mar 23 10:43:52 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-market-narratives-misleading-sensationalist-sentiment-analysts
+Permalink: /r/CryptoCurrency/comments/1jhwign/misleading_crypto_narratives_continue_driven_by/
+Number of Comments: 14
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Shiratori-3
+Title: Sonic unveils high-yield algorithmic stablecoin, reigniting Terra-Luna ‘PTSD’
+Date: Sun Mar 23 10:38:23 WET 2025
+Text: ... Here we go again....
+
+&gt; The Sonic blockchain is working on the implementation of its yield-generating, algorithmic stablecoin despite fears over a potential collapse similar to the Terra-Luna meltdown that led to the industry’s longest crypto winter.
+
+&gt; Algorithmic stablecoins employ code-based mechanisms to ensure their price stability, as opposed to fiat stablecoins pegged directly to the value of the underlying currency.
+
+&gt; The Sonic blockchain is working on the implementation of an algorithmic stablecoin with up to 23% annual percentage rate (APR), according to Andre Cronje, co-founder of Sonic Labs and founder of Yearn.finance.
+
+&gt; Cronje wrote in a March 22 X post:
+
+&gt; “POC looks good. Yielding &gt; 200% APR @ 10m tvl, around 23.5% APR @ 100m, steady at around 4.9% at 1bn+. Will scale up and get team for a full release.”
+
+&gt; Sonic claims to be the world’s fastest Ethereum Virtual Machine (EVM) chain, with a “true” 720 milliseconds (ms) finality — the assurance that a transaction is irreversible, which happens after it is added to a block on the blockchain ledger.
+
+
+
+
+URL: https://cointelegraph.com/news/sonic-blockchain-algorithmic-stablecoin-andre-cronje
+Permalink: /r/CryptoCurrency/comments/1jhwfm3/sonic_unveils_highyield_algorithmic_stablecoin/
+Number of Comments: 7
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: kirtash93
+Title: Fidelity Joining the Tokenization Race: Launching an Ethereum Based Treasury Fund Investing in U.S. Treasury Bills, Competing with BlackRock's BUIDL
+Date: Sun Mar 23 10:37:12 WET 2025
+Text: According to this [tweet ](https://x.com/AggrNews/status/1903280631296950544)from AggrNews Fidelity is officially entering the tokenized assets competition launching a fund that invests in US Treasury Bills and of course **built on Ethereum**. Another TradFi giant embracing the best smart contract network out there.
+
+https://preview.redd.it/qzn0ctpq3fqe1.jpg?width=2092&amp;format=pjpg&amp;auto=webp&amp;s=2554f57586039669891fc3511bc200cc975a6705
+
+This is really big for Ethereum. It already has BlackRock BUIDL that has gained a lot of traction and now Fidelity, one of the largest asset managers in the world is trying to catch up in this competition. This news if confirmed to be true would validate Ethereum again as the go to network for institutional grade tokenization.
+
+This is big because it means more institutional adoption meaning in more money flows into Ethereum. It also shows the world that Ethereum is a great place to develop RWAs (Real World Assets).
+
+I don't know how we can be bearish on Ethereum with everything being built on Ethereum itself. It is a matter of time that this great project skyrockets again. Price is highly manipulated while whales keep buying from weak hands. It will come the day that they stop manipulating the price to buy cheap.
+
+Ethereum ecosystem keeps growing and it is going to be one of the biggest thing we have ever seen in our lives.
+
+Source:
+
+* Tweet: [https://x.com/AggrNews/status/1903280631296950544](https://x.com/AggrNews/status/1903280631296950544)
+* Transaction: [https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d](https://etherscan.io/address/0x7c135549504245b5eae64fc0e99fa5ebabb8e35d)
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Permalink: /r/CryptoCurrency/comments/1jhwf0i/fidelity_joining_the_tokenization_race_launching/
+Number of Comments: 4
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Senicko65
+Title: Consolidation
+Date: Sun Mar 23 09:58:18 WET 2025
+Text: Alright, if you’re keeping tabs on the charts, you’ve clocked it already: Bitcoin, Ethereum, and XRP—the top three—are all in consolidation, trading flat in tight ranges. No breakout, no breakdown, just sideways action. You know the drill, but let’s unpack why it’s happening and what’s next.
+
+This consolidation screams indecision. The market’s basically paused, with traders sitting on their hands. Macro’s a big driver here—interest rate hikes, inflation still lingering, and the Fed’s next move hanging over everything like a cloud. Regulatory noise isn’t helping either; XRP’s still got that SEC/Ripple saga dragging on, and any ruling could flip its script fast. Meanwhile, BTC and ETH aren’t immune—global uncertainty’s keeping everyone cautious.
+
+But it’s not just the outside noise. We’ve got on-chain and ecosystem factors simmering too. Bitcoin’s halving is creeping closer, and you know how that tightens supply and sparks FOMO. Ethereum’s post-Merge upgrades are still settling in, with staking dynamics shifting the game. XRP’s banking on its cross-border niche, but adoption’s a slow burn. The market’s waiting for one of these to light the fuse.
+
+You’ve seen this pattern before—consolidation’s the calm before the storm. Bollinger Bands are probably squeezing, RSI’s neutral, and volume’s drying up. It’s textbook coiling. When it snaps, we’ll get a breakout—could be a bullish run if sentiment flips green, or a bleed-out if support cracks. Check the 50-day MA and key levels; they’ll tell you where it’s leaning.
+
+So, while it’s quiet, don’t zone out. Watch the catalysts—macro data drops, XRP court updates, or a whale move. This range won’t hold forever; the next shift’s coming, and you’ll want to be positioned when it hits.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Permalink: /r/CryptoCurrency/comments/1jhvv3k/consolidation/
+Number of Comments: 23
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Dongerated
+Title: Feds Recover $7M—Now DOJ Urges Victims to Claim Share of Recovered Funds
+Date: Sun Mar 23 09:18:35 WET 2025
+Text: 
+URL: https://news.bitcoin.com/feds-seize-7m-in-crypto-scam-doj-tells-victims-come-get-your-money/
+Permalink: /r/CryptoCurrency/comments/1jhvbzw/feds_recover_7mnow_doj_urges_victims_to_claim/
+Number of Comments: 1
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: Realistic_Poetry5800
+Title: XRP wipes $11 billion just 48 hours after Ripple case dismissed
+Date: Sun Mar 23 08:47:58 WET 2025
+Text: 
+URL: https://finbold.com/xrp-wipes-11-billion-just-48-hours-after-ripple-case-dismissed/
+Permalink: /r/CryptoCurrency/comments/1jhuxea/xrp_wipes_11_billion_just_48_hours_after_ripple/
+Number of Comments: 54
+Subreddit Subscribers: 9829078
+------------------------------------------------------------
+Author: donutloop
+Title: D-Wave Introduces Quantum Blockchain Architecture, Featuring Enhanced Security and Efficiency over Classical Computing
+Date: Sun Mar 23 07:53:31 WET 2025
+Text: 
+URL: https://www.dwavequantum.com/company/newsroom/press-release/d-wave-introduces-quantum-blockchain-architecture-featuring-enhanced-security-and-efficiency-over-classical-computing/
+Permalink: /r/CryptoCurrency/comments/1jhu6rn/dwave_introduces_quantum_blockchain_architecture/
+Number of Comments: 2
+Subreddit Subscribers: 9829080
+------------------------------------------------------------
+Author: blkchnDE
+Title: Australia Attempts To Establish Itself As A Crypto Leader | PeakD
+Date: Sun Mar 23 06:50:02 WET 2025
+Text: Hey everyone thanks for landing on another crypto blog. As we are waiting for a good rally for altcoin, some countries are doing great to adopt crypto. here I am talking about The Australian Treasury it is working closely with the crypto asset industry and the motive behind it is to establish clear regulations and make Australia a global leader in the sector.
+URL: https://peakd.com/hive-167922/@luckyali/australia-attempts-to-establish-itself-as-a-crypto-leader-2hf
+Permalink: /r/CryptoCurrency/comments/1jhtcbt/australia_attempts_to_establish_itself_as_a/
+Number of Comments: 25
+Subreddit Subscribers: 9829080
+------------------------------------------------------------
+Author: Every_Hunt_160
+Title: Crypto security will always be a game of ‘cat and mouse’ — Wallet exec
+Date: Sun Mar 23 03:53:20 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/crypto-security-hackers-cat-and-mouse-game-ledger-wallet-executive
+Permalink: /r/CryptoCurrency/comments/1jhqoai/crypto_security_will_always_be_a_game_of_cat_and/
+Number of Comments: 3
+Subreddit Subscribers: 9829080
+------------------------------------------------------------
+Author: PornSoftware
+Title: Building a Blockchain Sports League (For a Sport You’ve Never Heard Of)
+Date: Sun Mar 23 03:21:01 WET 2025
+Text: 
+URL: https://dooplejoy.medium.com/topl-the-pole-join-my-weird-blockchain-sports-league-091c16ce1d8d
+Permalink: /r/CryptoCurrency/comments/1jhq4m2/building_a_blockchain_sports_league_for_a_sport/
+Number of Comments: 6
+Subreddit Subscribers: 9829080
+------------------------------------------------------------
+Author: Marius_jar
+Title: Dexscreener newly launched token email notification
+Date: Sun Mar 23 02:19:09 WET 2025
+Text: Does anyone know if there is some tool, script, bot or whatever that would send you email/telegram notifications when a new token appears on dexscreener based on your filters? Let's say "boosted token on solana chain and raydium dex with 5k minimum market cap and 2k liquidity". Something like that.
+
+  
+Or do I need custom script for that? Which I tried actually to make myself but shit doesn't work.
+
+This isn't some advanced or very custom like request. Surely there must be something like that? Or maybe at least some already existing and working script template/framework which you could customize. 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Permalink: /r/CryptoCurrency/comments/1jhp0x5/dexscreener_newly_launched_token_email/
+Number of Comments: 0
+Subreddit Subscribers: 9829080
+------------------------------------------------------------
+Author: Bitman321
+Title: Schedule Bitcoin transactions by lock time, fees or price (my open-source project)
+Date: Sun Mar 23 01:24:06 WET 2025
+Text: Hi Everyone, 
+
+I thought for a while about applications that could be useful for bitcoiners. I realised that there is no service on the market that allows you to schedule bitcoin transactions. 
+
+The problems such a service could solve: 
+
+* dead man's switch: allows someone to create a timelocked transaction that sends funds to a backup wallet if a user loses access to their keys or passes away, this would use nLockTime to ensure that the transaction is only broadcast after a certain amount of time
+* Auto reset your blockstream green 2fa multisig by scheduling a self transfer transaction to a fresh address
+* Transfer bitcoin when fees are low: create a transaction with a low fee and only broadcast it when fees come down, preventing it from getting stuck in the mempool
+* Transfer bitcoin at a certain USD price: send your bitcoin to the exchange, or to buy a particular item only when it is at a certain price
+
+My project allows you to do all this. It is an open-source API that allows you to post your signed raw transactions and only broadcast them when certain conditions are met. Transactions can also be removed from the service at anytime. 
+
+Code: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler
+
+API docs: https://github.com/bitcoinwarrior1/bitcoin-transaction-scheduler?tab=readme-ov-file#api
+
+Endpoint: https://bitcoin-transaction-scheduler-e26333afefee.herokuapp.com
+
+What do you guys think about this project? Any suggestions for additional features? Please let me know. 
+
+Please note that this is just a hobby project and should only be used for trivial amounts. Use it at your own risk.
+
+Interested in other bitcoin projects? Check out https://bitcoinprojects.net/.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Permalink: /r/CryptoCurrency/comments/1jho06c/schedule_bitcoin_transactions_by_lock_time_fees/
+Number of Comments: 3
+Subreddit Subscribers: 9829080
+------------------------------------------------------------
+Author: Savi321
+Title: Centralized exchanges’ Kodak moment — time to adopt a new model or stay behind
+Date: Sun Mar 23 01:15:42 WET 2025
+Text: 
+URL: https://cointelegraph.com/news/centralized-exchanges-kodak-moment
+Permalink: /r/CryptoCurrency/comments/1jhnuif/centralized_exchanges_kodak_moment_time_to_adopt/
+Number of Comments: 2
+Subreddit Subscribers: 9829080
+------------------------------------------------------------
+Author: MangoGoLucky
+Title: Best app for fast trading?
+Date: Sun Mar 23 01:15:20 WET 2025
+Text: Hello, I am thinking of getting into day trading crypto and have been paper trading on the app trading game were you can quickly buy and sell crypto quickly as it is very mobile friendly. The buy and sell buttons are on the same page and below a graph of the stock. Does anyone know an app for real tradinf that had a similiar interface?
+
+I have coinbase downloaded but it seems like between buying I would then need to click alot of buttons between selling and I prefer to operate quickly. 
+
+Thank you 
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Permalink: /r/CryptoCurrency/comments/1jhnu9f/best_app_for_fast_trading/
+Number of Comments: 5
+Subreddit Subscribers: 9829080
+------------------------------------------------------------
+Author: CryptoDaily-
+Title: Daily Crypto Discussion - March 23, 2025 (GMT+0)
+Date: Sun Mar 23 00:00:58 WET 2025
+Text: **Welcome to the Daily Crypto Discussion thread. Please read the disclaimer and rules before participating.**
+ 
+***
+&amp;nbsp;
+    
+###Disclaimer:
+
+Consider all information posted here with several liberal heaps of salt, and always cross check any information you may read on this thread with known sources. Any trade information posted in this open thread may be highly misleading, and could be an attempt to manipulate new readers by known "pump and dump (PnD) groups" for their own profit. BEWARE of such practices and exercise utmost caution before acting on any trade tip mentioned here. 
+
+
+**Please be careful about what information you share and the actions you take.** Do not share the amounts of your portfolios (why not just share percentage?). Do not share your private keys or wallet seed. Use strong, non-SMS 2FA if possible. Beware of scammers and be smart. Do not invest more than you can afford to lose, and do not fall for pyramid schemes, promises of unrealistic returns (get-rich-quick schemes), and other common scams.
+    
+***
+&amp;nbsp;
+    
+###Rules:
+
+  - All [sub rules](https://www.reddit.com/r/CryptoCurrency/about/rules/) apply in this thread. The prior exemption for karma and age requirements is no longer in effect. 
+  - Discussion topics must be related to cryptocurrency.
+  - Behave with civility and politeness. Do not use offensive, racist or homophobic language.
+  - Comments will be sorted by newest first.
+  
+***
+&amp;nbsp;
+
+###Useful Links:
+
+  - [**Beginner Resources**](https://www.reddit.com/r/CryptoCurrency/wiki/beginner_resources)
+
+  - [**Intro to r/Cryptocurrency MOONs 🌔**](https://www.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/)
+
+  - [**MOONs Wiki Page**](https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki/)
+
+  - [**r/CryptoCurrency Discord**](https://www.reddit.com/r/CryptoCurrency/comments/kth255/join_the_crypto_currency_discord/)
+
+  - [**r/CryptoCurrencyMemes**](https://www.reddit.com/r/cryptocurrencymemes)
+
+  - [**Prior Daily Discussions**](https://www.reddit.com/r/CryptoCurrency/search?q=title%3A%22Daily+Crypto+Discussion+-+%22+&amp;restrict_sr=on&amp;sort=new&amp;t=all) - (Link fixed.)
+
+  - [**r/CryptoCurrencyMeta**](https://www.reddit.com/r/CryptoCurrencyMeta/) - Join in on all meta discussions regarding r/CryptoCurrency whether it be moon distributions or governance.
+
+***
+&amp;nbsp;
+
+### Finding Other Discussion Threads
+
+Follow a mod account below to be notified in your home feed when the latest r/CC discussion thread of your interest is posted.
+
+* u/CryptoDaily- — Posts the Daily Crypto Discussion threads. 
+
+* u/CryptoSkeptics — Posts the Monthly Skeptics Discussion threads.
+ 
+* u/CryptoOptimists- — Posts the Monthly Optimists Discussion threads.
+
+* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.
+URL: https://www.reddit.com/r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Permalink: /r/CryptoCurrency/comments/1jhmdv1/daily_crypto_discussion_march_23_2025_gmt0/
+Number of Comments: 266
+Subreddit Subscribers: 9829080
+------------------------------------------------------------

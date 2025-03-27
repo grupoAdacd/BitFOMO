@@ -1,0 +1,852 @@
+Author: jeraco73
+Title: Dont forget BTC went from 8k-72k under the Biden administration, which approved the bitcoin ETFs. Thats 800%! Will Trump do better?
+Date: Thu Feb 13 23:27:45 WET 2025
+Text: [Avoiding the bull market BS](https://www.tradingview.com/news/cointelegraph:d3577ba9f094b:0-over-the-next-four-years-let-s-avoid-a-bulls-t-market/)
+URL: https://www.reddit.com/r/btc/comments/1iowrng/dont_forget_btc_went_from_8k72k_under_the_biden/
+Permalink: /r/btc/comments/1iowrng/dont_forget_btc_went_from_8k72k_under_the_biden/
+Number of Comments: 15
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: GameStop Considers Investing in Bitcoin and Other Cryptocurrencies
+Date: Thu Feb 13 22:48:06 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/gamestop-considers-investing-in-bitcoin-and-other-cryptocurrencies/
+Permalink: /r/btc/comments/1iovwi0/gamestop_considers_investing_in_bitcoin_and_other/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: barbralodge
+Title: Bitcoin’s Potential As A Disruptive Asset In South Africa’s Economic Landscape
+Date: Thu Feb 13 21:41:32 WET 2025
+Text: 
+URL: https://www.coincarp.com/article/bitcoins-potential-as-a-disruptive-asset-in-south-africas-economic-landscape/
+Permalink: /r/btc/comments/1ioudyq/bitcoins_potential_as_a_disruptive_asset_in_south/
+Number of Comments: 27
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: loonglivetherepublic
+Title: BitcoinCash Weekly News Video for February 11th 2025 by the BCHF
+Date: Thu Feb 13 20:58:25 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=TJqagp4RecM
+Permalink: /r/btc/comments/1iotdyi/bitcoincash_weekly_news_video_for_february_11th/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: SnooStories6806
+Title: Bitcoin, a Bank of Growth. Pure Value.
+Date: Thu Feb 13 20:50:42 WET 2025
+Text: 
+URL: https://youtu.be/y80TvwyM06Q?si=dqItaTXmR0KL6cGb
+Permalink: /r/btc/comments/1iot7fd/bitcoin_a_bank_of_growth_pure_value/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lalaci
+Title: Bitcoin Mining Equipment Seized At US Ports Nationwide
+Date: Thu Feb 13 19:27:10 WET 2025
+Text: 
+URL: https://www.benzinga.com/markets/cryptocurrency/25/02/43702814/bitcoin-mining-equipment-seized-at-us-ports-nationwide-report
+Permalink: /r/btc/comments/1ior8rl/bitcoin_mining_equipment_seized_at_us_ports/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: thesatisfiedplethora
+Title: Binance Finally Settled $340K With Investors Over Unregistered Securities Scandal
+Date: Thu Feb 13 18:49:34 WET 2025
+Text: Hey guys, if you missed it, Binance finally agreed to pay investors a $340K settlement over the 2023 unregistered tokens scandal.
+
+For newbies, back in 2023, Binance was accused by the CTFC of listing unregistered securities as cryptocurrencies and paid social media influencers to promote these assets. One of the key problems was the BNB burn program which reduced the coin’s supply to boost its value. 
+
+When this news came out, investors and users filed a lawsuit against Binance for hiding this info and the losses they suffered. 
+
+The good news is that Binance agreed to settle with damaged investors (and users) and pay them $340K for the damages. So if you bought any token on Binance when all this happened, you can check the details and [file for payment here](https://11thestate.com/cases/binance-unregistered-tokens-lawsuit).
+
+Anyways, did anyone here buy on Binance back then? How much did you lose if so?
+URL: https://www.reddit.com/r/btc/comments/1ioqcdc/binance_finally_settled_340k_with_investors_over/
+Permalink: /r/btc/comments/1ioqcdc/binance_finally_settled_340k_with_investors_over/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Built with Bitcoin Cash: How I Turned BCH into a Home
+Date: Thu Feb 13 18:35:13 WET 2025
+Text: Today I started a New Series of Articles called "Built with Bitcoin Cash" where I highlight BCH real world stories where the currency is used in the world to buy for things people are interested in and are important for them. I hope the community can send me this stories where people open stores to accept Bitcoin Cash for their products and service, accept on restaurants etc, and I will use to produce content. Now, I started with my own story, enjoy.
+URL: https://read.cash/@alberdioni8406/built-with-bitcoin-cash-how-i-turned-bch-into-a-home-88fab0e2
+Permalink: /r/btc/comments/1ioq07r/built_with_bitcoin_cash_how_i_turned_bch_into_a/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: HELLATOASTY203
+Title: Wondering where to go/who to talk to about making a crypto medium of exchange
+Date: Thu Feb 13 18:11:27 WET 2025
+Text: I’ve had a concept of a stable medium of exchange for a while and would want to make it a reality. I just have no idea who to talk to and where to look in terms of making it. And would also like some feedback and criticism on my concept. If anyone has any advice to provide that would be greatly appreciated
+
+Here's an explanation of the system as requested...
+
+The concept surrounds balancing out 3 different extremes that apply to all currencies used in society. Equality/Equity (tax rate), Centralization/Decentralization (tax allocation), and Inflation/Decentralization (supply-demand).
+
+I approach it using a 3D graph (x: tax rate, y: tax allocation, z: supply-demand).  Once doing this, you see that the X-axis extremes are: 100% - 0% tax.  The Y-axis extremes are: All the tax goes to the government (Centralization) - All tax goes to the people (Decentralization/UBI).  The Z-axis extremes are: Supply outpaces demand (Inflation) - Demand outpaces supply (Deflation).
+
+Once graphing it out, you see that they are equal opposites of each other... the reasons inflation is good are the reasons that deflation is bad and vice versa... this applies to all the axes.  So the logical conclusion for a proper medium of exchange is to not have any leaning toward the extremes (x,y,z +/-)...
+
+Once you have that conclusion, you see that the perfect medium would consist of a... 50% tax rate (sounds high but I can get into it*) where half of the tax goes to the government, through a split of equality/equity means (can get into that later too**), and the other half of the tax goes into UBI, also through equality/equity means, and has a per capita supply (matching supply to demand).  Doing this cancels out all the extremes and leaves you at (0,0,0) on the graph.
+
+The point of this currency is to provide an autonomous medium of exchange that balances out the extremes of manipulation of value... the current issue I'm having is to find a way to produce it/receive constructive criticism on what may be wrong with it and how to improve it.
+
+*a majority of this tax is refunded... its "high" because it's part of the calculation
+**Equality/equity means has to do with the splitting of funds... for example: 100$ needs to be split between 2 people through equality/equity means.  Person 1 previously had 10$ and Person 2 previously had 90$.  The new 100$ is split into 2 portions, 50$ into the equality portion and 50$ into the equity portion.  In the equality portion, that 50$ is split based on the amount of people.  Therefore, both Person 1 and 2 will receive 25$ of this portion.  The equity portion is split based on equity.  Person 1 has 10% of the total previously owned capital and Person 2 has 90% of the previously owned capital.  Therefore, Person 1 receives 5$ and Person 2 receives 45$. In the end, Person 1 received 30$ (now at 40$ total) and Person 2 received 70$ (now at 160$ total)
+URL: https://www.reddit.com/r/btc/comments/1iopfsm/wondering_where_to_gowho_to_talk_to_about_making/
+Permalink: /r/btc/comments/1iopfsm/wondering_where_to_gowho_to_talk_to_about_making/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BuyREIT
+Title: $CAR (crypto president)
+Date: Thu Feb 13 18:05:56 WET 2025
+Text: 
+URL: https://x.com/fa_touadera/status/1890089557686952399?s=46&amp;t=w3QitBb69q85Kgi_GpWNEw
+Permalink: /r/btc/comments/1iopb8l/car_crypto_president/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: Back in 2013, this reporter spent 10 Bitcoin, worth $1,000 at the time, on a dinner for dozens of strangers in San Francisco. Today, that is now a $1,000,000 sushi dinner based on the current price of Bitcoin.
+Date: Thu Feb 13 15:16:57 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=ikNHjuH8pIY&amp;si=rF4A-spY9fuHNO9m
+Permalink: /r/btc/comments/1iolb4j/back_in_2013_this_reporter_spent_10_bitcoin_worth/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gogas2
+Title: FTX will start to refund $16B cash to their customers in less than 1 week now !
+Date: Thu Feb 13 14:17:19 WET 2025
+Text: 
+URL: https://x.com/WhaleWatchersX/status/1890040815214575730
+Permalink: /r/btc/comments/1iojzyn/ftx_will_start_to_refund_16b_cash_to_their/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Metaplanet to Join MSCI Japan Index and Acquire 10K Bitcoin Worth $960M
+Date: Thu Feb 13 12:00:08 WET 2025
+Text: 
+URL: https://allincrypto.com/metaplanet-join-msci-japan-index-and-acquire-10k-bitcoin-960m/
+Permalink: /r/btc/comments/1iohhxj/metaplanet_to_join_msci_japan_index_and_acquire/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Cashonize v0.3.1 release 🦾
+
+This release adds caching for history info, making the history info load much faster
+
+Further this release improves the transaction info dialog for mobile &amp; updates the setting menu.
+
+Download the new release here: [link]"
+Date: Thu Feb 13 11:01:02 WET 2025
+Text: 
+URL: https://x.com/cashonize/status/1889992546212000149
+Permalink: /r/btc/comments/1iogm5z/cashonize_v031_release_this_release_adds_caching/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Educational-Lynx-370
+Title: Trading vectors
+Date: Thu Feb 13 08:55:56 WET 2025
+Text: Hi I started trading some months ago using several things:
+
+1. Account on one known crypto exchange
+
+2. API access to trading account
+
+3. Bot written by me which makes trades on some primitive logic - limit orders trading which produce profit after fees
+
+4. Bot integrated with mobile messenger chat so I can give commands from my phone based on market conditions etc. It is pretty convenient and looks like this integration plays a big role on getting profit.
+
+It works with Spot market only for now and I am researching for a development. It is 10% profit from whole amount for like 5 months span. Have any ideas what are the vectors which I need to look next.
+
+For now to achieve X profit I need to make buy-sell order for an amount like 400 times X.
+
+I am experienced in Java and ready to write any bots etc.
+
+I am also researching on integrating AI for analysis. 
+
+Please give some advice where to look for new ideas. 
+
+
+URL: https://www.reddit.com/r/btc/comments/1ioey4c/trading_vectors/
+Permalink: /r/btc/comments/1ioey4c/trading_vectors/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: InstaCrypto_INC
+Title: True innovative #crypto solutions that have seamlessly integrated into life and uplifted mankind for 11 years and counting! Founder - @@InstaCryptoIN @Unocoin
+Date: Thu Feb 13 08:31:30 WET 2025
+Text: 
+Thanks to - @CoinDesk 
+Full Video - https://youtu.be/4uIK4wjPqA0?si=7SL9i7Fn7hEc25u3
+URL: https://i.redd.it/dkeia5mravie1.jpeg
+Permalink: /r/btc/comments/1ioen0p/true_innovative_crypto_solutions_that_have/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: kirindewitt
+Title: New things are coming in your way on kucoin! Time to Go Onchain Today!
+Date: Thu Feb 13 05:37:02 WET 2025
+Text: 
+URL: https://www.kucoin.com/announcement/en-step-into-kucoin-s-new-chapter-go-onchain-today
+Permalink: /r/btc/comments/1ioc6hl/new_things_are_coming_in_your_way_on_kucoin_time/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Empty_Caramel_1759
+Title: finance/crypto telegram group (malaysia based)
+Date: Thu Feb 13 02:20:29 WET 2025
+Text: Hi does anyone know any finance/crypto telegram group (malaysia based) i can join?
+URL: https://www.reddit.com/r/btc/comments/1io8nsh/financecrypto_telegram_group_malaysia_based/
+Permalink: /r/btc/comments/1io8nsh/financecrypto_telegram_group_malaysia_based/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: jeraco73
+Title: Dont forget BTC went from 8k-72k under the Biden administration, which approved the bitcoin ETFs. Thats 800%! Will Trump do better?
+Date: Thu Feb 13 23:27:45 WET 2025
+Text: [Avoiding the bull market BS](https://www.tradingview.com/news/cointelegraph:d3577ba9f094b:0-over-the-next-four-years-let-s-avoid-a-bulls-t-market/)
+URL: https://www.reddit.com/r/btc/comments/1iowrng/dont_forget_btc_went_from_8k72k_under_the_biden/
+Permalink: /r/btc/comments/1iowrng/dont_forget_btc_went_from_8k72k_under_the_biden/
+Number of Comments: 15
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: GameStop Considers Investing in Bitcoin and Other Cryptocurrencies
+Date: Thu Feb 13 22:48:06 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/gamestop-considers-investing-in-bitcoin-and-other-cryptocurrencies/
+Permalink: /r/btc/comments/1iovwi0/gamestop_considers_investing_in_bitcoin_and_other/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: barbralodge
+Title: Bitcoin’s Potential As A Disruptive Asset In South Africa’s Economic Landscape
+Date: Thu Feb 13 21:41:32 WET 2025
+Text: 
+URL: https://www.coincarp.com/article/bitcoins-potential-as-a-disruptive-asset-in-south-africas-economic-landscape/
+Permalink: /r/btc/comments/1ioudyq/bitcoins_potential_as_a_disruptive_asset_in_south/
+Number of Comments: 27
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: loonglivetherepublic
+Title: BitcoinCash Weekly News Video for February 11th 2025 by the BCHF
+Date: Thu Feb 13 20:58:25 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=TJqagp4RecM
+Permalink: /r/btc/comments/1iotdyi/bitcoincash_weekly_news_video_for_february_11th/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: SnooStories6806
+Title: Bitcoin, a Bank of Growth. Pure Value.
+Date: Thu Feb 13 20:50:42 WET 2025
+Text: 
+URL: https://youtu.be/y80TvwyM06Q?si=dqItaTXmR0KL6cGb
+Permalink: /r/btc/comments/1iot7fd/bitcoin_a_bank_of_growth_pure_value/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lalaci
+Title: Bitcoin Mining Equipment Seized At US Ports Nationwide
+Date: Thu Feb 13 19:27:10 WET 2025
+Text: 
+URL: https://www.benzinga.com/markets/cryptocurrency/25/02/43702814/bitcoin-mining-equipment-seized-at-us-ports-nationwide-report
+Permalink: /r/btc/comments/1ior8rl/bitcoin_mining_equipment_seized_at_us_ports/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: thesatisfiedplethora
+Title: Binance Finally Settled $340K With Investors Over Unregistered Securities Scandal
+Date: Thu Feb 13 18:49:34 WET 2025
+Text: Hey guys, if you missed it, Binance finally agreed to pay investors a $340K settlement over the 2023 unregistered tokens scandal.
+
+For newbies, back in 2023, Binance was accused by the CTFC of listing unregistered securities as cryptocurrencies and paid social media influencers to promote these assets. One of the key problems was the BNB burn program which reduced the coin’s supply to boost its value. 
+
+When this news came out, investors and users filed a lawsuit against Binance for hiding this info and the losses they suffered. 
+
+The good news is that Binance agreed to settle with damaged investors (and users) and pay them $340K for the damages. So if you bought any token on Binance when all this happened, you can check the details and [file for payment here](https://11thestate.com/cases/binance-unregistered-tokens-lawsuit).
+
+Anyways, did anyone here buy on Binance back then? How much did you lose if so?
+URL: https://www.reddit.com/r/btc/comments/1ioqcdc/binance_finally_settled_340k_with_investors_over/
+Permalink: /r/btc/comments/1ioqcdc/binance_finally_settled_340k_with_investors_over/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Built with Bitcoin Cash: How I Turned BCH into a Home
+Date: Thu Feb 13 18:35:13 WET 2025
+Text: Today I started a New Series of Articles called "Built with Bitcoin Cash" where I highlight BCH real world stories where the currency is used in the world to buy for things people are interested in and are important for them. I hope the community can send me this stories where people open stores to accept Bitcoin Cash for their products and service, accept on restaurants etc, and I will use to produce content. Now, I started with my own story, enjoy.
+URL: https://read.cash/@alberdioni8406/built-with-bitcoin-cash-how-i-turned-bch-into-a-home-88fab0e2
+Permalink: /r/btc/comments/1ioq07r/built_with_bitcoin_cash_how_i_turned_bch_into_a/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: HELLATOASTY203
+Title: Wondering where to go/who to talk to about making a crypto medium of exchange
+Date: Thu Feb 13 18:11:27 WET 2025
+Text: I’ve had a concept of a stable medium of exchange for a while and would want to make it a reality. I just have no idea who to talk to and where to look in terms of making it. And would also like some feedback and criticism on my concept. If anyone has any advice to provide that would be greatly appreciated
+
+Here's an explanation of the system as requested...
+
+The concept surrounds balancing out 3 different extremes that apply to all currencies used in society. Equality/Equity (tax rate), Centralization/Decentralization (tax allocation), and Inflation/Decentralization (supply-demand).
+
+I approach it using a 3D graph (x: tax rate, y: tax allocation, z: supply-demand).  Once doing this, you see that the X-axis extremes are: 100% - 0% tax.  The Y-axis extremes are: All the tax goes to the government (Centralization) - All tax goes to the people (Decentralization/UBI).  The Z-axis extremes are: Supply outpaces demand (Inflation) - Demand outpaces supply (Deflation).
+
+Once graphing it out, you see that they are equal opposites of each other... the reasons inflation is good are the reasons that deflation is bad and vice versa... this applies to all the axes.  So the logical conclusion for a proper medium of exchange is to not have any leaning toward the extremes (x,y,z +/-)...
+
+Once you have that conclusion, you see that the perfect medium would consist of a... 50% tax rate (sounds high but I can get into it*) where half of the tax goes to the government, through a split of equality/equity means (can get into that later too**), and the other half of the tax goes into UBI, also through equality/equity means, and has a per capita supply (matching supply to demand).  Doing this cancels out all the extremes and leaves you at (0,0,0) on the graph.
+
+The point of this currency is to provide an autonomous medium of exchange that balances out the extremes of manipulation of value... the current issue I'm having is to find a way to produce it/receive constructive criticism on what may be wrong with it and how to improve it.
+
+*a majority of this tax is refunded... its "high" because it's part of the calculation
+**Equality/equity means has to do with the splitting of funds... for example: 100$ needs to be split between 2 people through equality/equity means.  Person 1 previously had 10$ and Person 2 previously had 90$.  The new 100$ is split into 2 portions, 50$ into the equality portion and 50$ into the equity portion.  In the equality portion, that 50$ is split based on the amount of people.  Therefore, both Person 1 and 2 will receive 25$ of this portion.  The equity portion is split based on equity.  Person 1 has 10% of the total previously owned capital and Person 2 has 90% of the previously owned capital.  Therefore, Person 1 receives 5$ and Person 2 receives 45$. In the end, Person 1 received 30$ (now at 40$ total) and Person 2 received 70$ (now at 160$ total)
+URL: https://www.reddit.com/r/btc/comments/1iopfsm/wondering_where_to_gowho_to_talk_to_about_making/
+Permalink: /r/btc/comments/1iopfsm/wondering_where_to_gowho_to_talk_to_about_making/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BuyREIT
+Title: $CAR (crypto president)
+Date: Thu Feb 13 18:05:56 WET 2025
+Text: 
+URL: https://x.com/fa_touadera/status/1890089557686952399?s=46&amp;t=w3QitBb69q85Kgi_GpWNEw
+Permalink: /r/btc/comments/1iopb8l/car_crypto_president/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: Back in 2013, this reporter spent 10 Bitcoin, worth $1,000 at the time, on a dinner for dozens of strangers in San Francisco. Today, that is now a $1,000,000 sushi dinner based on the current price of Bitcoin.
+Date: Thu Feb 13 15:16:57 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=ikNHjuH8pIY&amp;si=rF4A-spY9fuHNO9m
+Permalink: /r/btc/comments/1iolb4j/back_in_2013_this_reporter_spent_10_bitcoin_worth/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gogas2
+Title: FTX will start to refund $16B cash to their customers in less than 1 week now !
+Date: Thu Feb 13 14:17:19 WET 2025
+Text: 
+URL: https://x.com/WhaleWatchersX/status/1890040815214575730
+Permalink: /r/btc/comments/1iojzyn/ftx_will_start_to_refund_16b_cash_to_their/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Metaplanet to Join MSCI Japan Index and Acquire 10K Bitcoin Worth $960M
+Date: Thu Feb 13 12:00:08 WET 2025
+Text: 
+URL: https://allincrypto.com/metaplanet-join-msci-japan-index-and-acquire-10k-bitcoin-960m/
+Permalink: /r/btc/comments/1iohhxj/metaplanet_to_join_msci_japan_index_and_acquire/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Cashonize v0.3.1 release 🦾
+
+This release adds caching for history info, making the history info load much faster
+
+Further this release improves the transaction info dialog for mobile &amp; updates the setting menu.
+
+Download the new release here: [link]"
+Date: Thu Feb 13 11:01:02 WET 2025
+Text: 
+URL: https://x.com/cashonize/status/1889992546212000149
+Permalink: /r/btc/comments/1iogm5z/cashonize_v031_release_this_release_adds_caching/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Educational-Lynx-370
+Title: Trading vectors
+Date: Thu Feb 13 08:55:56 WET 2025
+Text: Hi I started trading some months ago using several things:
+
+1. Account on one known crypto exchange
+
+2. API access to trading account
+
+3. Bot written by me which makes trades on some primitive logic - limit orders trading which produce profit after fees
+
+4. Bot integrated with mobile messenger chat so I can give commands from my phone based on market conditions etc. It is pretty convenient and looks like this integration plays a big role on getting profit.
+
+It works with Spot market only for now and I am researching for a development. It is 10% profit from whole amount for like 5 months span. Have any ideas what are the vectors which I need to look next.
+
+For now to achieve X profit I need to make buy-sell order for an amount like 400 times X.
+
+I am experienced in Java and ready to write any bots etc.
+
+I am also researching on integrating AI for analysis. 
+
+Please give some advice where to look for new ideas. 
+
+
+URL: https://www.reddit.com/r/btc/comments/1ioey4c/trading_vectors/
+Permalink: /r/btc/comments/1ioey4c/trading_vectors/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: InstaCrypto_INC
+Title: True innovative #crypto solutions that have seamlessly integrated into life and uplifted mankind for 11 years and counting! Founder - @@InstaCryptoIN @Unocoin
+Date: Thu Feb 13 08:31:30 WET 2025
+Text: 
+Thanks to - @CoinDesk 
+Full Video - https://youtu.be/4uIK4wjPqA0?si=7SL9i7Fn7hEc25u3
+URL: https://i.redd.it/dkeia5mravie1.jpeg
+Permalink: /r/btc/comments/1ioen0p/true_innovative_crypto_solutions_that_have/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: kirindewitt
+Title: New things are coming in your way on kucoin! Time to Go Onchain Today!
+Date: Thu Feb 13 05:37:02 WET 2025
+Text: 
+URL: https://www.kucoin.com/announcement/en-step-into-kucoin-s-new-chapter-go-onchain-today
+Permalink: /r/btc/comments/1ioc6hl/new_things_are_coming_in_your_way_on_kucoin_time/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Empty_Caramel_1759
+Title: finance/crypto telegram group (malaysia based)
+Date: Thu Feb 13 02:20:29 WET 2025
+Text: Hi does anyone know any finance/crypto telegram group (malaysia based) i can join?
+URL: https://www.reddit.com/r/btc/comments/1io8nsh/financecrypto_telegram_group_malaysia_based/
+Permalink: /r/btc/comments/1io8nsh/financecrypto_telegram_group_malaysia_based/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: jeraco73
+Title: Dont forget BTC went from 8k-72k under the Biden administration, which approved the bitcoin ETFs. Thats 800%! Will Trump do better?
+Date: Thu Feb 13 23:27:45 WET 2025
+Text: [Avoiding the bull market BS](https://www.tradingview.com/news/cointelegraph:d3577ba9f094b:0-over-the-next-four-years-let-s-avoid-a-bulls-t-market/)
+URL: https://www.reddit.com/r/btc/comments/1iowrng/dont_forget_btc_went_from_8k72k_under_the_biden/
+Permalink: /r/btc/comments/1iowrng/dont_forget_btc_went_from_8k72k_under_the_biden/
+Number of Comments: 15
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: GameStop Considers Investing in Bitcoin and Other Cryptocurrencies
+Date: Thu Feb 13 22:48:06 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/gamestop-considers-investing-in-bitcoin-and-other-cryptocurrencies/
+Permalink: /r/btc/comments/1iovwi0/gamestop_considers_investing_in_bitcoin_and_other/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: barbralodge
+Title: Bitcoin’s Potential As A Disruptive Asset In South Africa’s Economic Landscape
+Date: Thu Feb 13 21:41:32 WET 2025
+Text: 
+URL: https://www.coincarp.com/article/bitcoins-potential-as-a-disruptive-asset-in-south-africas-economic-landscape/
+Permalink: /r/btc/comments/1ioudyq/bitcoins_potential_as_a_disruptive_asset_in_south/
+Number of Comments: 27
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: loonglivetherepublic
+Title: BitcoinCash Weekly News Video for February 11th 2025 by the BCHF
+Date: Thu Feb 13 20:58:25 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=TJqagp4RecM
+Permalink: /r/btc/comments/1iotdyi/bitcoincash_weekly_news_video_for_february_11th/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: SnooStories6806
+Title: Bitcoin, a Bank of Growth. Pure Value.
+Date: Thu Feb 13 20:50:42 WET 2025
+Text: 
+URL: https://youtu.be/y80TvwyM06Q?si=dqItaTXmR0KL6cGb
+Permalink: /r/btc/comments/1iot7fd/bitcoin_a_bank_of_growth_pure_value/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lalaci
+Title: Bitcoin Mining Equipment Seized At US Ports Nationwide
+Date: Thu Feb 13 19:27:10 WET 2025
+Text: 
+URL: https://www.benzinga.com/markets/cryptocurrency/25/02/43702814/bitcoin-mining-equipment-seized-at-us-ports-nationwide-report
+Permalink: /r/btc/comments/1ior8rl/bitcoin_mining_equipment_seized_at_us_ports/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: thesatisfiedplethora
+Title: Binance Finally Settled $340K With Investors Over Unregistered Securities Scandal
+Date: Thu Feb 13 18:49:34 WET 2025
+Text: Hey guys, if you missed it, Binance finally agreed to pay investors a $340K settlement over the 2023 unregistered tokens scandal.
+
+For newbies, back in 2023, Binance was accused by the CTFC of listing unregistered securities as cryptocurrencies and paid social media influencers to promote these assets. One of the key problems was the BNB burn program which reduced the coin’s supply to boost its value. 
+
+When this news came out, investors and users filed a lawsuit against Binance for hiding this info and the losses they suffered. 
+
+The good news is that Binance agreed to settle with damaged investors (and users) and pay them $340K for the damages. So if you bought any token on Binance when all this happened, you can check the details and [file for payment here](https://11thestate.com/cases/binance-unregistered-tokens-lawsuit).
+
+Anyways, did anyone here buy on Binance back then? How much did you lose if so?
+URL: https://www.reddit.com/r/btc/comments/1ioqcdc/binance_finally_settled_340k_with_investors_over/
+Permalink: /r/btc/comments/1ioqcdc/binance_finally_settled_340k_with_investors_over/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Built with Bitcoin Cash: How I Turned BCH into a Home
+Date: Thu Feb 13 18:35:13 WET 2025
+Text: Today I started a New Series of Articles called "Built with Bitcoin Cash" where I highlight BCH real world stories where the currency is used in the world to buy for things people are interested in and are important for them. I hope the community can send me this stories where people open stores to accept Bitcoin Cash for their products and service, accept on restaurants etc, and I will use to produce content. Now, I started with my own story, enjoy.
+URL: https://read.cash/@alberdioni8406/built-with-bitcoin-cash-how-i-turned-bch-into-a-home-88fab0e2
+Permalink: /r/btc/comments/1ioq07r/built_with_bitcoin_cash_how_i_turned_bch_into_a/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: HELLATOASTY203
+Title: Wondering where to go/who to talk to about making a crypto medium of exchange
+Date: Thu Feb 13 18:11:27 WET 2025
+Text: I’ve had a concept of a stable medium of exchange for a while and would want to make it a reality. I just have no idea who to talk to and where to look in terms of making it. And would also like some feedback and criticism on my concept. If anyone has any advice to provide that would be greatly appreciated
+
+Here's an explanation of the system as requested...
+
+The concept surrounds balancing out 3 different extremes that apply to all currencies used in society. Equality/Equity (tax rate), Centralization/Decentralization (tax allocation), and Inflation/Decentralization (supply-demand).
+
+I approach it using a 3D graph (x: tax rate, y: tax allocation, z: supply-demand).  Once doing this, you see that the X-axis extremes are: 100% - 0% tax.  The Y-axis extremes are: All the tax goes to the government (Centralization) - All tax goes to the people (Decentralization/UBI).  The Z-axis extremes are: Supply outpaces demand (Inflation) - Demand outpaces supply (Deflation).
+
+Once graphing it out, you see that they are equal opposites of each other... the reasons inflation is good are the reasons that deflation is bad and vice versa... this applies to all the axes.  So the logical conclusion for a proper medium of exchange is to not have any leaning toward the extremes (x,y,z +/-)...
+
+Once you have that conclusion, you see that the perfect medium would consist of a... 50% tax rate (sounds high but I can get into it*) where half of the tax goes to the government, through a split of equality/equity means (can get into that later too**), and the other half of the tax goes into UBI, also through equality/equity means, and has a per capita supply (matching supply to demand).  Doing this cancels out all the extremes and leaves you at (0,0,0) on the graph.
+
+The point of this currency is to provide an autonomous medium of exchange that balances out the extremes of manipulation of value... the current issue I'm having is to find a way to produce it/receive constructive criticism on what may be wrong with it and how to improve it.
+
+*a majority of this tax is refunded... its "high" because it's part of the calculation
+**Equality/equity means has to do with the splitting of funds... for example: 100$ needs to be split between 2 people through equality/equity means.  Person 1 previously had 10$ and Person 2 previously had 90$.  The new 100$ is split into 2 portions, 50$ into the equality portion and 50$ into the equity portion.  In the equality portion, that 50$ is split based on the amount of people.  Therefore, both Person 1 and 2 will receive 25$ of this portion.  The equity portion is split based on equity.  Person 1 has 10% of the total previously owned capital and Person 2 has 90% of the previously owned capital.  Therefore, Person 1 receives 5$ and Person 2 receives 45$. In the end, Person 1 received 30$ (now at 40$ total) and Person 2 received 70$ (now at 160$ total)
+URL: https://www.reddit.com/r/btc/comments/1iopfsm/wondering_where_to_gowho_to_talk_to_about_making/
+Permalink: /r/btc/comments/1iopfsm/wondering_where_to_gowho_to_talk_to_about_making/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BuyREIT
+Title: $CAR (crypto president)
+Date: Thu Feb 13 18:05:56 WET 2025
+Text: 
+URL: https://x.com/fa_touadera/status/1890089557686952399?s=46&amp;t=w3QitBb69q85Kgi_GpWNEw
+Permalink: /r/btc/comments/1iopb8l/car_crypto_president/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: Back in 2013, this reporter spent 10 Bitcoin, worth $1,000 at the time, on a dinner for dozens of strangers in San Francisco. Today, that is now a $1,000,000 sushi dinner based on the current price of Bitcoin.
+Date: Thu Feb 13 15:16:57 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=ikNHjuH8pIY&amp;si=rF4A-spY9fuHNO9m
+Permalink: /r/btc/comments/1iolb4j/back_in_2013_this_reporter_spent_10_bitcoin_worth/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gogas2
+Title: FTX will start to refund $16B cash to their customers in less than 1 week now !
+Date: Thu Feb 13 14:17:19 WET 2025
+Text: 
+URL: https://x.com/WhaleWatchersX/status/1890040815214575730
+Permalink: /r/btc/comments/1iojzyn/ftx_will_start_to_refund_16b_cash_to_their/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Metaplanet to Join MSCI Japan Index and Acquire 10K Bitcoin Worth $960M
+Date: Thu Feb 13 12:00:08 WET 2025
+Text: 
+URL: https://allincrypto.com/metaplanet-join-msci-japan-index-and-acquire-10k-bitcoin-960m/
+Permalink: /r/btc/comments/1iohhxj/metaplanet_to_join_msci_japan_index_and_acquire/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Cashonize v0.3.1 release 🦾
+
+This release adds caching for history info, making the history info load much faster
+
+Further this release improves the transaction info dialog for mobile &amp; updates the setting menu.
+
+Download the new release here: [link]"
+Date: Thu Feb 13 11:01:02 WET 2025
+Text: 
+URL: https://x.com/cashonize/status/1889992546212000149
+Permalink: /r/btc/comments/1iogm5z/cashonize_v031_release_this_release_adds_caching/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Educational-Lynx-370
+Title: Trading vectors
+Date: Thu Feb 13 08:55:56 WET 2025
+Text: Hi I started trading some months ago using several things:
+
+1. Account on one known crypto exchange
+
+2. API access to trading account
+
+3. Bot written by me which makes trades on some primitive logic - limit orders trading which produce profit after fees
+
+4. Bot integrated with mobile messenger chat so I can give commands from my phone based on market conditions etc. It is pretty convenient and looks like this integration plays a big role on getting profit.
+
+It works with Spot market only for now and I am researching for a development. It is 10% profit from whole amount for like 5 months span. Have any ideas what are the vectors which I need to look next.
+
+For now to achieve X profit I need to make buy-sell order for an amount like 400 times X.
+
+I am experienced in Java and ready to write any bots etc.
+
+I am also researching on integrating AI for analysis. 
+
+Please give some advice where to look for new ideas. 
+
+
+URL: https://www.reddit.com/r/btc/comments/1ioey4c/trading_vectors/
+Permalink: /r/btc/comments/1ioey4c/trading_vectors/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: InstaCrypto_INC
+Title: True innovative #crypto solutions that have seamlessly integrated into life and uplifted mankind for 11 years and counting! Founder - @@InstaCryptoIN @Unocoin
+Date: Thu Feb 13 08:31:30 WET 2025
+Text: 
+Thanks to - @CoinDesk 
+Full Video - https://youtu.be/4uIK4wjPqA0?si=7SL9i7Fn7hEc25u3
+URL: https://i.redd.it/dkeia5mravie1.jpeg
+Permalink: /r/btc/comments/1ioen0p/true_innovative_crypto_solutions_that_have/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: kirindewitt
+Title: New things are coming in your way on kucoin! Time to Go Onchain Today!
+Date: Thu Feb 13 05:37:02 WET 2025
+Text: 
+URL: https://www.kucoin.com/announcement/en-step-into-kucoin-s-new-chapter-go-onchain-today
+Permalink: /r/btc/comments/1ioc6hl/new_things_are_coming_in_your_way_on_kucoin_time/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Empty_Caramel_1759
+Title: finance/crypto telegram group (malaysia based)
+Date: Thu Feb 13 02:20:29 WET 2025
+Text: Hi does anyone know any finance/crypto telegram group (malaysia based) i can join?
+URL: https://www.reddit.com/r/btc/comments/1io8nsh/financecrypto_telegram_group_malaysia_based/
+Permalink: /r/btc/comments/1io8nsh/financecrypto_telegram_group_malaysia_based/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: jeraco73
+Title: Dont forget BTC went from 8k-72k under the Biden administration, which approved the bitcoin ETFs. Thats 800%! Will Trump do better?
+Date: Thu Feb 13 23:27:45 WET 2025
+Text: [Avoiding the bull market BS](https://www.tradingview.com/news/cointelegraph:d3577ba9f094b:0-over-the-next-four-years-let-s-avoid-a-bulls-t-market/)
+URL: https://www.reddit.com/r/btc/comments/1iowrng/dont_forget_btc_went_from_8k72k_under_the_biden/
+Permalink: /r/btc/comments/1iowrng/dont_forget_btc_went_from_8k72k_under_the_biden/
+Number of Comments: 15
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: GameStop Considers Investing in Bitcoin and Other Cryptocurrencies
+Date: Thu Feb 13 22:48:06 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/gamestop-considers-investing-in-bitcoin-and-other-cryptocurrencies/
+Permalink: /r/btc/comments/1iovwi0/gamestop_considers_investing_in_bitcoin_and_other/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: barbralodge
+Title: Bitcoin’s Potential As A Disruptive Asset In South Africa’s Economic Landscape
+Date: Thu Feb 13 21:41:32 WET 2025
+Text: 
+URL: https://www.coincarp.com/article/bitcoins-potential-as-a-disruptive-asset-in-south-africas-economic-landscape/
+Permalink: /r/btc/comments/1ioudyq/bitcoins_potential_as_a_disruptive_asset_in_south/
+Number of Comments: 27
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: loonglivetherepublic
+Title: BitcoinCash Weekly News Video for February 11th 2025 by the BCHF
+Date: Thu Feb 13 20:58:25 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=TJqagp4RecM
+Permalink: /r/btc/comments/1iotdyi/bitcoincash_weekly_news_video_for_february_11th/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: SnooStories6806
+Title: Bitcoin, a Bank of Growth. Pure Value.
+Date: Thu Feb 13 20:50:42 WET 2025
+Text: 
+URL: https://youtu.be/y80TvwyM06Q?si=dqItaTXmR0KL6cGb
+Permalink: /r/btc/comments/1iot7fd/bitcoin_a_bank_of_growth_pure_value/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lalaci
+Title: Bitcoin Mining Equipment Seized At US Ports Nationwide
+Date: Thu Feb 13 19:27:10 WET 2025
+Text: 
+URL: https://www.benzinga.com/markets/cryptocurrency/25/02/43702814/bitcoin-mining-equipment-seized-at-us-ports-nationwide-report
+Permalink: /r/btc/comments/1ior8rl/bitcoin_mining_equipment_seized_at_us_ports/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: thesatisfiedplethora
+Title: Binance Finally Settled $340K With Investors Over Unregistered Securities Scandal
+Date: Thu Feb 13 18:49:34 WET 2025
+Text: Hey guys, if you missed it, Binance finally agreed to pay investors a $340K settlement over the 2023 unregistered tokens scandal.
+
+For newbies, back in 2023, Binance was accused by the CTFC of listing unregistered securities as cryptocurrencies and paid social media influencers to promote these assets. One of the key problems was the BNB burn program which reduced the coin’s supply to boost its value. 
+
+When this news came out, investors and users filed a lawsuit against Binance for hiding this info and the losses they suffered. 
+
+The good news is that Binance agreed to settle with damaged investors (and users) and pay them $340K for the damages. So if you bought any token on Binance when all this happened, you can check the details and [file for payment here](https://11thestate.com/cases/binance-unregistered-tokens-lawsuit).
+
+Anyways, did anyone here buy on Binance back then? How much did you lose if so?
+URL: https://www.reddit.com/r/btc/comments/1ioqcdc/binance_finally_settled_340k_with_investors_over/
+Permalink: /r/btc/comments/1ioqcdc/binance_finally_settled_340k_with_investors_over/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Built with Bitcoin Cash: How I Turned BCH into a Home
+Date: Thu Feb 13 18:35:13 WET 2025
+Text: Today I started a New Series of Articles called "Built with Bitcoin Cash" where I highlight BCH real world stories where the currency is used in the world to buy for things people are interested in and are important for them. I hope the community can send me this stories where people open stores to accept Bitcoin Cash for their products and service, accept on restaurants etc, and I will use to produce content. Now, I started with my own story, enjoy.
+URL: https://read.cash/@alberdioni8406/built-with-bitcoin-cash-how-i-turned-bch-into-a-home-88fab0e2
+Permalink: /r/btc/comments/1ioq07r/built_with_bitcoin_cash_how_i_turned_bch_into_a/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: HELLATOASTY203
+Title: Wondering where to go/who to talk to about making a crypto medium of exchange
+Date: Thu Feb 13 18:11:27 WET 2025
+Text: I’ve had a concept of a stable medium of exchange for a while and would want to make it a reality. I just have no idea who to talk to and where to look in terms of making it. And would also like some feedback and criticism on my concept. If anyone has any advice to provide that would be greatly appreciated
+
+Here's an explanation of the system as requested...
+
+The concept surrounds balancing out 3 different extremes that apply to all currencies used in society. Equality/Equity (tax rate), Centralization/Decentralization (tax allocation), and Inflation/Decentralization (supply-demand).
+
+I approach it using a 3D graph (x: tax rate, y: tax allocation, z: supply-demand).  Once doing this, you see that the X-axis extremes are: 100% - 0% tax.  The Y-axis extremes are: All the tax goes to the government (Centralization) - All tax goes to the people (Decentralization/UBI).  The Z-axis extremes are: Supply outpaces demand (Inflation) - Demand outpaces supply (Deflation).
+
+Once graphing it out, you see that they are equal opposites of each other... the reasons inflation is good are the reasons that deflation is bad and vice versa... this applies to all the axes.  So the logical conclusion for a proper medium of exchange is to not have any leaning toward the extremes (x,y,z +/-)...
+
+Once you have that conclusion, you see that the perfect medium would consist of a... 50% tax rate (sounds high but I can get into it*) where half of the tax goes to the government, through a split of equality/equity means (can get into that later too**), and the other half of the tax goes into UBI, also through equality/equity means, and has a per capita supply (matching supply to demand).  Doing this cancels out all the extremes and leaves you at (0,0,0) on the graph.
+
+The point of this currency is to provide an autonomous medium of exchange that balances out the extremes of manipulation of value... the current issue I'm having is to find a way to produce it/receive constructive criticism on what may be wrong with it and how to improve it.
+
+*a majority of this tax is refunded... its "high" because it's part of the calculation
+**Equality/equity means has to do with the splitting of funds... for example: 100$ needs to be split between 2 people through equality/equity means.  Person 1 previously had 10$ and Person 2 previously had 90$.  The new 100$ is split into 2 portions, 50$ into the equality portion and 50$ into the equity portion.  In the equality portion, that 50$ is split based on the amount of people.  Therefore, both Person 1 and 2 will receive 25$ of this portion.  The equity portion is split based on equity.  Person 1 has 10% of the total previously owned capital and Person 2 has 90% of the previously owned capital.  Therefore, Person 1 receives 5$ and Person 2 receives 45$. In the end, Person 1 received 30$ (now at 40$ total) and Person 2 received 70$ (now at 160$ total)
+URL: https://www.reddit.com/r/btc/comments/1iopfsm/wondering_where_to_gowho_to_talk_to_about_making/
+Permalink: /r/btc/comments/1iopfsm/wondering_where_to_gowho_to_talk_to_about_making/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BuyREIT
+Title: $CAR (crypto president)
+Date: Thu Feb 13 18:05:56 WET 2025
+Text: 
+URL: https://x.com/fa_touadera/status/1890089557686952399?s=46&amp;t=w3QitBb69q85Kgi_GpWNEw
+Permalink: /r/btc/comments/1iopb8l/car_crypto_president/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: Back in 2013, this reporter spent 10 Bitcoin, worth $1,000 at the time, on a dinner for dozens of strangers in San Francisco. Today, that is now a $1,000,000 sushi dinner based on the current price of Bitcoin.
+Date: Thu Feb 13 15:16:57 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=ikNHjuH8pIY&amp;si=rF4A-spY9fuHNO9m
+Permalink: /r/btc/comments/1iolb4j/back_in_2013_this_reporter_spent_10_bitcoin_worth/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gogas2
+Title: FTX will start to refund $16B cash to their customers in less than 1 week now !
+Date: Thu Feb 13 14:17:19 WET 2025
+Text: 
+URL: https://x.com/WhaleWatchersX/status/1890040815214575730
+Permalink: /r/btc/comments/1iojzyn/ftx_will_start_to_refund_16b_cash_to_their/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Metaplanet to Join MSCI Japan Index and Acquire 10K Bitcoin Worth $960M
+Date: Thu Feb 13 12:00:08 WET 2025
+Text: 
+URL: https://allincrypto.com/metaplanet-join-msci-japan-index-and-acquire-10k-bitcoin-960m/
+Permalink: /r/btc/comments/1iohhxj/metaplanet_to_join_msci_japan_index_and_acquire/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Cashonize v0.3.1 release 🦾
+
+This release adds caching for history info, making the history info load much faster
+
+Further this release improves the transaction info dialog for mobile &amp; updates the setting menu.
+
+Download the new release here: [link]"
+Date: Thu Feb 13 11:01:02 WET 2025
+Text: 
+URL: https://x.com/cashonize/status/1889992546212000149
+Permalink: /r/btc/comments/1iogm5z/cashonize_v031_release_this_release_adds_caching/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Educational-Lynx-370
+Title: Trading vectors
+Date: Thu Feb 13 08:55:56 WET 2025
+Text: Hi I started trading some months ago using several things:
+
+1. Account on one known crypto exchange
+
+2. API access to trading account
+
+3. Bot written by me which makes trades on some primitive logic - limit orders trading which produce profit after fees
+
+4. Bot integrated with mobile messenger chat so I can give commands from my phone based on market conditions etc. It is pretty convenient and looks like this integration plays a big role on getting profit.
+
+It works with Spot market only for now and I am researching for a development. It is 10% profit from whole amount for like 5 months span. Have any ideas what are the vectors which I need to look next.
+
+For now to achieve X profit I need to make buy-sell order for an amount like 400 times X.
+
+I am experienced in Java and ready to write any bots etc.
+
+I am also researching on integrating AI for analysis. 
+
+Please give some advice where to look for new ideas. 
+
+
+URL: https://www.reddit.com/r/btc/comments/1ioey4c/trading_vectors/
+Permalink: /r/btc/comments/1ioey4c/trading_vectors/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: InstaCrypto_INC
+Title: True innovative #crypto solutions that have seamlessly integrated into life and uplifted mankind for 11 years and counting! Founder - @@InstaCryptoIN @Unocoin
+Date: Thu Feb 13 08:31:30 WET 2025
+Text: 
+Thanks to - @CoinDesk 
+Full Video - https://youtu.be/4uIK4wjPqA0?si=7SL9i7Fn7hEc25u3
+URL: https://i.redd.it/dkeia5mravie1.jpeg
+Permalink: /r/btc/comments/1ioen0p/true_innovative_crypto_solutions_that_have/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: kirindewitt
+Title: New things are coming in your way on kucoin! Time to Go Onchain Today!
+Date: Thu Feb 13 05:37:02 WET 2025
+Text: 
+URL: https://www.kucoin.com/announcement/en-step-into-kucoin-s-new-chapter-go-onchain-today
+Permalink: /r/btc/comments/1ioc6hl/new_things_are_coming_in_your_way_on_kucoin_time/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Empty_Caramel_1759
+Title: finance/crypto telegram group (malaysia based)
+Date: Thu Feb 13 02:20:29 WET 2025
+Text: Hi does anyone know any finance/crypto telegram group (malaysia based) i can join?
+URL: https://www.reddit.com/r/btc/comments/1io8nsh/financecrypto_telegram_group_malaysia_based/
+Permalink: /r/btc/comments/1io8nsh/financecrypto_telegram_group_malaysia_based/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

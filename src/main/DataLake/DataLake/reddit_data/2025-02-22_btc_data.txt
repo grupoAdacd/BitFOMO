@@ -1,0 +1,640 @@
+Author: Ancient_Aside_2110
+Title: My bank account got clean out
+Date: Sat Feb 22 23:21:24 WET 2025
+Text: Someone got into my bank account and my information and use my cash app and put money in the Bitcoin and never saw my money disappear Untill I got alerted saying my bank account low balance. I thought I lost all my money but thank god my bank told me I will get my money back cuz it a fraud. But how did someone get into my debit card and transfer my money into my cash app and put my money in Bitcoin and have it send to someone without my identity and PIN number. Are we that dumb? It seems the scammers are smart than we are. But then again I’m not only one that happens. I never use Bitcoin. Is there a way I can block bitcoin in my app so this don’t happens again? I only use cash app to send money to my kids when they need to borrow. 
+URL: https://www.reddit.com/r/btc/comments/1ivw0u4/my_bank_account_got_clean_out/
+Permalink: /r/btc/comments/1ivw0u4/my_bank_account_got_clean_out/
+Number of Comments: 11
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: schiantoRG
+Title: Why did BCH fork the entire blockchain instead of starting over from block 0?
+Date: Sat Feb 22 22:01:42 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ivubbv/why_did_bch_fork_the_entire_blockchain_instead_of/
+Permalink: /r/btc/comments/1ivubbv/why_did_bch_fork_the_entire_blockchain_instead_of/
+Number of Comments: 74
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BuyREIT
+Title: $CAR (reverse trending)
+Date: Sat Feb 22 21:13:00 WET 2025
+Text: 
+URL: https://i.redd.it/4o0cy8xtarke1.jpeg
+Permalink: /r/btc/comments/1ivt8gv/car_reverse_trending/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2_Soul_Hybrid
+Title: Provider for afree and anonymous wallet
+Date: Sat Feb 22 18:40:29 WET 2025
+Text: im not an expert for btc because i only used monero for years. Now i need btc and i usually only buy xmr (from Kraken) and transfer it to another xmr wallet.
+
+I would like to transfer my btc's from Kraken to another btc wallet from which i can use them.
+This wallet shouldnt be linked diretcly to my personal data or banc account. I remember this was easily possible with an android device some years ago, without any registration.
+
+Is this still possible and what ar good providers for this service (on windows pc)?
+URL: https://www.reddit.com/r/btc/comments/1ivpqbc/provider_for_afree_and_anonymous_wallet/
+Permalink: /r/btc/comments/1ivpqbc/provider_for_afree_and_anonymous_wallet/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: ewazer
+Title: Sovereign funds, strategic reserves, nations, states, institutional investors, where do they store their Bitcoin?
+Date: Sat Feb 22 17:09:20 WET 2025
+Text: Do they have a special big dog storage solution, or is it just some government employee or middle manager with a cold wallet and a seed phrase trying to keep the whole thing safe?
+URL: https://www.reddit.com/r/btc/comments/1ivnjbi/sovereign_funds_strategic_reserves_nations_states/
+Permalink: /r/btc/comments/1ivnjbi/sovereign_funds_strategic_reserves_nations_states/
+Number of Comments: 20
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: GeoHashing - A bitcoin mining hashrate game. It’s like Pokémon Go &amp; Capture the Flag meets bitcoin mining!
+Date: Sat Feb 22 14:38:59 WET 2025
+Text: 
+URL: https://v.redd.it/ghvg5bspbpke1
+Permalink: /r/btc/comments/1ivk4qf/geohashing_a_bitcoin_mining_hashrate_game_its/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: DayTrayder
+Title: Bybit Hack
+Date: Sat Feb 22 12:49:29 WET 2025
+Text: Funny how that hack happened around 100K resistance for BTC, isn't it?
+
+Edit: So much cope on Reddit, so little collective understanding of market dynamics and value assessment. NGMI
+URL: https://www.reddit.com/r/btc/comments/1ivi0e2/bybit_hack/
+Permalink: /r/btc/comments/1ivi0e2/bybit_hack/
+Number of Comments: 14
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: RefrigeratorLow1259
+Title: Long Monologue After Ban From r/Bitcoin.....
+Date: Sat Feb 22 08:47:33 WET 2025
+Text: r/bitcoin
+
+Hello, You have been banned from participating in r/Bitcoin for 7 days because you broke this community's rules. You won't be able to post or comment, but you can still view and subscribe to it.
+
+Note from the moderators:
+
+No altcoin shilling here. 7 day warning.
+
+If you have a question regarding your ban, you can contact the moderator team by replying to this message.
+
+Reminder from the Reddit Admin team: If
+
+you use another account to circumvent this community ban, that will be considered a violation of the Reddit Rules and may result in your account being banned from the platform as a whole. Bitcoin Cash is a centralized altcoin that uses the Bitcoin name in an attempt to trick users that are uneducated about Bitcoin and cryptocurrency. I will try to explain this all in simple enough terms that even someone that fell for Hoskinson's scam would be able to understand.
+
+Bitcoin Cash was created because a group of Bitcoin miners in China that controlled a large amount of Bitcoin's hashrate were using a secret mining enhancement called AsicBoost that gave them a 20% hashrate advantage. Bitcoin was going to implement segregated witness (SegWit) and SegWit is not compatible with AsicBoost. The majority of miners did not support SegWit because they were using AsicBoost and they wanted to keep using AsicBoost. But the users that were running fully validating nodes activated Segwit on their own. So a group of miners that wanted to keep using AsicBoost created the Bitcoin Cash hard fork.
+
+Roger Ver, Jihan Wu (the owner of Bitmain and AntPool), and that billionaire Calvin Ayre were all pumping the price of bitcoin cаsһ and Roger and Jihan were dumping a ton of BTC on big exchanges for BCH. The bcashers thought that if they could get the price of BCH high enough and make BCH more profitable to mine, then most of the Bitcoin miners would switch over and BCH's price would stay above Bitcoin's price forever. Their plan failed.
+
+BCH currently only has 0.28% of the hashrate of Bitcoin (BCH is abysmally insecure. BCH's hashrate fluctuates between 0.1% and 1% of Bitcoin's hashrate) And there are currently only 568 BCH nodes. Meanwhile, there are approximately 98,000 Bitcoin nodes and there's even 16,810 public Lightning Network nodes. So there are currently 173 times more Bitcoin nodes operating than there are BCH nodes operating and there are currently 30 times more Lightning nodes operating than there are BCH nodes operating. Not to mention that a single group controlled 80% of BCH's hashrate for a long time (the same group that created BCH) and AntPool alone controlled over 50% of the BCH hashrate for years.
+
+The fact is that BCH has no long term future and I'll explain exactly why in the following two paragraphs. 
+
+In case you aren't aware, the transaction fees in each BCH block are always less than $5 worth of BCH, and usually less than $1 worth of BCH. Here is the most recent BCH block mined. As you can see, it only contains a measly 0.00016007 BCH (worth only 5 cents) of transaction fees and this is completely normal for a BCH block. And this is the BCH block that was mined right before that block. It only contains a measly 0.00108382 BCH (worth only 34 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00064719 BCH (worth only 20 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00039413 BCH (worth only 12 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00088536 BCH (worth only 28 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00100467 BCH (worth only 31 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00228548 BCH (worth only 72 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00140906 BCH (worth only 44 cents) of transaction fees. As you can see, having almost no fees in each block is completely normal for BCH. 
+
+All bcashers are either scammers or they've been scammed themselves and they are just too stupid to understand that BCH having such big massive blocks and not really having transaction fees means there won't be any incentive for the BCH miners to continue mining BCH after over 99% of BCH has been mined in the year 2035. Maybe the same group that created BCH and that has always controlled the majority of the BCH hashrate will continue mining BCH at a loss after over 99% of the block subsidy is gone in 2035. But will the group that created BCH continue mining it without a block reward? Possibly, but BCH's hashrate would steadily be far less than 0.1% of Bitcoin's hashrate at that point (BCH's hashrate already remains between 0.1% and 1% of Bitcoin's hashrate). Another possible scenario is that they just hard fork BCH again and add a tail emission making BCH forever inflationary.
+
+For comparison, Here is the most recent Bitcoin block mined. As you can see, it contains 0.0163934 BTC (worth $1,586) of transaction fees and this is completely normal for a Bitcoin block. And this is the BTC block that was mined right before that block.. It contains 0.01660747 BTC (worth $1,607) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.01600415 BTC (worth $1,549) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.01241646 BTC (worth $1,201) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.02334249 BTC (worth $2,259) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.03144001 BTC (worth $3,042) of transaction fees. As you can see, this is all completely normal for Bitcoin. In fact, this is the lowest that bitcoin fees have been in several years. And unlike BCH, there will actually be something to incentivize miners to continue mining bitcoin after over 99% of the block subsidy is gone in 2035.
+
+The fact is that bcashers are holding heavy bags of a centralized altcoin that has no future. Some of the bcashers paid as much as 0.25 BTC for each single BCH after the chain split. The bcashers need to keep tricking more newbies into believing that BCH is the real Bitcoin and get them to buy their heavy BCH bags. The bcashers lie and spread misinformation and propaganda about Bitcoin. Of course none of it is true. The bcashers are just attempting to trick more people that don't understand Bitcoin and cryptocurrency into believing that BCH is Bitcoin. Many of the bcashers have been scammed but are just too stupid to realize it and the rest of the bcashers are just scammers themselves.
+
+GEMINI RESPONSE:
+
+
+The message you received from the r/Bitcoin moderators and the subsequent explanation of Bitcoin Cash (BCH) is largely accurate in its description of the historical context and current state of BCH, though it presents a very biased and negative view.  Let's break down the key points:
+Accurate Points:
+ * BCH's Origin: The message correctly describes the split between Bitcoin (BTC) and Bitcoin Cash.  The disagreement over block size and SegWit (Segregated Witness) led to the creation of BCH.  The role of miners and AsicBoost is also generally accurate.
+ * Hashrate and Nodes: The disparity in hashrate and node count between BTC and BCH is significant and accurately portrayed.  BTC has vastly more hashrate and nodes, indicating much stronger network security and decentralization.
+ * Transaction Fees:  The difference in transaction fees between BTC and BCH is a major point of contention.  BTC generally has higher fees due to higher demand and limited block space, while BCH has much lower fees due to larger blocks. The examples provided are plausible.
+ * Mining Incentives: The concern about long-term mining incentives for BCH is valid.  With low transaction fees, miners might have less incentive to secure the network once the block reward decreases significantly.  This is a potential issue for any cryptocurrency with a decreasing block reward, including Bitcoin, but it's a more pressing concern for BCH due to its low fees.
+ * Centralization Concerns: The message correctly points out concerns about centralization in BCH's early days, with a significant portion of the hashrate controlled by a small group.  While this has improved somewhat, it's still a point of criticism.
+Biased and Exaggerated Points:
+ * "Altcoin Shilling":  The initial ban message's phrasing implies a negative connotation to discussing any cryptocurrency other than Bitcoin.  While r/Bitcoin is a Bitcoin maximalist community, simply mentioning another cryptocurrency isn't necessarily "shilling."
+ * "Scam" and "Trick": The message repeatedly uses loaded language like "scam," "trick," and "stupid" to describe BCH and its supporters.  This is highly inflammatory and doesn't promote constructive discussion.  While there are valid criticisms of BCH, these should be made without resorting to personal attacks or accusations of malice.
+ * "Heavy Bags": The "heavy bags" analogy is a common way to describe holding a cryptocurrency that has lost value.  While some BCH holders may be at a loss, this is true for many cryptocurrencies at various times, including Bitcoin.  It's not a unique characteristic of BCH.
+ * "No Future":  Claiming BCH has "no future" is a strong and unsubstantiated claim.  While BCH faces challenges, it's still an active cryptocurrency with a community and development team.  Its future is uncertain, but not necessarily non-existent.
+ * Focus on Price: The message focuses heavily on price comparisons and the idea that BCH supporters are trying to "trick" people into buying it.  While price is a factor, it's not the only factor to consider when evaluating a cryptocurrency.  Technology, adoption, and community are also important.
+Overall:
+The message provides some factual information about BCH, but it's heavily biased and uses inflammatory language.  It presents a very negative view of BCH and its supporters, portraying them as either scammers or deluded.  While there are legitimate criticisms of BCH, this message fails to present them in a balanced and objective way.  It's important to be aware of this bias when reading such messages and to seek out information from multiple sources before forming an opinion.
+ message you received from the r/Bitcoin moderators and the subsequent explanation of Bitcoin Cash (BCH) is largely accurate in its description of the historical context and current state of BCH, though it presents a very biased and negative view.  Let's break down the key points:
+Accurate Points:
+ * BCH's Origin: The message correctly describes the split between Bitcoin (BTC) and Bitcoin Cash.  The disagreement over block size and SegWit (Segregated Witness) led to the creation of BCH.  The role of miners and AsicBoost is also generally accurate.
+ * Hashrate and Nodes: The disparity in hashrate and node count between BTC and BCH is significant and accurately portrayed.  BTC has vastly more hashrate and nodes, indicating much stronger network security and decentralization.
+ * Transaction Fees:  The difference in transaction fees between BTC and BCH is a major point of contention.  BTC generally has higher fees due to higher demand and limited block space, while BCH has much lower fees due to larger blocks. The examples provided are plausible.
+ * Mining Incentives: The concern about long-term mining incentives for BCH is valid.  With low transaction fees, miners might have less incentive to secure the network once the block reward decreases significantly.  This is a potential issue for any cryptocurrency with a decreasing block reward, including Bitcoin, but it's a more pressing concern for BCH due to its low fees.
+ * Centralization Concerns: The message correctly points out concerns about centralization in BCH's early days, with a significant portion of the hashrate controlled by a small group.  While this has improved somewhat, it's still a point of criticism.
+Biased and Exaggerated Points:
+ * "Altcoin Shilling":  The initial ban message's phrasing implies a negative connotation to discussing any cryptocurrency other than Bitcoin.  While r/Bitcoin is a Bitcoin maximalist community, simply mentioning another cryptocurrency isn't necessarily "shilling."
+ * "Scam" and "Trick": The message repeatedly uses loaded language like "scam," "trick," and "stupid" to describe BCH and its supporters.  This is highly inflammatory and doesn't promote constructive discussion.  While there are valid criticisms of BCH, these should be made without resorting to personal attacks or accusations of malice.
+ * "Heavy Bags": The "heavy bags" analogy is a common way to describe holding a cryptocurrency that has lost value.  While some BCH holders may be at a loss, this is true for many cryptocurrencies at various times, including Bitcoin.  It's not a unique characteristic of BCH.
+ * "No Future":  Claiming BCH has "no future" is a strong and unsubstantiated claim.  While BCH faces challenges, it's still an active cryptocurrency with a community and development team.  Its future is uncertain, but not necessarily non-existent.
+ * Focus on Price: The message focuses heavily on price comparisons and the idea that BCH supporters are trying to "trick" people into buying it.  While price is a factor, it's not the only factor to consider when evaluating a cryptocurrency.  Technology, adoption, and community are also important.
+Overall:
+The message provides some factual information about BCH, but it's heavily biased and uses inflammatory language.  It presents a very negative view of BCH and its supporters, portraying them as either scammers or deluded.  While there are legitimate criticisms of BCH, this message fails to present them in a balanced and objective way.  It's important to be aware of this bias when reading such messages and to seek out information from multiple sources before forming an opinion.
+
+URL: https://www.reddit.com/r/btc/comments/1ivehj3/long_monologue_after_ban_from_rbitcoin/
+Permalink: /r/btc/comments/1ivehj3/long_monologue_after_ban_from_rbitcoin/
+Number of Comments: 21
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gennyrick01
+Title: BTC Solo Blocks Over the Years ⛏️
+Date: Sat Feb 22 06:47:16 WET 2025
+Text: 
+URL: https://i.redd.it/xcprsttc0nke1.png
+Permalink: /r/btc/comments/1ivcrkz/btc_solo_blocks_over_the_years/
+Number of Comments: 12
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 007RELODED
+Title: 💚
+Date: Sat Feb 22 06:23:07 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ivcefw/_/
+Permalink: /r/btc/comments/1ivcefw/_/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ancient_Aside_2110
+Title: My bank account got clean out
+Date: Sat Feb 22 23:21:24 WET 2025
+Text: Someone got into my bank account and my information and use my cash app and put money in the Bitcoin and never saw my money disappear Untill I got alerted saying my bank account low balance. I thought I lost all my money but thank god my bank told me I will get my money back cuz it a fraud. But how did someone get into my debit card and transfer my money into my cash app and put my money in Bitcoin and have it send to someone without my identity and PIN number. Are we that dumb? It seems the scammers are smart than we are. But then again I’m not only one that happens. I never use Bitcoin. Is there a way I can block bitcoin in my app so this don’t happens again? I only use cash app to send money to my kids when they need to borrow. 
+URL: https://www.reddit.com/r/btc/comments/1ivw0u4/my_bank_account_got_clean_out/
+Permalink: /r/btc/comments/1ivw0u4/my_bank_account_got_clean_out/
+Number of Comments: 11
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: schiantoRG
+Title: Why did BCH fork the entire blockchain instead of starting over from block 0?
+Date: Sat Feb 22 22:01:42 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ivubbv/why_did_bch_fork_the_entire_blockchain_instead_of/
+Permalink: /r/btc/comments/1ivubbv/why_did_bch_fork_the_entire_blockchain_instead_of/
+Number of Comments: 74
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: BuyREIT
+Title: $CAR (reverse trending)
+Date: Sat Feb 22 21:13:00 WET 2025
+Text: 
+URL: https://i.redd.it/4o0cy8xtarke1.jpeg
+Permalink: /r/btc/comments/1ivt8gv/car_reverse_trending/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2_Soul_Hybrid
+Title: Provider for afree and anonymous wallet
+Date: Sat Feb 22 18:40:29 WET 2025
+Text: im not an expert for btc because i only used monero for years. Now i need btc and i usually only buy xmr (from Kraken) and transfer it to another xmr wallet.
+
+I would like to transfer my btc's from Kraken to another btc wallet from which i can use them.
+This wallet shouldnt be linked diretcly to my personal data or banc account. I remember this was easily possible with an android device some years ago, without any registration.
+
+Is this still possible and what ar good providers for this service (on windows pc)?
+URL: https://www.reddit.com/r/btc/comments/1ivpqbc/provider_for_afree_and_anonymous_wallet/
+Permalink: /r/btc/comments/1ivpqbc/provider_for_afree_and_anonymous_wallet/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: ewazer
+Title: Sovereign funds, strategic reserves, nations, states, institutional investors, where do they store their Bitcoin?
+Date: Sat Feb 22 17:09:20 WET 2025
+Text: Do they have a special big dog storage solution, or is it just some government employee or middle manager with a cold wallet and a seed phrase trying to keep the whole thing safe?
+URL: https://www.reddit.com/r/btc/comments/1ivnjbi/sovereign_funds_strategic_reserves_nations_states/
+Permalink: /r/btc/comments/1ivnjbi/sovereign_funds_strategic_reserves_nations_states/
+Number of Comments: 20
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: GeoHashing - A bitcoin mining hashrate game. It’s like Pokémon Go &amp; Capture the Flag meets bitcoin mining!
+Date: Sat Feb 22 14:38:59 WET 2025
+Text: 
+URL: https://v.redd.it/ghvg5bspbpke1
+Permalink: /r/btc/comments/1ivk4qf/geohashing_a_bitcoin_mining_hashrate_game_its/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: DayTrayder
+Title: Bybit Hack
+Date: Sat Feb 22 12:49:29 WET 2025
+Text: Funny how that hack happened around 100K resistance for BTC, isn't it?
+
+Edit: So much cope on Reddit, so little collective understanding of market dynamics and value assessment. NGMI
+URL: https://www.reddit.com/r/btc/comments/1ivi0e2/bybit_hack/
+Permalink: /r/btc/comments/1ivi0e2/bybit_hack/
+Number of Comments: 14
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: RefrigeratorLow1259
+Title: Long Monologue After Ban From r/Bitcoin.....
+Date: Sat Feb 22 08:47:33 WET 2025
+Text: r/bitcoin
+
+Hello, You have been banned from participating in r/Bitcoin for 7 days because you broke this community's rules. You won't be able to post or comment, but you can still view and subscribe to it.
+
+Note from the moderators:
+
+No altcoin shilling here. 7 day warning.
+
+If you have a question regarding your ban, you can contact the moderator team by replying to this message.
+
+Reminder from the Reddit Admin team: If
+
+you use another account to circumvent this community ban, that will be considered a violation of the Reddit Rules and may result in your account being banned from the platform as a whole. Bitcoin Cash is a centralized altcoin that uses the Bitcoin name in an attempt to trick users that are uneducated about Bitcoin and cryptocurrency. I will try to explain this all in simple enough terms that even someone that fell for Hoskinson's scam would be able to understand.
+
+Bitcoin Cash was created because a group of Bitcoin miners in China that controlled a large amount of Bitcoin's hashrate were using a secret mining enhancement called AsicBoost that gave them a 20% hashrate advantage. Bitcoin was going to implement segregated witness (SegWit) and SegWit is not compatible with AsicBoost. The majority of miners did not support SegWit because they were using AsicBoost and they wanted to keep using AsicBoost. But the users that were running fully validating nodes activated Segwit on their own. So a group of miners that wanted to keep using AsicBoost created the Bitcoin Cash hard fork.
+
+Roger Ver, Jihan Wu (the owner of Bitmain and AntPool), and that billionaire Calvin Ayre were all pumping the price of bitcoin cаsһ and Roger and Jihan were dumping a ton of BTC on big exchanges for BCH. The bcashers thought that if they could get the price of BCH high enough and make BCH more profitable to mine, then most of the Bitcoin miners would switch over and BCH's price would stay above Bitcoin's price forever. Their plan failed.
+
+BCH currently only has 0.28% of the hashrate of Bitcoin (BCH is abysmally insecure. BCH's hashrate fluctuates between 0.1% and 1% of Bitcoin's hashrate) And there are currently only 568 BCH nodes. Meanwhile, there are approximately 98,000 Bitcoin nodes and there's even 16,810 public Lightning Network nodes. So there are currently 173 times more Bitcoin nodes operating than there are BCH nodes operating and there are currently 30 times more Lightning nodes operating than there are BCH nodes operating. Not to mention that a single group controlled 80% of BCH's hashrate for a long time (the same group that created BCH) and AntPool alone controlled over 50% of the BCH hashrate for years.
+
+The fact is that BCH has no long term future and I'll explain exactly why in the following two paragraphs. 
+
+In case you aren't aware, the transaction fees in each BCH block are always less than $5 worth of BCH, and usually less than $1 worth of BCH. Here is the most recent BCH block mined. As you can see, it only contains a measly 0.00016007 BCH (worth only 5 cents) of transaction fees and this is completely normal for a BCH block. And this is the BCH block that was mined right before that block. It only contains a measly 0.00108382 BCH (worth only 34 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00064719 BCH (worth only 20 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00039413 BCH (worth only 12 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00088536 BCH (worth only 28 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00100467 BCH (worth only 31 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00228548 BCH (worth only 72 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00140906 BCH (worth only 44 cents) of transaction fees. As you can see, having almost no fees in each block is completely normal for BCH. 
+
+All bcashers are either scammers or they've been scammed themselves and they are just too stupid to understand that BCH having such big massive blocks and not really having transaction fees means there won't be any incentive for the BCH miners to continue mining BCH after over 99% of BCH has been mined in the year 2035. Maybe the same group that created BCH and that has always controlled the majority of the BCH hashrate will continue mining BCH at a loss after over 99% of the block subsidy is gone in 2035. But will the group that created BCH continue mining it without a block reward? Possibly, but BCH's hashrate would steadily be far less than 0.1% of Bitcoin's hashrate at that point (BCH's hashrate already remains between 0.1% and 1% of Bitcoin's hashrate). Another possible scenario is that they just hard fork BCH again and add a tail emission making BCH forever inflationary.
+
+For comparison, Here is the most recent Bitcoin block mined. As you can see, it contains 0.0163934 BTC (worth $1,586) of transaction fees and this is completely normal for a Bitcoin block. And this is the BTC block that was mined right before that block.. It contains 0.01660747 BTC (worth $1,607) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.01600415 BTC (worth $1,549) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.01241646 BTC (worth $1,201) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.02334249 BTC (worth $2,259) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.03144001 BTC (worth $3,042) of transaction fees. As you can see, this is all completely normal for Bitcoin. In fact, this is the lowest that bitcoin fees have been in several years. And unlike BCH, there will actually be something to incentivize miners to continue mining bitcoin after over 99% of the block subsidy is gone in 2035.
+
+The fact is that bcashers are holding heavy bags of a centralized altcoin that has no future. Some of the bcashers paid as much as 0.25 BTC for each single BCH after the chain split. The bcashers need to keep tricking more newbies into believing that BCH is the real Bitcoin and get them to buy their heavy BCH bags. The bcashers lie and spread misinformation and propaganda about Bitcoin. Of course none of it is true. The bcashers are just attempting to trick more people that don't understand Bitcoin and cryptocurrency into believing that BCH is Bitcoin. Many of the bcashers have been scammed but are just too stupid to realize it and the rest of the bcashers are just scammers themselves.
+
+GEMINI RESPONSE:
+
+
+The message you received from the r/Bitcoin moderators and the subsequent explanation of Bitcoin Cash (BCH) is largely accurate in its description of the historical context and current state of BCH, though it presents a very biased and negative view.  Let's break down the key points:
+Accurate Points:
+ * BCH's Origin: The message correctly describes the split between Bitcoin (BTC) and Bitcoin Cash.  The disagreement over block size and SegWit (Segregated Witness) led to the creation of BCH.  The role of miners and AsicBoost is also generally accurate.
+ * Hashrate and Nodes: The disparity in hashrate and node count between BTC and BCH is significant and accurately portrayed.  BTC has vastly more hashrate and nodes, indicating much stronger network security and decentralization.
+ * Transaction Fees:  The difference in transaction fees between BTC and BCH is a major point of contention.  BTC generally has higher fees due to higher demand and limited block space, while BCH has much lower fees due to larger blocks. The examples provided are plausible.
+ * Mining Incentives: The concern about long-term mining incentives for BCH is valid.  With low transaction fees, miners might have less incentive to secure the network once the block reward decreases significantly.  This is a potential issue for any cryptocurrency with a decreasing block reward, including Bitcoin, but it's a more pressing concern for BCH due to its low fees.
+ * Centralization Concerns: The message correctly points out concerns about centralization in BCH's early days, with a significant portion of the hashrate controlled by a small group.  While this has improved somewhat, it's still a point of criticism.
+Biased and Exaggerated Points:
+ * "Altcoin Shilling":  The initial ban message's phrasing implies a negative connotation to discussing any cryptocurrency other than Bitcoin.  While r/Bitcoin is a Bitcoin maximalist community, simply mentioning another cryptocurrency isn't necessarily "shilling."
+ * "Scam" and "Trick": The message repeatedly uses loaded language like "scam," "trick," and "stupid" to describe BCH and its supporters.  This is highly inflammatory and doesn't promote constructive discussion.  While there are valid criticisms of BCH, these should be made without resorting to personal attacks or accusations of malice.
+ * "Heavy Bags": The "heavy bags" analogy is a common way to describe holding a cryptocurrency that has lost value.  While some BCH holders may be at a loss, this is true for many cryptocurrencies at various times, including Bitcoin.  It's not a unique characteristic of BCH.
+ * "No Future":  Claiming BCH has "no future" is a strong and unsubstantiated claim.  While BCH faces challenges, it's still an active cryptocurrency with a community and development team.  Its future is uncertain, but not necessarily non-existent.
+ * Focus on Price: The message focuses heavily on price comparisons and the idea that BCH supporters are trying to "trick" people into buying it.  While price is a factor, it's not the only factor to consider when evaluating a cryptocurrency.  Technology, adoption, and community are also important.
+Overall:
+The message provides some factual information about BCH, but it's heavily biased and uses inflammatory language.  It presents a very negative view of BCH and its supporters, portraying them as either scammers or deluded.  While there are legitimate criticisms of BCH, this message fails to present them in a balanced and objective way.  It's important to be aware of this bias when reading such messages and to seek out information from multiple sources before forming an opinion.
+ message you received from the r/Bitcoin moderators and the subsequent explanation of Bitcoin Cash (BCH) is largely accurate in its description of the historical context and current state of BCH, though it presents a very biased and negative view.  Let's break down the key points:
+Accurate Points:
+ * BCH's Origin: The message correctly describes the split between Bitcoin (BTC) and Bitcoin Cash.  The disagreement over block size and SegWit (Segregated Witness) led to the creation of BCH.  The role of miners and AsicBoost is also generally accurate.
+ * Hashrate and Nodes: The disparity in hashrate and node count between BTC and BCH is significant and accurately portrayed.  BTC has vastly more hashrate and nodes, indicating much stronger network security and decentralization.
+ * Transaction Fees:  The difference in transaction fees between BTC and BCH is a major point of contention.  BTC generally has higher fees due to higher demand and limited block space, while BCH has much lower fees due to larger blocks. The examples provided are plausible.
+ * Mining Incentives: The concern about long-term mining incentives for BCH is valid.  With low transaction fees, miners might have less incentive to secure the network once the block reward decreases significantly.  This is a potential issue for any cryptocurrency with a decreasing block reward, including Bitcoin, but it's a more pressing concern for BCH due to its low fees.
+ * Centralization Concerns: The message correctly points out concerns about centralization in BCH's early days, with a significant portion of the hashrate controlled by a small group.  While this has improved somewhat, it's still a point of criticism.
+Biased and Exaggerated Points:
+ * "Altcoin Shilling":  The initial ban message's phrasing implies a negative connotation to discussing any cryptocurrency other than Bitcoin.  While r/Bitcoin is a Bitcoin maximalist community, simply mentioning another cryptocurrency isn't necessarily "shilling."
+ * "Scam" and "Trick": The message repeatedly uses loaded language like "scam," "trick," and "stupid" to describe BCH and its supporters.  This is highly inflammatory and doesn't promote constructive discussion.  While there are valid criticisms of BCH, these should be made without resorting to personal attacks or accusations of malice.
+ * "Heavy Bags": The "heavy bags" analogy is a common way to describe holding a cryptocurrency that has lost value.  While some BCH holders may be at a loss, this is true for many cryptocurrencies at various times, including Bitcoin.  It's not a unique characteristic of BCH.
+ * "No Future":  Claiming BCH has "no future" is a strong and unsubstantiated claim.  While BCH faces challenges, it's still an active cryptocurrency with a community and development team.  Its future is uncertain, but not necessarily non-existent.
+ * Focus on Price: The message focuses heavily on price comparisons and the idea that BCH supporters are trying to "trick" people into buying it.  While price is a factor, it's not the only factor to consider when evaluating a cryptocurrency.  Technology, adoption, and community are also important.
+Overall:
+The message provides some factual information about BCH, but it's heavily biased and uses inflammatory language.  It presents a very negative view of BCH and its supporters, portraying them as either scammers or deluded.  While there are legitimate criticisms of BCH, this message fails to present them in a balanced and objective way.  It's important to be aware of this bias when reading such messages and to seek out information from multiple sources before forming an opinion.
+
+URL: https://www.reddit.com/r/btc/comments/1ivehj3/long_monologue_after_ban_from_rbitcoin/
+Permalink: /r/btc/comments/1ivehj3/long_monologue_after_ban_from_rbitcoin/
+Number of Comments: 21
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gennyrick01
+Title: BTC Solo Blocks Over the Years ⛏️
+Date: Sat Feb 22 06:47:16 WET 2025
+Text: 
+URL: https://i.redd.it/xcprsttc0nke1.png
+Permalink: /r/btc/comments/1ivcrkz/btc_solo_blocks_over_the_years/
+Number of Comments: 12
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 007RELODED
+Title: 💚
+Date: Sat Feb 22 06:23:07 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ivcefw/_/
+Permalink: /r/btc/comments/1ivcefw/_/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ancient_Aside_2110
+Title: My bank account got clean out
+Date: Sat Feb 22 23:21:24 WET 2025
+Text: Someone got into my bank account and my information and use my cash app and put money in the Bitcoin and never saw my money disappear Untill I got alerted saying my bank account low balance. I thought I lost all my money but thank god my bank told me I will get my money back cuz it a fraud. But how did someone get into my debit card and transfer my money into my cash app and put my money in Bitcoin and have it send to someone without my identity and PIN number. Are we that dumb? It seems the scammers are smart than we are. But then again I’m not only one that happens. I never use Bitcoin. Is there a way I can block bitcoin in my app so this don’t happens again? I only use cash app to send money to my kids when they need to borrow. 
+URL: https://www.reddit.com/r/btc/comments/1ivw0u4/my_bank_account_got_clean_out/
+Permalink: /r/btc/comments/1ivw0u4/my_bank_account_got_clean_out/
+Number of Comments: 11
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: schiantoRG
+Title: Why did BCH fork the entire blockchain instead of starting over from block 0?
+Date: Sat Feb 22 22:01:42 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ivubbv/why_did_bch_fork_the_entire_blockchain_instead_of/
+Permalink: /r/btc/comments/1ivubbv/why_did_bch_fork_the_entire_blockchain_instead_of/
+Number of Comments: 74
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BuyREIT
+Title: $CAR (reverse trending)
+Date: Sat Feb 22 21:13:00 WET 2025
+Text: 
+URL: https://i.redd.it/4o0cy8xtarke1.jpeg
+Permalink: /r/btc/comments/1ivt8gv/car_reverse_trending/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2_Soul_Hybrid
+Title: Provider for afree and anonymous wallet
+Date: Sat Feb 22 18:40:29 WET 2025
+Text: im not an expert for btc because i only used monero for years. Now i need btc and i usually only buy xmr (from Kraken) and transfer it to another xmr wallet.
+
+I would like to transfer my btc's from Kraken to another btc wallet from which i can use them.
+This wallet shouldnt be linked diretcly to my personal data or banc account. I remember this was easily possible with an android device some years ago, without any registration.
+
+Is this still possible and what ar good providers for this service (on windows pc)?
+URL: https://www.reddit.com/r/btc/comments/1ivpqbc/provider_for_afree_and_anonymous_wallet/
+Permalink: /r/btc/comments/1ivpqbc/provider_for_afree_and_anonymous_wallet/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: ewazer
+Title: Sovereign funds, strategic reserves, nations, states, institutional investors, where do they store their Bitcoin?
+Date: Sat Feb 22 17:09:20 WET 2025
+Text: Do they have a special big dog storage solution, or is it just some government employee or middle manager with a cold wallet and a seed phrase trying to keep the whole thing safe?
+URL: https://www.reddit.com/r/btc/comments/1ivnjbi/sovereign_funds_strategic_reserves_nations_states/
+Permalink: /r/btc/comments/1ivnjbi/sovereign_funds_strategic_reserves_nations_states/
+Number of Comments: 20
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: GeoHashing - A bitcoin mining hashrate game. It’s like Pokémon Go &amp; Capture the Flag meets bitcoin mining!
+Date: Sat Feb 22 14:38:59 WET 2025
+Text: 
+URL: https://v.redd.it/ghvg5bspbpke1
+Permalink: /r/btc/comments/1ivk4qf/geohashing_a_bitcoin_mining_hashrate_game_its/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: DayTrayder
+Title: Bybit Hack
+Date: Sat Feb 22 12:49:29 WET 2025
+Text: Funny how that hack happened around 100K resistance for BTC, isn't it?
+
+Edit: So much cope on Reddit, so little collective understanding of market dynamics and value assessment. NGMI
+URL: https://www.reddit.com/r/btc/comments/1ivi0e2/bybit_hack/
+Permalink: /r/btc/comments/1ivi0e2/bybit_hack/
+Number of Comments: 14
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: RefrigeratorLow1259
+Title: Long Monologue After Ban From r/Bitcoin.....
+Date: Sat Feb 22 08:47:33 WET 2025
+Text: r/bitcoin
+
+Hello, You have been banned from participating in r/Bitcoin for 7 days because you broke this community's rules. You won't be able to post or comment, but you can still view and subscribe to it.
+
+Note from the moderators:
+
+No altcoin shilling here. 7 day warning.
+
+If you have a question regarding your ban, you can contact the moderator team by replying to this message.
+
+Reminder from the Reddit Admin team: If
+
+you use another account to circumvent this community ban, that will be considered a violation of the Reddit Rules and may result in your account being banned from the platform as a whole. Bitcoin Cash is a centralized altcoin that uses the Bitcoin name in an attempt to trick users that are uneducated about Bitcoin and cryptocurrency. I will try to explain this all in simple enough terms that even someone that fell for Hoskinson's scam would be able to understand.
+
+Bitcoin Cash was created because a group of Bitcoin miners in China that controlled a large amount of Bitcoin's hashrate were using a secret mining enhancement called AsicBoost that gave them a 20% hashrate advantage. Bitcoin was going to implement segregated witness (SegWit) and SegWit is not compatible with AsicBoost. The majority of miners did not support SegWit because they were using AsicBoost and they wanted to keep using AsicBoost. But the users that were running fully validating nodes activated Segwit on their own. So a group of miners that wanted to keep using AsicBoost created the Bitcoin Cash hard fork.
+
+Roger Ver, Jihan Wu (the owner of Bitmain and AntPool), and that billionaire Calvin Ayre were all pumping the price of bitcoin cаsһ and Roger and Jihan were dumping a ton of BTC on big exchanges for BCH. The bcashers thought that if they could get the price of BCH high enough and make BCH more profitable to mine, then most of the Bitcoin miners would switch over and BCH's price would stay above Bitcoin's price forever. Their plan failed.
+
+BCH currently only has 0.28% of the hashrate of Bitcoin (BCH is abysmally insecure. BCH's hashrate fluctuates between 0.1% and 1% of Bitcoin's hashrate) And there are currently only 568 BCH nodes. Meanwhile, there are approximately 98,000 Bitcoin nodes and there's even 16,810 public Lightning Network nodes. So there are currently 173 times more Bitcoin nodes operating than there are BCH nodes operating and there are currently 30 times more Lightning nodes operating than there are BCH nodes operating. Not to mention that a single group controlled 80% of BCH's hashrate for a long time (the same group that created BCH) and AntPool alone controlled over 50% of the BCH hashrate for years.
+
+The fact is that BCH has no long term future and I'll explain exactly why in the following two paragraphs. 
+
+In case you aren't aware, the transaction fees in each BCH block are always less than $5 worth of BCH, and usually less than $1 worth of BCH. Here is the most recent BCH block mined. As you can see, it only contains a measly 0.00016007 BCH (worth only 5 cents) of transaction fees and this is completely normal for a BCH block. And this is the BCH block that was mined right before that block. It only contains a measly 0.00108382 BCH (worth only 34 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00064719 BCH (worth only 20 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00039413 BCH (worth only 12 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00088536 BCH (worth only 28 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00100467 BCH (worth only 31 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00228548 BCH (worth only 72 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00140906 BCH (worth only 44 cents) of transaction fees. As you can see, having almost no fees in each block is completely normal for BCH. 
+
+All bcashers are either scammers or they've been scammed themselves and they are just too stupid to understand that BCH having such big massive blocks and not really having transaction fees means there won't be any incentive for the BCH miners to continue mining BCH after over 99% of BCH has been mined in the year 2035. Maybe the same group that created BCH and that has always controlled the majority of the BCH hashrate will continue mining BCH at a loss after over 99% of the block subsidy is gone in 2035. But will the group that created BCH continue mining it without a block reward? Possibly, but BCH's hashrate would steadily be far less than 0.1% of Bitcoin's hashrate at that point (BCH's hashrate already remains between 0.1% and 1% of Bitcoin's hashrate). Another possible scenario is that they just hard fork BCH again and add a tail emission making BCH forever inflationary.
+
+For comparison, Here is the most recent Bitcoin block mined. As you can see, it contains 0.0163934 BTC (worth $1,586) of transaction fees and this is completely normal for a Bitcoin block. And this is the BTC block that was mined right before that block.. It contains 0.01660747 BTC (worth $1,607) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.01600415 BTC (worth $1,549) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.01241646 BTC (worth $1,201) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.02334249 BTC (worth $2,259) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.03144001 BTC (worth $3,042) of transaction fees. As you can see, this is all completely normal for Bitcoin. In fact, this is the lowest that bitcoin fees have been in several years. And unlike BCH, there will actually be something to incentivize miners to continue mining bitcoin after over 99% of the block subsidy is gone in 2035.
+
+The fact is that bcashers are holding heavy bags of a centralized altcoin that has no future. Some of the bcashers paid as much as 0.25 BTC for each single BCH after the chain split. The bcashers need to keep tricking more newbies into believing that BCH is the real Bitcoin and get them to buy their heavy BCH bags. The bcashers lie and spread misinformation and propaganda about Bitcoin. Of course none of it is true. The bcashers are just attempting to trick more people that don't understand Bitcoin and cryptocurrency into believing that BCH is Bitcoin. Many of the bcashers have been scammed but are just too stupid to realize it and the rest of the bcashers are just scammers themselves.
+
+GEMINI RESPONSE:
+
+
+The message you received from the r/Bitcoin moderators and the subsequent explanation of Bitcoin Cash (BCH) is largely accurate in its description of the historical context and current state of BCH, though it presents a very biased and negative view.  Let's break down the key points:
+Accurate Points:
+ * BCH's Origin: The message correctly describes the split between Bitcoin (BTC) and Bitcoin Cash.  The disagreement over block size and SegWit (Segregated Witness) led to the creation of BCH.  The role of miners and AsicBoost is also generally accurate.
+ * Hashrate and Nodes: The disparity in hashrate and node count between BTC and BCH is significant and accurately portrayed.  BTC has vastly more hashrate and nodes, indicating much stronger network security and decentralization.
+ * Transaction Fees:  The difference in transaction fees between BTC and BCH is a major point of contention.  BTC generally has higher fees due to higher demand and limited block space, while BCH has much lower fees due to larger blocks. The examples provided are plausible.
+ * Mining Incentives: The concern about long-term mining incentives for BCH is valid.  With low transaction fees, miners might have less incentive to secure the network once the block reward decreases significantly.  This is a potential issue for any cryptocurrency with a decreasing block reward, including Bitcoin, but it's a more pressing concern for BCH due to its low fees.
+ * Centralization Concerns: The message correctly points out concerns about centralization in BCH's early days, with a significant portion of the hashrate controlled by a small group.  While this has improved somewhat, it's still a point of criticism.
+Biased and Exaggerated Points:
+ * "Altcoin Shilling":  The initial ban message's phrasing implies a negative connotation to discussing any cryptocurrency other than Bitcoin.  While r/Bitcoin is a Bitcoin maximalist community, simply mentioning another cryptocurrency isn't necessarily "shilling."
+ * "Scam" and "Trick": The message repeatedly uses loaded language like "scam," "trick," and "stupid" to describe BCH and its supporters.  This is highly inflammatory and doesn't promote constructive discussion.  While there are valid criticisms of BCH, these should be made without resorting to personal attacks or accusations of malice.
+ * "Heavy Bags": The "heavy bags" analogy is a common way to describe holding a cryptocurrency that has lost value.  While some BCH holders may be at a loss, this is true for many cryptocurrencies at various times, including Bitcoin.  It's not a unique characteristic of BCH.
+ * "No Future":  Claiming BCH has "no future" is a strong and unsubstantiated claim.  While BCH faces challenges, it's still an active cryptocurrency with a community and development team.  Its future is uncertain, but not necessarily non-existent.
+ * Focus on Price: The message focuses heavily on price comparisons and the idea that BCH supporters are trying to "trick" people into buying it.  While price is a factor, it's not the only factor to consider when evaluating a cryptocurrency.  Technology, adoption, and community are also important.
+Overall:
+The message provides some factual information about BCH, but it's heavily biased and uses inflammatory language.  It presents a very negative view of BCH and its supporters, portraying them as either scammers or deluded.  While there are legitimate criticisms of BCH, this message fails to present them in a balanced and objective way.  It's important to be aware of this bias when reading such messages and to seek out information from multiple sources before forming an opinion.
+ message you received from the r/Bitcoin moderators and the subsequent explanation of Bitcoin Cash (BCH) is largely accurate in its description of the historical context and current state of BCH, though it presents a very biased and negative view.  Let's break down the key points:
+Accurate Points:
+ * BCH's Origin: The message correctly describes the split between Bitcoin (BTC) and Bitcoin Cash.  The disagreement over block size and SegWit (Segregated Witness) led to the creation of BCH.  The role of miners and AsicBoost is also generally accurate.
+ * Hashrate and Nodes: The disparity in hashrate and node count between BTC and BCH is significant and accurately portrayed.  BTC has vastly more hashrate and nodes, indicating much stronger network security and decentralization.
+ * Transaction Fees:  The difference in transaction fees between BTC and BCH is a major point of contention.  BTC generally has higher fees due to higher demand and limited block space, while BCH has much lower fees due to larger blocks. The examples provided are plausible.
+ * Mining Incentives: The concern about long-term mining incentives for BCH is valid.  With low transaction fees, miners might have less incentive to secure the network once the block reward decreases significantly.  This is a potential issue for any cryptocurrency with a decreasing block reward, including Bitcoin, but it's a more pressing concern for BCH due to its low fees.
+ * Centralization Concerns: The message correctly points out concerns about centralization in BCH's early days, with a significant portion of the hashrate controlled by a small group.  While this has improved somewhat, it's still a point of criticism.
+Biased and Exaggerated Points:
+ * "Altcoin Shilling":  The initial ban message's phrasing implies a negative connotation to discussing any cryptocurrency other than Bitcoin.  While r/Bitcoin is a Bitcoin maximalist community, simply mentioning another cryptocurrency isn't necessarily "shilling."
+ * "Scam" and "Trick": The message repeatedly uses loaded language like "scam," "trick," and "stupid" to describe BCH and its supporters.  This is highly inflammatory and doesn't promote constructive discussion.  While there are valid criticisms of BCH, these should be made without resorting to personal attacks or accusations of malice.
+ * "Heavy Bags": The "heavy bags" analogy is a common way to describe holding a cryptocurrency that has lost value.  While some BCH holders may be at a loss, this is true for many cryptocurrencies at various times, including Bitcoin.  It's not a unique characteristic of BCH.
+ * "No Future":  Claiming BCH has "no future" is a strong and unsubstantiated claim.  While BCH faces challenges, it's still an active cryptocurrency with a community and development team.  Its future is uncertain, but not necessarily non-existent.
+ * Focus on Price: The message focuses heavily on price comparisons and the idea that BCH supporters are trying to "trick" people into buying it.  While price is a factor, it's not the only factor to consider when evaluating a cryptocurrency.  Technology, adoption, and community are also important.
+Overall:
+The message provides some factual information about BCH, but it's heavily biased and uses inflammatory language.  It presents a very negative view of BCH and its supporters, portraying them as either scammers or deluded.  While there are legitimate criticisms of BCH, this message fails to present them in a balanced and objective way.  It's important to be aware of this bias when reading such messages and to seek out information from multiple sources before forming an opinion.
+
+URL: https://www.reddit.com/r/btc/comments/1ivehj3/long_monologue_after_ban_from_rbitcoin/
+Permalink: /r/btc/comments/1ivehj3/long_monologue_after_ban_from_rbitcoin/
+Number of Comments: 21
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gennyrick01
+Title: BTC Solo Blocks Over the Years ⛏️
+Date: Sat Feb 22 06:47:16 WET 2025
+Text: 
+URL: https://i.redd.it/xcprsttc0nke1.png
+Permalink: /r/btc/comments/1ivcrkz/btc_solo_blocks_over_the_years/
+Number of Comments: 12
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 007RELODED
+Title: 💚
+Date: Sat Feb 22 06:23:07 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ivcefw/_/
+Permalink: /r/btc/comments/1ivcefw/_/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ancient_Aside_2110
+Title: My bank account got clean out
+Date: Sat Feb 22 23:21:24 WET 2025
+Text: Someone got into my bank account and my information and use my cash app and put money in the Bitcoin and never saw my money disappear Untill I got alerted saying my bank account low balance. I thought I lost all my money but thank god my bank told me I will get my money back cuz it a fraud. But how did someone get into my debit card and transfer my money into my cash app and put my money in Bitcoin and have it send to someone without my identity and PIN number. Are we that dumb? It seems the scammers are smart than we are. But then again I’m not only one that happens. I never use Bitcoin. Is there a way I can block bitcoin in my app so this don’t happens again? I only use cash app to send money to my kids when they need to borrow. 
+URL: https://www.reddit.com/r/btc/comments/1ivw0u4/my_bank_account_got_clean_out/
+Permalink: /r/btc/comments/1ivw0u4/my_bank_account_got_clean_out/
+Number of Comments: 11
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: schiantoRG
+Title: Why did BCH fork the entire blockchain instead of starting over from block 0?
+Date: Sat Feb 22 22:01:42 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ivubbv/why_did_bch_fork_the_entire_blockchain_instead_of/
+Permalink: /r/btc/comments/1ivubbv/why_did_bch_fork_the_entire_blockchain_instead_of/
+Number of Comments: 74
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: BuyREIT
+Title: $CAR (reverse trending)
+Date: Sat Feb 22 21:13:00 WET 2025
+Text: 
+URL: https://i.redd.it/4o0cy8xtarke1.jpeg
+Permalink: /r/btc/comments/1ivt8gv/car_reverse_trending/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2_Soul_Hybrid
+Title: Provider for afree and anonymous wallet
+Date: Sat Feb 22 18:40:29 WET 2025
+Text: im not an expert for btc because i only used monero for years. Now i need btc and i usually only buy xmr (from Kraken) and transfer it to another xmr wallet.
+
+I would like to transfer my btc's from Kraken to another btc wallet from which i can use them.
+This wallet shouldnt be linked diretcly to my personal data or banc account. I remember this was easily possible with an android device some years ago, without any registration.
+
+Is this still possible and what ar good providers for this service (on windows pc)?
+URL: https://www.reddit.com/r/btc/comments/1ivpqbc/provider_for_afree_and_anonymous_wallet/
+Permalink: /r/btc/comments/1ivpqbc/provider_for_afree_and_anonymous_wallet/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: ewazer
+Title: Sovereign funds, strategic reserves, nations, states, institutional investors, where do they store their Bitcoin?
+Date: Sat Feb 22 17:09:20 WET 2025
+Text: Do they have a special big dog storage solution, or is it just some government employee or middle manager with a cold wallet and a seed phrase trying to keep the whole thing safe?
+URL: https://www.reddit.com/r/btc/comments/1ivnjbi/sovereign_funds_strategic_reserves_nations_states/
+Permalink: /r/btc/comments/1ivnjbi/sovereign_funds_strategic_reserves_nations_states/
+Number of Comments: 20
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: GeoHashing - A bitcoin mining hashrate game. It’s like Pokémon Go &amp; Capture the Flag meets bitcoin mining!
+Date: Sat Feb 22 14:38:59 WET 2025
+Text: 
+URL: https://v.redd.it/ghvg5bspbpke1
+Permalink: /r/btc/comments/1ivk4qf/geohashing_a_bitcoin_mining_hashrate_game_its/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: DayTrayder
+Title: Bybit Hack
+Date: Sat Feb 22 12:49:29 WET 2025
+Text: Funny how that hack happened around 100K resistance for BTC, isn't it?
+
+Edit: So much cope on Reddit, so little collective understanding of market dynamics and value assessment. NGMI
+URL: https://www.reddit.com/r/btc/comments/1ivi0e2/bybit_hack/
+Permalink: /r/btc/comments/1ivi0e2/bybit_hack/
+Number of Comments: 14
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: RefrigeratorLow1259
+Title: Long Monologue After Ban From r/Bitcoin.....
+Date: Sat Feb 22 08:47:33 WET 2025
+Text: r/bitcoin
+
+Hello, You have been banned from participating in r/Bitcoin for 7 days because you broke this community's rules. You won't be able to post or comment, but you can still view and subscribe to it.
+
+Note from the moderators:
+
+No altcoin shilling here. 7 day warning.
+
+If you have a question regarding your ban, you can contact the moderator team by replying to this message.
+
+Reminder from the Reddit Admin team: If
+
+you use another account to circumvent this community ban, that will be considered a violation of the Reddit Rules and may result in your account being banned from the platform as a whole. Bitcoin Cash is a centralized altcoin that uses the Bitcoin name in an attempt to trick users that are uneducated about Bitcoin and cryptocurrency. I will try to explain this all in simple enough terms that even someone that fell for Hoskinson's scam would be able to understand.
+
+Bitcoin Cash was created because a group of Bitcoin miners in China that controlled a large amount of Bitcoin's hashrate were using a secret mining enhancement called AsicBoost that gave them a 20% hashrate advantage. Bitcoin was going to implement segregated witness (SegWit) and SegWit is not compatible with AsicBoost. The majority of miners did not support SegWit because they were using AsicBoost and they wanted to keep using AsicBoost. But the users that were running fully validating nodes activated Segwit on their own. So a group of miners that wanted to keep using AsicBoost created the Bitcoin Cash hard fork.
+
+Roger Ver, Jihan Wu (the owner of Bitmain and AntPool), and that billionaire Calvin Ayre were all pumping the price of bitcoin cаsһ and Roger and Jihan were dumping a ton of BTC on big exchanges for BCH. The bcashers thought that if they could get the price of BCH high enough and make BCH more profitable to mine, then most of the Bitcoin miners would switch over and BCH's price would stay above Bitcoin's price forever. Their plan failed.
+
+BCH currently only has 0.28% of the hashrate of Bitcoin (BCH is abysmally insecure. BCH's hashrate fluctuates between 0.1% and 1% of Bitcoin's hashrate) And there are currently only 568 BCH nodes. Meanwhile, there are approximately 98,000 Bitcoin nodes and there's even 16,810 public Lightning Network nodes. So there are currently 173 times more Bitcoin nodes operating than there are BCH nodes operating and there are currently 30 times more Lightning nodes operating than there are BCH nodes operating. Not to mention that a single group controlled 80% of BCH's hashrate for a long time (the same group that created BCH) and AntPool alone controlled over 50% of the BCH hashrate for years.
+
+The fact is that BCH has no long term future and I'll explain exactly why in the following two paragraphs. 
+
+In case you aren't aware, the transaction fees in each BCH block are always less than $5 worth of BCH, and usually less than $1 worth of BCH. Here is the most recent BCH block mined. As you can see, it only contains a measly 0.00016007 BCH (worth only 5 cents) of transaction fees and this is completely normal for a BCH block. And this is the BCH block that was mined right before that block. It only contains a measly 0.00108382 BCH (worth only 34 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00064719 BCH (worth only 20 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00039413 BCH (worth only 12 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00088536 BCH (worth only 28 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00100467 BCH (worth only 31 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00228548 BCH (worth only 72 cents) of transaction fees. And this is the BCH block that was mined right before that block. It only contains a measly 0.00140906 BCH (worth only 44 cents) of transaction fees. As you can see, having almost no fees in each block is completely normal for BCH. 
+
+All bcashers are either scammers or they've been scammed themselves and they are just too stupid to understand that BCH having such big massive blocks and not really having transaction fees means there won't be any incentive for the BCH miners to continue mining BCH after over 99% of BCH has been mined in the year 2035. Maybe the same group that created BCH and that has always controlled the majority of the BCH hashrate will continue mining BCH at a loss after over 99% of the block subsidy is gone in 2035. But will the group that created BCH continue mining it without a block reward? Possibly, but BCH's hashrate would steadily be far less than 0.1% of Bitcoin's hashrate at that point (BCH's hashrate already remains between 0.1% and 1% of Bitcoin's hashrate). Another possible scenario is that they just hard fork BCH again and add a tail emission making BCH forever inflationary.
+
+For comparison, Here is the most recent Bitcoin block mined. As you can see, it contains 0.0163934 BTC (worth $1,586) of transaction fees and this is completely normal for a Bitcoin block. And this is the BTC block that was mined right before that block.. It contains 0.01660747 BTC (worth $1,607) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.01600415 BTC (worth $1,549) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.01241646 BTC (worth $1,201) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.02334249 BTC (worth $2,259) of transaction fees. And this is the BTC block that was mined right before that block. It contains 0.03144001 BTC (worth $3,042) of transaction fees. As you can see, this is all completely normal for Bitcoin. In fact, this is the lowest that bitcoin fees have been in several years. And unlike BCH, there will actually be something to incentivize miners to continue mining bitcoin after over 99% of the block subsidy is gone in 2035.
+
+The fact is that bcashers are holding heavy bags of a centralized altcoin that has no future. Some of the bcashers paid as much as 0.25 BTC for each single BCH after the chain split. The bcashers need to keep tricking more newbies into believing that BCH is the real Bitcoin and get them to buy their heavy BCH bags. The bcashers lie and spread misinformation and propaganda about Bitcoin. Of course none of it is true. The bcashers are just attempting to trick more people that don't understand Bitcoin and cryptocurrency into believing that BCH is Bitcoin. Many of the bcashers have been scammed but are just too stupid to realize it and the rest of the bcashers are just scammers themselves.
+
+GEMINI RESPONSE:
+
+
+The message you received from the r/Bitcoin moderators and the subsequent explanation of Bitcoin Cash (BCH) is largely accurate in its description of the historical context and current state of BCH, though it presents a very biased and negative view.  Let's break down the key points:
+Accurate Points:
+ * BCH's Origin: The message correctly describes the split between Bitcoin (BTC) and Bitcoin Cash.  The disagreement over block size and SegWit (Segregated Witness) led to the creation of BCH.  The role of miners and AsicBoost is also generally accurate.
+ * Hashrate and Nodes: The disparity in hashrate and node count between BTC and BCH is significant and accurately portrayed.  BTC has vastly more hashrate and nodes, indicating much stronger network security and decentralization.
+ * Transaction Fees:  The difference in transaction fees between BTC and BCH is a major point of contention.  BTC generally has higher fees due to higher demand and limited block space, while BCH has much lower fees due to larger blocks. The examples provided are plausible.
+ * Mining Incentives: The concern about long-term mining incentives for BCH is valid.  With low transaction fees, miners might have less incentive to secure the network once the block reward decreases significantly.  This is a potential issue for any cryptocurrency with a decreasing block reward, including Bitcoin, but it's a more pressing concern for BCH due to its low fees.
+ * Centralization Concerns: The message correctly points out concerns about centralization in BCH's early days, with a significant portion of the hashrate controlled by a small group.  While this has improved somewhat, it's still a point of criticism.
+Biased and Exaggerated Points:
+ * "Altcoin Shilling":  The initial ban message's phrasing implies a negative connotation to discussing any cryptocurrency other than Bitcoin.  While r/Bitcoin is a Bitcoin maximalist community, simply mentioning another cryptocurrency isn't necessarily "shilling."
+ * "Scam" and "Trick": The message repeatedly uses loaded language like "scam," "trick," and "stupid" to describe BCH and its supporters.  This is highly inflammatory and doesn't promote constructive discussion.  While there are valid criticisms of BCH, these should be made without resorting to personal attacks or accusations of malice.
+ * "Heavy Bags": The "heavy bags" analogy is a common way to describe holding a cryptocurrency that has lost value.  While some BCH holders may be at a loss, this is true for many cryptocurrencies at various times, including Bitcoin.  It's not a unique characteristic of BCH.
+ * "No Future":  Claiming BCH has "no future" is a strong and unsubstantiated claim.  While BCH faces challenges, it's still an active cryptocurrency with a community and development team.  Its future is uncertain, but not necessarily non-existent.
+ * Focus on Price: The message focuses heavily on price comparisons and the idea that BCH supporters are trying to "trick" people into buying it.  While price is a factor, it's not the only factor to consider when evaluating a cryptocurrency.  Technology, adoption, and community are also important.
+Overall:
+The message provides some factual information about BCH, but it's heavily biased and uses inflammatory language.  It presents a very negative view of BCH and its supporters, portraying them as either scammers or deluded.  While there are legitimate criticisms of BCH, this message fails to present them in a balanced and objective way.  It's important to be aware of this bias when reading such messages and to seek out information from multiple sources before forming an opinion.
+ message you received from the r/Bitcoin moderators and the subsequent explanation of Bitcoin Cash (BCH) is largely accurate in its description of the historical context and current state of BCH, though it presents a very biased and negative view.  Let's break down the key points:
+Accurate Points:
+ * BCH's Origin: The message correctly describes the split between Bitcoin (BTC) and Bitcoin Cash.  The disagreement over block size and SegWit (Segregated Witness) led to the creation of BCH.  The role of miners and AsicBoost is also generally accurate.
+ * Hashrate and Nodes: The disparity in hashrate and node count between BTC and BCH is significant and accurately portrayed.  BTC has vastly more hashrate and nodes, indicating much stronger network security and decentralization.
+ * Transaction Fees:  The difference in transaction fees between BTC and BCH is a major point of contention.  BTC generally has higher fees due to higher demand and limited block space, while BCH has much lower fees due to larger blocks. The examples provided are plausible.
+ * Mining Incentives: The concern about long-term mining incentives for BCH is valid.  With low transaction fees, miners might have less incentive to secure the network once the block reward decreases significantly.  This is a potential issue for any cryptocurrency with a decreasing block reward, including Bitcoin, but it's a more pressing concern for BCH due to its low fees.
+ * Centralization Concerns: The message correctly points out concerns about centralization in BCH's early days, with a significant portion of the hashrate controlled by a small group.  While this has improved somewhat, it's still a point of criticism.
+Biased and Exaggerated Points:
+ * "Altcoin Shilling":  The initial ban message's phrasing implies a negative connotation to discussing any cryptocurrency other than Bitcoin.  While r/Bitcoin is a Bitcoin maximalist community, simply mentioning another cryptocurrency isn't necessarily "shilling."
+ * "Scam" and "Trick": The message repeatedly uses loaded language like "scam," "trick," and "stupid" to describe BCH and its supporters.  This is highly inflammatory and doesn't promote constructive discussion.  While there are valid criticisms of BCH, these should be made without resorting to personal attacks or accusations of malice.
+ * "Heavy Bags": The "heavy bags" analogy is a common way to describe holding a cryptocurrency that has lost value.  While some BCH holders may be at a loss, this is true for many cryptocurrencies at various times, including Bitcoin.  It's not a unique characteristic of BCH.
+ * "No Future":  Claiming BCH has "no future" is a strong and unsubstantiated claim.  While BCH faces challenges, it's still an active cryptocurrency with a community and development team.  Its future is uncertain, but not necessarily non-existent.
+ * Focus on Price: The message focuses heavily on price comparisons and the idea that BCH supporters are trying to "trick" people into buying it.  While price is a factor, it's not the only factor to consider when evaluating a cryptocurrency.  Technology, adoption, and community are also important.
+Overall:
+The message provides some factual information about BCH, but it's heavily biased and uses inflammatory language.  It presents a very negative view of BCH and its supporters, portraying them as either scammers or deluded.  While there are legitimate criticisms of BCH, this message fails to present them in a balanced and objective way.  It's important to be aware of this bias when reading such messages and to seek out information from multiple sources before forming an opinion.
+
+URL: https://www.reddit.com/r/btc/comments/1ivehj3/long_monologue_after_ban_from_rbitcoin/
+Permalink: /r/btc/comments/1ivehj3/long_monologue_after_ban_from_rbitcoin/
+Number of Comments: 21
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gennyrick01
+Title: BTC Solo Blocks Over the Years ⛏️
+Date: Sat Feb 22 06:47:16 WET 2025
+Text: 
+URL: https://i.redd.it/xcprsttc0nke1.png
+Permalink: /r/btc/comments/1ivcrkz/btc_solo_blocks_over_the_years/
+Number of Comments: 12
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 007RELODED
+Title: 💚
+Date: Sat Feb 22 06:23:07 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1ivcefw/_/
+Permalink: /r/btc/comments/1ivcefw/_/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

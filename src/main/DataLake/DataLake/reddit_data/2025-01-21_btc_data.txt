@@ -1,0 +1,1056 @@
+Author: SailorCitrus
+Title: Buy and Sell
+Date: Tue Jan 21 20:14:05 WET 2025
+Text: I’m new to bitcoin and have been investing for a while - right now bitcoin is doing well and my question is - in Canadian dollars say - if I am at $150 profit can I sell $150 now that it’s at 155,000 - then buy $150 when it goes to $145,000? Like is this a good strategy for increasing my bitcoin investment? Sell when there’s a profit and buy back in when it goes back? Thanks ! Don’t PM me I won’t answer! 🙏 
+URL: https://www.reddit.com/r/btc/comments/1i6s1sp/buy_and_sell/
+Permalink: /r/btc/comments/1i6s1sp/buy_and_sell/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: HamphernyR
+Title: There are only a few hours left for you to support this flipstarter campaign.
+Date: Tue Jan 21 19:55:46 WET 2025
+Text: *Finally today is the last day of this campaign, so I have nothing left to do but thank the people who have believed in this project from the beginning, despite what happens we will continue with this project because I want to see it become a reality and I am sure it will have a positive impact on the Adoption of #BitcoinCash in this new year and the years to come, I leave you again the link of the campaign for those who want to support in these last hours, all support is important to us.*
+
+ [CriptoCatia Podcast](https://criptocatia-podcast.f10.cash)
+
+**#BCH is the real #Bitcoin**
+URL: https://www.reddit.com/r/btc/comments/1i6rlel/there_are_only_a_few_hours_left_for_you_to/
+Permalink: /r/btc/comments/1i6rlel/there_are_only_a_few_hours_left_for_you_to/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: pythonNewbie__
+Title: Wtf, why did you censor me?  I didn't violate any rules and I thought this sub is free-speech based
+Date: Tue Jan 21 19:54:27 WET 2025
+Text: https://preview.redd.it/q7z8vojjjeee1.png?width=831&amp;format=png&amp;auto=webp&amp;s=2379bb30e168d7902a7bb5e6fb5dbb3aa2f59d6b
+
+
+URL: https://www.reddit.com/r/btc/comments/1i6rk8i/wtf_why_did_you_censor_me_i_didnt_violate_any/
+Permalink: /r/btc/comments/1i6rk8i/wtf_why_did_you_censor_me_i_didnt_violate_any/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: pythonNewbie__
+Title: If your crypto project is solid it will attract high profile investors regardless of your marketing/promotional methodologies (shilling)
+Date: Tue Jan 21 19:52:49 WET 2025
+Text: People who have the funds, experience, and investment to invest in a tech project are going to ask you to see the whitepaper or documentation of the project, these people don't care about your ads and your paid bots, at the very best you may convince some teenagers/young adults Andrew Tate fanboys to buy your shitcoin, but beyond that, you got nothing
+
+Your shitcoin is the copy of the copy of the copy of bitcoin and a very bad implementation of the protocol, which means your coin is the grand-grand-grand bitch of the original bitcoin, you probably don't even know how your own shitcoin works, you probably just copied the typical methods of generating shitcoins based on chains other, far more skilled people than you developed
+
+Cryptocurrencies who attempted to fix the limitations of the original bitcoin like BCH, LTC, Monero, NANO, etc. Do not require people shilling them 24/7, they established their legitimacy long ago (NANO maybe not so much but the rest are definitely solid implementations of the p2p cash system for their respective reasons) 
+URL: https://www.reddit.com/r/btc/comments/1i6rioz/if_your_crypto_project_is_solid_it_will_attract/
+Permalink: /r/btc/comments/1i6rioz/if_your_crypto_project_is_solid_it_will_attract/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: TakacsMagor
+Title: Is BCH Aiming to Replace Fiat or Co-Exist as an Alternative?
+Date: Tue Jan 21 19:40:38 WET 2025
+Text: Hey everyone,
+
+I’ve been following Bitcoin Cash for a while now and am really impressed with what it’s bringing to the table: fast transactions, low fees, and the ability to actually *use* it as digital cash. But the more I think about it, the more I wonder—what’s the ultimate vision here?
+
+Does BCH aim to *replace* fiat currencies entirely, or is the goal more about co-existing as a viable alternative for those who want out of the traditional system?
+
+Replacing fiat feels like a monumental task. There are major hurdles:
+
+* Most people aren’t interested in learning how to manage private keys, wallets, or anything technical.
+* Governments and banks are unlikely to just step aside without a fight.
+* The current system has such a stranglehold on everyday life that even getting people to consider alternatives is tough.
+
+Another thing I’ve been thinking about is the fixed supply of BCH. I’m not concerned about there being “only” 21 million coins, but rather the fact that it’s a fixed amount with no built-in inflation. In a world where fiat currencies rely on inflation to support growth and liquidity, could a deflationary currency like BCH create challenges if it were ever to replace fiat entirely? How would the economy handle the lack of monetary expansion? My main concerns are that without inflation businesses wouldn't invest rather hold money (bch in this case) and that would not help the economy.
+
+Some questions I’d love to hear your thoughts on:
+
+1. **What’s the realistic roadmap for BCH adoption?** Is it all about merchant acceptance and small steps, or does it need a major event or institutional shift to really break through?
+2. **Is it better for BCH to co-exist with fiat or aim to replace it entirely?** Are we going for parallel systems, or is BCH’s goal to make fiat obsolete?
+3. **Does the fixed supply (and lack of inflation) create long-term challenges?** How would it work in a growing economy, especially if BCH were widely adopted?
+4. **What’s the biggest barrier to wider adoption right now?** Is it technical complexity, lack of awareness, government resistance, or something else?
+
+I really believe in the potential here, but these questions keep bouncing around in my head. I’m curious how the community sees BCH’s future and whether it’s clear enough to overcome the challenges ahead.
+URL: https://www.reddit.com/r/btc/comments/1i6r7ys/is_bch_aiming_to_replace_fiat_or_coexist_as_an/
+Permalink: /r/btc/comments/1i6r7ys/is_bch_aiming_to_replace_fiat_or_coexist_as_an/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Graineon
+Title: What happens when BCH gets overloaded?
+Date: Tue Jan 21 18:38:05 WET 2025
+Text: Lets say over the next year or so BCH picks up, starts getting thousands of transactions per second.
+
+With 0-conf, these TXs can be practically accepted by a merchant at the moment they get into the mempool. But what if even though there are TXs being used floating in the mempool, they are not getting confirmed fast enough, and so they accumulate in the mempool. Think of a faucet whose spout spews faster than the drain and drain. So if the theoretical limit of the mempool is reached, if the water is overflowing, what happens?
+
+If the mempool size is 300MB, for example, that's 1.2M transactions. This comes out to about 213 transactions per second.
+
+I suppose my question is twofold.
+
+With the current mempool limit and block size, BCH can definitely handle bursts of higher TPS, but what happens exactly if the average is above 213 TPS and is maintained for too long? Could "0-conf"'d transactions get dropped if this is sustained for long enough?
+
+Also, assuming that if BCH does approach these limits, there would have to be a co-ordinated effort to increase block size and/or mempool size, how fast can this be "deployed" realistically? What would be the practical steps of such a thing? What would be involved?
+URL: https://www.reddit.com/r/btc/comments/1i6poqt/what_happens_when_bch_gets_overloaded/
+Permalink: /r/btc/comments/1i6poqt/what_happens_when_bch_gets_overloaded/
+Number of Comments: 17
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Elon Musk Explores Pardon for Bitcoin Pioneer Roger Ver from President Trump
+Date: Tue Jan 21 17:43:27 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/elon-musk-explores-pardon-for-bitcoin-pioneer-roger-ver-from-president-trump/
+Permalink: /r/btc/comments/1i6obje/elon_musk_explores_pardon_for_bitcoin_pioneer/
+Number of Comments: 11
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: El Salvador Purchases $1M Worth of Bitcoin After Accepting IMF Plea to Stop BTC Investments
+Date: Tue Jan 21 17:32:56 WET 2025
+Text: 
+URL: https://allincrypto.com/el-salvador-purchases-1m-worth-of-bitcoin-after-imf-plea-to-stop-btc-investments/
+Permalink: /r/btc/comments/1i6o27o/el_salvador_purchases_1m_worth_of_bitcoin_after/
+Number of Comments: 10
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Coinbase CEO Brian Armstrong Predicts Bitcoin Will Surge to Millions of Dollars
+Date: Tue Jan 21 15:39:10 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/coinbase-ceo-brian-armstrong-predicts-bitcoin-will-surge-to-millions-of-dollars/
+Permalink: /r/btc/comments/1i6lctp/coinbase_ceo_brian_armstrong_predicts_bitcoin/
+Number of Comments: 49
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: schiantoRG
+Title: Bitcoin Cash as legal tender in St. Kitt and Nevis
+Date: Tue Jan 21 15:26:57 WET 2025
+Text: I read now some news from a few years ago. I would like to know, if anyone is informed, what stage the project is at. Whether it was eventually abandoned or whether it is still ongoing
+
+(here for reference:)
+
+[https://coinmarketcap.com/academy/article/st-kitts-and-nevis-consider-adopting-bitcoin-cash-as-legal-tender](https://coinmarketcap.com/academy/article/st-kitts-and-nevis-consider-adopting-bitcoin-cash-as-legal-tender)
+
+[https://www.investing.com/news/cryptocurrency-news/bitcoin-cash-to-become-the-legal-tender-in-st-kitts-and-nevis-2943625](https://www.investing.com/news/cryptocurrency-news/bitcoin-cash-to-become-the-legal-tender-in-st-kitts-and-nevis-2943625)
+
+Additionally, there will be a general election in Suriname next May, with candidate Maya Parbhoe very committed to making Suriname the next BTC country. Shouldn't she consider BCH due to lower transaction costs and the substantial inaccessibility of BTC today?
+
+[https://www.maya2025.com/](https://www.maya2025.com/)
+URL: https://www.reddit.com/r/btc/comments/1i6l2qb/bitcoin_cash_as_legal_tender_in_st_kitt_and_nevis/
+Permalink: /r/btc/comments/1i6l2qb/bitcoin_cash_as_legal_tender_in_st_kitt_and_nevis/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Creepy_Prior8952
+Title: Voy a comenzar en cripto que me sugieren 
+Date: Tue Jan 21 14:32:44 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1i6jv7h/voy_a_comenzar_en_cripto_que_me_sugieren/
+Permalink: /r/btc/comments/1i6jv7h/voy_a_comenzar_en_cripto_que_me_sugieren/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Bliss Conference + Velma Upgrade: Bitcoin Cash’s Privacy Makeover!
+Date: Tue Jan 21 14:31:33 WET 2025
+Text: Bliss Conference is near and Velma Upgrade also on the makeover. I am excited with Privacy on Bitcoin Cash and the today's article is all about it, enjoy.
+URL: https://read.cash/@alberdioni8406/bliss-conference-velma-upgrade-bitcoin-cashs-privacy-makeover-c396f21c
+Permalink: /r/btc/comments/1i6juay/bliss_conference_velma_upgrade_bitcoin_cashs/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 4inalfantasy
+Title: Well, If a country that proclaimed to uphold law and freedom can do a long con, there is no stopping others to follow. Floodgate of non ethnical politics worldwide. 
+Date: Tue Jan 21 13:50:23 WET 2025
+Text: 
+URL: https://i.redd.it/lg20nmtoqcee1.jpeg
+Permalink: /r/btc/comments/1i6izoc/well_if_a_country_that_proclaimed_to_uphold_law/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Walking Before Running (GP Shorts)
+Date: Tue Jan 21 12:39:40 WET 2025
+Text: 
+URL: https://v.redd.it/zr1pz8srdcee1
+Permalink: /r/btc/comments/1i6ho3w/walking_before_running_gp_shorts/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: oldwhiteblackie
+Title: Research about Vortex Foundation
+Date: Tue Jan 21 09:21:32 WET 2025
+Text: 
+URL: /r/u_oldwhiteblackie/comments/1i6ei9g/research_about_vortex_foundation/
+Permalink: /r/btc/comments/1i6estm/research_about_vortex_foundation/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Loud_Quail_7247
+Title: 🇩🇪BTC only Newsletter
+Date: Tue Jan 21 08:22:43 WET 2025
+Text: I just launched a German Bitcoin newsletter 🇩🇪 where I explain BTC functionality, share market insights, news, and strategies for all experience levels. It’s quick, actionable, and beginner and also exper-friendly ! 
+URL: https://bitsandsatoshis.beehiiv.com/subscribe
+Permalink: /r/btc/comments/1i6e1qs/btc_only_newsletter/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Bagatell_
+Title: The Separation Of State And Money
+Date: Tue Jan 21 08:04:17 WET 2025
+Text: 
+URL: https://fixupx.com/davidshattuck8/status/1881540495106843003
+Permalink: /r/btc/comments/1i6dt6m/the_separation_of_state_and_money/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Tapswap now has a 'my past trades' tab so you can see which CashTokens you recently bought or sold!
+
+I bought some great looking 1st summons recently and sold some of the PunkApes I bridged over from SBCH!
+
+The CashTokens ecosystem keeps improving, day after day!"
+Date: Tue Jan 21 08:03:27 WET 2025
+Text: 
+URL: https://x.com/GeukensMathieu/status/1881612783898235370
+Permalink: /r/btc/comments/1i6dsre/tapswap_now_has_a_my_past_trades_tab_so_you_can/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: webbs3
+Title: Trump’s Speech: Big Promises, But Crypto Left in the Cold
+Date: Tue Jan 21 07:42:24 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/donald-trumps-inaugural-speech-big-promises-but-crypto-left-in-the-cold?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-trump-speech-no-crypto
+Permalink: /r/btc/comments/1i6dii3/trumps_speech_big_promises_but_crypto_left_in_the/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: OldMotherGoose8
+Title: Do people still talk about bitcoin/crypto as a liberating force anymore?
+Date: Tue Jan 21 07:39:49 WET 2025
+Text: I've been out for a while, but I first got into crypto in 2018 and recall that even people in the mainstream would at least pay lip-service to to Bitcoin as some kind of movement of the people, a liberating technology that will free us from the banks. 
+
+Is this still a talking point anymore? All I see now is cheer-leading for institutional adoption.
+URL: https://www.reddit.com/r/btc/comments/1i6dh7t/do_people_still_talk_about_bitcoincrypto_as_a/
+Permalink: /r/btc/comments/1i6dh7t/do_people_still_talk_about_bitcoincrypto_as_a/
+Number of Comments: 24
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Trump's Promise to Free Ross Ulbricht on Day One Goes Unfulfilled
+Date: Tue Jan 21 04:27:34 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/trumps-promise-to-free-ross-ulbricht-on-day-one-goes-unfulfilled/
+Permalink: /r/btc/comments/1i6ai90/trumps_promise_to_free_ross_ulbricht_on_day_one/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: PioneerInternational
+Title: TRUMP Memecoin May Replicate Capital Conditions Similar to 2017 ICO Craze, According to Investor Chris Burniske
+Date: Tue Jan 21 02:20:19 WET 2025
+Text: 
+URL: https://dailyhodl.com/2025/01/20/trump-memecoin-may-replicate-capital-conditions-similar-to-2017-ico-craze-according-to-investor-chris-burniske/
+Permalink: /r/btc/comments/1i683in/trump_memecoin_may_replicate_capital_conditions/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: shinyfuture
+Title: $Trump keeps dumping. Slow rug confirmed. 
+Date: Tue Jan 21 01:53:04 WET 2025
+Text: The chart confirms it. We’re in the midst of a gradual decline on the chart. Who else saw this coming? 
+URL: https://www.reddit.com/r/btc/comments/1i67jqh/trump_keeps_dumping_slow_rug_confirmed/
+Permalink: /r/btc/comments/1i67jqh/trump_keeps_dumping_slow_rug_confirmed/
+Number of Comments: 80
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: SailorCitrus
+Title: Buy and Sell
+Date: Tue Jan 21 20:14:05 WET 2025
+Text: I’m new to bitcoin and have been investing for a while - right now bitcoin is doing well and my question is - in Canadian dollars say - if I am at $150 profit can I sell $150 now that it’s at 155,000 - then buy $150 when it goes to $145,000? Like is this a good strategy for increasing my bitcoin investment? Sell when there’s a profit and buy back in when it goes back? Thanks ! Don’t PM me I won’t answer! 🙏 
+URL: https://www.reddit.com/r/btc/comments/1i6s1sp/buy_and_sell/
+Permalink: /r/btc/comments/1i6s1sp/buy_and_sell/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: HamphernyR
+Title: There are only a few hours left for you to support this flipstarter campaign.
+Date: Tue Jan 21 19:55:46 WET 2025
+Text: *Finally today is the last day of this campaign, so I have nothing left to do but thank the people who have believed in this project from the beginning, despite what happens we will continue with this project because I want to see it become a reality and I am sure it will have a positive impact on the Adoption of #BitcoinCash in this new year and the years to come, I leave you again the link of the campaign for those who want to support in these last hours, all support is important to us.*
+
+ [CriptoCatia Podcast](https://criptocatia-podcast.f10.cash)
+
+**#BCH is the real #Bitcoin**
+URL: https://www.reddit.com/r/btc/comments/1i6rlel/there_are_only_a_few_hours_left_for_you_to/
+Permalink: /r/btc/comments/1i6rlel/there_are_only_a_few_hours_left_for_you_to/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: pythonNewbie__
+Title: Wtf, why did you censor me?  I didn't violate any rules and I thought this sub is free-speech based
+Date: Tue Jan 21 19:54:27 WET 2025
+Text: https://preview.redd.it/q7z8vojjjeee1.png?width=831&amp;format=png&amp;auto=webp&amp;s=2379bb30e168d7902a7bb5e6fb5dbb3aa2f59d6b
+
+
+URL: https://www.reddit.com/r/btc/comments/1i6rk8i/wtf_why_did_you_censor_me_i_didnt_violate_any/
+Permalink: /r/btc/comments/1i6rk8i/wtf_why_did_you_censor_me_i_didnt_violate_any/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: pythonNewbie__
+Title: If your crypto project is solid it will attract high profile investors regardless of your marketing/promotional methodologies (shilling)
+Date: Tue Jan 21 19:52:49 WET 2025
+Text: People who have the funds, experience, and investment to invest in a tech project are going to ask you to see the whitepaper or documentation of the project, these people don't care about your ads and your paid bots, at the very best you may convince some teenagers/young adults Andrew Tate fanboys to buy your shitcoin, but beyond that, you got nothing
+
+Your shitcoin is the copy of the copy of the copy of bitcoin and a very bad implementation of the protocol, which means your coin is the grand-grand-grand bitch of the original bitcoin, you probably don't even know how your own shitcoin works, you probably just copied the typical methods of generating shitcoins based on chains other, far more skilled people than you developed
+
+Cryptocurrencies who attempted to fix the limitations of the original bitcoin like BCH, LTC, Monero, NANO, etc. Do not require people shilling them 24/7, they established their legitimacy long ago (NANO maybe not so much but the rest are definitely solid implementations of the p2p cash system for their respective reasons) 
+URL: https://www.reddit.com/r/btc/comments/1i6rioz/if_your_crypto_project_is_solid_it_will_attract/
+Permalink: /r/btc/comments/1i6rioz/if_your_crypto_project_is_solid_it_will_attract/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: TakacsMagor
+Title: Is BCH Aiming to Replace Fiat or Co-Exist as an Alternative?
+Date: Tue Jan 21 19:40:38 WET 2025
+Text: Hey everyone,
+
+I’ve been following Bitcoin Cash for a while now and am really impressed with what it’s bringing to the table: fast transactions, low fees, and the ability to actually *use* it as digital cash. But the more I think about it, the more I wonder—what’s the ultimate vision here?
+
+Does BCH aim to *replace* fiat currencies entirely, or is the goal more about co-existing as a viable alternative for those who want out of the traditional system?
+
+Replacing fiat feels like a monumental task. There are major hurdles:
+
+* Most people aren’t interested in learning how to manage private keys, wallets, or anything technical.
+* Governments and banks are unlikely to just step aside without a fight.
+* The current system has such a stranglehold on everyday life that even getting people to consider alternatives is tough.
+
+Another thing I’ve been thinking about is the fixed supply of BCH. I’m not concerned about there being “only” 21 million coins, but rather the fact that it’s a fixed amount with no built-in inflation. In a world where fiat currencies rely on inflation to support growth and liquidity, could a deflationary currency like BCH create challenges if it were ever to replace fiat entirely? How would the economy handle the lack of monetary expansion? My main concerns are that without inflation businesses wouldn't invest rather hold money (bch in this case) and that would not help the economy.
+
+Some questions I’d love to hear your thoughts on:
+
+1. **What’s the realistic roadmap for BCH adoption?** Is it all about merchant acceptance and small steps, or does it need a major event or institutional shift to really break through?
+2. **Is it better for BCH to co-exist with fiat or aim to replace it entirely?** Are we going for parallel systems, or is BCH’s goal to make fiat obsolete?
+3. **Does the fixed supply (and lack of inflation) create long-term challenges?** How would it work in a growing economy, especially if BCH were widely adopted?
+4. **What’s the biggest barrier to wider adoption right now?** Is it technical complexity, lack of awareness, government resistance, or something else?
+
+I really believe in the potential here, but these questions keep bouncing around in my head. I’m curious how the community sees BCH’s future and whether it’s clear enough to overcome the challenges ahead.
+URL: https://www.reddit.com/r/btc/comments/1i6r7ys/is_bch_aiming_to_replace_fiat_or_coexist_as_an/
+Permalink: /r/btc/comments/1i6r7ys/is_bch_aiming_to_replace_fiat_or_coexist_as_an/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Graineon
+Title: What happens when BCH gets overloaded?
+Date: Tue Jan 21 18:38:05 WET 2025
+Text: Lets say over the next year or so BCH picks up, starts getting thousands of transactions per second.
+
+With 0-conf, these TXs can be practically accepted by a merchant at the moment they get into the mempool. But what if even though there are TXs being used floating in the mempool, they are not getting confirmed fast enough, and so they accumulate in the mempool. Think of a faucet whose spout spews faster than the drain and drain. So if the theoretical limit of the mempool is reached, if the water is overflowing, what happens?
+
+If the mempool size is 300MB, for example, that's 1.2M transactions. This comes out to about 213 transactions per second.
+
+I suppose my question is twofold.
+
+With the current mempool limit and block size, BCH can definitely handle bursts of higher TPS, but what happens exactly if the average is above 213 TPS and is maintained for too long? Could "0-conf"'d transactions get dropped if this is sustained for long enough?
+
+Also, assuming that if BCH does approach these limits, there would have to be a co-ordinated effort to increase block size and/or mempool size, how fast can this be "deployed" realistically? What would be the practical steps of such a thing? What would be involved?
+URL: https://www.reddit.com/r/btc/comments/1i6poqt/what_happens_when_bch_gets_overloaded/
+Permalink: /r/btc/comments/1i6poqt/what_happens_when_bch_gets_overloaded/
+Number of Comments: 17
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Elon Musk Explores Pardon for Bitcoin Pioneer Roger Ver from President Trump
+Date: Tue Jan 21 17:43:27 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/elon-musk-explores-pardon-for-bitcoin-pioneer-roger-ver-from-president-trump/
+Permalink: /r/btc/comments/1i6obje/elon_musk_explores_pardon_for_bitcoin_pioneer/
+Number of Comments: 11
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: El Salvador Purchases $1M Worth of Bitcoin After Accepting IMF Plea to Stop BTC Investments
+Date: Tue Jan 21 17:32:56 WET 2025
+Text: 
+URL: https://allincrypto.com/el-salvador-purchases-1m-worth-of-bitcoin-after-imf-plea-to-stop-btc-investments/
+Permalink: /r/btc/comments/1i6o27o/el_salvador_purchases_1m_worth_of_bitcoin_after/
+Number of Comments: 10
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Coinbase CEO Brian Armstrong Predicts Bitcoin Will Surge to Millions of Dollars
+Date: Tue Jan 21 15:39:10 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/coinbase-ceo-brian-armstrong-predicts-bitcoin-will-surge-to-millions-of-dollars/
+Permalink: /r/btc/comments/1i6lctp/coinbase_ceo_brian_armstrong_predicts_bitcoin/
+Number of Comments: 49
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: schiantoRG
+Title: Bitcoin Cash as legal tender in St. Kitt and Nevis
+Date: Tue Jan 21 15:26:57 WET 2025
+Text: I read now some news from a few years ago. I would like to know, if anyone is informed, what stage the project is at. Whether it was eventually abandoned or whether it is still ongoing
+
+(here for reference:)
+
+[https://coinmarketcap.com/academy/article/st-kitts-and-nevis-consider-adopting-bitcoin-cash-as-legal-tender](https://coinmarketcap.com/academy/article/st-kitts-and-nevis-consider-adopting-bitcoin-cash-as-legal-tender)
+
+[https://www.investing.com/news/cryptocurrency-news/bitcoin-cash-to-become-the-legal-tender-in-st-kitts-and-nevis-2943625](https://www.investing.com/news/cryptocurrency-news/bitcoin-cash-to-become-the-legal-tender-in-st-kitts-and-nevis-2943625)
+
+Additionally, there will be a general election in Suriname next May, with candidate Maya Parbhoe very committed to making Suriname the next BTC country. Shouldn't she consider BCH due to lower transaction costs and the substantial inaccessibility of BTC today?
+
+[https://www.maya2025.com/](https://www.maya2025.com/)
+URL: https://www.reddit.com/r/btc/comments/1i6l2qb/bitcoin_cash_as_legal_tender_in_st_kitt_and_nevis/
+Permalink: /r/btc/comments/1i6l2qb/bitcoin_cash_as_legal_tender_in_st_kitt_and_nevis/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Creepy_Prior8952
+Title: Voy a comenzar en cripto que me sugieren 
+Date: Tue Jan 21 14:32:44 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1i6jv7h/voy_a_comenzar_en_cripto_que_me_sugieren/
+Permalink: /r/btc/comments/1i6jv7h/voy_a_comenzar_en_cripto_que_me_sugieren/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Bliss Conference + Velma Upgrade: Bitcoin Cash’s Privacy Makeover!
+Date: Tue Jan 21 14:31:33 WET 2025
+Text: Bliss Conference is near and Velma Upgrade also on the makeover. I am excited with Privacy on Bitcoin Cash and the today's article is all about it, enjoy.
+URL: https://read.cash/@alberdioni8406/bliss-conference-velma-upgrade-bitcoin-cashs-privacy-makeover-c396f21c
+Permalink: /r/btc/comments/1i6juay/bliss_conference_velma_upgrade_bitcoin_cashs/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 4inalfantasy
+Title: Well, If a country that proclaimed to uphold law and freedom can do a long con, there is no stopping others to follow. Floodgate of non ethnical politics worldwide. 
+Date: Tue Jan 21 13:50:23 WET 2025
+Text: 
+URL: https://i.redd.it/lg20nmtoqcee1.jpeg
+Permalink: /r/btc/comments/1i6izoc/well_if_a_country_that_proclaimed_to_uphold_law/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Walking Before Running (GP Shorts)
+Date: Tue Jan 21 12:39:40 WET 2025
+Text: 
+URL: https://v.redd.it/zr1pz8srdcee1
+Permalink: /r/btc/comments/1i6ho3w/walking_before_running_gp_shorts/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: oldwhiteblackie
+Title: Research about Vortex Foundation
+Date: Tue Jan 21 09:21:32 WET 2025
+Text: 
+URL: /r/u_oldwhiteblackie/comments/1i6ei9g/research_about_vortex_foundation/
+Permalink: /r/btc/comments/1i6estm/research_about_vortex_foundation/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Loud_Quail_7247
+Title: 🇩🇪BTC only Newsletter
+Date: Tue Jan 21 08:22:43 WET 2025
+Text: I just launched a German Bitcoin newsletter 🇩🇪 where I explain BTC functionality, share market insights, news, and strategies for all experience levels. It’s quick, actionable, and beginner and also exper-friendly ! 
+URL: https://bitsandsatoshis.beehiiv.com/subscribe
+Permalink: /r/btc/comments/1i6e1qs/btc_only_newsletter/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Bagatell_
+Title: The Separation Of State And Money
+Date: Tue Jan 21 08:04:17 WET 2025
+Text: 
+URL: https://fixupx.com/davidshattuck8/status/1881540495106843003
+Permalink: /r/btc/comments/1i6dt6m/the_separation_of_state_and_money/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Tapswap now has a 'my past trades' tab so you can see which CashTokens you recently bought or sold!
+
+I bought some great looking 1st summons recently and sold some of the PunkApes I bridged over from SBCH!
+
+The CashTokens ecosystem keeps improving, day after day!"
+Date: Tue Jan 21 08:03:27 WET 2025
+Text: 
+URL: https://x.com/GeukensMathieu/status/1881612783898235370
+Permalink: /r/btc/comments/1i6dsre/tapswap_now_has_a_my_past_trades_tab_so_you_can/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: webbs3
+Title: Trump’s Speech: Big Promises, But Crypto Left in the Cold
+Date: Tue Jan 21 07:42:24 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/donald-trumps-inaugural-speech-big-promises-but-crypto-left-in-the-cold?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-trump-speech-no-crypto
+Permalink: /r/btc/comments/1i6dii3/trumps_speech_big_promises_but_crypto_left_in_the/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: OldMotherGoose8
+Title: Do people still talk about bitcoin/crypto as a liberating force anymore?
+Date: Tue Jan 21 07:39:49 WET 2025
+Text: I've been out for a while, but I first got into crypto in 2018 and recall that even people in the mainstream would at least pay lip-service to to Bitcoin as some kind of movement of the people, a liberating technology that will free us from the banks. 
+
+Is this still a talking point anymore? All I see now is cheer-leading for institutional adoption.
+URL: https://www.reddit.com/r/btc/comments/1i6dh7t/do_people_still_talk_about_bitcoincrypto_as_a/
+Permalink: /r/btc/comments/1i6dh7t/do_people_still_talk_about_bitcoincrypto_as_a/
+Number of Comments: 24
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Trump's Promise to Free Ross Ulbricht on Day One Goes Unfulfilled
+Date: Tue Jan 21 04:27:34 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/trumps-promise-to-free-ross-ulbricht-on-day-one-goes-unfulfilled/
+Permalink: /r/btc/comments/1i6ai90/trumps_promise_to_free_ross_ulbricht_on_day_one/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: PioneerInternational
+Title: TRUMP Memecoin May Replicate Capital Conditions Similar to 2017 ICO Craze, According to Investor Chris Burniske
+Date: Tue Jan 21 02:20:19 WET 2025
+Text: 
+URL: https://dailyhodl.com/2025/01/20/trump-memecoin-may-replicate-capital-conditions-similar-to-2017-ico-craze-according-to-investor-chris-burniske/
+Permalink: /r/btc/comments/1i683in/trump_memecoin_may_replicate_capital_conditions/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: shinyfuture
+Title: $Trump keeps dumping. Slow rug confirmed. 
+Date: Tue Jan 21 01:53:04 WET 2025
+Text: The chart confirms it. We’re in the midst of a gradual decline on the chart. Who else saw this coming? 
+URL: https://www.reddit.com/r/btc/comments/1i67jqh/trump_keeps_dumping_slow_rug_confirmed/
+Permalink: /r/btc/comments/1i67jqh/trump_keeps_dumping_slow_rug_confirmed/
+Number of Comments: 80
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: SailorCitrus
+Title: Buy and Sell
+Date: Tue Jan 21 20:14:05 WET 2025
+Text: I’m new to bitcoin and have been investing for a while - right now bitcoin is doing well and my question is - in Canadian dollars say - if I am at $150 profit can I sell $150 now that it’s at 155,000 - then buy $150 when it goes to $145,000? Like is this a good strategy for increasing my bitcoin investment? Sell when there’s a profit and buy back in when it goes back? Thanks ! Don’t PM me I won’t answer! 🙏 
+URL: https://www.reddit.com/r/btc/comments/1i6s1sp/buy_and_sell/
+Permalink: /r/btc/comments/1i6s1sp/buy_and_sell/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: HamphernyR
+Title: There are only a few hours left for you to support this flipstarter campaign.
+Date: Tue Jan 21 19:55:46 WET 2025
+Text: *Finally today is the last day of this campaign, so I have nothing left to do but thank the people who have believed in this project from the beginning, despite what happens we will continue with this project because I want to see it become a reality and I am sure it will have a positive impact on the Adoption of #BitcoinCash in this new year and the years to come, I leave you again the link of the campaign for those who want to support in these last hours, all support is important to us.*
+
+ [CriptoCatia Podcast](https://criptocatia-podcast.f10.cash)
+
+**#BCH is the real #Bitcoin**
+URL: https://www.reddit.com/r/btc/comments/1i6rlel/there_are_only_a_few_hours_left_for_you_to/
+Permalink: /r/btc/comments/1i6rlel/there_are_only_a_few_hours_left_for_you_to/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: pythonNewbie__
+Title: Wtf, why did you censor me?  I didn't violate any rules and I thought this sub is free-speech based
+Date: Tue Jan 21 19:54:27 WET 2025
+Text: https://preview.redd.it/q7z8vojjjeee1.png?width=831&amp;format=png&amp;auto=webp&amp;s=2379bb30e168d7902a7bb5e6fb5dbb3aa2f59d6b
+
+
+URL: https://www.reddit.com/r/btc/comments/1i6rk8i/wtf_why_did_you_censor_me_i_didnt_violate_any/
+Permalink: /r/btc/comments/1i6rk8i/wtf_why_did_you_censor_me_i_didnt_violate_any/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: pythonNewbie__
+Title: If your crypto project is solid it will attract high profile investors regardless of your marketing/promotional methodologies (shilling)
+Date: Tue Jan 21 19:52:49 WET 2025
+Text: People who have the funds, experience, and investment to invest in a tech project are going to ask you to see the whitepaper or documentation of the project, these people don't care about your ads and your paid bots, at the very best you may convince some teenagers/young adults Andrew Tate fanboys to buy your shitcoin, but beyond that, you got nothing
+
+Your shitcoin is the copy of the copy of the copy of bitcoin and a very bad implementation of the protocol, which means your coin is the grand-grand-grand bitch of the original bitcoin, you probably don't even know how your own shitcoin works, you probably just copied the typical methods of generating shitcoins based on chains other, far more skilled people than you developed
+
+Cryptocurrencies who attempted to fix the limitations of the original bitcoin like BCH, LTC, Monero, NANO, etc. Do not require people shilling them 24/7, they established their legitimacy long ago (NANO maybe not so much but the rest are definitely solid implementations of the p2p cash system for their respective reasons) 
+URL: https://www.reddit.com/r/btc/comments/1i6rioz/if_your_crypto_project_is_solid_it_will_attract/
+Permalink: /r/btc/comments/1i6rioz/if_your_crypto_project_is_solid_it_will_attract/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: TakacsMagor
+Title: Is BCH Aiming to Replace Fiat or Co-Exist as an Alternative?
+Date: Tue Jan 21 19:40:38 WET 2025
+Text: Hey everyone,
+
+I’ve been following Bitcoin Cash for a while now and am really impressed with what it’s bringing to the table: fast transactions, low fees, and the ability to actually *use* it as digital cash. But the more I think about it, the more I wonder—what’s the ultimate vision here?
+
+Does BCH aim to *replace* fiat currencies entirely, or is the goal more about co-existing as a viable alternative for those who want out of the traditional system?
+
+Replacing fiat feels like a monumental task. There are major hurdles:
+
+* Most people aren’t interested in learning how to manage private keys, wallets, or anything technical.
+* Governments and banks are unlikely to just step aside without a fight.
+* The current system has such a stranglehold on everyday life that even getting people to consider alternatives is tough.
+
+Another thing I’ve been thinking about is the fixed supply of BCH. I’m not concerned about there being “only” 21 million coins, but rather the fact that it’s a fixed amount with no built-in inflation. In a world where fiat currencies rely on inflation to support growth and liquidity, could a deflationary currency like BCH create challenges if it were ever to replace fiat entirely? How would the economy handle the lack of monetary expansion? My main concerns are that without inflation businesses wouldn't invest rather hold money (bch in this case) and that would not help the economy.
+
+Some questions I’d love to hear your thoughts on:
+
+1. **What’s the realistic roadmap for BCH adoption?** Is it all about merchant acceptance and small steps, or does it need a major event or institutional shift to really break through?
+2. **Is it better for BCH to co-exist with fiat or aim to replace it entirely?** Are we going for parallel systems, or is BCH’s goal to make fiat obsolete?
+3. **Does the fixed supply (and lack of inflation) create long-term challenges?** How would it work in a growing economy, especially if BCH were widely adopted?
+4. **What’s the biggest barrier to wider adoption right now?** Is it technical complexity, lack of awareness, government resistance, or something else?
+
+I really believe in the potential here, but these questions keep bouncing around in my head. I’m curious how the community sees BCH’s future and whether it’s clear enough to overcome the challenges ahead.
+URL: https://www.reddit.com/r/btc/comments/1i6r7ys/is_bch_aiming_to_replace_fiat_or_coexist_as_an/
+Permalink: /r/btc/comments/1i6r7ys/is_bch_aiming_to_replace_fiat_or_coexist_as_an/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Graineon
+Title: What happens when BCH gets overloaded?
+Date: Tue Jan 21 18:38:05 WET 2025
+Text: Lets say over the next year or so BCH picks up, starts getting thousands of transactions per second.
+
+With 0-conf, these TXs can be practically accepted by a merchant at the moment they get into the mempool. But what if even though there are TXs being used floating in the mempool, they are not getting confirmed fast enough, and so they accumulate in the mempool. Think of a faucet whose spout spews faster than the drain and drain. So if the theoretical limit of the mempool is reached, if the water is overflowing, what happens?
+
+If the mempool size is 300MB, for example, that's 1.2M transactions. This comes out to about 213 transactions per second.
+
+I suppose my question is twofold.
+
+With the current mempool limit and block size, BCH can definitely handle bursts of higher TPS, but what happens exactly if the average is above 213 TPS and is maintained for too long? Could "0-conf"'d transactions get dropped if this is sustained for long enough?
+
+Also, assuming that if BCH does approach these limits, there would have to be a co-ordinated effort to increase block size and/or mempool size, how fast can this be "deployed" realistically? What would be the practical steps of such a thing? What would be involved?
+URL: https://www.reddit.com/r/btc/comments/1i6poqt/what_happens_when_bch_gets_overloaded/
+Permalink: /r/btc/comments/1i6poqt/what_happens_when_bch_gets_overloaded/
+Number of Comments: 17
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Elon Musk Explores Pardon for Bitcoin Pioneer Roger Ver from President Trump
+Date: Tue Jan 21 17:43:27 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/elon-musk-explores-pardon-for-bitcoin-pioneer-roger-ver-from-president-trump/
+Permalink: /r/btc/comments/1i6obje/elon_musk_explores_pardon_for_bitcoin_pioneer/
+Number of Comments: 11
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: El Salvador Purchases $1M Worth of Bitcoin After Accepting IMF Plea to Stop BTC Investments
+Date: Tue Jan 21 17:32:56 WET 2025
+Text: 
+URL: https://allincrypto.com/el-salvador-purchases-1m-worth-of-bitcoin-after-imf-plea-to-stop-btc-investments/
+Permalink: /r/btc/comments/1i6o27o/el_salvador_purchases_1m_worth_of_bitcoin_after/
+Number of Comments: 10
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Coinbase CEO Brian Armstrong Predicts Bitcoin Will Surge to Millions of Dollars
+Date: Tue Jan 21 15:39:10 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/coinbase-ceo-brian-armstrong-predicts-bitcoin-will-surge-to-millions-of-dollars/
+Permalink: /r/btc/comments/1i6lctp/coinbase_ceo_brian_armstrong_predicts_bitcoin/
+Number of Comments: 49
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: schiantoRG
+Title: Bitcoin Cash as legal tender in St. Kitt and Nevis
+Date: Tue Jan 21 15:26:57 WET 2025
+Text: I read now some news from a few years ago. I would like to know, if anyone is informed, what stage the project is at. Whether it was eventually abandoned or whether it is still ongoing
+
+(here for reference:)
+
+[https://coinmarketcap.com/academy/article/st-kitts-and-nevis-consider-adopting-bitcoin-cash-as-legal-tender](https://coinmarketcap.com/academy/article/st-kitts-and-nevis-consider-adopting-bitcoin-cash-as-legal-tender)
+
+[https://www.investing.com/news/cryptocurrency-news/bitcoin-cash-to-become-the-legal-tender-in-st-kitts-and-nevis-2943625](https://www.investing.com/news/cryptocurrency-news/bitcoin-cash-to-become-the-legal-tender-in-st-kitts-and-nevis-2943625)
+
+Additionally, there will be a general election in Suriname next May, with candidate Maya Parbhoe very committed to making Suriname the next BTC country. Shouldn't she consider BCH due to lower transaction costs and the substantial inaccessibility of BTC today?
+
+[https://www.maya2025.com/](https://www.maya2025.com/)
+URL: https://www.reddit.com/r/btc/comments/1i6l2qb/bitcoin_cash_as_legal_tender_in_st_kitt_and_nevis/
+Permalink: /r/btc/comments/1i6l2qb/bitcoin_cash_as_legal_tender_in_st_kitt_and_nevis/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Creepy_Prior8952
+Title: Voy a comenzar en cripto que me sugieren 
+Date: Tue Jan 21 14:32:44 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1i6jv7h/voy_a_comenzar_en_cripto_que_me_sugieren/
+Permalink: /r/btc/comments/1i6jv7h/voy_a_comenzar_en_cripto_que_me_sugieren/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Bliss Conference + Velma Upgrade: Bitcoin Cash’s Privacy Makeover!
+Date: Tue Jan 21 14:31:33 WET 2025
+Text: Bliss Conference is near and Velma Upgrade also on the makeover. I am excited with Privacy on Bitcoin Cash and the today's article is all about it, enjoy.
+URL: https://read.cash/@alberdioni8406/bliss-conference-velma-upgrade-bitcoin-cashs-privacy-makeover-c396f21c
+Permalink: /r/btc/comments/1i6juay/bliss_conference_velma_upgrade_bitcoin_cashs/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 4inalfantasy
+Title: Well, If a country that proclaimed to uphold law and freedom can do a long con, there is no stopping others to follow. Floodgate of non ethnical politics worldwide. 
+Date: Tue Jan 21 13:50:23 WET 2025
+Text: 
+URL: https://i.redd.it/lg20nmtoqcee1.jpeg
+Permalink: /r/btc/comments/1i6izoc/well_if_a_country_that_proclaimed_to_uphold_law/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Walking Before Running (GP Shorts)
+Date: Tue Jan 21 12:39:40 WET 2025
+Text: 
+URL: https://v.redd.it/zr1pz8srdcee1
+Permalink: /r/btc/comments/1i6ho3w/walking_before_running_gp_shorts/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: oldwhiteblackie
+Title: Research about Vortex Foundation
+Date: Tue Jan 21 09:21:32 WET 2025
+Text: 
+URL: /r/u_oldwhiteblackie/comments/1i6ei9g/research_about_vortex_foundation/
+Permalink: /r/btc/comments/1i6estm/research_about_vortex_foundation/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Loud_Quail_7247
+Title: 🇩🇪BTC only Newsletter
+Date: Tue Jan 21 08:22:43 WET 2025
+Text: I just launched a German Bitcoin newsletter 🇩🇪 where I explain BTC functionality, share market insights, news, and strategies for all experience levels. It’s quick, actionable, and beginner and also exper-friendly ! 
+URL: https://bitsandsatoshis.beehiiv.com/subscribe
+Permalink: /r/btc/comments/1i6e1qs/btc_only_newsletter/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Bagatell_
+Title: The Separation Of State And Money
+Date: Tue Jan 21 08:04:17 WET 2025
+Text: 
+URL: https://fixupx.com/davidshattuck8/status/1881540495106843003
+Permalink: /r/btc/comments/1i6dt6m/the_separation_of_state_and_money/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Tapswap now has a 'my past trades' tab so you can see which CashTokens you recently bought or sold!
+
+I bought some great looking 1st summons recently and sold some of the PunkApes I bridged over from SBCH!
+
+The CashTokens ecosystem keeps improving, day after day!"
+Date: Tue Jan 21 08:03:27 WET 2025
+Text: 
+URL: https://x.com/GeukensMathieu/status/1881612783898235370
+Permalink: /r/btc/comments/1i6dsre/tapswap_now_has_a_my_past_trades_tab_so_you_can/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: webbs3
+Title: Trump’s Speech: Big Promises, But Crypto Left in the Cold
+Date: Tue Jan 21 07:42:24 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/donald-trumps-inaugural-speech-big-promises-but-crypto-left-in-the-cold?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-trump-speech-no-crypto
+Permalink: /r/btc/comments/1i6dii3/trumps_speech_big_promises_but_crypto_left_in_the/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: OldMotherGoose8
+Title: Do people still talk about bitcoin/crypto as a liberating force anymore?
+Date: Tue Jan 21 07:39:49 WET 2025
+Text: I've been out for a while, but I first got into crypto in 2018 and recall that even people in the mainstream would at least pay lip-service to to Bitcoin as some kind of movement of the people, a liberating technology that will free us from the banks. 
+
+Is this still a talking point anymore? All I see now is cheer-leading for institutional adoption.
+URL: https://www.reddit.com/r/btc/comments/1i6dh7t/do_people_still_talk_about_bitcoincrypto_as_a/
+Permalink: /r/btc/comments/1i6dh7t/do_people_still_talk_about_bitcoincrypto_as_a/
+Number of Comments: 24
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Trump's Promise to Free Ross Ulbricht on Day One Goes Unfulfilled
+Date: Tue Jan 21 04:27:34 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/trumps-promise-to-free-ross-ulbricht-on-day-one-goes-unfulfilled/
+Permalink: /r/btc/comments/1i6ai90/trumps_promise_to_free_ross_ulbricht_on_day_one/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: PioneerInternational
+Title: TRUMP Memecoin May Replicate Capital Conditions Similar to 2017 ICO Craze, According to Investor Chris Burniske
+Date: Tue Jan 21 02:20:19 WET 2025
+Text: 
+URL: https://dailyhodl.com/2025/01/20/trump-memecoin-may-replicate-capital-conditions-similar-to-2017-ico-craze-according-to-investor-chris-burniske/
+Permalink: /r/btc/comments/1i683in/trump_memecoin_may_replicate_capital_conditions/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: shinyfuture
+Title: $Trump keeps dumping. Slow rug confirmed. 
+Date: Tue Jan 21 01:53:04 WET 2025
+Text: The chart confirms it. We’re in the midst of a gradual decline on the chart. Who else saw this coming? 
+URL: https://www.reddit.com/r/btc/comments/1i67jqh/trump_keeps_dumping_slow_rug_confirmed/
+Permalink: /r/btc/comments/1i67jqh/trump_keeps_dumping_slow_rug_confirmed/
+Number of Comments: 80
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: SailorCitrus
+Title: Buy and Sell
+Date: Tue Jan 21 20:14:05 WET 2025
+Text: I’m new to bitcoin and have been investing for a while - right now bitcoin is doing well and my question is - in Canadian dollars say - if I am at $150 profit can I sell $150 now that it’s at 155,000 - then buy $150 when it goes to $145,000? Like is this a good strategy for increasing my bitcoin investment? Sell when there’s a profit and buy back in when it goes back? Thanks ! Don’t PM me I won’t answer! 🙏 
+URL: https://www.reddit.com/r/btc/comments/1i6s1sp/buy_and_sell/
+Permalink: /r/btc/comments/1i6s1sp/buy_and_sell/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: HamphernyR
+Title: There are only a few hours left for you to support this flipstarter campaign.
+Date: Tue Jan 21 19:55:46 WET 2025
+Text: *Finally today is the last day of this campaign, so I have nothing left to do but thank the people who have believed in this project from the beginning, despite what happens we will continue with this project because I want to see it become a reality and I am sure it will have a positive impact on the Adoption of #BitcoinCash in this new year and the years to come, I leave you again the link of the campaign for those who want to support in these last hours, all support is important to us.*
+
+ [CriptoCatia Podcast](https://criptocatia-podcast.f10.cash)
+
+**#BCH is the real #Bitcoin**
+URL: https://www.reddit.com/r/btc/comments/1i6rlel/there_are_only_a_few_hours_left_for_you_to/
+Permalink: /r/btc/comments/1i6rlel/there_are_only_a_few_hours_left_for_you_to/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: pythonNewbie__
+Title: Wtf, why did you censor me?  I didn't violate any rules and I thought this sub is free-speech based
+Date: Tue Jan 21 19:54:27 WET 2025
+Text: https://preview.redd.it/q7z8vojjjeee1.png?width=831&amp;format=png&amp;auto=webp&amp;s=2379bb30e168d7902a7bb5e6fb5dbb3aa2f59d6b
+
+
+URL: https://www.reddit.com/r/btc/comments/1i6rk8i/wtf_why_did_you_censor_me_i_didnt_violate_any/
+Permalink: /r/btc/comments/1i6rk8i/wtf_why_did_you_censor_me_i_didnt_violate_any/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: pythonNewbie__
+Title: If your crypto project is solid it will attract high profile investors regardless of your marketing/promotional methodologies (shilling)
+Date: Tue Jan 21 19:52:49 WET 2025
+Text: People who have the funds, experience, and investment to invest in a tech project are going to ask you to see the whitepaper or documentation of the project, these people don't care about your ads and your paid bots, at the very best you may convince some teenagers/young adults Andrew Tate fanboys to buy your shitcoin, but beyond that, you got nothing
+
+Your shitcoin is the copy of the copy of the copy of bitcoin and a very bad implementation of the protocol, which means your coin is the grand-grand-grand bitch of the original bitcoin, you probably don't even know how your own shitcoin works, you probably just copied the typical methods of generating shitcoins based on chains other, far more skilled people than you developed
+
+Cryptocurrencies who attempted to fix the limitations of the original bitcoin like BCH, LTC, Monero, NANO, etc. Do not require people shilling them 24/7, they established their legitimacy long ago (NANO maybe not so much but the rest are definitely solid implementations of the p2p cash system for their respective reasons) 
+URL: https://www.reddit.com/r/btc/comments/1i6rioz/if_your_crypto_project_is_solid_it_will_attract/
+Permalink: /r/btc/comments/1i6rioz/if_your_crypto_project_is_solid_it_will_attract/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: TakacsMagor
+Title: Is BCH Aiming to Replace Fiat or Co-Exist as an Alternative?
+Date: Tue Jan 21 19:40:38 WET 2025
+Text: Hey everyone,
+
+I’ve been following Bitcoin Cash for a while now and am really impressed with what it’s bringing to the table: fast transactions, low fees, and the ability to actually *use* it as digital cash. But the more I think about it, the more I wonder—what’s the ultimate vision here?
+
+Does BCH aim to *replace* fiat currencies entirely, or is the goal more about co-existing as a viable alternative for those who want out of the traditional system?
+
+Replacing fiat feels like a monumental task. There are major hurdles:
+
+* Most people aren’t interested in learning how to manage private keys, wallets, or anything technical.
+* Governments and banks are unlikely to just step aside without a fight.
+* The current system has such a stranglehold on everyday life that even getting people to consider alternatives is tough.
+
+Another thing I’ve been thinking about is the fixed supply of BCH. I’m not concerned about there being “only” 21 million coins, but rather the fact that it’s a fixed amount with no built-in inflation. In a world where fiat currencies rely on inflation to support growth and liquidity, could a deflationary currency like BCH create challenges if it were ever to replace fiat entirely? How would the economy handle the lack of monetary expansion? My main concerns are that without inflation businesses wouldn't invest rather hold money (bch in this case) and that would not help the economy.
+
+Some questions I’d love to hear your thoughts on:
+
+1. **What’s the realistic roadmap for BCH adoption?** Is it all about merchant acceptance and small steps, or does it need a major event or institutional shift to really break through?
+2. **Is it better for BCH to co-exist with fiat or aim to replace it entirely?** Are we going for parallel systems, or is BCH’s goal to make fiat obsolete?
+3. **Does the fixed supply (and lack of inflation) create long-term challenges?** How would it work in a growing economy, especially if BCH were widely adopted?
+4. **What’s the biggest barrier to wider adoption right now?** Is it technical complexity, lack of awareness, government resistance, or something else?
+
+I really believe in the potential here, but these questions keep bouncing around in my head. I’m curious how the community sees BCH’s future and whether it’s clear enough to overcome the challenges ahead.
+URL: https://www.reddit.com/r/btc/comments/1i6r7ys/is_bch_aiming_to_replace_fiat_or_coexist_as_an/
+Permalink: /r/btc/comments/1i6r7ys/is_bch_aiming_to_replace_fiat_or_coexist_as_an/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Graineon
+Title: What happens when BCH gets overloaded?
+Date: Tue Jan 21 18:38:05 WET 2025
+Text: Lets say over the next year or so BCH picks up, starts getting thousands of transactions per second.
+
+With 0-conf, these TXs can be practically accepted by a merchant at the moment they get into the mempool. But what if even though there are TXs being used floating in the mempool, they are not getting confirmed fast enough, and so they accumulate in the mempool. Think of a faucet whose spout spews faster than the drain and drain. So if the theoretical limit of the mempool is reached, if the water is overflowing, what happens?
+
+If the mempool size is 300MB, for example, that's 1.2M transactions. This comes out to about 213 transactions per second.
+
+I suppose my question is twofold.
+
+With the current mempool limit and block size, BCH can definitely handle bursts of higher TPS, but what happens exactly if the average is above 213 TPS and is maintained for too long? Could "0-conf"'d transactions get dropped if this is sustained for long enough?
+
+Also, assuming that if BCH does approach these limits, there would have to be a co-ordinated effort to increase block size and/or mempool size, how fast can this be "deployed" realistically? What would be the practical steps of such a thing? What would be involved?
+URL: https://www.reddit.com/r/btc/comments/1i6poqt/what_happens_when_bch_gets_overloaded/
+Permalink: /r/btc/comments/1i6poqt/what_happens_when_bch_gets_overloaded/
+Number of Comments: 17
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Elon Musk Explores Pardon for Bitcoin Pioneer Roger Ver from President Trump
+Date: Tue Jan 21 17:43:27 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/elon-musk-explores-pardon-for-bitcoin-pioneer-roger-ver-from-president-trump/
+Permalink: /r/btc/comments/1i6obje/elon_musk_explores_pardon_for_bitcoin_pioneer/
+Number of Comments: 11
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: El Salvador Purchases $1M Worth of Bitcoin After Accepting IMF Plea to Stop BTC Investments
+Date: Tue Jan 21 17:32:56 WET 2025
+Text: 
+URL: https://allincrypto.com/el-salvador-purchases-1m-worth-of-bitcoin-after-imf-plea-to-stop-btc-investments/
+Permalink: /r/btc/comments/1i6o27o/el_salvador_purchases_1m_worth_of_bitcoin_after/
+Number of Comments: 10
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Coinbase CEO Brian Armstrong Predicts Bitcoin Will Surge to Millions of Dollars
+Date: Tue Jan 21 15:39:10 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/coinbase-ceo-brian-armstrong-predicts-bitcoin-will-surge-to-millions-of-dollars/
+Permalink: /r/btc/comments/1i6lctp/coinbase_ceo_brian_armstrong_predicts_bitcoin/
+Number of Comments: 49
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: schiantoRG
+Title: Bitcoin Cash as legal tender in St. Kitt and Nevis
+Date: Tue Jan 21 15:26:57 WET 2025
+Text: I read now some news from a few years ago. I would like to know, if anyone is informed, what stage the project is at. Whether it was eventually abandoned or whether it is still ongoing
+
+(here for reference:)
+
+[https://coinmarketcap.com/academy/article/st-kitts-and-nevis-consider-adopting-bitcoin-cash-as-legal-tender](https://coinmarketcap.com/academy/article/st-kitts-and-nevis-consider-adopting-bitcoin-cash-as-legal-tender)
+
+[https://www.investing.com/news/cryptocurrency-news/bitcoin-cash-to-become-the-legal-tender-in-st-kitts-and-nevis-2943625](https://www.investing.com/news/cryptocurrency-news/bitcoin-cash-to-become-the-legal-tender-in-st-kitts-and-nevis-2943625)
+
+Additionally, there will be a general election in Suriname next May, with candidate Maya Parbhoe very committed to making Suriname the next BTC country. Shouldn't she consider BCH due to lower transaction costs and the substantial inaccessibility of BTC today?
+
+[https://www.maya2025.com/](https://www.maya2025.com/)
+URL: https://www.reddit.com/r/btc/comments/1i6l2qb/bitcoin_cash_as_legal_tender_in_st_kitt_and_nevis/
+Permalink: /r/btc/comments/1i6l2qb/bitcoin_cash_as_legal_tender_in_st_kitt_and_nevis/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Creepy_Prior8952
+Title: Voy a comenzar en cripto que me sugieren 
+Date: Tue Jan 21 14:32:44 WET 2025
+Text: 
+URL: https://www.reddit.com/r/btc/comments/1i6jv7h/voy_a_comenzar_en_cripto_que_me_sugieren/
+Permalink: /r/btc/comments/1i6jv7h/voy_a_comenzar_en_cripto_que_me_sugieren/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Bliss Conference + Velma Upgrade: Bitcoin Cash’s Privacy Makeover!
+Date: Tue Jan 21 14:31:33 WET 2025
+Text: Bliss Conference is near and Velma Upgrade also on the makeover. I am excited with Privacy on Bitcoin Cash and the today's article is all about it, enjoy.
+URL: https://read.cash/@alberdioni8406/bliss-conference-velma-upgrade-bitcoin-cashs-privacy-makeover-c396f21c
+Permalink: /r/btc/comments/1i6juay/bliss_conference_velma_upgrade_bitcoin_cashs/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 4inalfantasy
+Title: Well, If a country that proclaimed to uphold law and freedom can do a long con, there is no stopping others to follow. Floodgate of non ethnical politics worldwide. 
+Date: Tue Jan 21 13:50:23 WET 2025
+Text: 
+URL: https://i.redd.it/lg20nmtoqcee1.jpeg
+Permalink: /r/btc/comments/1i6izoc/well_if_a_country_that_proclaimed_to_uphold_law/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Walking Before Running (GP Shorts)
+Date: Tue Jan 21 12:39:40 WET 2025
+Text: 
+URL: https://v.redd.it/zr1pz8srdcee1
+Permalink: /r/btc/comments/1i6ho3w/walking_before_running_gp_shorts/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: oldwhiteblackie
+Title: Research about Vortex Foundation
+Date: Tue Jan 21 09:21:32 WET 2025
+Text: 
+URL: /r/u_oldwhiteblackie/comments/1i6ei9g/research_about_vortex_foundation/
+Permalink: /r/btc/comments/1i6estm/research_about_vortex_foundation/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Loud_Quail_7247
+Title: 🇩🇪BTC only Newsletter
+Date: Tue Jan 21 08:22:43 WET 2025
+Text: I just launched a German Bitcoin newsletter 🇩🇪 where I explain BTC functionality, share market insights, news, and strategies for all experience levels. It’s quick, actionable, and beginner and also exper-friendly ! 
+URL: https://bitsandsatoshis.beehiiv.com/subscribe
+Permalink: /r/btc/comments/1i6e1qs/btc_only_newsletter/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Bagatell_
+Title: The Separation Of State And Money
+Date: Tue Jan 21 08:04:17 WET 2025
+Text: 
+URL: https://fixupx.com/davidshattuck8/status/1881540495106843003
+Permalink: /r/btc/comments/1i6dt6m/the_separation_of_state_and_money/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Tapswap now has a 'my past trades' tab so you can see which CashTokens you recently bought or sold!
+
+I bought some great looking 1st summons recently and sold some of the PunkApes I bridged over from SBCH!
+
+The CashTokens ecosystem keeps improving, day after day!"
+Date: Tue Jan 21 08:03:27 WET 2025
+Text: 
+URL: https://x.com/GeukensMathieu/status/1881612783898235370
+Permalink: /r/btc/comments/1i6dsre/tapswap_now_has_a_my_past_trades_tab_so_you_can/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: webbs3
+Title: Trump’s Speech: Big Promises, But Crypto Left in the Cold
+Date: Tue Jan 21 07:42:24 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/donald-trumps-inaugural-speech-big-promises-but-crypto-left-in-the-cold?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-trump-speech-no-crypto
+Permalink: /r/btc/comments/1i6dii3/trumps_speech_big_promises_but_crypto_left_in_the/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: OldMotherGoose8
+Title: Do people still talk about bitcoin/crypto as a liberating force anymore?
+Date: Tue Jan 21 07:39:49 WET 2025
+Text: I've been out for a while, but I first got into crypto in 2018 and recall that even people in the mainstream would at least pay lip-service to to Bitcoin as some kind of movement of the people, a liberating technology that will free us from the banks. 
+
+Is this still a talking point anymore? All I see now is cheer-leading for institutional adoption.
+URL: https://www.reddit.com/r/btc/comments/1i6dh7t/do_people_still_talk_about_bitcoincrypto_as_a/
+Permalink: /r/btc/comments/1i6dh7t/do_people_still_talk_about_bitcoincrypto_as_a/
+Number of Comments: 24
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Trump's Promise to Free Ross Ulbricht on Day One Goes Unfulfilled
+Date: Tue Jan 21 04:27:34 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/trumps-promise-to-free-ross-ulbricht-on-day-one-goes-unfulfilled/
+Permalink: /r/btc/comments/1i6ai90/trumps_promise_to_free_ross_ulbricht_on_day_one/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: PioneerInternational
+Title: TRUMP Memecoin May Replicate Capital Conditions Similar to 2017 ICO Craze, According to Investor Chris Burniske
+Date: Tue Jan 21 02:20:19 WET 2025
+Text: 
+URL: https://dailyhodl.com/2025/01/20/trump-memecoin-may-replicate-capital-conditions-similar-to-2017-ico-craze-according-to-investor-chris-burniske/
+Permalink: /r/btc/comments/1i683in/trump_memecoin_may_replicate_capital_conditions/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: shinyfuture
+Title: $Trump keeps dumping. Slow rug confirmed. 
+Date: Tue Jan 21 01:53:04 WET 2025
+Text: The chart confirms it. We’re in the midst of a gradual decline on the chart. Who else saw this coming? 
+URL: https://www.reddit.com/r/btc/comments/1i67jqh/trump_keeps_dumping_slow_rug_confirmed/
+Permalink: /r/btc/comments/1i67jqh/trump_keeps_dumping_slow_rug_confirmed/
+Number of Comments: 80
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

@@ -1,0 +1,976 @@
+Author: Eliashuer
+Title: Short-term crypto traders sent record 79.3K Bitcoin to exchanges as BTC crashed to $86K
+Date: Wed Feb 26 23:03:41 WET 2025
+Text: 
+
+URL: https://cointelegraph.com/news/bitcoin-speculators-sent-7b-to-exchanges-at-loss-in-btc-price-crash
+Permalink: /r/btc/comments/1iz117p/shortterm_crypto_traders_sent_record_793k_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: OkStep5032
+Title: What's happening to this sub?
+Date: Wed Feb 26 21:57:54 WET 2025
+Text: All of the sudden there are many threads a day with memes and "number gonna go up" related things. It's pretty much resembling r/Bitcoin at this point. This seems very inorganic. What happened to all of the Bitcoin technical discussions that used to happen here? What is going on?
+URL: https://www.reddit.com/r/btc/comments/1iyziif/whats_happening_to_this_sub/
+Permalink: /r/btc/comments/1iyziif/whats_happening_to_this_sub/
+Number of Comments: 35
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: How the North Korean Lazarus Group Hacked Crypto Exchange Bybit for $1.5 Billion
+Date: Wed Feb 26 21:00:35 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/how-the-north-korean-lazarus-group-hacked-crypto-exchange-bybit-for-1-5-billion/
+Permalink: /r/btc/comments/1iyy59b/how_the_north_korean_lazarus_group_hacked_crypto/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Patient-Rain-4914
+Title: Green Card+ = 50 BTC
+Date: Wed Feb 26 20:50:14 WET 2025
+Text: If the US Government put all of the Green Card Plus funds in BTC, what would the value of BTC be within 3 years, 10 months?
+URL: https://www.reddit.com/r/btc/comments/1iyxwdu/green_card_50_btc/
+Permalink: /r/btc/comments/1iyxwdu/green_card_50_btc/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Shibinator
+Title: The Bitcoin Cash Podcast #142: Crypto Copium &amp; TapSwap Pump feat. Emergent Reasons &amp; Fiendish Crypto
+Date: Wed Feb 26 20:01:17 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=4f-NLQta41g
+Permalink: /r/btc/comments/1iywq8a/the_bitcoin_cash_podcast_142_crypto_copium/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Correct-Potential-15
+Title: Thanks Trump! | You managed to do it again!
+Date: Wed Feb 26 19:41:44 WET 2025
+Text: [Guys thank trump!!](https://preview.redd.it/f75ag4j5ejle1.png?width=856&amp;format=png&amp;auto=webp&amp;s=df61bb09553c6257957c4dde8c7df58b71591d17)
+
+
+URL: https://www.reddit.com/r/btc/comments/1iyw9ju/thanks_trump_you_managed_to_do_it_again/
+Permalink: /r/btc/comments/1iyw9ju/thanks_trump_you_managed_to_do_it_again/
+Number of Comments: 342
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: Time to knock some sense into people
+Date: Wed Feb 26 18:44:02 WET 2025
+Text: 
+URL: https://i.redd.it/2h1inqkt3jle1.png
+Permalink: /r/btc/comments/1iyuupj/time_to_knock_some_sense_into_people/
+Number of Comments: 52
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: rosscypto
+Title: 2011 first ever bitcoin kid (12 yrs old)
+Date: Wed Feb 26 18:18:48 WET 2025
+Text: Hey guys, I wanted to share an amazing story with you that could get you a lot of views and an awesome bit of crypto nostalgia in these tough times with crypto at the moment a 12 year old kid in 2011 called bitcoin at $8 he does an in depth analysis on what it is I’ll post the video below and hope you get a chance to look into it and share the story this one’s to good to miss.
+
+https://youtu.be/lcn6vIcgvbk?si=36ZaWpyTJgziUt5g
+
+Kind regards, Ross
+URL: https://www.reddit.com/r/btc/comments/1iyu8c7/2011_first_ever_bitcoin_kid_12_yrs_old/
+Permalink: /r/btc/comments/1iyu8c7/2011_first_ever_bitcoin_kid_12_yrs_old/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2q_x
+Title: New subscriptions are coming to Bitcoin Cash. [Discussion, Market Outreach]
+Date: Wed Feb 26 18:03:24 WET 2025
+Text: TL;DR: We're getting Token Subscriptions on BCH, sooner rather than later. 
+
+Subscriptions (i.e. recurring payments) aren't new to Bitcoin Cash. We've had subscriptions since 2019 with the [Mecenas plugin for Electron Cash](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases).
+
+There was also a different approach taken in 2022 with the [Unspent Phi Annuity contract](https://unspent.app/documentation#annuity). While, not revocable, the Unspent Phi contract included "automatic" payouts―meaning recipients didn't need to interact with an app every month to be paid. 
+
+Looking at the blockchain data, in the last six years, there were about 75 mecenas contracts created. The Unspent Annuity had about 167 contracts―but twice as popular in half the time isn't good enough. 
+
+Unspent Annuity was released six months before CashTokens, the first version came out around the same time as the alpha of BCH Bull.
+
+In 2025, there's now a few fiat tokens coming down the line, and a much richer token ecosystem to make using subscriptions easier. 
+
+***
+
+Over the last three years running a recurring payments ecosystem, users have overwhelmingly stated they want a few things: 
+
+- Payments denominated in fiat amounts,
+- Revocable or cancelable subscriptions,
+- An easy interface, or protocol, for topping up balances.
+- Transferable, or tokenized, ownership of the principal.
+
+What is fairly clear, given adoption curve of products that have been built previously, users DO NOT want to pay a regular obligation denominated in satoshis for anything other than a novel experiment. 
+
+
+***
+
+Here's how the new subscriptions will work from a user perspective:
+
+Alice has a software or service that she wants to sell via subscription payments to users. Users can be allowed to cancel after the first period. 
+
+Bob wants to buy a subscription from Alice. 
+
+- Alice has a website where Bob can select which token he'd like to pay his subscription with. Since no one wants to pay with BCH, that's not an option.
+
+- First, Bob has to enter a token enabled cashaddress where Alice will send an NFT authorizing him to administer his subscription.  
+
+- Bob can select his token of choice (MUSD, WBCH, BADGERS, ALICECOIN, etc).
+
+- Alice can list different rates for different tokens, either hard coded or responsive to market price.
+
+- Bob can choose how many periods (months, weeks, years) he'd like to subscribe for. 
+
+- Bob clicks "pay now" to copy a payment request link for his wallet. 
+
+- Bob pastes this payment link into his CashToken enabled wallet, which generates a standard transaction for Bob to approve. 
+
+- The funding transaction has full token prepayment for the time frame Bob selected, as well as a few thousand satoshis to process each payment. 
+
+- Alice can prove to Bob that the access baton to cancel his subscription has been sent to a different contract that allow forwarding it to his wallet after the first period is complete (so Bob can't cancel his subscription before Alice is paid for the first period). Or Alice can custody or send the baton to Bob early. 
+
+- Once Bob funds his subscription contract, no further action is required from Alice or Bob for his periodic payment to be sent from this Subscription contract to Alice. 
+
+- If Bob decides he wants to cancel after the first month, an NFT will let him cancel, adjust, rebalance, or generally administer his subscription balance. 
+
+- If Bob wants to share or transfer his subscription, ownership of the NFT is equivalent to ownership of the subscription. 
+
+***
+
+Note that with this approach, if Bob chooses a "stable" coin token, the balance for the subscription is then locked to that fiat amount.  
+
+If Bob pre-pays for a year in a fiat token and the price of BCH increases a hundred fold, Bob would still have one year paid in fiat amounts, not a hundred years. 
+
+This approach is **NOT** fund that draws down dynamically based on a spot oracle price. 
+
+***
+
+If users have tried using Mecenas or the Unspent Annuity (or any other pusher style subscription service in crypto), are there any killer features or pain points to have or avoid? 
+
+If anyone is interested in selling a service or software as a subscription, would the above scenario satisfy your business requirements?
+URL: https://www.reddit.com/r/btc/comments/1iytukk/new_subscriptions_are_coming_to_bitcoin_cash/
+Permalink: /r/btc/comments/1iytukk/new_subscriptions_are_coming_to_bitcoin_cash/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: How Hackers Are Quietly Draining Bitcoin Wallets Through Fake GitHub Projects
+Date: Wed Feb 26 15:39:51 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/how-hackers-are-quietly-draining-bitcoin-wallets-through-fake-github-projects/
+Permalink: /r/btc/comments/1iyqcpg/how_hackers_are_quietly_draining_bitcoin_wallets/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: sandakersmann
+Title: Why was the block size limit added to Bitcoin?
+Date: Wed Feb 26 14:08:21 WET 2025
+Text: 
+URL: https://jqrgen.medium.com/why-was-the-block-size-limit-added-to-bitcoin-9403175368b8
+Permalink: /r/btc/comments/1iyobly/why_was_the_block_size_limit_added_to_bitcoin/
+Number of Comments: 23
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Bitcoin ETFs Witness $900M in Daily Outflows as Crypto Slumps
+Date: Wed Feb 26 14:01:37 WET 2025
+Text: 
+URL: https://allincrypto.com/bitcoin-etfs-900m-in-daily-outflows-as-crypto-slumps/
+Permalink: /r/btc/comments/1iyo6i8/bitcoin_etfs_witness_900m_in_daily_outflows_as/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Milan_dr
+Title: NanoGPT updates: more models, Shorts Generator, UX improvements, image input
+Date: Wed Feb 26 11:56:27 WET 2025
+Text: 
+URL: https://nano-gpt.com/conversation/new?model=free-model&amp;source=bch
+Permalink: /r/btc/comments/1iylu8f/nanogpt_updates_more_models_shorts_generator_ux/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gr8ful4
+Title: Decentralized fiat exchange "RetoSwap" based on Haveno is growing
+Date: Wed Feb 26 09:40:55 WET 2025
+Text: 
+URL: https://haveno.markets/
+Permalink: /r/btc/comments/1iyjv8h/decentralized_fiat_exchange_retoswap_based_on/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Imagineforyourself
+Title: Is Bitcoin the new gold, or is bullion still king?
+Date: Wed Feb 26 07:01:59 WET 2025
+Text: 
+
+I was listening to an interesting podcast discussion today between David McDermott and Michael Engeman (Evolved Leadership Podcast) about tokenized gold and custodial bitcoin cold storage and whether putting bullion on the blockchain actually solves the problem. Some say it combines the best of both worlds—physical gold’s stability with Bitcoin’s portability. Others argue that if you don’t hold the asset yourself, you don’t really own it.
+
+What do you think? Is blockchain-based bullion the future of gold ownership, or does it just add unnecessary middlemen? Would you trust it over self-custody?
+
+URL: https://www.reddit.com/r/btc/comments/1iyhpz8/is_bitcoin_the_new_gold_or_is_bullion_still_king/
+Permalink: /r/btc/comments/1iyhpz8/is_bitcoin_the_new_gold_or_is_bullion_still_king/
+Number of Comments: 28
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: DangerHighVoltage111
+Title: BitcoinCash Weekly News February 25th 2025 by the BCHF
+Date: Wed Feb 26 06:47:22 WET 2025
+Text: 
+URL: https://medium.com/@BCHF_ORG/bitcoincash-weekly-news-february-25th-2025-by-the-bchf-3a26c7d57e6e
+Permalink: /r/btc/comments/1iyhi8b/bitcoincash_weekly_news_february_25th_2025_by_the/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alexhcry
+Title: Not Scared at All :)
+Date: Wed Feb 26 06:41:59 WET 2025
+Text: 
+URL: https://i.redd.it/3lgyfw4zifle1.png
+Permalink: /r/btc/comments/1iyhfdw/not_scared_at_all/
+Number of Comments: 30
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: birth_of_bitcoin
+Title: What Satoshi built wasn't just a currency—it was the first
+Date: Wed Feb 26 04:58:28 WET 2025
+Text: Code is law, and freedom is its compiler. What Satoshi built wasn't just a currency—it was the first declaration of independence from a financial system that never asked for our consent. 
+
+#Bitcoin
+URL: https://v.redd.it/vf9bo3tl0fle1
+Permalink: /r/btc/comments/1iyfr2o/what_satoshi_built_wasnt_just_a_currencyit_was/
+Number of Comments: 11
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Eliashuer
+Title: Short-term crypto traders sent record 79.3K Bitcoin to exchanges as BTC crashed to $86K
+Date: Wed Feb 26 23:03:41 WET 2025
+Text: 
+
+URL: https://cointelegraph.com/news/bitcoin-speculators-sent-7b-to-exchanges-at-loss-in-btc-price-crash
+Permalink: /r/btc/comments/1iz117p/shortterm_crypto_traders_sent_record_793k_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: OkStep5032
+Title: What's happening to this sub?
+Date: Wed Feb 26 21:57:54 WET 2025
+Text: All of the sudden there are many threads a day with memes and "number gonna go up" related things. It's pretty much resembling r/Bitcoin at this point. This seems very inorganic. What happened to all of the Bitcoin technical discussions that used to happen here? What is going on?
+URL: https://www.reddit.com/r/btc/comments/1iyziif/whats_happening_to_this_sub/
+Permalink: /r/btc/comments/1iyziif/whats_happening_to_this_sub/
+Number of Comments: 35
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: How the North Korean Lazarus Group Hacked Crypto Exchange Bybit for $1.5 Billion
+Date: Wed Feb 26 21:00:35 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/how-the-north-korean-lazarus-group-hacked-crypto-exchange-bybit-for-1-5-billion/
+Permalink: /r/btc/comments/1iyy59b/how_the_north_korean_lazarus_group_hacked_crypto/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Patient-Rain-4914
+Title: Green Card+ = 50 BTC
+Date: Wed Feb 26 20:50:14 WET 2025
+Text: If the US Government put all of the Green Card Plus funds in BTC, what would the value of BTC be within 3 years, 10 months?
+URL: https://www.reddit.com/r/btc/comments/1iyxwdu/green_card_50_btc/
+Permalink: /r/btc/comments/1iyxwdu/green_card_50_btc/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Shibinator
+Title: The Bitcoin Cash Podcast #142: Crypto Copium &amp; TapSwap Pump feat. Emergent Reasons &amp; Fiendish Crypto
+Date: Wed Feb 26 20:01:17 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=4f-NLQta41g
+Permalink: /r/btc/comments/1iywq8a/the_bitcoin_cash_podcast_142_crypto_copium/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Correct-Potential-15
+Title: Thanks Trump! | You managed to do it again!
+Date: Wed Feb 26 19:41:44 WET 2025
+Text: [Guys thank trump!!](https://preview.redd.it/f75ag4j5ejle1.png?width=856&amp;format=png&amp;auto=webp&amp;s=df61bb09553c6257957c4dde8c7df58b71591d17)
+
+
+URL: https://www.reddit.com/r/btc/comments/1iyw9ju/thanks_trump_you_managed_to_do_it_again/
+Permalink: /r/btc/comments/1iyw9ju/thanks_trump_you_managed_to_do_it_again/
+Number of Comments: 342
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: Time to knock some sense into people
+Date: Wed Feb 26 18:44:02 WET 2025
+Text: 
+URL: https://i.redd.it/2h1inqkt3jle1.png
+Permalink: /r/btc/comments/1iyuupj/time_to_knock_some_sense_into_people/
+Number of Comments: 52
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: rosscypto
+Title: 2011 first ever bitcoin kid (12 yrs old)
+Date: Wed Feb 26 18:18:48 WET 2025
+Text: Hey guys, I wanted to share an amazing story with you that could get you a lot of views and an awesome bit of crypto nostalgia in these tough times with crypto at the moment a 12 year old kid in 2011 called bitcoin at $8 he does an in depth analysis on what it is I’ll post the video below and hope you get a chance to look into it and share the story this one’s to good to miss.
+
+https://youtu.be/lcn6vIcgvbk?si=36ZaWpyTJgziUt5g
+
+Kind regards, Ross
+URL: https://www.reddit.com/r/btc/comments/1iyu8c7/2011_first_ever_bitcoin_kid_12_yrs_old/
+Permalink: /r/btc/comments/1iyu8c7/2011_first_ever_bitcoin_kid_12_yrs_old/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2q_x
+Title: New subscriptions are coming to Bitcoin Cash. [Discussion, Market Outreach]
+Date: Wed Feb 26 18:03:24 WET 2025
+Text: TL;DR: We're getting Token Subscriptions on BCH, sooner rather than later. 
+
+Subscriptions (i.e. recurring payments) aren't new to Bitcoin Cash. We've had subscriptions since 2019 with the [Mecenas plugin for Electron Cash](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases).
+
+There was also a different approach taken in 2022 with the [Unspent Phi Annuity contract](https://unspent.app/documentation#annuity). While, not revocable, the Unspent Phi contract included "automatic" payouts―meaning recipients didn't need to interact with an app every month to be paid. 
+
+Looking at the blockchain data, in the last six years, there were about 75 mecenas contracts created. The Unspent Annuity had about 167 contracts―but twice as popular in half the time isn't good enough. 
+
+Unspent Annuity was released six months before CashTokens, the first version came out around the same time as the alpha of BCH Bull.
+
+In 2025, there's now a few fiat tokens coming down the line, and a much richer token ecosystem to make using subscriptions easier. 
+
+***
+
+Over the last three years running a recurring payments ecosystem, users have overwhelmingly stated they want a few things: 
+
+- Payments denominated in fiat amounts,
+- Revocable or cancelable subscriptions,
+- An easy interface, or protocol, for topping up balances.
+- Transferable, or tokenized, ownership of the principal.
+
+What is fairly clear, given adoption curve of products that have been built previously, users DO NOT want to pay a regular obligation denominated in satoshis for anything other than a novel experiment. 
+
+
+***
+
+Here's how the new subscriptions will work from a user perspective:
+
+Alice has a software or service that she wants to sell via subscription payments to users. Users can be allowed to cancel after the first period. 
+
+Bob wants to buy a subscription from Alice. 
+
+- Alice has a website where Bob can select which token he'd like to pay his subscription with. Since no one wants to pay with BCH, that's not an option.
+
+- First, Bob has to enter a token enabled cashaddress where Alice will send an NFT authorizing him to administer his subscription.  
+
+- Bob can select his token of choice (MUSD, WBCH, BADGERS, ALICECOIN, etc).
+
+- Alice can list different rates for different tokens, either hard coded or responsive to market price.
+
+- Bob can choose how many periods (months, weeks, years) he'd like to subscribe for. 
+
+- Bob clicks "pay now" to copy a payment request link for his wallet. 
+
+- Bob pastes this payment link into his CashToken enabled wallet, which generates a standard transaction for Bob to approve. 
+
+- The funding transaction has full token prepayment for the time frame Bob selected, as well as a few thousand satoshis to process each payment. 
+
+- Alice can prove to Bob that the access baton to cancel his subscription has been sent to a different contract that allow forwarding it to his wallet after the first period is complete (so Bob can't cancel his subscription before Alice is paid for the first period). Or Alice can custody or send the baton to Bob early. 
+
+- Once Bob funds his subscription contract, no further action is required from Alice or Bob for his periodic payment to be sent from this Subscription contract to Alice. 
+
+- If Bob decides he wants to cancel after the first month, an NFT will let him cancel, adjust, rebalance, or generally administer his subscription balance. 
+
+- If Bob wants to share or transfer his subscription, ownership of the NFT is equivalent to ownership of the subscription. 
+
+***
+
+Note that with this approach, if Bob chooses a "stable" coin token, the balance for the subscription is then locked to that fiat amount.  
+
+If Bob pre-pays for a year in a fiat token and the price of BCH increases a hundred fold, Bob would still have one year paid in fiat amounts, not a hundred years. 
+
+This approach is **NOT** fund that draws down dynamically based on a spot oracle price. 
+
+***
+
+If users have tried using Mecenas or the Unspent Annuity (or any other pusher style subscription service in crypto), are there any killer features or pain points to have or avoid? 
+
+If anyone is interested in selling a service or software as a subscription, would the above scenario satisfy your business requirements?
+URL: https://www.reddit.com/r/btc/comments/1iytukk/new_subscriptions_are_coming_to_bitcoin_cash/
+Permalink: /r/btc/comments/1iytukk/new_subscriptions_are_coming_to_bitcoin_cash/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: How Hackers Are Quietly Draining Bitcoin Wallets Through Fake GitHub Projects
+Date: Wed Feb 26 15:39:51 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/how-hackers-are-quietly-draining-bitcoin-wallets-through-fake-github-projects/
+Permalink: /r/btc/comments/1iyqcpg/how_hackers_are_quietly_draining_bitcoin_wallets/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: sandakersmann
+Title: Why was the block size limit added to Bitcoin?
+Date: Wed Feb 26 14:08:21 WET 2025
+Text: 
+URL: https://jqrgen.medium.com/why-was-the-block-size-limit-added-to-bitcoin-9403175368b8
+Permalink: /r/btc/comments/1iyobly/why_was_the_block_size_limit_added_to_bitcoin/
+Number of Comments: 23
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Bitcoin ETFs Witness $900M in Daily Outflows as Crypto Slumps
+Date: Wed Feb 26 14:01:37 WET 2025
+Text: 
+URL: https://allincrypto.com/bitcoin-etfs-900m-in-daily-outflows-as-crypto-slumps/
+Permalink: /r/btc/comments/1iyo6i8/bitcoin_etfs_witness_900m_in_daily_outflows_as/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Milan_dr
+Title: NanoGPT updates: more models, Shorts Generator, UX improvements, image input
+Date: Wed Feb 26 11:56:27 WET 2025
+Text: 
+URL: https://nano-gpt.com/conversation/new?model=free-model&amp;source=bch
+Permalink: /r/btc/comments/1iylu8f/nanogpt_updates_more_models_shorts_generator_ux/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: gr8ful4
+Title: Decentralized fiat exchange "RetoSwap" based on Haveno is growing
+Date: Wed Feb 26 09:40:55 WET 2025
+Text: 
+URL: https://haveno.markets/
+Permalink: /r/btc/comments/1iyjv8h/decentralized_fiat_exchange_retoswap_based_on/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Imagineforyourself
+Title: Is Bitcoin the new gold, or is bullion still king?
+Date: Wed Feb 26 07:01:59 WET 2025
+Text: 
+
+I was listening to an interesting podcast discussion today between David McDermott and Michael Engeman (Evolved Leadership Podcast) about tokenized gold and custodial bitcoin cold storage and whether putting bullion on the blockchain actually solves the problem. Some say it combines the best of both worlds—physical gold’s stability with Bitcoin’s portability. Others argue that if you don’t hold the asset yourself, you don’t really own it.
+
+What do you think? Is blockchain-based bullion the future of gold ownership, or does it just add unnecessary middlemen? Would you trust it over self-custody?
+
+URL: https://www.reddit.com/r/btc/comments/1iyhpz8/is_bitcoin_the_new_gold_or_is_bullion_still_king/
+Permalink: /r/btc/comments/1iyhpz8/is_bitcoin_the_new_gold_or_is_bullion_still_king/
+Number of Comments: 28
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: DangerHighVoltage111
+Title: BitcoinCash Weekly News February 25th 2025 by the BCHF
+Date: Wed Feb 26 06:47:22 WET 2025
+Text: 
+URL: https://medium.com/@BCHF_ORG/bitcoincash-weekly-news-february-25th-2025-by-the-bchf-3a26c7d57e6e
+Permalink: /r/btc/comments/1iyhi8b/bitcoincash_weekly_news_february_25th_2025_by_the/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alexhcry
+Title: Not Scared at All :)
+Date: Wed Feb 26 06:41:59 WET 2025
+Text: 
+URL: https://i.redd.it/3lgyfw4zifle1.png
+Permalink: /r/btc/comments/1iyhfdw/not_scared_at_all/
+Number of Comments: 30
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: birth_of_bitcoin
+Title: What Satoshi built wasn't just a currency—it was the first
+Date: Wed Feb 26 04:58:28 WET 2025
+Text: Code is law, and freedom is its compiler. What Satoshi built wasn't just a currency—it was the first declaration of independence from a financial system that never asked for our consent. 
+
+#Bitcoin
+URL: https://v.redd.it/vf9bo3tl0fle1
+Permalink: /r/btc/comments/1iyfr2o/what_satoshi_built_wasnt_just_a_currencyit_was/
+Number of Comments: 11
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Eliashuer
+Title: Short-term crypto traders sent record 79.3K Bitcoin to exchanges as BTC crashed to $86K
+Date: Wed Feb 26 23:03:41 WET 2025
+Text: 
+
+URL: https://cointelegraph.com/news/bitcoin-speculators-sent-7b-to-exchanges-at-loss-in-btc-price-crash
+Permalink: /r/btc/comments/1iz117p/shortterm_crypto_traders_sent_record_793k_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: OkStep5032
+Title: What's happening to this sub?
+Date: Wed Feb 26 21:57:54 WET 2025
+Text: All of the sudden there are many threads a day with memes and "number gonna go up" related things. It's pretty much resembling r/Bitcoin at this point. This seems very inorganic. What happened to all of the Bitcoin technical discussions that used to happen here? What is going on?
+URL: https://www.reddit.com/r/btc/comments/1iyziif/whats_happening_to_this_sub/
+Permalink: /r/btc/comments/1iyziif/whats_happening_to_this_sub/
+Number of Comments: 35
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: How the North Korean Lazarus Group Hacked Crypto Exchange Bybit for $1.5 Billion
+Date: Wed Feb 26 21:00:35 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/how-the-north-korean-lazarus-group-hacked-crypto-exchange-bybit-for-1-5-billion/
+Permalink: /r/btc/comments/1iyy59b/how_the_north_korean_lazarus_group_hacked_crypto/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Patient-Rain-4914
+Title: Green Card+ = 50 BTC
+Date: Wed Feb 26 20:50:14 WET 2025
+Text: If the US Government put all of the Green Card Plus funds in BTC, what would the value of BTC be within 3 years, 10 months?
+URL: https://www.reddit.com/r/btc/comments/1iyxwdu/green_card_50_btc/
+Permalink: /r/btc/comments/1iyxwdu/green_card_50_btc/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Shibinator
+Title: The Bitcoin Cash Podcast #142: Crypto Copium &amp; TapSwap Pump feat. Emergent Reasons &amp; Fiendish Crypto
+Date: Wed Feb 26 20:01:17 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=4f-NLQta41g
+Permalink: /r/btc/comments/1iywq8a/the_bitcoin_cash_podcast_142_crypto_copium/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Correct-Potential-15
+Title: Thanks Trump! | You managed to do it again!
+Date: Wed Feb 26 19:41:44 WET 2025
+Text: [Guys thank trump!!](https://preview.redd.it/f75ag4j5ejle1.png?width=856&amp;format=png&amp;auto=webp&amp;s=df61bb09553c6257957c4dde8c7df58b71591d17)
+
+
+URL: https://www.reddit.com/r/btc/comments/1iyw9ju/thanks_trump_you_managed_to_do_it_again/
+Permalink: /r/btc/comments/1iyw9ju/thanks_trump_you_managed_to_do_it_again/
+Number of Comments: 342
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: Time to knock some sense into people
+Date: Wed Feb 26 18:44:02 WET 2025
+Text: 
+URL: https://i.redd.it/2h1inqkt3jle1.png
+Permalink: /r/btc/comments/1iyuupj/time_to_knock_some_sense_into_people/
+Number of Comments: 52
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: rosscypto
+Title: 2011 first ever bitcoin kid (12 yrs old)
+Date: Wed Feb 26 18:18:48 WET 2025
+Text: Hey guys, I wanted to share an amazing story with you that could get you a lot of views and an awesome bit of crypto nostalgia in these tough times with crypto at the moment a 12 year old kid in 2011 called bitcoin at $8 he does an in depth analysis on what it is I’ll post the video below and hope you get a chance to look into it and share the story this one’s to good to miss.
+
+https://youtu.be/lcn6vIcgvbk?si=36ZaWpyTJgziUt5g
+
+Kind regards, Ross
+URL: https://www.reddit.com/r/btc/comments/1iyu8c7/2011_first_ever_bitcoin_kid_12_yrs_old/
+Permalink: /r/btc/comments/1iyu8c7/2011_first_ever_bitcoin_kid_12_yrs_old/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2q_x
+Title: New subscriptions are coming to Bitcoin Cash. [Discussion, Market Outreach]
+Date: Wed Feb 26 18:03:24 WET 2025
+Text: TL;DR: We're getting Token Subscriptions on BCH, sooner rather than later. 
+
+Subscriptions (i.e. recurring payments) aren't new to Bitcoin Cash. We've had subscriptions since 2019 with the [Mecenas plugin for Electron Cash](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases).
+
+There was also a different approach taken in 2022 with the [Unspent Phi Annuity contract](https://unspent.app/documentation#annuity). While, not revocable, the Unspent Phi contract included "automatic" payouts―meaning recipients didn't need to interact with an app every month to be paid. 
+
+Looking at the blockchain data, in the last six years, there were about 75 mecenas contracts created. The Unspent Annuity had about 167 contracts―but twice as popular in half the time isn't good enough. 
+
+Unspent Annuity was released six months before CashTokens, the first version came out around the same time as the alpha of BCH Bull.
+
+In 2025, there's now a few fiat tokens coming down the line, and a much richer token ecosystem to make using subscriptions easier. 
+
+***
+
+Over the last three years running a recurring payments ecosystem, users have overwhelmingly stated they want a few things: 
+
+- Payments denominated in fiat amounts,
+- Revocable or cancelable subscriptions,
+- An easy interface, or protocol, for topping up balances.
+- Transferable, or tokenized, ownership of the principal.
+
+What is fairly clear, given adoption curve of products that have been built previously, users DO NOT want to pay a regular obligation denominated in satoshis for anything other than a novel experiment. 
+
+
+***
+
+Here's how the new subscriptions will work from a user perspective:
+
+Alice has a software or service that she wants to sell via subscription payments to users. Users can be allowed to cancel after the first period. 
+
+Bob wants to buy a subscription from Alice. 
+
+- Alice has a website where Bob can select which token he'd like to pay his subscription with. Since no one wants to pay with BCH, that's not an option.
+
+- First, Bob has to enter a token enabled cashaddress where Alice will send an NFT authorizing him to administer his subscription.  
+
+- Bob can select his token of choice (MUSD, WBCH, BADGERS, ALICECOIN, etc).
+
+- Alice can list different rates for different tokens, either hard coded or responsive to market price.
+
+- Bob can choose how many periods (months, weeks, years) he'd like to subscribe for. 
+
+- Bob clicks "pay now" to copy a payment request link for his wallet. 
+
+- Bob pastes this payment link into his CashToken enabled wallet, which generates a standard transaction for Bob to approve. 
+
+- The funding transaction has full token prepayment for the time frame Bob selected, as well as a few thousand satoshis to process each payment. 
+
+- Alice can prove to Bob that the access baton to cancel his subscription has been sent to a different contract that allow forwarding it to his wallet after the first period is complete (so Bob can't cancel his subscription before Alice is paid for the first period). Or Alice can custody or send the baton to Bob early. 
+
+- Once Bob funds his subscription contract, no further action is required from Alice or Bob for his periodic payment to be sent from this Subscription contract to Alice. 
+
+- If Bob decides he wants to cancel after the first month, an NFT will let him cancel, adjust, rebalance, or generally administer his subscription balance. 
+
+- If Bob wants to share or transfer his subscription, ownership of the NFT is equivalent to ownership of the subscription. 
+
+***
+
+Note that with this approach, if Bob chooses a "stable" coin token, the balance for the subscription is then locked to that fiat amount.  
+
+If Bob pre-pays for a year in a fiat token and the price of BCH increases a hundred fold, Bob would still have one year paid in fiat amounts, not a hundred years. 
+
+This approach is **NOT** fund that draws down dynamically based on a spot oracle price. 
+
+***
+
+If users have tried using Mecenas or the Unspent Annuity (or any other pusher style subscription service in crypto), are there any killer features or pain points to have or avoid? 
+
+If anyone is interested in selling a service or software as a subscription, would the above scenario satisfy your business requirements?
+URL: https://www.reddit.com/r/btc/comments/1iytukk/new_subscriptions_are_coming_to_bitcoin_cash/
+Permalink: /r/btc/comments/1iytukk/new_subscriptions_are_coming_to_bitcoin_cash/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: How Hackers Are Quietly Draining Bitcoin Wallets Through Fake GitHub Projects
+Date: Wed Feb 26 15:39:51 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/how-hackers-are-quietly-draining-bitcoin-wallets-through-fake-github-projects/
+Permalink: /r/btc/comments/1iyqcpg/how_hackers_are_quietly_draining_bitcoin_wallets/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: sandakersmann
+Title: Why was the block size limit added to Bitcoin?
+Date: Wed Feb 26 14:08:21 WET 2025
+Text: 
+URL: https://jqrgen.medium.com/why-was-the-block-size-limit-added-to-bitcoin-9403175368b8
+Permalink: /r/btc/comments/1iyobly/why_was_the_block_size_limit_added_to_bitcoin/
+Number of Comments: 23
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Bitcoin ETFs Witness $900M in Daily Outflows as Crypto Slumps
+Date: Wed Feb 26 14:01:37 WET 2025
+Text: 
+URL: https://allincrypto.com/bitcoin-etfs-900m-in-daily-outflows-as-crypto-slumps/
+Permalink: /r/btc/comments/1iyo6i8/bitcoin_etfs_witness_900m_in_daily_outflows_as/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Milan_dr
+Title: NanoGPT updates: more models, Shorts Generator, UX improvements, image input
+Date: Wed Feb 26 11:56:27 WET 2025
+Text: 
+URL: https://nano-gpt.com/conversation/new?model=free-model&amp;source=bch
+Permalink: /r/btc/comments/1iylu8f/nanogpt_updates_more_models_shorts_generator_ux/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gr8ful4
+Title: Decentralized fiat exchange "RetoSwap" based on Haveno is growing
+Date: Wed Feb 26 09:40:55 WET 2025
+Text: 
+URL: https://haveno.markets/
+Permalink: /r/btc/comments/1iyjv8h/decentralized_fiat_exchange_retoswap_based_on/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Imagineforyourself
+Title: Is Bitcoin the new gold, or is bullion still king?
+Date: Wed Feb 26 07:01:59 WET 2025
+Text: 
+
+I was listening to an interesting podcast discussion today between David McDermott and Michael Engeman (Evolved Leadership Podcast) about tokenized gold and custodial bitcoin cold storage and whether putting bullion on the blockchain actually solves the problem. Some say it combines the best of both worlds—physical gold’s stability with Bitcoin’s portability. Others argue that if you don’t hold the asset yourself, you don’t really own it.
+
+What do you think? Is blockchain-based bullion the future of gold ownership, or does it just add unnecessary middlemen? Would you trust it over self-custody?
+
+URL: https://www.reddit.com/r/btc/comments/1iyhpz8/is_bitcoin_the_new_gold_or_is_bullion_still_king/
+Permalink: /r/btc/comments/1iyhpz8/is_bitcoin_the_new_gold_or_is_bullion_still_king/
+Number of Comments: 28
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: DangerHighVoltage111
+Title: BitcoinCash Weekly News February 25th 2025 by the BCHF
+Date: Wed Feb 26 06:47:22 WET 2025
+Text: 
+URL: https://medium.com/@BCHF_ORG/bitcoincash-weekly-news-february-25th-2025-by-the-bchf-3a26c7d57e6e
+Permalink: /r/btc/comments/1iyhi8b/bitcoincash_weekly_news_february_25th_2025_by_the/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alexhcry
+Title: Not Scared at All :)
+Date: Wed Feb 26 06:41:59 WET 2025
+Text: 
+URL: https://i.redd.it/3lgyfw4zifle1.png
+Permalink: /r/btc/comments/1iyhfdw/not_scared_at_all/
+Number of Comments: 30
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: birth_of_bitcoin
+Title: What Satoshi built wasn't just a currency—it was the first
+Date: Wed Feb 26 04:58:28 WET 2025
+Text: Code is law, and freedom is its compiler. What Satoshi built wasn't just a currency—it was the first declaration of independence from a financial system that never asked for our consent. 
+
+#Bitcoin
+URL: https://v.redd.it/vf9bo3tl0fle1
+Permalink: /r/btc/comments/1iyfr2o/what_satoshi_built_wasnt_just_a_currencyit_was/
+Number of Comments: 11
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Eliashuer
+Title: Short-term crypto traders sent record 79.3K Bitcoin to exchanges as BTC crashed to $86K
+Date: Wed Feb 26 23:03:41 WET 2025
+Text: 
+
+URL: https://cointelegraph.com/news/bitcoin-speculators-sent-7b-to-exchanges-at-loss-in-btc-price-crash
+Permalink: /r/btc/comments/1iz117p/shortterm_crypto_traders_sent_record_793k_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: OkStep5032
+Title: What's happening to this sub?
+Date: Wed Feb 26 21:57:54 WET 2025
+Text: All of the sudden there are many threads a day with memes and "number gonna go up" related things. It's pretty much resembling r/Bitcoin at this point. This seems very inorganic. What happened to all of the Bitcoin technical discussions that used to happen here? What is going on?
+URL: https://www.reddit.com/r/btc/comments/1iyziif/whats_happening_to_this_sub/
+Permalink: /r/btc/comments/1iyziif/whats_happening_to_this_sub/
+Number of Comments: 35
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: How the North Korean Lazarus Group Hacked Crypto Exchange Bybit for $1.5 Billion
+Date: Wed Feb 26 21:00:35 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/how-the-north-korean-lazarus-group-hacked-crypto-exchange-bybit-for-1-5-billion/
+Permalink: /r/btc/comments/1iyy59b/how_the_north_korean_lazarus_group_hacked_crypto/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Patient-Rain-4914
+Title: Green Card+ = 50 BTC
+Date: Wed Feb 26 20:50:14 WET 2025
+Text: If the US Government put all of the Green Card Plus funds in BTC, what would the value of BTC be within 3 years, 10 months?
+URL: https://www.reddit.com/r/btc/comments/1iyxwdu/green_card_50_btc/
+Permalink: /r/btc/comments/1iyxwdu/green_card_50_btc/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Shibinator
+Title: The Bitcoin Cash Podcast #142: Crypto Copium &amp; TapSwap Pump feat. Emergent Reasons &amp; Fiendish Crypto
+Date: Wed Feb 26 20:01:17 WET 2025
+Text: 
+URL: https://www.youtube.com/watch?v=4f-NLQta41g
+Permalink: /r/btc/comments/1iywq8a/the_bitcoin_cash_podcast_142_crypto_copium/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Correct-Potential-15
+Title: Thanks Trump! | You managed to do it again!
+Date: Wed Feb 26 19:41:44 WET 2025
+Text: [Guys thank trump!!](https://preview.redd.it/f75ag4j5ejle1.png?width=856&amp;format=png&amp;auto=webp&amp;s=df61bb09553c6257957c4dde8c7df58b71591d17)
+
+
+URL: https://www.reddit.com/r/btc/comments/1iyw9ju/thanks_trump_you_managed_to_do_it_again/
+Permalink: /r/btc/comments/1iyw9ju/thanks_trump_you_managed_to_do_it_again/
+Number of Comments: 342
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: Time to knock some sense into people
+Date: Wed Feb 26 18:44:02 WET 2025
+Text: 
+URL: https://i.redd.it/2h1inqkt3jle1.png
+Permalink: /r/btc/comments/1iyuupj/time_to_knock_some_sense_into_people/
+Number of Comments: 52
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: rosscypto
+Title: 2011 first ever bitcoin kid (12 yrs old)
+Date: Wed Feb 26 18:18:48 WET 2025
+Text: Hey guys, I wanted to share an amazing story with you that could get you a lot of views and an awesome bit of crypto nostalgia in these tough times with crypto at the moment a 12 year old kid in 2011 called bitcoin at $8 he does an in depth analysis on what it is I’ll post the video below and hope you get a chance to look into it and share the story this one’s to good to miss.
+
+https://youtu.be/lcn6vIcgvbk?si=36ZaWpyTJgziUt5g
+
+Kind regards, Ross
+URL: https://www.reddit.com/r/btc/comments/1iyu8c7/2011_first_ever_bitcoin_kid_12_yrs_old/
+Permalink: /r/btc/comments/1iyu8c7/2011_first_ever_bitcoin_kid_12_yrs_old/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2q_x
+Title: New subscriptions are coming to Bitcoin Cash. [Discussion, Market Outreach]
+Date: Wed Feb 26 18:03:24 WET 2025
+Text: TL;DR: We're getting Token Subscriptions on BCH, sooner rather than later. 
+
+Subscriptions (i.e. recurring payments) aren't new to Bitcoin Cash. We've had subscriptions since 2019 with the [Mecenas plugin for Electron Cash](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases).
+
+There was also a different approach taken in 2022 with the [Unspent Phi Annuity contract](https://unspent.app/documentation#annuity). While, not revocable, the Unspent Phi contract included "automatic" payouts―meaning recipients didn't need to interact with an app every month to be paid. 
+
+Looking at the blockchain data, in the last six years, there were about 75 mecenas contracts created. The Unspent Annuity had about 167 contracts―but twice as popular in half the time isn't good enough. 
+
+Unspent Annuity was released six months before CashTokens, the first version came out around the same time as the alpha of BCH Bull.
+
+In 2025, there's now a few fiat tokens coming down the line, and a much richer token ecosystem to make using subscriptions easier. 
+
+***
+
+Over the last three years running a recurring payments ecosystem, users have overwhelmingly stated they want a few things: 
+
+- Payments denominated in fiat amounts,
+- Revocable or cancelable subscriptions,
+- An easy interface, or protocol, for topping up balances.
+- Transferable, or tokenized, ownership of the principal.
+
+What is fairly clear, given adoption curve of products that have been built previously, users DO NOT want to pay a regular obligation denominated in satoshis for anything other than a novel experiment. 
+
+
+***
+
+Here's how the new subscriptions will work from a user perspective:
+
+Alice has a software or service that she wants to sell via subscription payments to users. Users can be allowed to cancel after the first period. 
+
+Bob wants to buy a subscription from Alice. 
+
+- Alice has a website where Bob can select which token he'd like to pay his subscription with. Since no one wants to pay with BCH, that's not an option.
+
+- First, Bob has to enter a token enabled cashaddress where Alice will send an NFT authorizing him to administer his subscription.  
+
+- Bob can select his token of choice (MUSD, WBCH, BADGERS, ALICECOIN, etc).
+
+- Alice can list different rates for different tokens, either hard coded or responsive to market price.
+
+- Bob can choose how many periods (months, weeks, years) he'd like to subscribe for. 
+
+- Bob clicks "pay now" to copy a payment request link for his wallet. 
+
+- Bob pastes this payment link into his CashToken enabled wallet, which generates a standard transaction for Bob to approve. 
+
+- The funding transaction has full token prepayment for the time frame Bob selected, as well as a few thousand satoshis to process each payment. 
+
+- Alice can prove to Bob that the access baton to cancel his subscription has been sent to a different contract that allow forwarding it to his wallet after the first period is complete (so Bob can't cancel his subscription before Alice is paid for the first period). Or Alice can custody or send the baton to Bob early. 
+
+- Once Bob funds his subscription contract, no further action is required from Alice or Bob for his periodic payment to be sent from this Subscription contract to Alice. 
+
+- If Bob decides he wants to cancel after the first month, an NFT will let him cancel, adjust, rebalance, or generally administer his subscription balance. 
+
+- If Bob wants to share or transfer his subscription, ownership of the NFT is equivalent to ownership of the subscription. 
+
+***
+
+Note that with this approach, if Bob chooses a "stable" coin token, the balance for the subscription is then locked to that fiat amount.  
+
+If Bob pre-pays for a year in a fiat token and the price of BCH increases a hundred fold, Bob would still have one year paid in fiat amounts, not a hundred years. 
+
+This approach is **NOT** fund that draws down dynamically based on a spot oracle price. 
+
+***
+
+If users have tried using Mecenas or the Unspent Annuity (or any other pusher style subscription service in crypto), are there any killer features or pain points to have or avoid? 
+
+If anyone is interested in selling a service or software as a subscription, would the above scenario satisfy your business requirements?
+URL: https://www.reddit.com/r/btc/comments/1iytukk/new_subscriptions_are_coming_to_bitcoin_cash/
+Permalink: /r/btc/comments/1iytukk/new_subscriptions_are_coming_to_bitcoin_cash/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: How Hackers Are Quietly Draining Bitcoin Wallets Through Fake GitHub Projects
+Date: Wed Feb 26 15:39:51 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/how-hackers-are-quietly-draining-bitcoin-wallets-through-fake-github-projects/
+Permalink: /r/btc/comments/1iyqcpg/how_hackers_are_quietly_draining_bitcoin_wallets/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: sandakersmann
+Title: Why was the block size limit added to Bitcoin?
+Date: Wed Feb 26 14:08:21 WET 2025
+Text: 
+URL: https://jqrgen.medium.com/why-was-the-block-size-limit-added-to-bitcoin-9403175368b8
+Permalink: /r/btc/comments/1iyobly/why_was_the_block_size_limit_added_to_bitcoin/
+Number of Comments: 23
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Bitcoin ETFs Witness $900M in Daily Outflows as Crypto Slumps
+Date: Wed Feb 26 14:01:37 WET 2025
+Text: 
+URL: https://allincrypto.com/bitcoin-etfs-900m-in-daily-outflows-as-crypto-slumps/
+Permalink: /r/btc/comments/1iyo6i8/bitcoin_etfs_witness_900m_in_daily_outflows_as/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Milan_dr
+Title: NanoGPT updates: more models, Shorts Generator, UX improvements, image input
+Date: Wed Feb 26 11:56:27 WET 2025
+Text: 
+URL: https://nano-gpt.com/conversation/new?model=free-model&amp;source=bch
+Permalink: /r/btc/comments/1iylu8f/nanogpt_updates_more_models_shorts_generator_ux/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: gr8ful4
+Title: Decentralized fiat exchange "RetoSwap" based on Haveno is growing
+Date: Wed Feb 26 09:40:55 WET 2025
+Text: 
+URL: https://haveno.markets/
+Permalink: /r/btc/comments/1iyjv8h/decentralized_fiat_exchange_retoswap_based_on/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Imagineforyourself
+Title: Is Bitcoin the new gold, or is bullion still king?
+Date: Wed Feb 26 07:01:59 WET 2025
+Text: 
+
+I was listening to an interesting podcast discussion today between David McDermott and Michael Engeman (Evolved Leadership Podcast) about tokenized gold and custodial bitcoin cold storage and whether putting bullion on the blockchain actually solves the problem. Some say it combines the best of both worlds—physical gold’s stability with Bitcoin’s portability. Others argue that if you don’t hold the asset yourself, you don’t really own it.
+
+What do you think? Is blockchain-based bullion the future of gold ownership, or does it just add unnecessary middlemen? Would you trust it over self-custody?
+
+URL: https://www.reddit.com/r/btc/comments/1iyhpz8/is_bitcoin_the_new_gold_or_is_bullion_still_king/
+Permalink: /r/btc/comments/1iyhpz8/is_bitcoin_the_new_gold_or_is_bullion_still_king/
+Number of Comments: 28
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: DangerHighVoltage111
+Title: BitcoinCash Weekly News February 25th 2025 by the BCHF
+Date: Wed Feb 26 06:47:22 WET 2025
+Text: 
+URL: https://medium.com/@BCHF_ORG/bitcoincash-weekly-news-february-25th-2025-by-the-bchf-3a26c7d57e6e
+Permalink: /r/btc/comments/1iyhi8b/bitcoincash_weekly_news_february_25th_2025_by_the/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alexhcry
+Title: Not Scared at All :)
+Date: Wed Feb 26 06:41:59 WET 2025
+Text: 
+URL: https://i.redd.it/3lgyfw4zifle1.png
+Permalink: /r/btc/comments/1iyhfdw/not_scared_at_all/
+Number of Comments: 30
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: birth_of_bitcoin
+Title: What Satoshi built wasn't just a currency—it was the first
+Date: Wed Feb 26 04:58:28 WET 2025
+Text: Code is law, and freedom is its compiler. What Satoshi built wasn't just a currency—it was the first declaration of independence from a financial system that never asked for our consent. 
+
+#Bitcoin
+URL: https://v.redd.it/vf9bo3tl0fle1
+Permalink: /r/btc/comments/1iyfr2o/what_satoshi_built_wasnt_just_a_currencyit_was/
+Number of Comments: 11
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

@@ -1,0 +1,524 @@
+Author: alberdioni8406_
+Title: How Minisatoshi.cash Helps New Users Explore the Bitcoin Cash Ecosystem
+Date: Wed Jan 29 21:54:43 WET 2025
+Text: In today's article we dive into a website that have a lot to offer in terms of material to educate people about BCH, a site built by a BCH enthusiast, enjoy.
+URL: https://read.cash/@alberdioni8406/how-minisatoshicash-helps-new-users-explore-the-bitcoin-cash-ecosystem-c508d2bd
+Permalink: /r/btc/comments/1id5sia/how_minisatoshicash_helps_new_users_explore_the/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Dependent_Beyond_968
+Title: Any news about FOMC?
+Date: Wed Jan 29 19:36:34 WET 2025
+Text: Any update about ongoing meet? Anybody?
+URL: https://www.reddit.com/r/btc/comments/1id2gxs/any_news_about_fomc/
+Permalink: /r/btc/comments/1id2gxs/any_news_about_fomc/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: User-deployed Bitcoin Cash covenants can implement zkVMs, Monero, Zcash, Mimblewimble, etc. – for both BCH and CashTokens – with zero-overhead in transaction sizes, better risk isolation, and smoother, swap-free experiences between cash and defi use cases.
+Date: Wed Jan 29 19:34:21 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1884685772973851132
+Permalink: /r/btc/comments/1id2ez5/userdeployed_bitcoin_cash_covenants_can_implement/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: CHIP-2025-01 TXv5: Transaction Version 5: Zero-Overhead Covenants, Detached ("Cross-Input") Signatures, Comprehensive Malleability Protection, Efficient Covenant UTXO Recycling, Fractional Satoshis, &amp; Fractional CashTokens
+Date: Wed Jan 29 19:07:53 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1884677494894453208
+Permalink: /r/btc/comments/1id1r3i/chip202501_txv5_transaction_version_5/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: BCHG hits $3.87 equal to $460 per BCH as the premium goes down to the lowest its been in years, this may be due to speculation about ETF approvals under trump which will make the premiums go to 0 once arbitrage is enabled after approval.
+Date: Wed Jan 29 17:35:17 WET 2025
+Text: 
+URL: https://www.google.com/finance/quote/BCHG:OTCMKTS
+Permalink: /r/btc/comments/1iczg1j/bchg_hits_387_equal_to_460_per_bch_as_the_premium/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: CoolJoeLiam
+Title: What exchanges interact well with multiple currencies?
+Date: Wed Jan 29 17:27:44 WET 2025
+Text: I have yet to find an exchange that also functions like Wise for currency conversion. For being ideal as a global medium of exchange Bitcoin exchanges are still very complicated to use with multiple fiat currencies. 
+
+For example: I’m in Thailand and need to pay fiat for something like a computer or a car… I can’t pay in BTC so I have to move my BTC to an exchange to sell. BUT I can only sell the currency of my connected bank (USD), so then I have to wait a week and transfer the USD to a service like Wise (kudos to Kraken for allowing this direct transfer, saving me the extra step of going to my US bank and then Wise)…
+But then in Wise I have to pay conversion fees to switch USD to a separate THB account, and only after that can I transfer the THB to the seller of the item. 4-5 steps involved!
+
+Why can’t a BTC exchange combine the service of Wise and cut the process in half as well as the fees. Sell BTC to any fiat I chose and transfer directly to a seller from there. 
+
+I tried Strike, Crypto App, Revolut, Gemini, Uphold and Moon Pay, which ALL claim to offer a few currencies but NONE of them were successful to sign up and none are close to the global reach of Wise.
+
+Are we really still so early? Sigh. 😕
+URL: https://www.reddit.com/r/btc/comments/1icz93n/what_exchanges_interact_well_with_multiple/
+Permalink: /r/btc/comments/1icz93n/what_exchanges_interact_well_with_multiple/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Hong Kong SFC Issues Crypto Trading Licenses as Bitcoin Trading Grows in the Region
+Date: Wed Jan 29 15:47:44 WET 2025
+Text: 
+URL: https://allincrypto.com/hong-kong-sfc-issues-crypto-trading-licenses-as-bitcoin-trading-grows-in-region/
+Permalink: /r/btc/comments/1icwsq6/hong_kong_sfc_issues_crypto_trading_licenses_as/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Soft-Glass-4737
+Title: BTC is NOT the future
+Date: Wed Jan 29 14:32:13 WET 2025
+Text: I wouldn’t invest in Bitcoin, and here’s why:
+
+Bitcoin was designed as a **peer-to-peer payment system**, but it has largely failed in that role due to two key issues:
+
+1. **Scalability Problems** – Bitcoin's network is too slow to handle a high volume of transactions efficiently. Transactions can take minutes to hours, making it impractical for everyday use.
+2. **High Transaction Fees** – As the network gets congested, transaction fees rise significantly, making microtransactions expensive.
+
+Another major concern is **ownership and control**:
+
+* **Anonymous Founders** – No one knows who controls the largest Bitcoin wallet. If the original creator (Satoshi Nakamoto) were to sell off their holdings, it could cause a massive price crash. This could also be a controlled asset of another country or group of people.
+* **Potential Foreign Control** – If a single country were to mine over **51% of the Bitcoin supply**, they could effectively **censor transactions** and manipulate the network.
+
+With these risks in mind, I believe the **U.S. will favor domestically supported cryptos** over Bitcoin. I’d look into **ISO 20022-compliant cryptos** like **XRP, HBAR, and XLM**, which are designed for **fast, cost-effective, and regulated financial transactions**.
+
+Would love to hear your thoughts—what’s your take on Bitcoin’s future?
+URL: https://www.reddit.com/r/btc/comments/1icv2f0/btc_is_not_the_future/
+Permalink: /r/btc/comments/1icv2f0/btc_is_not_the_future/
+Number of Comments: 53
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: g1ll3es
+Title: Trump Media to invest in Bitcoin and similar cryptocurrencies
+Date: Wed Jan 29 14:00:59 WET 2025
+Text: 
+URL: https://www.reuters.com/business/finance/trump-media-launches-fintech-services-brand-2025-01-29/
+Permalink: /r/btc/comments/1icue1b/trump_media_to_invest_in_bitcoin_and_similar/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: webbs3
+Title: Former SEC Chair Gary Gensler Returns to MIT to Tackle AI
+Date: Wed Jan 29 11:15:54 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/gary-gensler-returns-to-mit-to-tackle-ai-after-sec-leadership?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-gary-gensler-returns-to-mit
+Permalink: /r/btc/comments/1icribh/former_sec_chair_gary_gensler_returns_to_mit_to/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: HISTORY: 🟠 Naval explains Bitcoin when it traded at $245 👀
+Date: Wed Jan 29 04:48:10 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=qOtX21uK_sQ&amp;si=JUzn6kuqk8qJZ7j_
+Permalink: /r/btc/comments/1icm204/history_naval_explains_bitcoin_when_it_traded_at/
+Number of Comments: 10
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Jtp508
+Title: Ross Ulbricht the Silk Road mastermindmight be the mysterious Satoshi Nakamoto
+Date: Wed Jan 29 00:00:24 WET 2025
+Text: 
+URL: /r/BeakyParker/comments/1icgd9f/ross_ulbricht_the_silk_road_mastermindmight_be/
+Permalink: /r/btc/comments/1icge11/ross_ulbricht_the_silk_road_mastermindmight_be/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: How Minisatoshi.cash Helps New Users Explore the Bitcoin Cash Ecosystem
+Date: Wed Jan 29 21:54:43 WET 2025
+Text: In today's article we dive into a website that have a lot to offer in terms of material to educate people about BCH, a site built by a BCH enthusiast, enjoy.
+URL: https://read.cash/@alberdioni8406/how-minisatoshicash-helps-new-users-explore-the-bitcoin-cash-ecosystem-c508d2bd
+Permalink: /r/btc/comments/1id5sia/how_minisatoshicash_helps_new_users_explore_the/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Dependent_Beyond_968
+Title: Any news about FOMC?
+Date: Wed Jan 29 19:36:34 WET 2025
+Text: Any update about ongoing meet? Anybody?
+URL: https://www.reddit.com/r/btc/comments/1id2gxs/any_news_about_fomc/
+Permalink: /r/btc/comments/1id2gxs/any_news_about_fomc/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: User-deployed Bitcoin Cash covenants can implement zkVMs, Monero, Zcash, Mimblewimble, etc. – for both BCH and CashTokens – with zero-overhead in transaction sizes, better risk isolation, and smoother, swap-free experiences between cash and defi use cases.
+Date: Wed Jan 29 19:34:21 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1884685772973851132
+Permalink: /r/btc/comments/1id2ez5/userdeployed_bitcoin_cash_covenants_can_implement/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: CHIP-2025-01 TXv5: Transaction Version 5: Zero-Overhead Covenants, Detached ("Cross-Input") Signatures, Comprehensive Malleability Protection, Efficient Covenant UTXO Recycling, Fractional Satoshis, &amp; Fractional CashTokens
+Date: Wed Jan 29 19:07:53 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1884677494894453208
+Permalink: /r/btc/comments/1id1r3i/chip202501_txv5_transaction_version_5/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: BCHG hits $3.87 equal to $460 per BCH as the premium goes down to the lowest its been in years, this may be due to speculation about ETF approvals under trump which will make the premiums go to 0 once arbitrage is enabled after approval.
+Date: Wed Jan 29 17:35:17 WET 2025
+Text: 
+URL: https://www.google.com/finance/quote/BCHG:OTCMKTS
+Permalink: /r/btc/comments/1iczg1j/bchg_hits_387_equal_to_460_per_bch_as_the_premium/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: CoolJoeLiam
+Title: What exchanges interact well with multiple currencies?
+Date: Wed Jan 29 17:27:44 WET 2025
+Text: I have yet to find an exchange that also functions like Wise for currency conversion. For being ideal as a global medium of exchange Bitcoin exchanges are still very complicated to use with multiple fiat currencies. 
+
+For example: I’m in Thailand and need to pay fiat for something like a computer or a car… I can’t pay in BTC so I have to move my BTC to an exchange to sell. BUT I can only sell the currency of my connected bank (USD), so then I have to wait a week and transfer the USD to a service like Wise (kudos to Kraken for allowing this direct transfer, saving me the extra step of going to my US bank and then Wise)…
+But then in Wise I have to pay conversion fees to switch USD to a separate THB account, and only after that can I transfer the THB to the seller of the item. 4-5 steps involved!
+
+Why can’t a BTC exchange combine the service of Wise and cut the process in half as well as the fees. Sell BTC to any fiat I chose and transfer directly to a seller from there. 
+
+I tried Strike, Crypto App, Revolut, Gemini, Uphold and Moon Pay, which ALL claim to offer a few currencies but NONE of them were successful to sign up and none are close to the global reach of Wise.
+
+Are we really still so early? Sigh. 😕
+URL: https://www.reddit.com/r/btc/comments/1icz93n/what_exchanges_interact_well_with_multiple/
+Permalink: /r/btc/comments/1icz93n/what_exchanges_interact_well_with_multiple/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Hong Kong SFC Issues Crypto Trading Licenses as Bitcoin Trading Grows in the Region
+Date: Wed Jan 29 15:47:44 WET 2025
+Text: 
+URL: https://allincrypto.com/hong-kong-sfc-issues-crypto-trading-licenses-as-bitcoin-trading-grows-in-region/
+Permalink: /r/btc/comments/1icwsq6/hong_kong_sfc_issues_crypto_trading_licenses_as/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Soft-Glass-4737
+Title: BTC is NOT the future
+Date: Wed Jan 29 14:32:13 WET 2025
+Text: I wouldn’t invest in Bitcoin, and here’s why:
+
+Bitcoin was designed as a **peer-to-peer payment system**, but it has largely failed in that role due to two key issues:
+
+1. **Scalability Problems** – Bitcoin's network is too slow to handle a high volume of transactions efficiently. Transactions can take minutes to hours, making it impractical for everyday use.
+2. **High Transaction Fees** – As the network gets congested, transaction fees rise significantly, making microtransactions expensive.
+
+Another major concern is **ownership and control**:
+
+* **Anonymous Founders** – No one knows who controls the largest Bitcoin wallet. If the original creator (Satoshi Nakamoto) were to sell off their holdings, it could cause a massive price crash. This could also be a controlled asset of another country or group of people.
+* **Potential Foreign Control** – If a single country were to mine over **51% of the Bitcoin supply**, they could effectively **censor transactions** and manipulate the network.
+
+With these risks in mind, I believe the **U.S. will favor domestically supported cryptos** over Bitcoin. I’d look into **ISO 20022-compliant cryptos** like **XRP, HBAR, and XLM**, which are designed for **fast, cost-effective, and regulated financial transactions**.
+
+Would love to hear your thoughts—what’s your take on Bitcoin’s future?
+URL: https://www.reddit.com/r/btc/comments/1icv2f0/btc_is_not_the_future/
+Permalink: /r/btc/comments/1icv2f0/btc_is_not_the_future/
+Number of Comments: 53
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: g1ll3es
+Title: Trump Media to invest in Bitcoin and similar cryptocurrencies
+Date: Wed Jan 29 14:00:59 WET 2025
+Text: 
+URL: https://www.reuters.com/business/finance/trump-media-launches-fintech-services-brand-2025-01-29/
+Permalink: /r/btc/comments/1icue1b/trump_media_to_invest_in_bitcoin_and_similar/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: webbs3
+Title: Former SEC Chair Gary Gensler Returns to MIT to Tackle AI
+Date: Wed Jan 29 11:15:54 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/gary-gensler-returns-to-mit-to-tackle-ai-after-sec-leadership?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-gary-gensler-returns-to-mit
+Permalink: /r/btc/comments/1icribh/former_sec_chair_gary_gensler_returns_to_mit_to/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: HISTORY: 🟠 Naval explains Bitcoin when it traded at $245 👀
+Date: Wed Jan 29 04:48:10 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=qOtX21uK_sQ&amp;si=JUzn6kuqk8qJZ7j_
+Permalink: /r/btc/comments/1icm204/history_naval_explains_bitcoin_when_it_traded_at/
+Number of Comments: 10
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Jtp508
+Title: Ross Ulbricht the Silk Road mastermindmight be the mysterious Satoshi Nakamoto
+Date: Wed Jan 29 00:00:24 WET 2025
+Text: 
+URL: /r/BeakyParker/comments/1icgd9f/ross_ulbricht_the_silk_road_mastermindmight_be/
+Permalink: /r/btc/comments/1icge11/ross_ulbricht_the_silk_road_mastermindmight_be/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: How Minisatoshi.cash Helps New Users Explore the Bitcoin Cash Ecosystem
+Date: Wed Jan 29 21:54:43 WET 2025
+Text: In today's article we dive into a website that have a lot to offer in terms of material to educate people about BCH, a site built by a BCH enthusiast, enjoy.
+URL: https://read.cash/@alberdioni8406/how-minisatoshicash-helps-new-users-explore-the-bitcoin-cash-ecosystem-c508d2bd
+Permalink: /r/btc/comments/1id5sia/how_minisatoshicash_helps_new_users_explore_the/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Dependent_Beyond_968
+Title: Any news about FOMC?
+Date: Wed Jan 29 19:36:34 WET 2025
+Text: Any update about ongoing meet? Anybody?
+URL: https://www.reddit.com/r/btc/comments/1id2gxs/any_news_about_fomc/
+Permalink: /r/btc/comments/1id2gxs/any_news_about_fomc/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: User-deployed Bitcoin Cash covenants can implement zkVMs, Monero, Zcash, Mimblewimble, etc. – for both BCH and CashTokens – with zero-overhead in transaction sizes, better risk isolation, and smoother, swap-free experiences between cash and defi use cases.
+Date: Wed Jan 29 19:34:21 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1884685772973851132
+Permalink: /r/btc/comments/1id2ez5/userdeployed_bitcoin_cash_covenants_can_implement/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: CHIP-2025-01 TXv5: Transaction Version 5: Zero-Overhead Covenants, Detached ("Cross-Input") Signatures, Comprehensive Malleability Protection, Efficient Covenant UTXO Recycling, Fractional Satoshis, &amp; Fractional CashTokens
+Date: Wed Jan 29 19:07:53 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1884677494894453208
+Permalink: /r/btc/comments/1id1r3i/chip202501_txv5_transaction_version_5/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: BCHG hits $3.87 equal to $460 per BCH as the premium goes down to the lowest its been in years, this may be due to speculation about ETF approvals under trump which will make the premiums go to 0 once arbitrage is enabled after approval.
+Date: Wed Jan 29 17:35:17 WET 2025
+Text: 
+URL: https://www.google.com/finance/quote/BCHG:OTCMKTS
+Permalink: /r/btc/comments/1iczg1j/bchg_hits_387_equal_to_460_per_bch_as_the_premium/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: CoolJoeLiam
+Title: What exchanges interact well with multiple currencies?
+Date: Wed Jan 29 17:27:44 WET 2025
+Text: I have yet to find an exchange that also functions like Wise for currency conversion. For being ideal as a global medium of exchange Bitcoin exchanges are still very complicated to use with multiple fiat currencies. 
+
+For example: I’m in Thailand and need to pay fiat for something like a computer or a car… I can’t pay in BTC so I have to move my BTC to an exchange to sell. BUT I can only sell the currency of my connected bank (USD), so then I have to wait a week and transfer the USD to a service like Wise (kudos to Kraken for allowing this direct transfer, saving me the extra step of going to my US bank and then Wise)…
+But then in Wise I have to pay conversion fees to switch USD to a separate THB account, and only after that can I transfer the THB to the seller of the item. 4-5 steps involved!
+
+Why can’t a BTC exchange combine the service of Wise and cut the process in half as well as the fees. Sell BTC to any fiat I chose and transfer directly to a seller from there. 
+
+I tried Strike, Crypto App, Revolut, Gemini, Uphold and Moon Pay, which ALL claim to offer a few currencies but NONE of them were successful to sign up and none are close to the global reach of Wise.
+
+Are we really still so early? Sigh. 😕
+URL: https://www.reddit.com/r/btc/comments/1icz93n/what_exchanges_interact_well_with_multiple/
+Permalink: /r/btc/comments/1icz93n/what_exchanges_interact_well_with_multiple/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Hong Kong SFC Issues Crypto Trading Licenses as Bitcoin Trading Grows in the Region
+Date: Wed Jan 29 15:47:44 WET 2025
+Text: 
+URL: https://allincrypto.com/hong-kong-sfc-issues-crypto-trading-licenses-as-bitcoin-trading-grows-in-region/
+Permalink: /r/btc/comments/1icwsq6/hong_kong_sfc_issues_crypto_trading_licenses_as/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Soft-Glass-4737
+Title: BTC is NOT the future
+Date: Wed Jan 29 14:32:13 WET 2025
+Text: I wouldn’t invest in Bitcoin, and here’s why:
+
+Bitcoin was designed as a **peer-to-peer payment system**, but it has largely failed in that role due to two key issues:
+
+1. **Scalability Problems** – Bitcoin's network is too slow to handle a high volume of transactions efficiently. Transactions can take minutes to hours, making it impractical for everyday use.
+2. **High Transaction Fees** – As the network gets congested, transaction fees rise significantly, making microtransactions expensive.
+
+Another major concern is **ownership and control**:
+
+* **Anonymous Founders** – No one knows who controls the largest Bitcoin wallet. If the original creator (Satoshi Nakamoto) were to sell off their holdings, it could cause a massive price crash. This could also be a controlled asset of another country or group of people.
+* **Potential Foreign Control** – If a single country were to mine over **51% of the Bitcoin supply**, they could effectively **censor transactions** and manipulate the network.
+
+With these risks in mind, I believe the **U.S. will favor domestically supported cryptos** over Bitcoin. I’d look into **ISO 20022-compliant cryptos** like **XRP, HBAR, and XLM**, which are designed for **fast, cost-effective, and regulated financial transactions**.
+
+Would love to hear your thoughts—what’s your take on Bitcoin’s future?
+URL: https://www.reddit.com/r/btc/comments/1icv2f0/btc_is_not_the_future/
+Permalink: /r/btc/comments/1icv2f0/btc_is_not_the_future/
+Number of Comments: 53
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: g1ll3es
+Title: Trump Media to invest in Bitcoin and similar cryptocurrencies
+Date: Wed Jan 29 14:00:59 WET 2025
+Text: 
+URL: https://www.reuters.com/business/finance/trump-media-launches-fintech-services-brand-2025-01-29/
+Permalink: /r/btc/comments/1icue1b/trump_media_to_invest_in_bitcoin_and_similar/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: webbs3
+Title: Former SEC Chair Gary Gensler Returns to MIT to Tackle AI
+Date: Wed Jan 29 11:15:54 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/gary-gensler-returns-to-mit-to-tackle-ai-after-sec-leadership?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-gary-gensler-returns-to-mit
+Permalink: /r/btc/comments/1icribh/former_sec_chair_gary_gensler_returns_to_mit_to/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: HISTORY: 🟠 Naval explains Bitcoin when it traded at $245 👀
+Date: Wed Jan 29 04:48:10 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=qOtX21uK_sQ&amp;si=JUzn6kuqk8qJZ7j_
+Permalink: /r/btc/comments/1icm204/history_naval_explains_bitcoin_when_it_traded_at/
+Number of Comments: 10
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Jtp508
+Title: Ross Ulbricht the Silk Road mastermindmight be the mysterious Satoshi Nakamoto
+Date: Wed Jan 29 00:00:24 WET 2025
+Text: 
+URL: /r/BeakyParker/comments/1icgd9f/ross_ulbricht_the_silk_road_mastermindmight_be/
+Permalink: /r/btc/comments/1icge11/ross_ulbricht_the_silk_road_mastermindmight_be/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: How Minisatoshi.cash Helps New Users Explore the Bitcoin Cash Ecosystem
+Date: Wed Jan 29 21:54:43 WET 2025
+Text: In today's article we dive into a website that have a lot to offer in terms of material to educate people about BCH, a site built by a BCH enthusiast, enjoy.
+URL: https://read.cash/@alberdioni8406/how-minisatoshicash-helps-new-users-explore-the-bitcoin-cash-ecosystem-c508d2bd
+Permalink: /r/btc/comments/1id5sia/how_minisatoshicash_helps_new_users_explore_the/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Dependent_Beyond_968
+Title: Any news about FOMC?
+Date: Wed Jan 29 19:36:34 WET 2025
+Text: Any update about ongoing meet? Anybody?
+URL: https://www.reddit.com/r/btc/comments/1id2gxs/any_news_about_fomc/
+Permalink: /r/btc/comments/1id2gxs/any_news_about_fomc/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: User-deployed Bitcoin Cash covenants can implement zkVMs, Monero, Zcash, Mimblewimble, etc. – for both BCH and CashTokens – with zero-overhead in transaction sizes, better risk isolation, and smoother, swap-free experiences between cash and defi use cases.
+Date: Wed Jan 29 19:34:21 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1884685772973851132
+Permalink: /r/btc/comments/1id2ez5/userdeployed_bitcoin_cash_covenants_can_implement/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: CHIP-2025-01 TXv5: Transaction Version 5: Zero-Overhead Covenants, Detached ("Cross-Input") Signatures, Comprehensive Malleability Protection, Efficient Covenant UTXO Recycling, Fractional Satoshis, &amp; Fractional CashTokens
+Date: Wed Jan 29 19:07:53 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1884677494894453208
+Permalink: /r/btc/comments/1id1r3i/chip202501_txv5_transaction_version_5/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: BCHG hits $3.87 equal to $460 per BCH as the premium goes down to the lowest its been in years, this may be due to speculation about ETF approvals under trump which will make the premiums go to 0 once arbitrage is enabled after approval.
+Date: Wed Jan 29 17:35:17 WET 2025
+Text: 
+URL: https://www.google.com/finance/quote/BCHG:OTCMKTS
+Permalink: /r/btc/comments/1iczg1j/bchg_hits_387_equal_to_460_per_bch_as_the_premium/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: CoolJoeLiam
+Title: What exchanges interact well with multiple currencies?
+Date: Wed Jan 29 17:27:44 WET 2025
+Text: I have yet to find an exchange that also functions like Wise for currency conversion. For being ideal as a global medium of exchange Bitcoin exchanges are still very complicated to use with multiple fiat currencies. 
+
+For example: I’m in Thailand and need to pay fiat for something like a computer or a car… I can’t pay in BTC so I have to move my BTC to an exchange to sell. BUT I can only sell the currency of my connected bank (USD), so then I have to wait a week and transfer the USD to a service like Wise (kudos to Kraken for allowing this direct transfer, saving me the extra step of going to my US bank and then Wise)…
+But then in Wise I have to pay conversion fees to switch USD to a separate THB account, and only after that can I transfer the THB to the seller of the item. 4-5 steps involved!
+
+Why can’t a BTC exchange combine the service of Wise and cut the process in half as well as the fees. Sell BTC to any fiat I chose and transfer directly to a seller from there. 
+
+I tried Strike, Crypto App, Revolut, Gemini, Uphold and Moon Pay, which ALL claim to offer a few currencies but NONE of them were successful to sign up and none are close to the global reach of Wise.
+
+Are we really still so early? Sigh. 😕
+URL: https://www.reddit.com/r/btc/comments/1icz93n/what_exchanges_interact_well_with_multiple/
+Permalink: /r/btc/comments/1icz93n/what_exchanges_interact_well_with_multiple/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: Hong Kong SFC Issues Crypto Trading Licenses as Bitcoin Trading Grows in the Region
+Date: Wed Jan 29 15:47:44 WET 2025
+Text: 
+URL: https://allincrypto.com/hong-kong-sfc-issues-crypto-trading-licenses-as-bitcoin-trading-grows-in-region/
+Permalink: /r/btc/comments/1icwsq6/hong_kong_sfc_issues_crypto_trading_licenses_as/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Soft-Glass-4737
+Title: BTC is NOT the future
+Date: Wed Jan 29 14:32:13 WET 2025
+Text: I wouldn’t invest in Bitcoin, and here’s why:
+
+Bitcoin was designed as a **peer-to-peer payment system**, but it has largely failed in that role due to two key issues:
+
+1. **Scalability Problems** – Bitcoin's network is too slow to handle a high volume of transactions efficiently. Transactions can take minutes to hours, making it impractical for everyday use.
+2. **High Transaction Fees** – As the network gets congested, transaction fees rise significantly, making microtransactions expensive.
+
+Another major concern is **ownership and control**:
+
+* **Anonymous Founders** – No one knows who controls the largest Bitcoin wallet. If the original creator (Satoshi Nakamoto) were to sell off their holdings, it could cause a massive price crash. This could also be a controlled asset of another country or group of people.
+* **Potential Foreign Control** – If a single country were to mine over **51% of the Bitcoin supply**, they could effectively **censor transactions** and manipulate the network.
+
+With these risks in mind, I believe the **U.S. will favor domestically supported cryptos** over Bitcoin. I’d look into **ISO 20022-compliant cryptos** like **XRP, HBAR, and XLM**, which are designed for **fast, cost-effective, and regulated financial transactions**.
+
+Would love to hear your thoughts—what’s your take on Bitcoin’s future?
+URL: https://www.reddit.com/r/btc/comments/1icv2f0/btc_is_not_the_future/
+Permalink: /r/btc/comments/1icv2f0/btc_is_not_the_future/
+Number of Comments: 53
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: g1ll3es
+Title: Trump Media to invest in Bitcoin and similar cryptocurrencies
+Date: Wed Jan 29 14:00:59 WET 2025
+Text: 
+URL: https://www.reuters.com/business/finance/trump-media-launches-fintech-services-brand-2025-01-29/
+Permalink: /r/btc/comments/1icue1b/trump_media_to_invest_in_bitcoin_and_similar/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: webbs3
+Title: Former SEC Chair Gary Gensler Returns to MIT to Tackle AI
+Date: Wed Jan 29 11:15:54 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/gary-gensler-returns-to-mit-to-tackle-ai-after-sec-leadership?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-gary-gensler-returns-to-mit
+Permalink: /r/btc/comments/1icribh/former_sec_chair_gary_gensler_returns_to_mit_to/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: HISTORY: 🟠 Naval explains Bitcoin when it traded at $245 👀
+Date: Wed Jan 29 04:48:10 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=qOtX21uK_sQ&amp;si=JUzn6kuqk8qJZ7j_
+Permalink: /r/btc/comments/1icm204/history_naval_explains_bitcoin_when_it_traded_at/
+Number of Comments: 10
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Jtp508
+Title: Ross Ulbricht the Silk Road mastermindmight be the mysterious Satoshi Nakamoto
+Date: Wed Jan 29 00:00:24 WET 2025
+Text: 
+URL: /r/BeakyParker/comments/1icgd9f/ross_ulbricht_the_silk_road_mastermindmight_be/
+Permalink: /r/btc/comments/1icge11/ross_ulbricht_the_silk_road_mastermindmight_be/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

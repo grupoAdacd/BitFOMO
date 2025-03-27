@@ -1,0 +1,732 @@
+Author: susonotabi
+Title: Blown away by the number and variety of business accepting bitcoin in Argentina.
+Date: Fri Jan 24 22:06:28 WET 2025
+Text: 
+URL: https://x.com/BCHArgentina/status/1882835055007182994?t=z_W2bOCHK36JhKrHJrgMUQ&amp;s=19
+Permalink: /r/btc/comments/1i97edd/blown_away_by_the_number_and_variety_of_business/
+Number of Comments: 42
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Grayscale just filed to convert their Litecoin and Solana trusts to ETFs. Its a matter of time until they do it for BCHG and convert it to an ETF as well.
+Date: Fri Jan 24 21:40:57 WET 2025
+Text: Litecoin https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2025/SR-NYSEArca-2025-05.pdf
+
+Solana https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2025/SR-NYSEArca-2025-06.pdf
+
+https://www.nyse.com/regulation/rule-filings
+URL: https://www.reddit.com/r/btc/comments/1i96sv4/grayscale_just_filed_to_convert_their_litecoin/
+Permalink: /r/btc/comments/1i96sv4/grayscale_just_filed_to_convert_their_litecoin/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lalaci
+Title: Trump creates crypto group, but no bitcoin stockpile order
+Date: Fri Jan 24 20:40:48 WET 2025
+Text: 
+URL: https://www.axios.com/2025/01/23/trump-bitcoin-strategic-reserve-order
+Permalink: /r/btc/comments/1i95ey2/trump_creates_crypto_group_but_no_bitcoin/
+Number of Comments: 37
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Miserable-Credit-619
+Title: Decent enough I’d say?
+Date: Fri Jan 24 17:57:52 WET 2025
+Text: 
+URL: https://i.redd.it/o5acd8zkdzee1.jpeg
+Permalink: /r/btc/comments/1i91jup/decent_enough_id_say/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: 2 new Flipstarter 4 goals completed: Adoption and Branding Merchandising
+Date: Fri Jan 24 17:18:25 WET 2025
+Text: 
+URL: https://read.cash/@BitcoinCashArgentina/2-new-flipstarter-4-goals-completed-adoption-and-branding-merchandising-44a3e4f7
+Permalink: /r/btc/comments/1i90l0l/2_new_flipstarter_4_goals_completed_adoption_and/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: fergalius
+Title: "Anonymous" identification for the internet age - a question for the crypto community
+Date: Fri Jan 24 16:40:14 WET 2025
+Text: I was just reading a [reddit dicussion](https://np.reddit.com/r/Futurology/comments/1i88jxw/the_online_porn_freeforall_is_coming_to_an_end/) about age verification online and got to thinking about BCH/ETH and other smart contract platforms and tying in with Monero/Zcash style ZKPs (all of which, [it seems](https://np.reddit.com/r/btc/comments/1i3jkre/on_shielded_address_for_bitcoin_cash_using/), will be coming to a cashtoken near you ... "soon" I hope).
+
+Would it be possible to create a digital token for a person which could then be used as an ID everywhere BUT, in a provably anonymous way. i.e. the website or 3rd party service verifying the specific details about you would obtain no information - instead they would only obtain a ZKP response to the specific question they asked - for example, "is the user &gt;18yo?"
+
+Such a token could be issued at birth and could be expanded to include much more than just a person's age (e.g. genetic data, health, financial, lifestyle...). But ALL the data would be provably securely encrypted and inaccessible even to the service provider asking questions about the data. Inaccessible even to the token issuer (presumably the govt).
+URL: https://www.reddit.com/r/btc/comments/1i8znkl/anonymous_identification_for_the_internet_age_a/
+Permalink: /r/btc/comments/1i8znkl/anonymous_identification_for_the_internet_age_a/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: SEC Revokes SAB 121, Paving Way for Banks to Offer Crypto and Bitcoin Services
+Date: Fri Jan 24 16:38:56 WET 2025
+Text: 
+URL: https://allincrypto.com/sec-revokes-sab-121-paving-way-for-banks-to-offer-crypto-bitcoin-services/
+Permalink: /r/btc/comments/1i8zmg3/sec_revokes_sab_121_paving_way_for_banks_to_offer/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 24 , 2025 - BTC
+Date: Fri Jan 24 14:47:41 WET 2025
+Text: 
+URL: https://youtu.be/_8sI-3ysWsw
+Permalink: /r/btc/comments/1i8x100/bitcoin_technical_analysis_for_january_24_2025_btc/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: webbs3
+Title: Ross Ulbricht Calls Trump’s Pardon an "Amazing Blessing"
+Date: Fri Jan 24 14:38:09 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/silk-road-founder-ross-ulbricht-calls-trumps-pardon-an-amazing-blessing?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-ulbricht-calls-trumps-pardon-an-amazing-blessing
+Permalink: /r/btc/comments/1i8wtfy/ross_ulbricht_calls_trumps_pardon_an_amazing/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Cashonize v0.3.0 release 🦾
+
+New in this release: Add 'History' Tab with transaction detail dialog 📜
+
+This has been a widely requested feature, so we're glad it's finally out 💯
+
+Download the new release here: [link]"
+Date: Fri Jan 24 14:13:57 WET 2025
+Text: 
+URL: https://x.com/cashonize/status/1882770123439898678
+Permalink: /r/btc/comments/1i8wauv/cashonize_v030_release_new_in_this_release_add/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Ross Ulbricht Freed, Now It’s Roger Ver’s Turn—Sign the Petition!
+Date: Fri Jan 24 13:59:20 WET 2025
+Text: Now that Ross Ulbricht is Free (and enjoying life with family) now is time to reinforce powers to make sure the Free Roger Ver petition arrive into the Oval Office. Note: If you still hold a grunge with Roger Grow up, wait for him to be free and solve it with him. Enjoy the article.
+URL: https://read.cash/@alberdioni8406/ross-ulbricht-freed-now-its-roger-vers-turn-sign-the-petition-7321e50b
+Permalink: /r/btc/comments/1i8vzmr/ross_ulbricht_freed_now_its_roger_vers_turnsign/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: webbs3
+Title: SEC Scrapped SAB 121, Major Relief for Crypto Companies
+Date: Fri Jan 24 13:01:52 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/sec-scrapped-sab-121-major-relief-for-crypto-companies?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-sec-scrapped-sab-121-major-relief-for-crypto-companies
+Permalink: /r/btc/comments/1i8uuwb/sec_scrapped_sab_121_major_relief_for_crypto/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: davideownzall
+Title: From Vaults To Wallets: The Ultimate Crypto Transformation In Banking
+Date: Fri Jan 24 06:03:17 WET 2025
+Text: 
+URL: https://hive.blog/banks/@geekgirl/from-vaults-to-wallets-the-ultimate-crypto-transformation-in-banking
+Permalink: /r/btc/comments/1i8ovji/from_vaults_to_wallets_the_ultimate_crypto/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: ShadowK2
+Title: Will bitcoin be completely irrelevant when quantum computers can easily crack elliptical encryption?
+Date: Fri Jan 24 02:20:15 WET 2025
+Text: I work in IT, and we are already quantum-proofing hardware and firmware.  Most people estimate that RSA and Elliptical Curve will be cracked wide open in 2030-2035.  Does this mean bitcoin will be completely compromised in this timeframe?
+
+
+If so, are you guys looking at quantum-secure coins?  Which ones look good? 👀 
+URL: https://www.reddit.com/r/btc/comments/1i8kw3h/will_bitcoin_be_completely_irrelevant_when/
+Permalink: /r/btc/comments/1i8kw3h/will_bitcoin_be_completely_irrelevant_when/
+Number of Comments: 45
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ramswillwin
+Title: Question about moving my sats.
+Date: Fri Jan 24 02:10:11 WET 2025
+Text: I used to use a Ledger back in the day. 24 word seed phrase.
+
+I moved it to Bitcoin Core. Currently ver 28.0
+
+I know Core doesn't use seed phrases.
+
+My question is, if someone knew my seed phrase from the Ledger, can they get to my sats?
+
+  
+Thank you in advance.
+
+
+
+
+URL: https://www.reddit.com/r/btc/comments/1i8kotm/question_about_moving_my_sats/
+Permalink: /r/btc/comments/1i8kotm/question_about_moving_my_sats/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: QING-CHARLES
+Title: Trump signing the new Crypto Executive Order
+Date: Fri Jan 24 01:39:53 WET 2025
+Text: 
+URL: https://v.redd.it/k7potcz8iuee1
+Permalink: /r/btc/comments/1i8k3g9/trump_signing_the_new_crypto_executive_order/
+Number of Comments: 79
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out Yesterdays Build a Mine Episode!
+Date: Fri Jan 24 01:33:33 WET 2025
+Text: 
+URL: /r/ScottsCryptoMining/comments/1i8jy80/check_out_yesterdays_build_a_mine_episode/
+Permalink: /r/btc/comments/1i8jyus/check_out_yesterdays_build_a_mine_episode/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: susonotabi
+Title: Blown away by the number and variety of business accepting bitcoin in Argentina.
+Date: Fri Jan 24 22:06:28 WET 2025
+Text: 
+URL: https://x.com/BCHArgentina/status/1882835055007182994?t=z_W2bOCHK36JhKrHJrgMUQ&amp;s=19
+Permalink: /r/btc/comments/1i97edd/blown_away_by_the_number_and_variety_of_business/
+Number of Comments: 42
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Grayscale just filed to convert their Litecoin and Solana trusts to ETFs. Its a matter of time until they do it for BCHG and convert it to an ETF as well.
+Date: Fri Jan 24 21:40:57 WET 2025
+Text: Litecoin https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2025/SR-NYSEArca-2025-05.pdf
+
+Solana https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2025/SR-NYSEArca-2025-06.pdf
+
+https://www.nyse.com/regulation/rule-filings
+URL: https://www.reddit.com/r/btc/comments/1i96sv4/grayscale_just_filed_to_convert_their_litecoin/
+Permalink: /r/btc/comments/1i96sv4/grayscale_just_filed_to_convert_their_litecoin/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lalaci
+Title: Trump creates crypto group, but no bitcoin stockpile order
+Date: Fri Jan 24 20:40:48 WET 2025
+Text: 
+URL: https://www.axios.com/2025/01/23/trump-bitcoin-strategic-reserve-order
+Permalink: /r/btc/comments/1i95ey2/trump_creates_crypto_group_but_no_bitcoin/
+Number of Comments: 37
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Miserable-Credit-619
+Title: Decent enough I’d say?
+Date: Fri Jan 24 17:57:52 WET 2025
+Text: 
+URL: https://i.redd.it/o5acd8zkdzee1.jpeg
+Permalink: /r/btc/comments/1i91jup/decent_enough_id_say/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: 2 new Flipstarter 4 goals completed: Adoption and Branding Merchandising
+Date: Fri Jan 24 17:18:25 WET 2025
+Text: 
+URL: https://read.cash/@BitcoinCashArgentina/2-new-flipstarter-4-goals-completed-adoption-and-branding-merchandising-44a3e4f7
+Permalink: /r/btc/comments/1i90l0l/2_new_flipstarter_4_goals_completed_adoption_and/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: fergalius
+Title: "Anonymous" identification for the internet age - a question for the crypto community
+Date: Fri Jan 24 16:40:14 WET 2025
+Text: I was just reading a [reddit dicussion](https://np.reddit.com/r/Futurology/comments/1i88jxw/the_online_porn_freeforall_is_coming_to_an_end/) about age verification online and got to thinking about BCH/ETH and other smart contract platforms and tying in with Monero/Zcash style ZKPs (all of which, [it seems](https://np.reddit.com/r/btc/comments/1i3jkre/on_shielded_address_for_bitcoin_cash_using/), will be coming to a cashtoken near you ... "soon" I hope).
+
+Would it be possible to create a digital token for a person which could then be used as an ID everywhere BUT, in a provably anonymous way. i.e. the website or 3rd party service verifying the specific details about you would obtain no information - instead they would only obtain a ZKP response to the specific question they asked - for example, "is the user &gt;18yo?"
+
+Such a token could be issued at birth and could be expanded to include much more than just a person's age (e.g. genetic data, health, financial, lifestyle...). But ALL the data would be provably securely encrypted and inaccessible even to the service provider asking questions about the data. Inaccessible even to the token issuer (presumably the govt).
+URL: https://www.reddit.com/r/btc/comments/1i8znkl/anonymous_identification_for_the_internet_age_a/
+Permalink: /r/btc/comments/1i8znkl/anonymous_identification_for_the_internet_age_a/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: SEC Revokes SAB 121, Paving Way for Banks to Offer Crypto and Bitcoin Services
+Date: Fri Jan 24 16:38:56 WET 2025
+Text: 
+URL: https://allincrypto.com/sec-revokes-sab-121-paving-way-for-banks-to-offer-crypto-bitcoin-services/
+Permalink: /r/btc/comments/1i8zmg3/sec_revokes_sab_121_paving_way_for_banks_to_offer/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 24 , 2025 - BTC
+Date: Fri Jan 24 14:47:41 WET 2025
+Text: 
+URL: https://youtu.be/_8sI-3ysWsw
+Permalink: /r/btc/comments/1i8x100/bitcoin_technical_analysis_for_january_24_2025_btc/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: webbs3
+Title: Ross Ulbricht Calls Trump’s Pardon an "Amazing Blessing"
+Date: Fri Jan 24 14:38:09 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/silk-road-founder-ross-ulbricht-calls-trumps-pardon-an-amazing-blessing?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-ulbricht-calls-trumps-pardon-an-amazing-blessing
+Permalink: /r/btc/comments/1i8wtfy/ross_ulbricht_calls_trumps_pardon_an_amazing/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Cashonize v0.3.0 release 🦾
+
+New in this release: Add 'History' Tab with transaction detail dialog 📜
+
+This has been a widely requested feature, so we're glad it's finally out 💯
+
+Download the new release here: [link]"
+Date: Fri Jan 24 14:13:57 WET 2025
+Text: 
+URL: https://x.com/cashonize/status/1882770123439898678
+Permalink: /r/btc/comments/1i8wauv/cashonize_v030_release_new_in_this_release_add/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Ross Ulbricht Freed, Now It’s Roger Ver’s Turn—Sign the Petition!
+Date: Fri Jan 24 13:59:20 WET 2025
+Text: Now that Ross Ulbricht is Free (and enjoying life with family) now is time to reinforce powers to make sure the Free Roger Ver petition arrive into the Oval Office. Note: If you still hold a grunge with Roger Grow up, wait for him to be free and solve it with him. Enjoy the article.
+URL: https://read.cash/@alberdioni8406/ross-ulbricht-freed-now-its-roger-vers-turn-sign-the-petition-7321e50b
+Permalink: /r/btc/comments/1i8vzmr/ross_ulbricht_freed_now_its_roger_vers_turnsign/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: webbs3
+Title: SEC Scrapped SAB 121, Major Relief for Crypto Companies
+Date: Fri Jan 24 13:01:52 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/sec-scrapped-sab-121-major-relief-for-crypto-companies?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-sec-scrapped-sab-121-major-relief-for-crypto-companies
+Permalink: /r/btc/comments/1i8uuwb/sec_scrapped_sab_121_major_relief_for_crypto/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: davideownzall
+Title: From Vaults To Wallets: The Ultimate Crypto Transformation In Banking
+Date: Fri Jan 24 06:03:17 WET 2025
+Text: 
+URL: https://hive.blog/banks/@geekgirl/from-vaults-to-wallets-the-ultimate-crypto-transformation-in-banking
+Permalink: /r/btc/comments/1i8ovji/from_vaults_to_wallets_the_ultimate_crypto/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: ShadowK2
+Title: Will bitcoin be completely irrelevant when quantum computers can easily crack elliptical encryption?
+Date: Fri Jan 24 02:20:15 WET 2025
+Text: I work in IT, and we are already quantum-proofing hardware and firmware.  Most people estimate that RSA and Elliptical Curve will be cracked wide open in 2030-2035.  Does this mean bitcoin will be completely compromised in this timeframe?
+
+
+If so, are you guys looking at quantum-secure coins?  Which ones look good? 👀 
+URL: https://www.reddit.com/r/btc/comments/1i8kw3h/will_bitcoin_be_completely_irrelevant_when/
+Permalink: /r/btc/comments/1i8kw3h/will_bitcoin_be_completely_irrelevant_when/
+Number of Comments: 45
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ramswillwin
+Title: Question about moving my sats.
+Date: Fri Jan 24 02:10:11 WET 2025
+Text: I used to use a Ledger back in the day. 24 word seed phrase.
+
+I moved it to Bitcoin Core. Currently ver 28.0
+
+I know Core doesn't use seed phrases.
+
+My question is, if someone knew my seed phrase from the Ledger, can they get to my sats?
+
+  
+Thank you in advance.
+
+
+
+
+URL: https://www.reddit.com/r/btc/comments/1i8kotm/question_about_moving_my_sats/
+Permalink: /r/btc/comments/1i8kotm/question_about_moving_my_sats/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: QING-CHARLES
+Title: Trump signing the new Crypto Executive Order
+Date: Fri Jan 24 01:39:53 WET 2025
+Text: 
+URL: https://v.redd.it/k7potcz8iuee1
+Permalink: /r/btc/comments/1i8k3g9/trump_signing_the_new_crypto_executive_order/
+Number of Comments: 79
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out Yesterdays Build a Mine Episode!
+Date: Fri Jan 24 01:33:33 WET 2025
+Text: 
+URL: /r/ScottsCryptoMining/comments/1i8jy80/check_out_yesterdays_build_a_mine_episode/
+Permalink: /r/btc/comments/1i8jyus/check_out_yesterdays_build_a_mine_episode/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: susonotabi
+Title: Blown away by the number and variety of business accepting bitcoin in Argentina.
+Date: Fri Jan 24 22:06:28 WET 2025
+Text: 
+URL: https://x.com/BCHArgentina/status/1882835055007182994?t=z_W2bOCHK36JhKrHJrgMUQ&amp;s=19
+Permalink: /r/btc/comments/1i97edd/blown_away_by_the_number_and_variety_of_business/
+Number of Comments: 42
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Grayscale just filed to convert their Litecoin and Solana trusts to ETFs. Its a matter of time until they do it for BCHG and convert it to an ETF as well.
+Date: Fri Jan 24 21:40:57 WET 2025
+Text: Litecoin https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2025/SR-NYSEArca-2025-05.pdf
+
+Solana https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2025/SR-NYSEArca-2025-06.pdf
+
+https://www.nyse.com/regulation/rule-filings
+URL: https://www.reddit.com/r/btc/comments/1i96sv4/grayscale_just_filed_to_convert_their_litecoin/
+Permalink: /r/btc/comments/1i96sv4/grayscale_just_filed_to_convert_their_litecoin/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lalaci
+Title: Trump creates crypto group, but no bitcoin stockpile order
+Date: Fri Jan 24 20:40:48 WET 2025
+Text: 
+URL: https://www.axios.com/2025/01/23/trump-bitcoin-strategic-reserve-order
+Permalink: /r/btc/comments/1i95ey2/trump_creates_crypto_group_but_no_bitcoin/
+Number of Comments: 37
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Miserable-Credit-619
+Title: Decent enough I’d say?
+Date: Fri Jan 24 17:57:52 WET 2025
+Text: 
+URL: https://i.redd.it/o5acd8zkdzee1.jpeg
+Permalink: /r/btc/comments/1i91jup/decent_enough_id_say/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: 2 new Flipstarter 4 goals completed: Adoption and Branding Merchandising
+Date: Fri Jan 24 17:18:25 WET 2025
+Text: 
+URL: https://read.cash/@BitcoinCashArgentina/2-new-flipstarter-4-goals-completed-adoption-and-branding-merchandising-44a3e4f7
+Permalink: /r/btc/comments/1i90l0l/2_new_flipstarter_4_goals_completed_adoption_and/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: fergalius
+Title: "Anonymous" identification for the internet age - a question for the crypto community
+Date: Fri Jan 24 16:40:14 WET 2025
+Text: I was just reading a [reddit dicussion](https://np.reddit.com/r/Futurology/comments/1i88jxw/the_online_porn_freeforall_is_coming_to_an_end/) about age verification online and got to thinking about BCH/ETH and other smart contract platforms and tying in with Monero/Zcash style ZKPs (all of which, [it seems](https://np.reddit.com/r/btc/comments/1i3jkre/on_shielded_address_for_bitcoin_cash_using/), will be coming to a cashtoken near you ... "soon" I hope).
+
+Would it be possible to create a digital token for a person which could then be used as an ID everywhere BUT, in a provably anonymous way. i.e. the website or 3rd party service verifying the specific details about you would obtain no information - instead they would only obtain a ZKP response to the specific question they asked - for example, "is the user &gt;18yo?"
+
+Such a token could be issued at birth and could be expanded to include much more than just a person's age (e.g. genetic data, health, financial, lifestyle...). But ALL the data would be provably securely encrypted and inaccessible even to the service provider asking questions about the data. Inaccessible even to the token issuer (presumably the govt).
+URL: https://www.reddit.com/r/btc/comments/1i8znkl/anonymous_identification_for_the_internet_age_a/
+Permalink: /r/btc/comments/1i8znkl/anonymous_identification_for_the_internet_age_a/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: SEC Revokes SAB 121, Paving Way for Banks to Offer Crypto and Bitcoin Services
+Date: Fri Jan 24 16:38:56 WET 2025
+Text: 
+URL: https://allincrypto.com/sec-revokes-sab-121-paving-way-for-banks-to-offer-crypto-bitcoin-services/
+Permalink: /r/btc/comments/1i8zmg3/sec_revokes_sab_121_paving_way_for_banks_to_offer/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 24 , 2025 - BTC
+Date: Fri Jan 24 14:47:41 WET 2025
+Text: 
+URL: https://youtu.be/_8sI-3ysWsw
+Permalink: /r/btc/comments/1i8x100/bitcoin_technical_analysis_for_january_24_2025_btc/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: webbs3
+Title: Ross Ulbricht Calls Trump’s Pardon an "Amazing Blessing"
+Date: Fri Jan 24 14:38:09 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/silk-road-founder-ross-ulbricht-calls-trumps-pardon-an-amazing-blessing?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-ulbricht-calls-trumps-pardon-an-amazing-blessing
+Permalink: /r/btc/comments/1i8wtfy/ross_ulbricht_calls_trumps_pardon_an_amazing/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Cashonize v0.3.0 release 🦾
+
+New in this release: Add 'History' Tab with transaction detail dialog 📜
+
+This has been a widely requested feature, so we're glad it's finally out 💯
+
+Download the new release here: [link]"
+Date: Fri Jan 24 14:13:57 WET 2025
+Text: 
+URL: https://x.com/cashonize/status/1882770123439898678
+Permalink: /r/btc/comments/1i8wauv/cashonize_v030_release_new_in_this_release_add/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Ross Ulbricht Freed, Now It’s Roger Ver’s Turn—Sign the Petition!
+Date: Fri Jan 24 13:59:20 WET 2025
+Text: Now that Ross Ulbricht is Free (and enjoying life with family) now is time to reinforce powers to make sure the Free Roger Ver petition arrive into the Oval Office. Note: If you still hold a grunge with Roger Grow up, wait for him to be free and solve it with him. Enjoy the article.
+URL: https://read.cash/@alberdioni8406/ross-ulbricht-freed-now-its-roger-vers-turn-sign-the-petition-7321e50b
+Permalink: /r/btc/comments/1i8vzmr/ross_ulbricht_freed_now_its_roger_vers_turnsign/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: webbs3
+Title: SEC Scrapped SAB 121, Major Relief for Crypto Companies
+Date: Fri Jan 24 13:01:52 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/sec-scrapped-sab-121-major-relief-for-crypto-companies?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-sec-scrapped-sab-121-major-relief-for-crypto-companies
+Permalink: /r/btc/comments/1i8uuwb/sec_scrapped_sab_121_major_relief_for_crypto/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: davideownzall
+Title: From Vaults To Wallets: The Ultimate Crypto Transformation In Banking
+Date: Fri Jan 24 06:03:17 WET 2025
+Text: 
+URL: https://hive.blog/banks/@geekgirl/from-vaults-to-wallets-the-ultimate-crypto-transformation-in-banking
+Permalink: /r/btc/comments/1i8ovji/from_vaults_to_wallets_the_ultimate_crypto/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: ShadowK2
+Title: Will bitcoin be completely irrelevant when quantum computers can easily crack elliptical encryption?
+Date: Fri Jan 24 02:20:15 WET 2025
+Text: I work in IT, and we are already quantum-proofing hardware and firmware.  Most people estimate that RSA and Elliptical Curve will be cracked wide open in 2030-2035.  Does this mean bitcoin will be completely compromised in this timeframe?
+
+
+If so, are you guys looking at quantum-secure coins?  Which ones look good? 👀 
+URL: https://www.reddit.com/r/btc/comments/1i8kw3h/will_bitcoin_be_completely_irrelevant_when/
+Permalink: /r/btc/comments/1i8kw3h/will_bitcoin_be_completely_irrelevant_when/
+Number of Comments: 45
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ramswillwin
+Title: Question about moving my sats.
+Date: Fri Jan 24 02:10:11 WET 2025
+Text: I used to use a Ledger back in the day. 24 word seed phrase.
+
+I moved it to Bitcoin Core. Currently ver 28.0
+
+I know Core doesn't use seed phrases.
+
+My question is, if someone knew my seed phrase from the Ledger, can they get to my sats?
+
+  
+Thank you in advance.
+
+
+
+
+URL: https://www.reddit.com/r/btc/comments/1i8kotm/question_about_moving_my_sats/
+Permalink: /r/btc/comments/1i8kotm/question_about_moving_my_sats/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: QING-CHARLES
+Title: Trump signing the new Crypto Executive Order
+Date: Fri Jan 24 01:39:53 WET 2025
+Text: 
+URL: https://v.redd.it/k7potcz8iuee1
+Permalink: /r/btc/comments/1i8k3g9/trump_signing_the_new_crypto_executive_order/
+Number of Comments: 79
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out Yesterdays Build a Mine Episode!
+Date: Fri Jan 24 01:33:33 WET 2025
+Text: 
+URL: /r/ScottsCryptoMining/comments/1i8jy80/check_out_yesterdays_build_a_mine_episode/
+Permalink: /r/btc/comments/1i8jyus/check_out_yesterdays_build_a_mine_episode/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: susonotabi
+Title: Blown away by the number and variety of business accepting bitcoin in Argentina.
+Date: Fri Jan 24 22:06:28 WET 2025
+Text: 
+URL: https://x.com/BCHArgentina/status/1882835055007182994?t=z_W2bOCHK36JhKrHJrgMUQ&amp;s=19
+Permalink: /r/btc/comments/1i97edd/blown_away_by_the_number_and_variety_of_business/
+Number of Comments: 42
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Grayscale just filed to convert their Litecoin and Solana trusts to ETFs. Its a matter of time until they do it for BCHG and convert it to an ETF as well.
+Date: Fri Jan 24 21:40:57 WET 2025
+Text: Litecoin https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2025/SR-NYSEArca-2025-05.pdf
+
+Solana https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/rule-filings/filings/2025/SR-NYSEArca-2025-06.pdf
+
+https://www.nyse.com/regulation/rule-filings
+URL: https://www.reddit.com/r/btc/comments/1i96sv4/grayscale_just_filed_to_convert_their_litecoin/
+Permalink: /r/btc/comments/1i96sv4/grayscale_just_filed_to_convert_their_litecoin/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lalaci
+Title: Trump creates crypto group, but no bitcoin stockpile order
+Date: Fri Jan 24 20:40:48 WET 2025
+Text: 
+URL: https://www.axios.com/2025/01/23/trump-bitcoin-strategic-reserve-order
+Permalink: /r/btc/comments/1i95ey2/trump_creates_crypto_group_but_no_bitcoin/
+Number of Comments: 37
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Miserable-Credit-619
+Title: Decent enough I’d say?
+Date: Fri Jan 24 17:57:52 WET 2025
+Text: 
+URL: https://i.redd.it/o5acd8zkdzee1.jpeg
+Permalink: /r/btc/comments/1i91jup/decent_enough_id_say/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: 2 new Flipstarter 4 goals completed: Adoption and Branding Merchandising
+Date: Fri Jan 24 17:18:25 WET 2025
+Text: 
+URL: https://read.cash/@BitcoinCashArgentina/2-new-flipstarter-4-goals-completed-adoption-and-branding-merchandising-44a3e4f7
+Permalink: /r/btc/comments/1i90l0l/2_new_flipstarter_4_goals_completed_adoption_and/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: fergalius
+Title: "Anonymous" identification for the internet age - a question for the crypto community
+Date: Fri Jan 24 16:40:14 WET 2025
+Text: I was just reading a [reddit dicussion](https://np.reddit.com/r/Futurology/comments/1i88jxw/the_online_porn_freeforall_is_coming_to_an_end/) about age verification online and got to thinking about BCH/ETH and other smart contract platforms and tying in with Monero/Zcash style ZKPs (all of which, [it seems](https://np.reddit.com/r/btc/comments/1i3jkre/on_shielded_address_for_bitcoin_cash_using/), will be coming to a cashtoken near you ... "soon" I hope).
+
+Would it be possible to create a digital token for a person which could then be used as an ID everywhere BUT, in a provably anonymous way. i.e. the website or 3rd party service verifying the specific details about you would obtain no information - instead they would only obtain a ZKP response to the specific question they asked - for example, "is the user &gt;18yo?"
+
+Such a token could be issued at birth and could be expanded to include much more than just a person's age (e.g. genetic data, health, financial, lifestyle...). But ALL the data would be provably securely encrypted and inaccessible even to the service provider asking questions about the data. Inaccessible even to the token issuer (presumably the govt).
+URL: https://www.reddit.com/r/btc/comments/1i8znkl/anonymous_identification_for_the_internet_age_a/
+Permalink: /r/btc/comments/1i8znkl/anonymous_identification_for_the_internet_age_a/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: crypto_news_source23
+Title: SEC Revokes SAB 121, Paving Way for Banks to Offer Crypto and Bitcoin Services
+Date: Fri Jan 24 16:38:56 WET 2025
+Text: 
+URL: https://allincrypto.com/sec-revokes-sab-121-paving-way-for-banks-to-offer-crypto-bitcoin-services/
+Permalink: /r/btc/comments/1i8zmg3/sec_revokes_sab_121_paving_way_for_banks_to_offer/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 24 , 2025 - BTC
+Date: Fri Jan 24 14:47:41 WET 2025
+Text: 
+URL: https://youtu.be/_8sI-3ysWsw
+Permalink: /r/btc/comments/1i8x100/bitcoin_technical_analysis_for_january_24_2025_btc/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: webbs3
+Title: Ross Ulbricht Calls Trump’s Pardon an "Amazing Blessing"
+Date: Fri Jan 24 14:38:09 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/silk-road-founder-ross-ulbricht-calls-trumps-pardon-an-amazing-blessing?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-ulbricht-calls-trumps-pardon-an-amazing-blessing
+Permalink: /r/btc/comments/1i8wtfy/ross_ulbricht_calls_trumps_pardon_an_amazing/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Mr-Zwets
+Title: "Cashonize v0.3.0 release 🦾
+
+New in this release: Add 'History' Tab with transaction detail dialog 📜
+
+This has been a widely requested feature, so we're glad it's finally out 💯
+
+Download the new release here: [link]"
+Date: Fri Jan 24 14:13:57 WET 2025
+Text: 
+URL: https://x.com/cashonize/status/1882770123439898678
+Permalink: /r/btc/comments/1i8wauv/cashonize_v030_release_new_in_this_release_add/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: alberdioni8406_
+Title: Ross Ulbricht Freed, Now It’s Roger Ver’s Turn—Sign the Petition!
+Date: Fri Jan 24 13:59:20 WET 2025
+Text: Now that Ross Ulbricht is Free (and enjoying life with family) now is time to reinforce powers to make sure the Free Roger Ver petition arrive into the Oval Office. Note: If you still hold a grunge with Roger Grow up, wait for him to be free and solve it with him. Enjoy the article.
+URL: https://read.cash/@alberdioni8406/ross-ulbricht-freed-now-its-roger-vers-turn-sign-the-petition-7321e50b
+Permalink: /r/btc/comments/1i8vzmr/ross_ulbricht_freed_now_its_roger_vers_turnsign/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: webbs3
+Title: SEC Scrapped SAB 121, Major Relief for Crypto Companies
+Date: Fri Jan 24 13:01:52 WET 2025
+Text: 
+URL: https://www.bitdegree.org/crypto/news/sec-scrapped-sab-121-major-relief-for-crypto-companies?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-sec-scrapped-sab-121-major-relief-for-crypto-companies
+Permalink: /r/btc/comments/1i8uuwb/sec_scrapped_sab_121_major_relief_for_crypto/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: davideownzall
+Title: From Vaults To Wallets: The Ultimate Crypto Transformation In Banking
+Date: Fri Jan 24 06:03:17 WET 2025
+Text: 
+URL: https://hive.blog/banks/@geekgirl/from-vaults-to-wallets-the-ultimate-crypto-transformation-in-banking
+Permalink: /r/btc/comments/1i8ovji/from_vaults_to_wallets_the_ultimate_crypto/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: ShadowK2
+Title: Will bitcoin be completely irrelevant when quantum computers can easily crack elliptical encryption?
+Date: Fri Jan 24 02:20:15 WET 2025
+Text: I work in IT, and we are already quantum-proofing hardware and firmware.  Most people estimate that RSA and Elliptical Curve will be cracked wide open in 2030-2035.  Does this mean bitcoin will be completely compromised in this timeframe?
+
+
+If so, are you guys looking at quantum-secure coins?  Which ones look good? 👀 
+URL: https://www.reddit.com/r/btc/comments/1i8kw3h/will_bitcoin_be_completely_irrelevant_when/
+Permalink: /r/btc/comments/1i8kw3h/will_bitcoin_be_completely_irrelevant_when/
+Number of Comments: 45
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ramswillwin
+Title: Question about moving my sats.
+Date: Fri Jan 24 02:10:11 WET 2025
+Text: I used to use a Ledger back in the day. 24 word seed phrase.
+
+I moved it to Bitcoin Core. Currently ver 28.0
+
+I know Core doesn't use seed phrases.
+
+My question is, if someone knew my seed phrase from the Ledger, can they get to my sats?
+
+  
+Thank you in advance.
+
+
+
+
+URL: https://www.reddit.com/r/btc/comments/1i8kotm/question_about_moving_my_sats/
+Permalink: /r/btc/comments/1i8kotm/question_about_moving_my_sats/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: QING-CHARLES
+Title: Trump signing the new Crypto Executive Order
+Date: Fri Jan 24 01:39:53 WET 2025
+Text: 
+URL: https://v.redd.it/k7potcz8iuee1
+Permalink: /r/btc/comments/1i8k3g9/trump_signing_the_new_crypto_executive_order/
+Number of Comments: 79
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: Check Out Yesterdays Build a Mine Episode!
+Date: Fri Jan 24 01:33:33 WET 2025
+Text: 
+URL: /r/ScottsCryptoMining/comments/1i8jy80/check_out_yesterdays_build_a_mine_episode/
+Permalink: /r/btc/comments/1i8jyus/check_out_yesterdays_build_a_mine_episode/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

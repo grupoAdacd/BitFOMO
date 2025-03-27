@@ -1,0 +1,1898 @@
+Author: ItIsRaf
+Title: Local pharmacy accepts bitcoin
+Date: Thu Mar 27 10:32:46 WET 2025
+Text: Wow just wow
+URL: https://i.redd.it/vzqgjqpom7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl0ui4/local_pharmacy_accepts_bitcoin/
+Number of Comments: 0
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: Wishmohan
+Title: Bitcoin
+Date: Thu Mar 27 09:05:37 WET 2025
+Text: I am trying to find out where my Bitcoin was registered. Around 2009/2010, I received a letter containing a barcode related to Bitcoin, but unfortunately, I have lost this document.
+
+Is there a way to check if my name is linked to any Bitcoin registration? Does Bitcoin maintain a list of registered names or any other form of identification that could help me recover access?
+
+I would appreciate any guidance or advice on how to proceed.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkzohr/bitcoin/
+Permalink: /r/Bitcoin/comments/1jkzohr/bitcoin/
+Number of Comments: 9
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: Robs_Backyard_BBQ
+Title: Kinda cool web UI thing I made to keep track of the btc i'm trading
+Date: Thu Mar 27 08:12:33 WET 2025
+Text: It shows the btc i'm trading, value against maker/trader sells .. and some SMAs.
+
+It updates every 15 seconds from kraken api.
+
+The green or red changes when things should be green or red since last polling.   There's only like 8hrs of polling, so the 24hr and 7-day aren't accurate.
+
+https://preview.redd.it/wgk09mpfx6re1.png?width=907&amp;format=png&amp;auto=webp&amp;s=cd13f360a635663fd233218dc610b79d7fd1172b
+
+
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Permalink: /r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Number of Comments: 0
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: mineshop
+Title: Bitaxe Gamma army looking for #Bitcoin block.
+Date: Thu Mar 27 07:58:12 WET 2025
+Text: 
+URL: https://i.redd.it/jreqbuj3v6re1.png
+Permalink: /r/Bitcoin/comments/1jkytyk/bitaxe_gamma_army_looking_for_bitcoin_block/
+Number of Comments: 0
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: coop7774
+Title: Is it cheaper to buy on exchange and transfer or directly on cold wallet?
+Date: Thu Mar 27 07:44:54 WET 2025
+Text: I'm just starting and I bought a Trezor. I can see that I can buy through there with a service called Topper amongst others. Is it more cost-effective to do that or buy on an exchange and transfer? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Permalink: /r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Number of Comments: 3
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: ⚡ Lightning Thursday! March 27, 2025: Explore the Lightning Network!⚡
+Date: Thu Mar 27 07:06:20 WET 2025
+Text: The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments.
+
+Here is the place to discuss and learn more about lightning!
+
+Ask your questions about lightning
+
+Provide reviews, feedback, comparisons of LN apps, services, websites etc
+
+Learn about new LN features, development, apps
+
+Link to good quality resources (articles, wikis etc)
+
+Resources:
+
+* Here is an awesome list of resources compiled by Jameson Lopp: https://www.lopp.net/lightning-information.html
+
+* Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/
+
+* Previous threads: [Search](https://www.reddit.com/r/Bitcoin/search?q=Lightning+Thursday&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all)
+
+* Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook
+
+* Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt
+
+* Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY
+
+* Lightning stores: https://www.lightningnetworkstores.com/
+
+* Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and [the r/Bitcoin chat](https://discord.gg/qE3rWBRNqh)
+URL: https://www.reddit.com/r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Permalink: /r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Number of Comments: 1
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: Daily Discussion, March 27, 2025
+Date: Thu Mar 27 06:05:25 WET 2025
+Text: Please utilize this sticky thread for all general **Bitcoin** discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you!
+
+If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow.
+
+Please check the [previous discussion thread](https://www.reddit.com/r/Bitcoin/comments/1jk54fe/daily_discussion_march_26_2025/) for unanswered questions.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Permalink: /r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Number of Comments: 3
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: InitialRuin10
+Title: Want to get bitcoin but can’t at 15 years old
+Date: Thu Mar 27 05:14:43 WET 2025
+Text: Looking to get into bitcoin, so far I’ve downloaded the node to help contribute and want to invest the few bux I have but my mom won’t help me buy it. How are ways I can get more involved to maybe earn some as I can’t buy a miner or anything? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Permalink: /r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Number of Comments: 46
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: VacuumDcay
+Title: Exchange to wallet transfers
+Date: Thu Mar 27 04:54:58 WET 2025
+Text: I sent 70$ worth of bitcoin from an exchange to my crypto wallet but I ended up receiving only 40$. Can someone explain the reason for this? Does this usually happen on small transactions ? What about larger amounts ?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Permalink: /r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Number of Comments: 5
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: Flat_Advantage_3625
+Title: Poll if this is allowed.
+Date: Thu Mar 27 04:31:16 WET 2025
+Text: If you could buy fine art on a canva to secure your digital legacy and seed phrase....
+
+1. Would you?
+
+2. How mucb would you pay for a small fine art piece...wood metal or canvas? 
+Size 5x8 
+Six 8x12 
+Size 20x20 
+
+Something more unique like a sculpture or piece you could keep on your desk?
+
+Would you purchase an item like this? I find too many people write this down and hiding this in plain site in a high dollar art item would be epic and safe. 
+
+Would you support this start up and idea if it were an option on a crowdsourcing site? Would anyone go as far as being an investor?
+
+PS the product would have somewhere secure on the product that is hidden but they could add their seed once delivered not given to me company...
+
+If so let me know. I have plans on possibly patenting or copywriting and I also have a business model already structured and I have a few of the most recent or first pieces that I plan on putting into the market I'd love to hear feedback or network with anyone that's interested in this idea.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Permalink: /r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Number of Comments: 20
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: Competitive-Net1454
+Title: I need a little help.
+Date: Thu Mar 27 04:17:43 WET 2025
+Text: I have googled and tried to figure this out without having to asking you all. 
+
+Here’s the deal. I have a biture account . I have the email and password fine, but when it comes time to do the Google authentication, I go to my Google Authenticator and I don’t have the dang code there. I’m stuck at this point. What do I do? Please be easy on me team. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Permalink: /r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Number of Comments: 5
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: Butterscotch-Over
+Title: Retirement and Bitcoin
+Date: Thu Mar 27 04:09:52 WET 2025
+Text: I want to self-custody all of my bitcoin, don’t get me wrong. However, for tax purposes it makes the most sense to put a large percentage of my fiat in my IRA. I am self employed and have a SEP IRA which allows me to contribute more than a ROTH and save on taxes. 
+
+I’m a bit torn because I don’t love the idea of not having the keys to the bitcoin when I buy a bitcoin ETF. 
+
+Is this something I should reconsider? What does everyone else do? Should I just use it to buy MSTR?
+
+And recommendation or experience is welcome. 
+Thanks 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Permalink: /r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Number of Comments: 11
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: BredCor
+Title: I feel attacked but also I forgive him for what he knows not…..
+Date: Thu Mar 27 02:44:34 WET 2025
+Text: 
+URL: https://i.redd.it/vi54qx65b5re1.jpeg
+Permalink: /r/Bitcoin/comments/1jku07a/i_feel_attacked_but_also_i_forgive_him_for_what/
+Number of Comments: 17
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: 99999999999999999989
+Title: Trying to figure out if I should consolidate UTXOs
+Date: Thu Mar 27 02:37:04 WET 2025
+Text: I have one Legacy Segwit wallet that has 29 transactions with 15 separate addresses.  Another default account wallet on the same Trezor that also has 29 transactions but 13 separate addresses.  One wallet's balance is significantly larger than the other one.  Some of the transactions are very small ($10.00 or less) because they were test sends to confirm the address before I sent the main amount.
+  
+Is it in my best interest to consolidate?  Privacy is not really an issue (as far as the UTXO consolidation is concerned) because I never ever ever ever spend coins and I never use smart contracts or anything else of the ilk (staking, etc.).  Pretty much just old school DCA and hodl.  I am approaching a point where I might be selling some to fulfill a financial goal, but that would be less than half my holdings and whether or not I do it will depend on where the price goes in the next year.  If I do end up selling some, I want to make that as painless (and cheap) as possible.
+  
+Also a note to all the fuckwits who will be sending me DMs: gargle my balls.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Permalink: /r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Number of Comments: 12
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: yakrrayaj
+Title: What do you say to those starting now..
+Date: Thu Mar 27 02:05:13 WET 2025
+Text: Just started and am wondering if I’m starting too late into this. Still trying to navigate through the info. Any help is welcome. Have read wiki. Thanks. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Permalink: /r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Number of Comments: 59
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: Derrick_13
+Title: Cold Wallets
+Date: Thu Mar 27 00:21:17 WET 2025
+Text: Help I cant figure out which is the best cold wallet to get I feel like none ive seen are that good 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Permalink: /r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Number of Comments: 20
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: IntheTrench
+Title: BTC Balance on Exchange has been in freefall since last year.
+Date: Thu Mar 27 00:13:05 WET 2025
+Text: 
+URL: https://i.redd.it/2itl4113k4re1.png
+Permalink: /r/Bitcoin/comments/1jkqz7l/btc_balance_on_exchange_has_been_in_freefall/
+Number of Comments: 41
+Subreddit Subscribers: 7817717
+------------------------------------------------------------
+Author: m_lacroix
+Title: Can I have a bitcoin?
+Date: Thu Mar 27 11:11:49 WET 2025
+Text: Just thought I’d ask. Maybe if everyone gives me 0.1 bitcoin? It’s 6 am I’m at my desk wishing I could quit….so. Come onnnnnn.
+
+Fine…
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Permalink: /r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Number of Comments: 5
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:10:45 WET 2025
+Text: Hey guys, i would appreciate anyone giving a small opinion on this(To what extent has the development of digital currencies influenced the financial system? )  for a University report, 2-3 lines would be more than enough, thankyou for your time and ill really appreciate your age when you write for more accurate result, thanks!!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: rtmxavi
+Title: People Want Bitcoin!!!
+Date: Thu Mar 27 10:53:45 WET 2025
+Text: 
+URL: https://i.redd.it/5jh54njfq7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl15g2/people_want_bitcoin/
+Number of Comments: 0
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: IndependentSir164
+Title: 21 million newbie question before I take this leap.
+Date: Thu Mar 27 10:37:45 WET 2025
+Text: Hey guys thanks in advance I have a dumb question. I hear there is just 21 million btc supply available, what happens if all 21 million btc are sold and none are available to be purchased? Say in a crazy scenario that nobody is willing to sell their btc at any price point, this is all hypothetical, and it could be worth a bazillion dollars per coin put none for sale in the future and nobody is willing to sell theirs and the price goes crazy but people just don't want to sell and let theirs go, what happens? Follow up question if I may, why don't someone like Blackrock or the Saudis just buy all the available btc and control the supply?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Permalink: /r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Number of Comments: 9
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: ItIsRaf
+Title: Local pharmacy accepts bitcoin
+Date: Thu Mar 27 10:32:46 WET 2025
+Text: Wow just wow
+URL: https://i.redd.it/vzqgjqpom7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl0ui4/local_pharmacy_accepts_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: Wishmohan
+Title: Bitcoin
+Date: Thu Mar 27 09:05:37 WET 2025
+Text: I am trying to find out where my Bitcoin was registered. Around 2009/2010, I received a letter containing a barcode related to Bitcoin, but unfortunately, I have lost this document.
+
+Is there a way to check if my name is linked to any Bitcoin registration? Does Bitcoin maintain a list of registered names or any other form of identification that could help me recover access?
+
+I would appreciate any guidance or advice on how to proceed.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkzohr/bitcoin/
+Permalink: /r/Bitcoin/comments/1jkzohr/bitcoin/
+Number of Comments: 10
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: Robs_Backyard_BBQ
+Title: Kinda cool web UI thing I made to keep track of the btc i'm trading
+Date: Thu Mar 27 08:12:33 WET 2025
+Text: It shows the btc i'm trading, value against maker/trader sells .. and some SMAs.
+
+It updates every 15 seconds from kraken api.
+
+The green or red changes when things should be green or red since last polling.   There's only like 8hrs of polling, so the 24hr and 7-day aren't accurate.
+
+https://preview.redd.it/wgk09mpfx6re1.png?width=907&amp;format=png&amp;auto=webp&amp;s=cd13f360a635663fd233218dc610b79d7fd1172b
+
+
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Permalink: /r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Number of Comments: 0
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: mineshop
+Title: Bitaxe Gamma army looking for #Bitcoin block.
+Date: Thu Mar 27 07:58:12 WET 2025
+Text: 
+URL: https://i.redd.it/jreqbuj3v6re1.png
+Permalink: /r/Bitcoin/comments/1jkytyk/bitaxe_gamma_army_looking_for_bitcoin_block/
+Number of Comments: 0
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: coop7774
+Title: Is it cheaper to buy on exchange and transfer or directly on cold wallet?
+Date: Thu Mar 27 07:44:54 WET 2025
+Text: I'm just starting and I bought a Trezor. I can see that I can buy through there with a service called Topper amongst others. Is it more cost-effective to do that or buy on an exchange and transfer? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Permalink: /r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Number of Comments: 4
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: ⚡ Lightning Thursday! March 27, 2025: Explore the Lightning Network!⚡
+Date: Thu Mar 27 07:06:20 WET 2025
+Text: The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments.
+
+Here is the place to discuss and learn more about lightning!
+
+Ask your questions about lightning
+
+Provide reviews, feedback, comparisons of LN apps, services, websites etc
+
+Learn about new LN features, development, apps
+
+Link to good quality resources (articles, wikis etc)
+
+Resources:
+
+* Here is an awesome list of resources compiled by Jameson Lopp: https://www.lopp.net/lightning-information.html
+
+* Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/
+
+* Previous threads: [Search](https://www.reddit.com/r/Bitcoin/search?q=Lightning+Thursday&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all)
+
+* Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook
+
+* Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt
+
+* Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY
+
+* Lightning stores: https://www.lightningnetworkstores.com/
+
+* Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and [the r/Bitcoin chat](https://discord.gg/qE3rWBRNqh)
+URL: https://www.reddit.com/r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Permalink: /r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Number of Comments: 1
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: Daily Discussion, March 27, 2025
+Date: Thu Mar 27 06:05:25 WET 2025
+Text: Please utilize this sticky thread for all general **Bitcoin** discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you!
+
+If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow.
+
+Please check the [previous discussion thread](https://www.reddit.com/r/Bitcoin/comments/1jk54fe/daily_discussion_march_26_2025/) for unanswered questions.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Permalink: /r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Number of Comments: 5
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: InitialRuin10
+Title: Want to get bitcoin but can’t at 15 years old
+Date: Thu Mar 27 05:14:43 WET 2025
+Text: Looking to get into bitcoin, so far I’ve downloaded the node to help contribute and want to invest the few bux I have but my mom won’t help me buy it. How are ways I can get more involved to maybe earn some as I can’t buy a miner or anything? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Permalink: /r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Number of Comments: 49
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: VacuumDcay
+Title: Exchange to wallet transfers
+Date: Thu Mar 27 04:54:58 WET 2025
+Text: I sent 70$ worth of bitcoin from an exchange to my crypto wallet but I ended up receiving only 40$. Can someone explain the reason for this? Does this usually happen on small transactions ? What about larger amounts ?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Permalink: /r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Number of Comments: 5
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: Flat_Advantage_3625
+Title: Poll if this is allowed.
+Date: Thu Mar 27 04:31:16 WET 2025
+Text: If you could buy fine art on a canva to secure your digital legacy and seed phrase....
+
+1. Would you?
+
+2. How mucb would you pay for a small fine art piece...wood metal or canvas? 
+Size 5x8 
+Six 8x12 
+Size 20x20 
+
+Something more unique like a sculpture or piece you could keep on your desk?
+
+Would you purchase an item like this? I find too many people write this down and hiding this in plain site in a high dollar art item would be epic and safe. 
+
+Would you support this start up and idea if it were an option on a crowdsourcing site? Would anyone go as far as being an investor?
+
+PS the product would have somewhere secure on the product that is hidden but they could add their seed once delivered not given to me company...
+
+If so let me know. I have plans on possibly patenting or copywriting and I also have a business model already structured and I have a few of the most recent or first pieces that I plan on putting into the market I'd love to hear feedback or network with anyone that's interested in this idea.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Permalink: /r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Number of Comments: 20
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: Competitive-Net1454
+Title: I need a little help.
+Date: Thu Mar 27 04:17:43 WET 2025
+Text: I have googled and tried to figure this out without having to asking you all. 
+
+Here’s the deal. I have a biture account . I have the email and password fine, but when it comes time to do the Google authentication, I go to my Google Authenticator and I don’t have the dang code there. I’m stuck at this point. What do I do? Please be easy on me team. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Permalink: /r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Number of Comments: 5
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: Butterscotch-Over
+Title: Retirement and Bitcoin
+Date: Thu Mar 27 04:09:52 WET 2025
+Text: I want to self-custody all of my bitcoin, don’t get me wrong. However, for tax purposes it makes the most sense to put a large percentage of my fiat in my IRA. I am self employed and have a SEP IRA which allows me to contribute more than a ROTH and save on taxes. 
+
+I’m a bit torn because I don’t love the idea of not having the keys to the bitcoin when I buy a bitcoin ETF. 
+
+Is this something I should reconsider? What does everyone else do? Should I just use it to buy MSTR?
+
+And recommendation or experience is welcome. 
+Thanks 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Permalink: /r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: BredCor
+Title: I feel attacked but also I forgive him for what he knows not…..
+Date: Thu Mar 27 02:44:34 WET 2025
+Text: 
+URL: https://i.redd.it/vi54qx65b5re1.jpeg
+Permalink: /r/Bitcoin/comments/1jku07a/i_feel_attacked_but_also_i_forgive_him_for_what/
+Number of Comments: 18
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: 99999999999999999989
+Title: Trying to figure out if I should consolidate UTXOs
+Date: Thu Mar 27 02:37:04 WET 2025
+Text: I have one Legacy Segwit wallet that has 29 transactions with 15 separate addresses.  Another default account wallet on the same Trezor that also has 29 transactions but 13 separate addresses.  One wallet's balance is significantly larger than the other one.  Some of the transactions are very small ($10.00 or less) because they were test sends to confirm the address before I sent the main amount.
+  
+Is it in my best interest to consolidate?  Privacy is not really an issue (as far as the UTXO consolidation is concerned) because I never ever ever ever spend coins and I never use smart contracts or anything else of the ilk (staking, etc.).  Pretty much just old school DCA and hodl.  I am approaching a point where I might be selling some to fulfill a financial goal, but that would be less than half my holdings and whether or not I do it will depend on where the price goes in the next year.  If I do end up selling some, I want to make that as painless (and cheap) as possible.
+  
+Also a note to all the fuckwits who will be sending me DMs: gargle my balls.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Permalink: /r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Number of Comments: 12
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: yakrrayaj
+Title: What do you say to those starting now..
+Date: Thu Mar 27 02:05:13 WET 2025
+Text: Just started and am wondering if I’m starting too late into this. Still trying to navigate through the info. Any help is welcome. Have read wiki. Thanks. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Permalink: /r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Number of Comments: 61
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: Derrick_13
+Title: Cold Wallets
+Date: Thu Mar 27 00:21:17 WET 2025
+Text: Help I cant figure out which is the best cold wallet to get I feel like none ive seen are that good 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Permalink: /r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Number of Comments: 20
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: IntheTrench
+Title: BTC Balance on Exchange has been in freefall since last year.
+Date: Thu Mar 27 00:13:05 WET 2025
+Text: 
+URL: https://i.redd.it/2itl4113k4re1.png
+Permalink: /r/Bitcoin/comments/1jkqz7l/btc_balance_on_exchange_has_been_in_freefall/
+Number of Comments: 44
+Subreddit Subscribers: 7817813
+------------------------------------------------------------
+Author: m_lacroix
+Title: Can I have a bitcoin?
+Date: Thu Mar 27 11:11:49 WET 2025
+Text: Just thought I’d ask. Maybe if everyone gives me 0.1 bitcoin? It’s 6 am I’m at my desk wishing I could quit….so. Come onnnnnn.
+
+Fine…
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Permalink: /r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Number of Comments: 8
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:10:45 WET 2025
+Text: Hey guys, i would appreciate anyone giving a small opinion on this(To what extent has the development of digital currencies influenced the financial system? )  for a University report, 2-3 lines would be more than enough, thankyou for your time and ill really appreciate your age when you write for more accurate result, thanks!!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: rtmxavi
+Title: People Want Bitcoin!!!
+Date: Thu Mar 27 10:53:45 WET 2025
+Text: 
+URL: https://i.redd.it/5jh54njfq7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl15g2/people_want_bitcoin/
+Number of Comments: 0
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: IndependentSir164
+Title: 21 million newbie question before I take this leap.
+Date: Thu Mar 27 10:37:45 WET 2025
+Text: Hey guys thanks in advance I have a dumb question. I hear there is just 21 million btc supply available, what happens if all 21 million btc are sold and none are available to be purchased? Say in a crazy scenario that nobody is willing to sell their btc at any price point, this is all hypothetical, and it could be worth a bazillion dollars per coin put none for sale in the future and nobody is willing to sell theirs and the price goes crazy but people just don't want to sell and let theirs go, what happens? Follow up question if I may, why don't someone like Blackrock or the Saudis just buy all the available btc and control the supply?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Permalink: /r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Number of Comments: 9
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: ItIsRaf
+Title: Local pharmacy accepts bitcoin
+Date: Thu Mar 27 10:32:46 WET 2025
+Text: Wow just wow
+URL: https://i.redd.it/vzqgjqpom7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl0ui4/local_pharmacy_accepts_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: Wishmohan
+Title: Bitcoin
+Date: Thu Mar 27 09:05:37 WET 2025
+Text: I am trying to find out where my Bitcoin was registered. Around 2009/2010, I received a letter containing a barcode related to Bitcoin, but unfortunately, I have lost this document.
+
+Is there a way to check if my name is linked to any Bitcoin registration? Does Bitcoin maintain a list of registered names or any other form of identification that could help me recover access?
+
+I would appreciate any guidance or advice on how to proceed.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkzohr/bitcoin/
+Permalink: /r/Bitcoin/comments/1jkzohr/bitcoin/
+Number of Comments: 10
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: Robs_Backyard_BBQ
+Title: Kinda cool web UI thing I made to keep track of the btc i'm trading
+Date: Thu Mar 27 08:12:33 WET 2025
+Text: It shows the btc i'm trading, value against maker/trader sells .. and some SMAs.
+
+It updates every 15 seconds from kraken api.
+
+The green or red changes when things should be green or red since last polling.   There's only like 8hrs of polling, so the 24hr and 7-day aren't accurate.
+
+https://preview.redd.it/wgk09mpfx6re1.png?width=907&amp;format=png&amp;auto=webp&amp;s=cd13f360a635663fd233218dc610b79d7fd1172b
+
+
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Permalink: /r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Number of Comments: 0
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: mineshop
+Title: Bitaxe Gamma army looking for #Bitcoin block.
+Date: Thu Mar 27 07:58:12 WET 2025
+Text: 
+URL: https://i.redd.it/jreqbuj3v6re1.png
+Permalink: /r/Bitcoin/comments/1jkytyk/bitaxe_gamma_army_looking_for_bitcoin_block/
+Number of Comments: 0
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: coop7774
+Title: Is it cheaper to buy on exchange and transfer or directly on cold wallet?
+Date: Thu Mar 27 07:44:54 WET 2025
+Text: I'm just starting and I bought a Trezor. I can see that I can buy through there with a service called Topper amongst others. Is it more cost-effective to do that or buy on an exchange and transfer? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Permalink: /r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Number of Comments: 4
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: ⚡ Lightning Thursday! March 27, 2025: Explore the Lightning Network!⚡
+Date: Thu Mar 27 07:06:20 WET 2025
+Text: The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments.
+
+Here is the place to discuss and learn more about lightning!
+
+Ask your questions about lightning
+
+Provide reviews, feedback, comparisons of LN apps, services, websites etc
+
+Learn about new LN features, development, apps
+
+Link to good quality resources (articles, wikis etc)
+
+Resources:
+
+* Here is an awesome list of resources compiled by Jameson Lopp: https://www.lopp.net/lightning-information.html
+
+* Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/
+
+* Previous threads: [Search](https://www.reddit.com/r/Bitcoin/search?q=Lightning+Thursday&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all)
+
+* Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook
+
+* Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt
+
+* Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY
+
+* Lightning stores: https://www.lightningnetworkstores.com/
+
+* Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and [the r/Bitcoin chat](https://discord.gg/qE3rWBRNqh)
+URL: https://www.reddit.com/r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Permalink: /r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Number of Comments: 1
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: Daily Discussion, March 27, 2025
+Date: Thu Mar 27 06:05:25 WET 2025
+Text: Please utilize this sticky thread for all general **Bitcoin** discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you!
+
+If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow.
+
+Please check the [previous discussion thread](https://www.reddit.com/r/Bitcoin/comments/1jk54fe/daily_discussion_march_26_2025/) for unanswered questions.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Permalink: /r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Number of Comments: 5
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: InitialRuin10
+Title: Want to get bitcoin but can’t at 15 years old
+Date: Thu Mar 27 05:14:43 WET 2025
+Text: Looking to get into bitcoin, so far I’ve downloaded the node to help contribute and want to invest the few bux I have but my mom won’t help me buy it. How are ways I can get more involved to maybe earn some as I can’t buy a miner or anything? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Permalink: /r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Number of Comments: 49
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: VacuumDcay
+Title: Exchange to wallet transfers
+Date: Thu Mar 27 04:54:58 WET 2025
+Text: I sent 70$ worth of bitcoin from an exchange to my crypto wallet but I ended up receiving only 40$. Can someone explain the reason for this? Does this usually happen on small transactions ? What about larger amounts ?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Permalink: /r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Number of Comments: 5
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: Flat_Advantage_3625
+Title: Poll if this is allowed.
+Date: Thu Mar 27 04:31:16 WET 2025
+Text: If you could buy fine art on a canva to secure your digital legacy and seed phrase....
+
+1. Would you?
+
+2. How mucb would you pay for a small fine art piece...wood metal or canvas? 
+Size 5x8 
+Six 8x12 
+Size 20x20 
+
+Something more unique like a sculpture or piece you could keep on your desk?
+
+Would you purchase an item like this? I find too many people write this down and hiding this in plain site in a high dollar art item would be epic and safe. 
+
+Would you support this start up and idea if it were an option on a crowdsourcing site? Would anyone go as far as being an investor?
+
+PS the product would have somewhere secure on the product that is hidden but they could add their seed once delivered not given to me company...
+
+If so let me know. I have plans on possibly patenting or copywriting and I also have a business model already structured and I have a few of the most recent or first pieces that I plan on putting into the market I'd love to hear feedback or network with anyone that's interested in this idea.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Permalink: /r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Number of Comments: 20
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: Competitive-Net1454
+Title: I need a little help.
+Date: Thu Mar 27 04:17:43 WET 2025
+Text: I have googled and tried to figure this out without having to asking you all. 
+
+Here’s the deal. I have a biture account . I have the email and password fine, but when it comes time to do the Google authentication, I go to my Google Authenticator and I don’t have the dang code there. I’m stuck at this point. What do I do? Please be easy on me team. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Permalink: /r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Number of Comments: 5
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: Butterscotch-Over
+Title: Retirement and Bitcoin
+Date: Thu Mar 27 04:09:52 WET 2025
+Text: I want to self-custody all of my bitcoin, don’t get me wrong. However, for tax purposes it makes the most sense to put a large percentage of my fiat in my IRA. I am self employed and have a SEP IRA which allows me to contribute more than a ROTH and save on taxes. 
+
+I’m a bit torn because I don’t love the idea of not having the keys to the bitcoin when I buy a bitcoin ETF. 
+
+Is this something I should reconsider? What does everyone else do? Should I just use it to buy MSTR?
+
+And recommendation or experience is welcome. 
+Thanks 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Permalink: /r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: BredCor
+Title: I feel attacked but also I forgive him for what he knows not…..
+Date: Thu Mar 27 02:44:34 WET 2025
+Text: 
+URL: https://i.redd.it/vi54qx65b5re1.jpeg
+Permalink: /r/Bitcoin/comments/1jku07a/i_feel_attacked_but_also_i_forgive_him_for_what/
+Number of Comments: 18
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: 99999999999999999989
+Title: Trying to figure out if I should consolidate UTXOs
+Date: Thu Mar 27 02:37:04 WET 2025
+Text: I have one Legacy Segwit wallet that has 29 transactions with 15 separate addresses.  Another default account wallet on the same Trezor that also has 29 transactions but 13 separate addresses.  One wallet's balance is significantly larger than the other one.  Some of the transactions are very small ($10.00 or less) because they were test sends to confirm the address before I sent the main amount.
+  
+Is it in my best interest to consolidate?  Privacy is not really an issue (as far as the UTXO consolidation is concerned) because I never ever ever ever spend coins and I never use smart contracts or anything else of the ilk (staking, etc.).  Pretty much just old school DCA and hodl.  I am approaching a point where I might be selling some to fulfill a financial goal, but that would be less than half my holdings and whether or not I do it will depend on where the price goes in the next year.  If I do end up selling some, I want to make that as painless (and cheap) as possible.
+  
+Also a note to all the fuckwits who will be sending me DMs: gargle my balls.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Permalink: /r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Number of Comments: 12
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: yakrrayaj
+Title: What do you say to those starting now..
+Date: Thu Mar 27 02:05:13 WET 2025
+Text: Just started and am wondering if I’m starting too late into this. Still trying to navigate through the info. Any help is welcome. Have read wiki. Thanks. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Permalink: /r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Number of Comments: 61
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: Derrick_13
+Title: Cold Wallets
+Date: Thu Mar 27 00:21:17 WET 2025
+Text: Help I cant figure out which is the best cold wallet to get I feel like none ive seen are that good 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Permalink: /r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Number of Comments: 20
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: IntheTrench
+Title: BTC Balance on Exchange has been in freefall since last year.
+Date: Thu Mar 27 00:13:05 WET 2025
+Text: 
+URL: https://i.redd.it/2itl4113k4re1.png
+Permalink: /r/Bitcoin/comments/1jkqz7l/btc_balance_on_exchange_has_been_in_freefall/
+Number of Comments: 44
+Subreddit Subscribers: 7817814
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:25:37 WET 2025
+Text: hey guys, i will greatly appreaciate if you could take 2 minutes of your time to answer this question for a University report (To what extent has the development of digital currencies influenced the financial system?), 2-3 lines would be more than enough and could you please give your age when answering, thankyou and i will greatly appreciate a response
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1n99/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1n99/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:24:38 WET 2025
+Text: hey guys, i will greatly appreaciate if you could take 2 minutes of your time to answer this question for a University report (To what extent has the development of digital currencies influenced the financial system?), 2-3 lines would be more than enough and could you please give your age when answering, thankyou and i will greatly appreciate a response!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1mor/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1mor/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: m_lacroix
+Title: Can I have a bitcoin?
+Date: Thu Mar 27 11:11:49 WET 2025
+Text: Just thought I’d ask. Maybe if everyone gives me 0.1 bitcoin? It’s 6 am I’m at my desk wishing I could quit….so. Come onnnnnn.
+
+Fine…
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Permalink: /r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Number of Comments: 19
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:10:45 WET 2025
+Text: Hey guys, i would appreciate anyone giving a small opinion on this(To what extent has the development of digital currencies influenced the financial system? )  for a University report, 2-3 lines would be more than enough, thankyou for your time and ill really appreciate your age when you write for more accurate result, thanks!!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: rtmxavi
+Title: People Want Bitcoin!!!
+Date: Thu Mar 27 10:53:45 WET 2025
+Text: 
+URL: https://i.redd.it/5jh54njfq7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl15g2/people_want_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: IndependentSir164
+Title: 21 million newbie question before I take this leap.
+Date: Thu Mar 27 10:37:45 WET 2025
+Text: Hey guys thanks in advance I have a dumb question. I hear there is just 21 million btc supply available, what happens if all 21 million btc are sold and none are available to be purchased? Say in a crazy scenario that nobody is willing to sell their btc at any price point, this is all hypothetical, and it could be worth a bazillion dollars per coin put none for sale in the future and nobody is willing to sell theirs and the price goes crazy but people just don't want to sell and let theirs go, what happens? Follow up question if I may, why don't someone like Blackrock or the Saudis just buy all the available btc and control the supply?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Permalink: /r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Number of Comments: 9
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: ItIsRaf
+Title: Local pharmacy accepts bitcoin
+Date: Thu Mar 27 10:32:46 WET 2025
+Text: Wow just wow
+URL: https://i.redd.it/vzqgjqpom7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl0ui4/local_pharmacy_accepts_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: Wishmohan
+Title: Bitcoin
+Date: Thu Mar 27 09:05:37 WET 2025
+Text: I am trying to find out where my Bitcoin was registered. Around 2009/2010, I received a letter containing a barcode related to Bitcoin, but unfortunately, I have lost this document.
+
+Is there a way to check if my name is linked to any Bitcoin registration? Does Bitcoin maintain a list of registered names or any other form of identification that could help me recover access?
+
+I would appreciate any guidance or advice on how to proceed.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkzohr/bitcoin/
+Permalink: /r/Bitcoin/comments/1jkzohr/bitcoin/
+Number of Comments: 11
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: Robs_Backyard_BBQ
+Title: Kinda cool web UI thing I made to keep track of the btc i'm trading
+Date: Thu Mar 27 08:12:33 WET 2025
+Text: It shows the btc i'm trading, value against maker/trader sells .. and some SMAs.
+
+It updates every 15 seconds from kraken api.
+
+The green or red changes when things should be green or red since last polling.   There's only like 8hrs of polling, so the 24hr and 7-day aren't accurate.
+
+https://preview.redd.it/wgk09mpfx6re1.png?width=907&amp;format=png&amp;auto=webp&amp;s=cd13f360a635663fd233218dc610b79d7fd1172b
+
+
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Permalink: /r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Number of Comments: 0
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: mineshop
+Title: Bitaxe Gamma army looking for #Bitcoin block.
+Date: Thu Mar 27 07:58:12 WET 2025
+Text: 
+URL: https://i.redd.it/jreqbuj3v6re1.png
+Permalink: /r/Bitcoin/comments/1jkytyk/bitaxe_gamma_army_looking_for_bitcoin_block/
+Number of Comments: 0
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: coop7774
+Title: Is it cheaper to buy on exchange and transfer or directly on cold wallet?
+Date: Thu Mar 27 07:44:54 WET 2025
+Text: I'm just starting and I bought a Trezor. I can see that I can buy through there with a service called Topper amongst others. Is it more cost-effective to do that or buy on an exchange and transfer? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Permalink: /r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Number of Comments: 4
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: ⚡ Lightning Thursday! March 27, 2025: Explore the Lightning Network!⚡
+Date: Thu Mar 27 07:06:20 WET 2025
+Text: The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments.
+
+Here is the place to discuss and learn more about lightning!
+
+Ask your questions about lightning
+
+Provide reviews, feedback, comparisons of LN apps, services, websites etc
+
+Learn about new LN features, development, apps
+
+Link to good quality resources (articles, wikis etc)
+
+Resources:
+
+* Here is an awesome list of resources compiled by Jameson Lopp: https://www.lopp.net/lightning-information.html
+
+* Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/
+
+* Previous threads: [Search](https://www.reddit.com/r/Bitcoin/search?q=Lightning+Thursday&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all)
+
+* Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook
+
+* Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt
+
+* Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY
+
+* Lightning stores: https://www.lightningnetworkstores.com/
+
+* Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and [the r/Bitcoin chat](https://discord.gg/qE3rWBRNqh)
+URL: https://www.reddit.com/r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Permalink: /r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Number of Comments: 1
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: Daily Discussion, March 27, 2025
+Date: Thu Mar 27 06:05:25 WET 2025
+Text: Please utilize this sticky thread for all general **Bitcoin** discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you!
+
+If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow.
+
+Please check the [previous discussion thread](https://www.reddit.com/r/Bitcoin/comments/1jk54fe/daily_discussion_march_26_2025/) for unanswered questions.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Permalink: /r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Number of Comments: 5
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: InitialRuin10
+Title: Want to get bitcoin but can’t at 15 years old
+Date: Thu Mar 27 05:14:43 WET 2025
+Text: Looking to get into bitcoin, so far I’ve downloaded the node to help contribute and want to invest the few bux I have but my mom won’t help me buy it. How are ways I can get more involved to maybe earn some as I can’t buy a miner or anything? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Permalink: /r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Number of Comments: 51
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: VacuumDcay
+Title: Exchange to wallet transfers
+Date: Thu Mar 27 04:54:58 WET 2025
+Text: I sent 70$ worth of bitcoin from an exchange to my crypto wallet but I ended up receiving only 40$. Can someone explain the reason for this? Does this usually happen on small transactions ? What about larger amounts ?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Permalink: /r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Number of Comments: 5
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: Flat_Advantage_3625
+Title: Poll if this is allowed.
+Date: Thu Mar 27 04:31:16 WET 2025
+Text: If you could buy fine art on a canva to secure your digital legacy and seed phrase....
+
+1. Would you?
+
+2. How mucb would you pay for a small fine art piece...wood metal or canvas? 
+Size 5x8 
+Six 8x12 
+Size 20x20 
+
+Something more unique like a sculpture or piece you could keep on your desk?
+
+Would you purchase an item like this? I find too many people write this down and hiding this in plain site in a high dollar art item would be epic and safe. 
+
+Would you support this start up and idea if it were an option on a crowdsourcing site? Would anyone go as far as being an investor?
+
+PS the product would have somewhere secure on the product that is hidden but they could add their seed once delivered not given to me company...
+
+If so let me know. I have plans on possibly patenting or copywriting and I also have a business model already structured and I have a few of the most recent or first pieces that I plan on putting into the market I'd love to hear feedback or network with anyone that's interested in this idea.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Permalink: /r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Number of Comments: 20
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: Competitive-Net1454
+Title: I need a little help.
+Date: Thu Mar 27 04:17:43 WET 2025
+Text: I have googled and tried to figure this out without having to asking you all. 
+
+Here’s the deal. I have a biture account . I have the email and password fine, but when it comes time to do the Google authentication, I go to my Google Authenticator and I don’t have the dang code there. I’m stuck at this point. What do I do? Please be easy on me team. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Permalink: /r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Number of Comments: 5
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: Butterscotch-Over
+Title: Retirement and Bitcoin
+Date: Thu Mar 27 04:09:52 WET 2025
+Text: I want to self-custody all of my bitcoin, don’t get me wrong. However, for tax purposes it makes the most sense to put a large percentage of my fiat in my IRA. I am self employed and have a SEP IRA which allows me to contribute more than a ROTH and save on taxes. 
+
+I’m a bit torn because I don’t love the idea of not having the keys to the bitcoin when I buy a bitcoin ETF. 
+
+Is this something I should reconsider? What does everyone else do? Should I just use it to buy MSTR?
+
+And recommendation or experience is welcome. 
+Thanks 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Permalink: /r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: BredCor
+Title: I feel attacked but also I forgive him for what he knows not…..
+Date: Thu Mar 27 02:44:34 WET 2025
+Text: 
+URL: https://i.redd.it/vi54qx65b5re1.jpeg
+Permalink: /r/Bitcoin/comments/1jku07a/i_feel_attacked_but_also_i_forgive_him_for_what/
+Number of Comments: 18
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: 99999999999999999989
+Title: Trying to figure out if I should consolidate UTXOs
+Date: Thu Mar 27 02:37:04 WET 2025
+Text: I have one Legacy Segwit wallet that has 29 transactions with 15 separate addresses.  Another default account wallet on the same Trezor that also has 29 transactions but 13 separate addresses.  One wallet's balance is significantly larger than the other one.  Some of the transactions are very small ($10.00 or less) because they were test sends to confirm the address before I sent the main amount.
+  
+Is it in my best interest to consolidate?  Privacy is not really an issue (as far as the UTXO consolidation is concerned) because I never ever ever ever spend coins and I never use smart contracts or anything else of the ilk (staking, etc.).  Pretty much just old school DCA and hodl.  I am approaching a point where I might be selling some to fulfill a financial goal, but that would be less than half my holdings and whether or not I do it will depend on where the price goes in the next year.  If I do end up selling some, I want to make that as painless (and cheap) as possible.
+  
+Also a note to all the fuckwits who will be sending me DMs: gargle my balls.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Permalink: /r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Number of Comments: 12
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: yakrrayaj
+Title: What do you say to those starting now..
+Date: Thu Mar 27 02:05:13 WET 2025
+Text: Just started and am wondering if I’m starting too late into this. Still trying to navigate through the info. Any help is welcome. Have read wiki. Thanks. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Permalink: /r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Number of Comments: 61
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: Derrick_13
+Title: Cold Wallets
+Date: Thu Mar 27 00:21:17 WET 2025
+Text: Help I cant figure out which is the best cold wallet to get I feel like none ive seen are that good 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Permalink: /r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Number of Comments: 20
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: IntheTrench
+Title: BTC Balance on Exchange has been in freefall since last year.
+Date: Thu Mar 27 00:13:05 WET 2025
+Text: 
+URL: https://i.redd.it/2itl4113k4re1.png
+Permalink: /r/Bitcoin/comments/1jkqz7l/btc_balance_on_exchange_has_been_in_freefall/
+Number of Comments: 44
+Subreddit Subscribers: 7817854
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:25:37 WET 2025
+Text: hey guys, i will greatly appreaciate if you could take 2 minutes of your time to answer this question for a University report (To what extent has the development of digital currencies influenced the financial system?), 2-3 lines would be more than enough and could you please give your age when answering, thankyou and i will greatly appreciate a response
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1n99/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1n99/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:24:38 WET 2025
+Text: hey guys, i will greatly appreaciate if you could take 2 minutes of your time to answer this question for a University report (To what extent has the development of digital currencies influenced the financial system?), 2-3 lines would be more than enough and could you please give your age when answering, thankyou and i will greatly appreciate a response!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1mor/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1mor/to_what_extent_has_the_development_of_digital/
+Number of Comments: 1
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: m_lacroix
+Title: Can I have a bitcoin?
+Date: Thu Mar 27 11:11:49 WET 2025
+Text: Just thought I’d ask. Maybe if everyone gives me 0.1 bitcoin? It’s 6 am I’m at my desk wishing I could quit….so. Come onnnnnn.
+
+Fine…
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Permalink: /r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Number of Comments: 19
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:10:45 WET 2025
+Text: Hey guys, i would appreciate anyone giving a small opinion on this(To what extent has the development of digital currencies influenced the financial system? )  for a University report, 2-3 lines would be more than enough, thankyou for your time and ill really appreciate your age when you write for more accurate result, thanks!!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: rtmxavi
+Title: People Want Bitcoin!!!
+Date: Thu Mar 27 10:53:45 WET 2025
+Text: 
+URL: https://i.redd.it/5jh54njfq7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl15g2/people_want_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: IndependentSir164
+Title: 21 million newbie question before I take this leap.
+Date: Thu Mar 27 10:37:45 WET 2025
+Text: Hey guys thanks in advance I have a dumb question. I hear there is just 21 million btc supply available, what happens if all 21 million btc are sold and none are available to be purchased? Say in a crazy scenario that nobody is willing to sell their btc at any price point, this is all hypothetical, and it could be worth a bazillion dollars per coin put none for sale in the future and nobody is willing to sell theirs and the price goes crazy but people just don't want to sell and let theirs go, what happens? Follow up question if I may, why don't someone like Blackrock or the Saudis just buy all the available btc and control the supply?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Permalink: /r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Number of Comments: 9
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: ItIsRaf
+Title: Local pharmacy accepts bitcoin
+Date: Thu Mar 27 10:32:46 WET 2025
+Text: Wow just wow
+URL: https://i.redd.it/vzqgjqpom7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl0ui4/local_pharmacy_accepts_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: Wishmohan
+Title: Bitcoin
+Date: Thu Mar 27 09:05:37 WET 2025
+Text: I am trying to find out where my Bitcoin was registered. Around 2009/2010, I received a letter containing a barcode related to Bitcoin, but unfortunately, I have lost this document.
+
+Is there a way to check if my name is linked to any Bitcoin registration? Does Bitcoin maintain a list of registered names or any other form of identification that could help me recover access?
+
+I would appreciate any guidance or advice on how to proceed.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkzohr/bitcoin/
+Permalink: /r/Bitcoin/comments/1jkzohr/bitcoin/
+Number of Comments: 12
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: Robs_Backyard_BBQ
+Title: Kinda cool web UI thing I made to keep track of the btc i'm trading
+Date: Thu Mar 27 08:12:33 WET 2025
+Text: It shows the btc i'm trading, value against maker/trader sells .. and some SMAs.
+
+It updates every 15 seconds from kraken api.
+
+The green or red changes when things should be green or red since last polling.   There's only like 8hrs of polling, so the 24hr and 7-day aren't accurate.
+
+https://preview.redd.it/wgk09mpfx6re1.png?width=907&amp;format=png&amp;auto=webp&amp;s=cd13f360a635663fd233218dc610b79d7fd1172b
+
+
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Permalink: /r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Number of Comments: 0
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: mineshop
+Title: Bitaxe Gamma army looking for #Bitcoin block.
+Date: Thu Mar 27 07:58:12 WET 2025
+Text: 
+URL: https://i.redd.it/jreqbuj3v6re1.png
+Permalink: /r/Bitcoin/comments/1jkytyk/bitaxe_gamma_army_looking_for_bitcoin_block/
+Number of Comments: 0
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: coop7774
+Title: Is it cheaper to buy on exchange and transfer or directly on cold wallet?
+Date: Thu Mar 27 07:44:54 WET 2025
+Text: I'm just starting and I bought a Trezor. I can see that I can buy through there with a service called Topper amongst others. Is it more cost-effective to do that or buy on an exchange and transfer? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Permalink: /r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Number of Comments: 4
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: ⚡ Lightning Thursday! March 27, 2025: Explore the Lightning Network!⚡
+Date: Thu Mar 27 07:06:20 WET 2025
+Text: The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments.
+
+Here is the place to discuss and learn more about lightning!
+
+Ask your questions about lightning
+
+Provide reviews, feedback, comparisons of LN apps, services, websites etc
+
+Learn about new LN features, development, apps
+
+Link to good quality resources (articles, wikis etc)
+
+Resources:
+
+* Here is an awesome list of resources compiled by Jameson Lopp: https://www.lopp.net/lightning-information.html
+
+* Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/
+
+* Previous threads: [Search](https://www.reddit.com/r/Bitcoin/search?q=Lightning+Thursday&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all)
+
+* Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook
+
+* Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt
+
+* Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY
+
+* Lightning stores: https://www.lightningnetworkstores.com/
+
+* Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and [the r/Bitcoin chat](https://discord.gg/qE3rWBRNqh)
+URL: https://www.reddit.com/r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Permalink: /r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Number of Comments: 1
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: Daily Discussion, March 27, 2025
+Date: Thu Mar 27 06:05:25 WET 2025
+Text: Please utilize this sticky thread for all general **Bitcoin** discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you!
+
+If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow.
+
+Please check the [previous discussion thread](https://www.reddit.com/r/Bitcoin/comments/1jk54fe/daily_discussion_march_26_2025/) for unanswered questions.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Permalink: /r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Number of Comments: 6
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: InitialRuin10
+Title: Want to get bitcoin but can’t at 15 years old
+Date: Thu Mar 27 05:14:43 WET 2025
+Text: Looking to get into bitcoin, so far I’ve downloaded the node to help contribute and want to invest the few bux I have but my mom won’t help me buy it. How are ways I can get more involved to maybe earn some as I can’t buy a miner or anything? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Permalink: /r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Number of Comments: 52
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: VacuumDcay
+Title: Exchange to wallet transfers
+Date: Thu Mar 27 04:54:58 WET 2025
+Text: I sent 70$ worth of bitcoin from an exchange to my crypto wallet but I ended up receiving only 40$. Can someone explain the reason for this? Does this usually happen on small transactions ? What about larger amounts ?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Permalink: /r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Number of Comments: 5
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: Flat_Advantage_3625
+Title: Poll if this is allowed.
+Date: Thu Mar 27 04:31:16 WET 2025
+Text: If you could buy fine art on a canva to secure your digital legacy and seed phrase....
+
+1. Would you?
+
+2. How mucb would you pay for a small fine art piece...wood metal or canvas? 
+Size 5x8 
+Six 8x12 
+Size 20x20 
+
+Something more unique like a sculpture or piece you could keep on your desk?
+
+Would you purchase an item like this? I find too many people write this down and hiding this in plain site in a high dollar art item would be epic and safe. 
+
+Would you support this start up and idea if it were an option on a crowdsourcing site? Would anyone go as far as being an investor?
+
+PS the product would have somewhere secure on the product that is hidden but they could add their seed once delivered not given to me company...
+
+If so let me know. I have plans on possibly patenting or copywriting and I also have a business model already structured and I have a few of the most recent or first pieces that I plan on putting into the market I'd love to hear feedback or network with anyone that's interested in this idea.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Permalink: /r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Number of Comments: 20
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: Competitive-Net1454
+Title: I need a little help.
+Date: Thu Mar 27 04:17:43 WET 2025
+Text: I have googled and tried to figure this out without having to asking you all. 
+
+Here’s the deal. I have a biture account . I have the email and password fine, but when it comes time to do the Google authentication, I go to my Google Authenticator and I don’t have the dang code there. I’m stuck at this point. What do I do? Please be easy on me team. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Permalink: /r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Number of Comments: 5
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: Butterscotch-Over
+Title: Retirement and Bitcoin
+Date: Thu Mar 27 04:09:52 WET 2025
+Text: I want to self-custody all of my bitcoin, don’t get me wrong. However, for tax purposes it makes the most sense to put a large percentage of my fiat in my IRA. I am self employed and have a SEP IRA which allows me to contribute more than a ROTH and save on taxes. 
+
+I’m a bit torn because I don’t love the idea of not having the keys to the bitcoin when I buy a bitcoin ETF. 
+
+Is this something I should reconsider? What does everyone else do? Should I just use it to buy MSTR?
+
+And recommendation or experience is welcome. 
+Thanks 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Permalink: /r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: BredCor
+Title: I feel attacked but also I forgive him for what he knows not…..
+Date: Thu Mar 27 02:44:34 WET 2025
+Text: 
+URL: https://i.redd.it/vi54qx65b5re1.jpeg
+Permalink: /r/Bitcoin/comments/1jku07a/i_feel_attacked_but_also_i_forgive_him_for_what/
+Number of Comments: 18
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: 99999999999999999989
+Title: Trying to figure out if I should consolidate UTXOs
+Date: Thu Mar 27 02:37:04 WET 2025
+Text: I have one Legacy Segwit wallet that has 29 transactions with 15 separate addresses.  Another default account wallet on the same Trezor that also has 29 transactions but 13 separate addresses.  One wallet's balance is significantly larger than the other one.  Some of the transactions are very small ($10.00 or less) because they were test sends to confirm the address before I sent the main amount.
+  
+Is it in my best interest to consolidate?  Privacy is not really an issue (as far as the UTXO consolidation is concerned) because I never ever ever ever spend coins and I never use smart contracts or anything else of the ilk (staking, etc.).  Pretty much just old school DCA and hodl.  I am approaching a point where I might be selling some to fulfill a financial goal, but that would be less than half my holdings and whether or not I do it will depend on where the price goes in the next year.  If I do end up selling some, I want to make that as painless (and cheap) as possible.
+  
+Also a note to all the fuckwits who will be sending me DMs: gargle my balls.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Permalink: /r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Number of Comments: 12
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: yakrrayaj
+Title: What do you say to those starting now..
+Date: Thu Mar 27 02:05:13 WET 2025
+Text: Just started and am wondering if I’m starting too late into this. Still trying to navigate through the info. Any help is welcome. Have read wiki. Thanks. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Permalink: /r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Number of Comments: 62
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: Derrick_13
+Title: Cold Wallets
+Date: Thu Mar 27 00:21:17 WET 2025
+Text: Help I cant figure out which is the best cold wallet to get I feel like none ive seen are that good 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Permalink: /r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Number of Comments: 20
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: IntheTrench
+Title: BTC Balance on Exchange has been in freefall since last year.
+Date: Thu Mar 27 00:13:05 WET 2025
+Text: 
+URL: https://i.redd.it/2itl4113k4re1.png
+Permalink: /r/Bitcoin/comments/1jkqz7l/btc_balance_on_exchange_has_been_in_freefall/
+Number of Comments: 44
+Subreddit Subscribers: 7817863
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:25:37 WET 2025
+Text: hey guys, i will greatly appreaciate if you could take 2 minutes of your time to answer this question for a University report (To what extent has the development of digital currencies influenced the financial system?), 2-3 lines would be more than enough and could you please give your age when answering, thankyou and i will greatly appreciate a response
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1n99/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1n99/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:24:38 WET 2025
+Text: hey guys, i will greatly appreaciate if you could take 2 minutes of your time to answer this question for a University report (To what extent has the development of digital currencies influenced the financial system?), 2-3 lines would be more than enough and could you please give your age when answering, thankyou and i will greatly appreciate a response!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1mor/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1mor/to_what_extent_has_the_development_of_digital/
+Number of Comments: 1
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: m_lacroix
+Title: Can I have a bitcoin?
+Date: Thu Mar 27 11:11:49 WET 2025
+Text: Just thought I’d ask. Maybe if everyone gives me 0.1 bitcoin? It’s 6 am I’m at my desk wishing I could quit….so. Come onnnnnn.
+
+Fine…
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Permalink: /r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Number of Comments: 19
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:10:45 WET 2025
+Text: Hey guys, i would appreciate anyone giving a small opinion on this(To what extent has the development of digital currencies influenced the financial system? )  for a University report, 2-3 lines would be more than enough, thankyou for your time and ill really appreciate your age when you write for more accurate result, thanks!!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: rtmxavi
+Title: People Want Bitcoin!!!
+Date: Thu Mar 27 10:53:45 WET 2025
+Text: 
+URL: https://i.redd.it/5jh54njfq7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl15g2/people_want_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: IndependentSir164
+Title: 21 million newbie question before I take this leap.
+Date: Thu Mar 27 10:37:45 WET 2025
+Text: Hey guys thanks in advance I have a dumb question. I hear there is just 21 million btc supply available, what happens if all 21 million btc are sold and none are available to be purchased? Say in a crazy scenario that nobody is willing to sell their btc at any price point, this is all hypothetical, and it could be worth a bazillion dollars per coin put none for sale in the future and nobody is willing to sell theirs and the price goes crazy but people just don't want to sell and let theirs go, what happens? Follow up question if I may, why don't someone like Blackrock or the Saudis just buy all the available btc and control the supply?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Permalink: /r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Number of Comments: 9
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: ItIsRaf
+Title: Local pharmacy accepts bitcoin
+Date: Thu Mar 27 10:32:46 WET 2025
+Text: Wow just wow
+URL: https://i.redd.it/vzqgjqpom7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl0ui4/local_pharmacy_accepts_bitcoin/
+Number of Comments: 4
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: Wishmohan
+Title: Bitcoin
+Date: Thu Mar 27 09:05:37 WET 2025
+Text: I am trying to find out where my Bitcoin was registered. Around 2009/2010, I received a letter containing a barcode related to Bitcoin, but unfortunately, I have lost this document.
+
+Is there a way to check if my name is linked to any Bitcoin registration? Does Bitcoin maintain a list of registered names or any other form of identification that could help me recover access?
+
+I would appreciate any guidance or advice on how to proceed.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkzohr/bitcoin/
+Permalink: /r/Bitcoin/comments/1jkzohr/bitcoin/
+Number of Comments: 12
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: Robs_Backyard_BBQ
+Title: Kinda cool web UI thing I made to keep track of the btc i'm trading
+Date: Thu Mar 27 08:12:33 WET 2025
+Text: It shows the btc i'm trading, value against maker/trader sells .. and some SMAs.
+
+It updates every 15 seconds from kraken api.
+
+The green or red changes when things should be green or red since last polling.   There's only like 8hrs of polling, so the 24hr and 7-day aren't accurate.
+
+https://preview.redd.it/wgk09mpfx6re1.png?width=907&amp;format=png&amp;auto=webp&amp;s=cd13f360a635663fd233218dc610b79d7fd1172b
+
+
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Permalink: /r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Number of Comments: 0
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: mineshop
+Title: Bitaxe Gamma army looking for #Bitcoin block.
+Date: Thu Mar 27 07:58:12 WET 2025
+Text: 
+URL: https://i.redd.it/jreqbuj3v6re1.png
+Permalink: /r/Bitcoin/comments/1jkytyk/bitaxe_gamma_army_looking_for_bitcoin_block/
+Number of Comments: 0
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: coop7774
+Title: Is it cheaper to buy on exchange and transfer or directly on cold wallet?
+Date: Thu Mar 27 07:44:54 WET 2025
+Text: I'm just starting and I bought a Trezor. I can see that I can buy through there with a service called Topper amongst others. Is it more cost-effective to do that or buy on an exchange and transfer? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Permalink: /r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Number of Comments: 4
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: ⚡ Lightning Thursday! March 27, 2025: Explore the Lightning Network!⚡
+Date: Thu Mar 27 07:06:20 WET 2025
+Text: The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments.
+
+Here is the place to discuss and learn more about lightning!
+
+Ask your questions about lightning
+
+Provide reviews, feedback, comparisons of LN apps, services, websites etc
+
+Learn about new LN features, development, apps
+
+Link to good quality resources (articles, wikis etc)
+
+Resources:
+
+* Here is an awesome list of resources compiled by Jameson Lopp: https://www.lopp.net/lightning-information.html
+
+* Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/
+
+* Previous threads: [Search](https://www.reddit.com/r/Bitcoin/search?q=Lightning+Thursday&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all)
+
+* Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook
+
+* Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt
+
+* Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY
+
+* Lightning stores: https://www.lightningnetworkstores.com/
+
+* Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and [the r/Bitcoin chat](https://discord.gg/qE3rWBRNqh)
+URL: https://www.reddit.com/r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Permalink: /r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Number of Comments: 1
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: Daily Discussion, March 27, 2025
+Date: Thu Mar 27 06:05:25 WET 2025
+Text: Please utilize this sticky thread for all general **Bitcoin** discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you!
+
+If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow.
+
+Please check the [previous discussion thread](https://www.reddit.com/r/Bitcoin/comments/1jk54fe/daily_discussion_march_26_2025/) for unanswered questions.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Permalink: /r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Number of Comments: 7
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: InitialRuin10
+Title: Want to get bitcoin but can’t at 15 years old
+Date: Thu Mar 27 05:14:43 WET 2025
+Text: Looking to get into bitcoin, so far I’ve downloaded the node to help contribute and want to invest the few bux I have but my mom won’t help me buy it. How are ways I can get more involved to maybe earn some as I can’t buy a miner or anything? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Permalink: /r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Number of Comments: 52
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: VacuumDcay
+Title: Exchange to wallet transfers
+Date: Thu Mar 27 04:54:58 WET 2025
+Text: I sent 70$ worth of bitcoin from an exchange to my crypto wallet but I ended up receiving only 40$. Can someone explain the reason for this? Does this usually happen on small transactions ? What about larger amounts ?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Permalink: /r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Number of Comments: 5
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: Flat_Advantage_3625
+Title: Poll if this is allowed.
+Date: Thu Mar 27 04:31:16 WET 2025
+Text: If you could buy fine art on a canva to secure your digital legacy and seed phrase....
+
+1. Would you?
+
+2. How mucb would you pay for a small fine art piece...wood metal or canvas? 
+Size 5x8 
+Six 8x12 
+Size 20x20 
+
+Something more unique like a sculpture or piece you could keep on your desk?
+
+Would you purchase an item like this? I find too many people write this down and hiding this in plain site in a high dollar art item would be epic and safe. 
+
+Would you support this start up and idea if it were an option on a crowdsourcing site? Would anyone go as far as being an investor?
+
+PS the product would have somewhere secure on the product that is hidden but they could add their seed once delivered not given to me company...
+
+If so let me know. I have plans on possibly patenting or copywriting and I also have a business model already structured and I have a few of the most recent or first pieces that I plan on putting into the market I'd love to hear feedback or network with anyone that's interested in this idea.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Permalink: /r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Number of Comments: 20
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: Competitive-Net1454
+Title: I need a little help.
+Date: Thu Mar 27 04:17:43 WET 2025
+Text: I have googled and tried to figure this out without having to asking you all. 
+
+Here’s the deal. I have a biture account . I have the email and password fine, but when it comes time to do the Google authentication, I go to my Google Authenticator and I don’t have the dang code there. I’m stuck at this point. What do I do? Please be easy on me team. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Permalink: /r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Number of Comments: 5
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: Butterscotch-Over
+Title: Retirement and Bitcoin
+Date: Thu Mar 27 04:09:52 WET 2025
+Text: I want to self-custody all of my bitcoin, don’t get me wrong. However, for tax purposes it makes the most sense to put a large percentage of my fiat in my IRA. I am self employed and have a SEP IRA which allows me to contribute more than a ROTH and save on taxes. 
+
+I’m a bit torn because I don’t love the idea of not having the keys to the bitcoin when I buy a bitcoin ETF. 
+
+Is this something I should reconsider? What does everyone else do? Should I just use it to buy MSTR?
+
+And recommendation or experience is welcome. 
+Thanks 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Permalink: /r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: BredCor
+Title: I feel attacked but also I forgive him for what he knows not…..
+Date: Thu Mar 27 02:44:34 WET 2025
+Text: 
+URL: https://i.redd.it/vi54qx65b5re1.jpeg
+Permalink: /r/Bitcoin/comments/1jku07a/i_feel_attacked_but_also_i_forgive_him_for_what/
+Number of Comments: 18
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: 99999999999999999989
+Title: Trying to figure out if I should consolidate UTXOs
+Date: Thu Mar 27 02:37:04 WET 2025
+Text: I have one Legacy Segwit wallet that has 29 transactions with 15 separate addresses.  Another default account wallet on the same Trezor that also has 29 transactions but 13 separate addresses.  One wallet's balance is significantly larger than the other one.  Some of the transactions are very small ($10.00 or less) because they were test sends to confirm the address before I sent the main amount.
+  
+Is it in my best interest to consolidate?  Privacy is not really an issue (as far as the UTXO consolidation is concerned) because I never ever ever ever spend coins and I never use smart contracts or anything else of the ilk (staking, etc.).  Pretty much just old school DCA and hodl.  I am approaching a point where I might be selling some to fulfill a financial goal, but that would be less than half my holdings and whether or not I do it will depend on where the price goes in the next year.  If I do end up selling some, I want to make that as painless (and cheap) as possible.
+  
+Also a note to all the fuckwits who will be sending me DMs: gargle my balls.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Permalink: /r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Number of Comments: 12
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: yakrrayaj
+Title: What do you say to those starting now..
+Date: Thu Mar 27 02:05:13 WET 2025
+Text: Just started and am wondering if I’m starting too late into this. Still trying to navigate through the info. Any help is welcome. Have read wiki. Thanks. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Permalink: /r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Number of Comments: 62
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: Derrick_13
+Title: Cold Wallets
+Date: Thu Mar 27 00:21:17 WET 2025
+Text: Help I cant figure out which is the best cold wallet to get I feel like none ive seen are that good 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Permalink: /r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Number of Comments: 20
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: IntheTrench
+Title: BTC Balance on Exchange has been in freefall since last year.
+Date: Thu Mar 27 00:13:05 WET 2025
+Text: 
+URL: https://i.redd.it/2itl4113k4re1.png
+Permalink: /r/Bitcoin/comments/1jkqz7l/btc_balance_on_exchange_has_been_in_freefall/
+Number of Comments: 45
+Subreddit Subscribers: 7817862
+------------------------------------------------------------
+Author: Status_Mess6608
+Title: i lost my private key
+Date: Thu Mar 27 11:39:39 WET 2025
+Text: my girlfriend throw away the paper with the private key written on, should i break up with her
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1vk0/i_lost_my_private_key/
+Permalink: /r/Bitcoin/comments/1jl1vk0/i_lost_my_private_key/
+Number of Comments: 0
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:25:37 WET 2025
+Text: hey guys, i will greatly appreaciate if you could take 2 minutes of your time to answer this question for a University report (To what extent has the development of digital currencies influenced the financial system?), 2-3 lines would be more than enough and could you please give your age when answering, thankyou and i will greatly appreciate a response
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1n99/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1n99/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:24:38 WET 2025
+Text: hey guys, i will greatly appreaciate if you could take 2 minutes of your time to answer this question for a University report (To what extent has the development of digital currencies influenced the financial system?), 2-3 lines would be more than enough and could you please give your age when answering, thankyou and i will greatly appreciate a response!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1mor/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1mor/to_what_extent_has_the_development_of_digital/
+Number of Comments: 1
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: m_lacroix
+Title: Can I have a bitcoin?
+Date: Thu Mar 27 11:11:49 WET 2025
+Text: Just thought I’d ask. Maybe if everyone gives me 0.1 bitcoin? It’s 6 am I’m at my desk wishing I could quit….so. Come onnnnnn.
+
+Fine…
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Permalink: /r/Bitcoin/comments/1jl1fln/can_i_have_a_bitcoin/
+Number of Comments: 19
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: Infinite-Point-4092
+Title: To what extent has the development of digital currencies influenced the financial system?
+Date: Thu Mar 27 11:10:45 WET 2025
+Text: Hey guys, i would appreciate anyone giving a small opinion on this(To what extent has the development of digital currencies influenced the financial system? )  for a University report, 2-3 lines would be more than enough, thankyou for your time and ill really appreciate your age when you write for more accurate result, thanks!!
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Permalink: /r/Bitcoin/comments/1jl1ezd/to_what_extent_has_the_development_of_digital/
+Number of Comments: 0
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: rtmxavi
+Title: People Want Bitcoin!!!
+Date: Thu Mar 27 10:53:45 WET 2025
+Text: 
+URL: https://i.redd.it/5jh54njfq7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl15g2/people_want_bitcoin/
+Number of Comments: 1
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: IndependentSir164
+Title: 21 million newbie question before I take this leap.
+Date: Thu Mar 27 10:37:45 WET 2025
+Text: Hey guys thanks in advance I have a dumb question. I hear there is just 21 million btc supply available, what happens if all 21 million btc are sold and none are available to be purchased? Say in a crazy scenario that nobody is willing to sell their btc at any price point, this is all hypothetical, and it could be worth a bazillion dollars per coin put none for sale in the future and nobody is willing to sell theirs and the price goes crazy but people just don't want to sell and let theirs go, what happens? Follow up question if I may, why don't someone like Blackrock or the Saudis just buy all the available btc and control the supply?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Permalink: /r/Bitcoin/comments/1jl0x3u/21_million_newbie_question_before_i_take_this_leap/
+Number of Comments: 11
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: ItIsRaf
+Title: Local pharmacy accepts bitcoin
+Date: Thu Mar 27 10:32:46 WET 2025
+Text: Wow just wow
+URL: https://i.redd.it/vzqgjqpom7re1.jpeg
+Permalink: /r/Bitcoin/comments/1jl0ui4/local_pharmacy_accepts_bitcoin/
+Number of Comments: 5
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: Wishmohan
+Title: Bitcoin
+Date: Thu Mar 27 09:05:37 WET 2025
+Text: I am trying to find out where my Bitcoin was registered. Around 2009/2010, I received a letter containing a barcode related to Bitcoin, but unfortunately, I have lost this document.
+
+Is there a way to check if my name is linked to any Bitcoin registration? Does Bitcoin maintain a list of registered names or any other form of identification that could help me recover access?
+
+I would appreciate any guidance or advice on how to proceed.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkzohr/bitcoin/
+Permalink: /r/Bitcoin/comments/1jkzohr/bitcoin/
+Number of Comments: 12
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: Robs_Backyard_BBQ
+Title: Kinda cool web UI thing I made to keep track of the btc i'm trading
+Date: Thu Mar 27 08:12:33 WET 2025
+Text: It shows the btc i'm trading, value against maker/trader sells .. and some SMAs.
+
+It updates every 15 seconds from kraken api.
+
+The green or red changes when things should be green or red since last polling.   There's only like 8hrs of polling, so the 24hr and 7-day aren't accurate.
+
+https://preview.redd.it/wgk09mpfx6re1.png?width=907&amp;format=png&amp;auto=webp&amp;s=cd13f360a635663fd233218dc610b79d7fd1172b
+
+
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Permalink: /r/Bitcoin/comments/1jkz0r8/kinda_cool_web_ui_thing_i_made_to_keep_track_of/
+Number of Comments: 0
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: mineshop
+Title: Bitaxe Gamma army looking for #Bitcoin block.
+Date: Thu Mar 27 07:58:12 WET 2025
+Text: 
+URL: https://i.redd.it/jreqbuj3v6re1.png
+Permalink: /r/Bitcoin/comments/1jkytyk/bitaxe_gamma_army_looking_for_bitcoin_block/
+Number of Comments: 0
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: coop7774
+Title: Is it cheaper to buy on exchange and transfer or directly on cold wallet?
+Date: Thu Mar 27 07:44:54 WET 2025
+Text: I'm just starting and I bought a Trezor. I can see that I can buy through there with a service called Topper amongst others. Is it more cost-effective to do that or buy on an exchange and transfer? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Permalink: /r/Bitcoin/comments/1jkyo2s/is_it_cheaper_to_buy_on_exchange_and_transfer_or/
+Number of Comments: 4
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: ⚡ Lightning Thursday! March 27, 2025: Explore the Lightning Network!⚡
+Date: Thu Mar 27 07:06:20 WET 2025
+Text: The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments.
+
+Here is the place to discuss and learn more about lightning!
+
+Ask your questions about lightning
+
+Provide reviews, feedback, comparisons of LN apps, services, websites etc
+
+Learn about new LN features, development, apps
+
+Link to good quality resources (articles, wikis etc)
+
+Resources:
+
+* Here is an awesome list of resources compiled by Jameson Lopp: https://www.lopp.net/lightning-information.html
+
+* Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/
+
+* Previous threads: [Search](https://www.reddit.com/r/Bitcoin/search?q=Lightning+Thursday&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all)
+
+* Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook
+
+* Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt
+
+* Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY
+
+* Lightning stores: https://www.lightningnetworkstores.com/
+
+* Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and [the r/Bitcoin chat](https://discord.gg/qE3rWBRNqh)
+URL: https://www.reddit.com/r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Permalink: /r/Bitcoin/comments/1jky5t4/lightning_thursday_march_27_2025_explore_the/
+Number of Comments: 1
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: rBitcoinMod
+Title: Daily Discussion, March 27, 2025
+Date: Thu Mar 27 06:05:25 WET 2025
+Text: Please utilize this sticky thread for all general **Bitcoin** discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you!
+
+If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow.
+
+Please check the [previous discussion thread](https://www.reddit.com/r/Bitcoin/comments/1jk54fe/daily_discussion_march_26_2025/) for unanswered questions.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Permalink: /r/Bitcoin/comments/1jkxc18/daily_discussion_march_27_2025/
+Number of Comments: 7
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: InitialRuin10
+Title: Want to get bitcoin but can’t at 15 years old
+Date: Thu Mar 27 05:14:43 WET 2025
+Text: Looking to get into bitcoin, so far I’ve downloaded the node to help contribute and want to invest the few bux I have but my mom won’t help me buy it. How are ways I can get more involved to maybe earn some as I can’t buy a miner or anything? 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Permalink: /r/Bitcoin/comments/1jkwlm1/want_to_get_bitcoin_but_cant_at_15_years_old/
+Number of Comments: 53
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: VacuumDcay
+Title: Exchange to wallet transfers
+Date: Thu Mar 27 04:54:58 WET 2025
+Text: I sent 70$ worth of bitcoin from an exchange to my crypto wallet but I ended up receiving only 40$. Can someone explain the reason for this? Does this usually happen on small transactions ? What about larger amounts ?
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Permalink: /r/Bitcoin/comments/1jkwaof/exchange_to_wallet_transfers/
+Number of Comments: 5
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: Flat_Advantage_3625
+Title: Poll if this is allowed.
+Date: Thu Mar 27 04:31:16 WET 2025
+Text: If you could buy fine art on a canva to secure your digital legacy and seed phrase....
+
+1. Would you?
+
+2. How mucb would you pay for a small fine art piece...wood metal or canvas? 
+Size 5x8 
+Six 8x12 
+Size 20x20 
+
+Something more unique like a sculpture or piece you could keep on your desk?
+
+Would you purchase an item like this? I find too many people write this down and hiding this in plain site in a high dollar art item would be epic and safe. 
+
+Would you support this start up and idea if it were an option on a crowdsourcing site? Would anyone go as far as being an investor?
+
+PS the product would have somewhere secure on the product that is hidden but they could add their seed once delivered not given to me company...
+
+If so let me know. I have plans on possibly patenting or copywriting and I also have a business model already structured and I have a few of the most recent or first pieces that I plan on putting into the market I'd love to hear feedback or network with anyone that's interested in this idea.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Permalink: /r/Bitcoin/comments/1jkvx92/poll_if_this_is_allowed/
+Number of Comments: 20
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: Competitive-Net1454
+Title: I need a little help.
+Date: Thu Mar 27 04:17:43 WET 2025
+Text: I have googled and tried to figure this out without having to asking you all. 
+
+Here’s the deal. I have a biture account . I have the email and password fine, but when it comes time to do the Google authentication, I go to my Google Authenticator and I don’t have the dang code there. I’m stuck at this point. What do I do? Please be easy on me team. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Permalink: /r/Bitcoin/comments/1jkvp53/i_need_a_little_help/
+Number of Comments: 5
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: Butterscotch-Over
+Title: Retirement and Bitcoin
+Date: Thu Mar 27 04:09:52 WET 2025
+Text: I want to self-custody all of my bitcoin, don’t get me wrong. However, for tax purposes it makes the most sense to put a large percentage of my fiat in my IRA. I am self employed and have a SEP IRA which allows me to contribute more than a ROTH and save on taxes. 
+
+I’m a bit torn because I don’t love the idea of not having the keys to the bitcoin when I buy a bitcoin ETF. 
+
+Is this something I should reconsider? What does everyone else do? Should I just use it to buy MSTR?
+
+And recommendation or experience is welcome. 
+Thanks 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Permalink: /r/Bitcoin/comments/1jkvkd2/retirement_and_bitcoin/
+Number of Comments: 13
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: BredCor
+Title: I feel attacked but also I forgive him for what he knows not…..
+Date: Thu Mar 27 02:44:34 WET 2025
+Text: 
+URL: https://i.redd.it/vi54qx65b5re1.jpeg
+Permalink: /r/Bitcoin/comments/1jku07a/i_feel_attacked_but_also_i_forgive_him_for_what/
+Number of Comments: 18
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: 99999999999999999989
+Title: Trying to figure out if I should consolidate UTXOs
+Date: Thu Mar 27 02:37:04 WET 2025
+Text: I have one Legacy Segwit wallet that has 29 transactions with 15 separate addresses.  Another default account wallet on the same Trezor that also has 29 transactions but 13 separate addresses.  One wallet's balance is significantly larger than the other one.  Some of the transactions are very small ($10.00 or less) because they were test sends to confirm the address before I sent the main amount.
+  
+Is it in my best interest to consolidate?  Privacy is not really an issue (as far as the UTXO consolidation is concerned) because I never ever ever ever spend coins and I never use smart contracts or anything else of the ilk (staking, etc.).  Pretty much just old school DCA and hodl.  I am approaching a point where I might be selling some to fulfill a financial goal, but that would be less than half my holdings and whether or not I do it will depend on where the price goes in the next year.  If I do end up selling some, I want to make that as painless (and cheap) as possible.
+  
+Also a note to all the fuckwits who will be sending me DMs: gargle my balls.
+URL: https://www.reddit.com/r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Permalink: /r/Bitcoin/comments/1jktv6a/trying_to_figure_out_if_i_should_consolidate_utxos/
+Number of Comments: 12
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: yakrrayaj
+Title: What do you say to those starting now..
+Date: Thu Mar 27 02:05:13 WET 2025
+Text: Just started and am wondering if I’m starting too late into this. Still trying to navigate through the info. Any help is welcome. Have read wiki. Thanks. 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Permalink: /r/Bitcoin/comments/1jkt8ou/what_do_you_say_to_those_starting_now/
+Number of Comments: 62
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: Derrick_13
+Title: Cold Wallets
+Date: Thu Mar 27 00:21:17 WET 2025
+Text: Help I cant figure out which is the best cold wallet to get I feel like none ive seen are that good 
+URL: https://www.reddit.com/r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Permalink: /r/Bitcoin/comments/1jkr5c9/cold_wallets/
+Number of Comments: 20
+Subreddit Subscribers: 7817876
+------------------------------------------------------------
+Author: IntheTrench
+Title: BTC Balance on Exchange has been in freefall since last year.
+Date: Thu Mar 27 00:13:05 WET 2025
+Text: 
+URL: https://i.redd.it/2itl4113k4re1.png
+Permalink: /r/Bitcoin/comments/1jkqz7l/btc_balance_on_exchange_has_been_in_freefall/
+Number of Comments: 46
+Subreddit Subscribers: 7817876
+------------------------------------------------------------

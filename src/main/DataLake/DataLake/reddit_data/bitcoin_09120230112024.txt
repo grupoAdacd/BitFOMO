@@ -1,0 +1,137 @@
+Reddit Data for r/Bitcoin (bitcoin)
+Period: 2023-09-01 00:00 to 2024-01-01 00:00
+
+Post #1
+Time Collected: 2023-09-01 00:00
+Title: 🌹
+Author: eman2top
+Posted on: 2025-03-26 09:21
+Link: https://www.reddit.com/r/Bitcoin/comments/1jk7onf/_/
+Text: 
+
+Top 5 Comments:
+  No comments found.
+====================================
+
+Post #2
+Time Collected: 2023-09-01 00:00
+Title: 4 Questions as a Crypto Noob/Beginner
+Author: Maleficent-Race8472
+Posted on: 2025-03-26 09:11
+Link: https://www.reddit.com/r/Bitcoin/comments/1jk7jvj/4_questions_as_a_crypto_noobbeginner/
+Text: Crypto Beginner here. I swapped $2000 of BTC into \_\_\_ a while ago when it \_\_\_ dropped a lot on T a n g e m and the swap costed like \~$50 which I thought at the time was a bit outrageous (but I swapped it anyways just so I could get in quickly and because I was underinformed.
+
+ 
+
+So just asking for some advice now first about the above, of **Q1: how I can fairly quickly change between coins effectively while minimising fees, and Q2: Is it somehow cheaper to manually sell BTC then buy** \_\_\_ **for instance as opposed to just 'swapping'?.**
+
+ 
+
+**Q3:** This isn't too big of a deal but, to withdraw from Kraken currently has a 0.0001 BTC fee which is around $10 AUD. This isn't that big of a deal if I'm dealing with larger amounts but if I can minimise this fee that would be great. Just asking, is the setup I've outlined in the below para good / or can it be improved.
+
+ 
+
+Right now I am using Kraken pro to first buy BTC or whatever other coin then sending that to T a n g e m over the bitcoin network. However, I've done a bit more research recently and learnt that using 'lightning' network is effectively free. But T a n g e m doesn't support lightning, and so I've found out about 'Strike' and 'River' which allow me to go from kraken pro -&gt; strike -&gt; t a n g e m.
+
+  
+Q4: Also is there a faster way to deposit fiat into Kraken? I've done it few times in the past and it literally takes several hours which is a bit ridiculous compared to traditional brokerages with stocks like IBKR etc.
+
+Top 5 Comments:
+  No comments found.
+====================================
+
+Post #3
+Time Collected: 2023-09-01 00:00
+Title: Is the U.S. Inflation gonna hamper the Crypto-Industry!!
+Author: Adventurous-Wind9180
+Posted on: 2025-03-26 08:47
+Link: https://www.reddit.com/r/Bitcoin/comments/1jk78pb/is_the_us_inflation_gonna_hamper_the/
+Text: US Inflation remains constant till 2028 expecting to move up till 3% which gonna crash down the crypto industry ?
+
+Top 5 Comments:
+  Comment #1:
+  Author: Practical-Wind-1386
+  Posted on: 2025-03-26 08:51
+  Text: No one knows sh!t about fuvk.
+All I know is that i trust magic internet money more than everyone in charge of central banks.
+  ----------------------
+  Comment #2:
+  Author: Civil_Store_5310
+  Posted on: 2025-03-26 08:51
+  Text: How do you make such a wild prediction with how volatile crypto is?
+  ----------------------
+  Comment #3:
+  Author: Emotional-Self3286
+  Posted on: 2025-03-26 08:53
+  Text: Interesting, I hope it comes out true.
+  ----------------------
+  Comment #4:
+  Author: znuffles
+  Posted on: 2025-03-26 09:05
+  Text: One is not related to the other they are different currencies. Crypto as a whole wouldn’t be as affected. Unless 90% of everybody buying crypto was in America. Which isn’t true at all. It’s extremely diverse. Now, with Bitcoin, is mangled with ETF and things, sure, but a good chunk of it is exchanged intermittently without any relations to USD. The black market was how it thrived for the longest time. Now, it has widespread adoption with people using it to buy houses and cars. But, if you are truly concerned about USD inflation put your money in a swiss bank account and protect yourself from any USD economics.
+  ----------------------
+  Comment #5:
+  Author: alineali
+  Posted on: 2025-03-26 09:39
+  Text: Who cares about some "crypto".
+
+Bitcoin will be more than fine - it becomes more and more "legitimate" in the eyes of public and business, and this is really all it needs to thrive.
+  ----------------------
+====================================
+
+Post #4
+Time Collected: 2023-09-01 00:00
+Title: Mindblowing
+Author: Suspicious-Local-901
+Posted on: 2025-03-26 07:47
+Link: https://www.reddit.com/r/Bitcoin/comments/1jk6hfn/mindblowing/
+Text: Here’s a weird thought I had this morning.
+
+It came across my mind again that #bitcoin  has nothing to do with
+-Banks
+-Wallstreet
+-Venture Capitalists
+ 
+and yet it’s the best performing asset since it’s creation.
+
+Isn’t it crazy how Satoshi had an idea of this hard form of money? And now about 16 years later, that idea has become so well known to people. Some joke about it, some embrace it, you know 🤷🏼‍♂️.
+
+But it really struck my mind again that this idea actually gained so much traction.
+
+It’s being used as a digital form of gold. And it’s being used as a peer-to-peer electronic cash system, without an intermediary, and it’s actually being used like that.
+
+When you think about it, it is so mindblowing!
+
+So yeah, that was my ride to work this morning 😄
+
+Top 5 Comments:
+  Comment #1:
+  Author: ModestGenius66
+  Posted on: 2025-03-26 09:00
+  Text: The idea gained traction because Bitcoin reflects - and satisfies - a deep-seated human wish: the ability to store wealth for yourself and your children without having to fight inflation, and without having to have the money and the guts for stocks or real estate. 
+
+As time goes by, more and more people will realise the potential of Bitcoin to do this.
+  ----------------------
+====================================
+
+Post #5
+Time Collected: 2023-09-01 00:00
+Title: Monthly or daily
+Author: Powerful_Material_70
+Posted on: 2025-03-26 07:17
+Link: https://www.reddit.com/r/Bitcoin/comments/1jk63vp/monthly_or_daily/
+Text: So I'm a long time lurker first time poster here. I'm just starting out on living that hodl life and am curious as i see some people here buy daily in stead of just buying in one lump monthly. Is this something you guys would recommend? I'm just curious as to if you have a set limit for what you're willing to invest per month would it be beneficial to break it down and buy daily instead of just buying one lump at a time? Is it potentially that buying daily you might get more bang for your buck dependent on fluctuations rather than buying once per month at the price it is on that day? Any help you guys can offer a noob would be greatly appreciated!
+
+Top 5 Comments:
+  Comment #1:
+  Author: LondonEntUK
+  Posted on: 2025-03-26 07:18
+  Text: Buying daily is not good with fees IIRC.
+  ----------------------
+  Comment #2:
+  Author: UberMocipan
+  Posted on: 2025-03-26 07:28
+  Text: That depends on your goals, what you want to do with your time, whatever fits you, there is no real guide, its individual, somebody likes to buy daily, somebody montly. Maybe you want to trade and have some good time doing that? thats what I would recommend, its really fun, just stick to the one real rule: buy low, sell high. Also if you trade - buy and sell, you are contributing to the overall market trading volume. Even with just a few hundreds of dollars, you can daily make trading volume in thousands. That also could lead to lower fees and opening new gates of possibilities
+  ----------------------
+====================================
+

@@ -1,0 +1,1040 @@
+Author: brgmgl
+Title: When will shorts feel maximum pain?
+Date: Fri Jan 17 19:56:40 WET 2025
+Text: I don’t see any liquidation squeeze yet. 
+URL: https://www.reddit.com/r/btc/comments/1i3p62m/when_will_shorts_feel_maximum_pain/
+Permalink: /r/btc/comments/1i3p62m/when_will_shorts_feel_maximum_pain/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2q_x
+Title: THINKING FORTH - A Language and Philosophy for Solving Problems [PDF]
+Date: Fri Jan 17 18:54:20 WET 2025
+Text: 
+URL: https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf
+Permalink: /r/btc/comments/1i3npyq/thinking_forth_a_language_and_philosophy_for/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Coinbase user discovers it costs $7 to send $5 on the Ethereum network. Yes the famous cryptos like ETH and BTC are not functional blockchains, they have become ponzies that you must hold on centralized exchanges and never use for any purpose except dumping on greater fools.
+Date: Fri Jan 17 18:12:41 WET 2025
+Text: 
+URL: https://www.reddit.com/r/CoinBase/comments/1i2zdn4/there_is_no_way_eth_is_worth_the_hassle_7_to_send/
+Permalink: /r/btc/comments/1i3mqqn/coinbase_user_discovers_it_costs_7_to_send_5_on/
+Number of Comments: 49
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: sbifido
+Title: Explaining BTC ordinals
+Date: Fri Jan 17 17:48:36 WET 2025
+Text: Eth and smart chains use smart contracts to store nft in form of a couple (owner of nft pbk, URL of image representing the nft).
+When you sell your nft you submit a transaction to the contract and it updates its record with the new owner pbk.
+
+Btc does not have smart contracts. Here is where ordinals come into place.
+Ordinals are Satoshi with inscription.
+
+A Satoshi is 1/100mln BTC.
+
+Inscribing a Satoshi means sending a transaction with one output that contains exactly one Satoshi and properly formatted metadata (for example the bytes representing an image)
+
+They are named ordinals because they are actually enumerated in order (1, 2, ...)
+
+Changing the owner of the ordinal require sending a transaction to the new owner with input that Satoshi. Note that data representing the nft will be available in the original transaction.
+
+An example of ordinals is Bitcoin Frogs, created in block 654321 in the first transaction.
+
+For more detailed information, check out the Ordinals Protocol.
+URL: https://www.reddit.com/r/btc/comments/1i3m626/explaining_btc_ordinals/
+Permalink: /r/btc/comments/1i3m626/explaining_btc_ordinals/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Bitcoin Cash 2025 Velma Upgrade Enhances Smart Contract Capabilities
+Date: Fri Jan 17 17:44:11 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/bitcoin-cash-2025-velma-upgrade-enhances-smart-contract-capabilities/
+Permalink: /r/btc/comments/1i3m28p/bitcoin_cash_2025_velma_upgrade_enhances_smart/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lalaci
+Title: Bitcoin soars past $100,000 ahead of possible early action on crypto by Trump &amp;#x2d; WTOP News
+Date: Fri Jan 17 17:28:45 WET 2025
+Text: 
+URL: https://wtop.com/business-finance/2025/01/bitcoin-soars-past-100000-ahead-of-possible-early-action-on-crypto-by-trump/
+Permalink: /r/btc/comments/1i3lp0w/bitcoin_soars_past_100000_ahead_of_possible_early/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: Pay to Script CHIP (2026) FAQs
+Date: Fri Jan 17 16:45:17 WET 2025
+Text: 
+URL: https://bitcoincashresearch.org/t/chip-2024-12-p2s-pay-to-script/1451/4?u=bitjson
+Permalink: /r/btc/comments/1i3kngl/pay_to_script_chip_2026_faqs/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: On shielded address for Bitcoin Cash using Zero-Knowledge Proof (ZKP) covenants
+Date: Fri Jan 17 16:00:14 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1880280241601708219
+Permalink: /r/btc/comments/1i3jkre/on_shielded_address_for_bitcoin_cash_using/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: OP_EXEC is like requiring motorcycle helmets in a swimming pool
+Date: Fri Jan 17 13:44:07 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1880227699198714348
+Permalink: /r/btc/comments/1i3gmuz/op_exec_is_like_requiring_motorcycle_helmets_in_a/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Bitcoin Miner BitFuFu Aims to Boost Operations with Oklahoma Facility Acquisition
+Date: Fri Jan 17 13:43:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/bitcoin-miner-bitfufu-aims-to-boost-operations-with-oklahoma-facility-acquisition/
+Permalink: /r/btc/comments/1i3gmrq/bitcoin_miner_bitfufu_aims_to_boost_operations/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: capital_com
+Title: Top 10 crypto in 2024 among our traders, with BTC leading by far
+Date: Fri Jan 17 13:29:13 WET 2025
+Text: 
+URL: https://v.redd.it/lim3s6b93kde1
+Permalink: /r/btc/comments/1i3gclc/top_10_crypto_in_2024_among_our_traders_with_btc/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: voterit
+Title: Arkham found most wallets of Microstrategy with proof of reserve of 330 000 bitcoin
+Date: Fri Jan 17 13:26:01 WET 2025
+Text: After many of my comments under saylors posts Arkham posted update - with more wallets associated with MicroStrategy's
+
+Now the Bitcoin holdings are at 330000 bitcoins - still missing 120 000.
+
+Arkham tracker was showing long time [https://intel.arkm.com/explorer/entity/microstrategy](https://intel.arkm.com/explorer/entity/microstrategy) 4 times less - only 80 000 coins.
+
+At least one can see that saylor also selling bitcoin, was last time in 2023
+
+And pump of last months since November was mainly due to Mircostrategy bought almost 200 000 bitcoins
+URL: https://www.reddit.com/r/btc/comments/1i3gaeo/arkham_found_most_wallets_of_microstrategy_with/
+Permalink: /r/btc/comments/1i3gaeo/arkham_found_most_wallets_of_microstrategy_with/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 17 , 2025 - BTC
+Date: Fri Jan 17 12:01:09 WET 2025
+Text: 
+URL: https://youtu.be/ERxKe_lRm_Y
+Permalink: /r/btc/comments/1i3et1f/bitcoin_technical_analysis_for_january_17_2025_btc/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 17 , 2025 - BTC
+Date: Fri Jan 17 12:01:08 WET 2025
+Text: 
+URL: https://youtu.be/ERxKe_lRm_Y
+Permalink: /r/btc/comments/1i3et16/bitcoin_technical_analysis_for_january_17_2025_btc/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: HellYeahDamnWrite
+Title: Trump’s second term marks new cryptocurrency era 
+Date: Fri Jan 17 10:43:03 WET 2025
+Text: 
+URL: https://www.reuters.com/technology/trumps-inauguration-marks-new-era-cryptocurrency-2025-01-17/
+Permalink: /r/btc/comments/1i3dn8d/trumps_second_term_marks_new_cryptocurrency_era/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Surprise surprise now we have pump articles regarding a potential litecoin ETF, of course the media is still ignoring BCH and the effect an ETF will have, despite BCH having BTC as a direct precedent for approval of an ETF.
+Date: Fri Jan 17 10:01:20 WET 2025
+Text: [https://www.coindesk.com/markets/2025/01/16/litecoin-etf-could-attract-up-to-usd580m-of-inflows-if-adoption-mirrors-that-of-bitcoin-etfs](https://www.coindesk.com/markets/2025/01/16/litecoin-etf-could-attract-up-to-usd580m-of-inflows-if-adoption-mirrors-that-of-bitcoin-etfs)
+
+
+
+Litecoin founder allegedly pump and dumped his coins on twitter and allegedly insider traded on coinbase while being an employee , allegedly using fake volume bots: 
+
+
+
+6.5 million dollar fine for coinbase due to litecoin wash trading by employee: [https://decrypt.co/62155/coinbase-fined-6-5-million-over-trading-irregularities](https://decrypt.co/62155/coinbase-fined-6-5-million-over-trading-irregularities)
+
+
+
+HODL while dumping: [https://x.com/C3\_Nik/status/1083088105324843014](https://x.com/C3_Nik/status/1083088105324843014)
+URL: https://www.reddit.com/r/btc/comments/1i3d2rj/surprise_surprise_now_we_have_pump_articles/
+Permalink: /r/btc/comments/1i3d2rj/surprise_surprise_now_we_have_pump_articles/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: LovelyDayHere
+Title: Is Bitcoin (specifically: BTC) being set up as a 'bad bank' for the US national debt?
+Date: Fri Jan 17 09:37:52 WET 2025
+Text: I'm looking for opinions on this scenario:
+
+- US promotes the idea of 'national strategic Bitcoin reserve' or 'stockpile' - however they call it, the idea is the government spending fiat money to buy significant amounts of BTC
+
+- a kind of arms race of BTC accumulation breaks out where other countries (mostly vassals of the US) embark on similar strategy of stockpiling BTC on their taxpayer dime
+
+- USD experiences massive inflation (for simplicity assume that an amount equal to the US national debt is printed and used to pay off the debt while essentially collapsing the dollar as a reserve)
+
+- A new currency, backed by BTC and other hard assets like gold, is proposed to replace the USD. This would likely be fully digital again, and using blockchain technology to accomodate modern expectations towards digital money, and run by the central bank, i.e. it would be a CBDC in all but name.
+
+- USD savings would be convertible to this new digital currency (to lessen the public curiosity it might be called by a name that retains  'dollar' in it, as has been done with CBDC's in other countries), but due to inflation it would wipe out a significant amount of public wealth
+
+- Of course the ripple effects of USD inflation would be felt throughout the world, likely triggering cascades of financial crises which cumulate in another massive Global Financial Crisis, but which can be the excuse for other countries' central banks to push their own CBDCs to the forefront as 'solutions' (even though it'd be just replacing some existing fiat currencies by new fiat currencies)
+
+- in the wash of global financial instability, the focus on the US may be lessened as everyone is struggling with these problems
+
+What do you think about such a course of events?
+
+One question I have myself is whether BTC even needs to be retained as a reserve asset in such a scenario, or whether central bankers might find a way to implode BTC, crash the entire crypto market (possibly even blaming financial system woes on such a crypto collapse) _before_ pushing hard for CBDCs as their 'stability fix'.
+URL: https://www.reddit.com/r/btc/comments/1i3cs2q/is_bitcoin_specifically_btc_being_set_up_as_a_bad/
+Permalink: /r/btc/comments/1i3cs2q/is_bitcoin_specifically_btc_being_set_up_as_a_bad/
+Number of Comments: 35
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Imagineforyourself
+Title: 1BTC=being a future billionaire?
+Date: Fri Jan 17 08:34:33 WET 2025
+Text: What are the bullet proof logical reasoning that having 1btc in medium term can make you extremely wealthy. I am after solid statistical proof please. Thank you ☺️ 
+URL: https://www.reddit.com/r/btc/comments/1i3byyj/1btcbeing_a_future_billionaire/
+Permalink: /r/btc/comments/1i3byyj/1btcbeing_a_future_billionaire/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: SEC CHAIR GENSLER SLAMMED FOR FAILED BITCOIN POLICIES
+JOE: You either stood in the way of an extraordinary industry or utterly failed to stop a massive bubble.
+Date: Fri Jan 17 06:05:36 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=dYgr7M5XjRI&amp;si=a3JYFOqyQ68S1EI8
+Permalink: /r/btc/comments/1i39yx7/sec_chair_gensler_slammed_for_failed_bitcoin/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: xAlwaysAngelx
+Title: Real or not?
+Date: Fri Jan 17 01:15:19 WET 2025
+Text: https://givespacex.io
+URL: https://www.reddit.com/r/btc/comments/1i34r1u/real_or_not/
+Permalink: /r/btc/comments/1i34r1u/real_or_not/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: daskalou
+Title: Banned from r/Bitcoin for mentioning aliens and quantum computing threats
+Date: Fri Jan 17 00:10:56 WET 2025
+Text: Tried to get mental juices flowing with thought-provoking posts (and hoping for well-thought-out replies) on the r \[SLASH\] Bitcoin subreddit, instead ended up being banned with an immature response from a moderator:
+
+&gt;First you post a stupid thread about aliens and now you post a stupid thread about quantum computers. Look at the these charts.
+
+&gt;[https://www.xe.com/currencycharts/?from=BTC&amp;to=XAG&amp;view=10Y](https://www.xe.com/currencycharts/?from=BTC&amp;to=XAG&amp;view=10Y)
+
+&gt;[https://www.xe.com/currencycharts/?from=BTC&amp;to=XAU&amp;view=10Y](https://www.xe.com/currencycharts/?from=BTC&amp;to=XAU&amp;view=10Y)
+
+&gt;Now go shill shiny rocks somewhere else. We are not interested.
+
+My [first post](https://old.reddit.com/r/Bitcoin/comments/1hl666i/alien_contact_or_bitcoin/) was asking about the threat to Bitcoin if an announcement was made that we had made alien contact, and my [second post](https://old.reddit.com/r/Bitcoin/comments/1i06ttd/wf_says_quantum_computers_to_break_encryption_in/) was linking to a YouTube video which suggests quantum computers could break encryption.
+
+TL;DR
+
+**Definition of irony:**
+
+Moderators of a "Freedom Money" group suppressing and denigrating those who dare speak about anything outside their rigid world view.
+URL: https://www.reddit.com/r/btc/comments/1i33fvn/banned_from_rbitcoin_for_mentioning_aliens_and/
+Permalink: /r/btc/comments/1i33fvn/banned_from_rbitcoin_for_mentioning_aliens_and/
+Number of Comments: 29
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: brgmgl
+Title: When will shorts feel maximum pain?
+Date: Fri Jan 17 19:56:40 WET 2025
+Text: I don’t see any liquidation squeeze yet. 
+URL: https://www.reddit.com/r/btc/comments/1i3p62m/when_will_shorts_feel_maximum_pain/
+Permalink: /r/btc/comments/1i3p62m/when_will_shorts_feel_maximum_pain/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: 2q_x
+Title: THINKING FORTH - A Language and Philosophy for Solving Problems [PDF]
+Date: Fri Jan 17 18:54:20 WET 2025
+Text: 
+URL: https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf
+Permalink: /r/btc/comments/1i3npyq/thinking_forth_a_language_and_philosophy_for/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Coinbase user discovers it costs $7 to send $5 on the Ethereum network. Yes the famous cryptos like ETH and BTC are not functional blockchains, they have become ponzies that you must hold on centralized exchanges and never use for any purpose except dumping on greater fools.
+Date: Fri Jan 17 18:12:41 WET 2025
+Text: 
+URL: https://www.reddit.com/r/CoinBase/comments/1i2zdn4/there_is_no_way_eth_is_worth_the_hassle_7_to_send/
+Permalink: /r/btc/comments/1i3mqqn/coinbase_user_discovers_it_costs_7_to_send_5_on/
+Number of Comments: 49
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: sbifido
+Title: Explaining BTC ordinals
+Date: Fri Jan 17 17:48:36 WET 2025
+Text: Eth and smart chains use smart contracts to store nft in form of a couple (owner of nft pbk, URL of image representing the nft).
+When you sell your nft you submit a transaction to the contract and it updates its record with the new owner pbk.
+
+Btc does not have smart contracts. Here is where ordinals come into place.
+Ordinals are Satoshi with inscription.
+
+A Satoshi is 1/100mln BTC.
+
+Inscribing a Satoshi means sending a transaction with one output that contains exactly one Satoshi and properly formatted metadata (for example the bytes representing an image)
+
+They are named ordinals because they are actually enumerated in order (1, 2, ...)
+
+Changing the owner of the ordinal require sending a transaction to the new owner with input that Satoshi. Note that data representing the nft will be available in the original transaction.
+
+An example of ordinals is Bitcoin Frogs, created in block 654321 in the first transaction.
+
+For more detailed information, check out the Ordinals Protocol.
+URL: https://www.reddit.com/r/btc/comments/1i3m626/explaining_btc_ordinals/
+Permalink: /r/btc/comments/1i3m626/explaining_btc_ordinals/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Bitcoin Cash 2025 Velma Upgrade Enhances Smart Contract Capabilities
+Date: Fri Jan 17 17:44:11 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/bitcoin-cash-2025-velma-upgrade-enhances-smart-contract-capabilities/
+Permalink: /r/btc/comments/1i3m28p/bitcoin_cash_2025_velma_upgrade_enhances_smart/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: lalaci
+Title: Bitcoin soars past $100,000 ahead of possible early action on crypto by Trump &amp;#x2d; WTOP News
+Date: Fri Jan 17 17:28:45 WET 2025
+Text: 
+URL: https://wtop.com/business-finance/2025/01/bitcoin-soars-past-100000-ahead-of-possible-early-action-on-crypto-by-trump/
+Permalink: /r/btc/comments/1i3lp0w/bitcoin_soars_past_100000_ahead_of_possible_early/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: Pay to Script CHIP (2026) FAQs
+Date: Fri Jan 17 16:45:17 WET 2025
+Text: 
+URL: https://bitcoincashresearch.org/t/chip-2024-12-p2s-pay-to-script/1451/4?u=bitjson
+Permalink: /r/btc/comments/1i3kngl/pay_to_script_chip_2026_faqs/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: On shielded address for Bitcoin Cash using Zero-Knowledge Proof (ZKP) covenants
+Date: Fri Jan 17 16:00:14 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1880280241601708219
+Permalink: /r/btc/comments/1i3jkre/on_shielded_address_for_bitcoin_cash_using/
+Number of Comments: 5
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: bitjson
+Title: OP_EXEC is like requiring motorcycle helmets in a swimming pool
+Date: Fri Jan 17 13:44:07 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1880227699198714348
+Permalink: /r/btc/comments/1i3gmuz/op_exec_is_like_requiring_motorcycle_helmets_in_a/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: Bitcoin Miner BitFuFu Aims to Boost Operations with Oklahoma Facility Acquisition
+Date: Fri Jan 17 13:43:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/bitcoin-miner-bitfufu-aims-to-boost-operations-with-oklahoma-facility-acquisition/
+Permalink: /r/btc/comments/1i3gmrq/bitcoin_miner_bitfufu_aims_to_boost_operations/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: capital_com
+Title: Top 10 crypto in 2024 among our traders, with BTC leading by far
+Date: Fri Jan 17 13:29:13 WET 2025
+Text: 
+URL: https://v.redd.it/lim3s6b93kde1
+Permalink: /r/btc/comments/1i3gclc/top_10_crypto_in_2024_among_our_traders_with_btc/
+Number of Comments: 7
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: voterit
+Title: Arkham found most wallets of Microstrategy with proof of reserve of 330 000 bitcoin
+Date: Fri Jan 17 13:26:01 WET 2025
+Text: After many of my comments under saylors posts Arkham posted update - with more wallets associated with MicroStrategy's
+
+Now the Bitcoin holdings are at 330000 bitcoins - still missing 120 000.
+
+Arkham tracker was showing long time [https://intel.arkm.com/explorer/entity/microstrategy](https://intel.arkm.com/explorer/entity/microstrategy) 4 times less - only 80 000 coins.
+
+At least one can see that saylor also selling bitcoin, was last time in 2023
+
+And pump of last months since November was mainly due to Mircostrategy bought almost 200 000 bitcoins
+URL: https://www.reddit.com/r/btc/comments/1i3gaeo/arkham_found_most_wallets_of_microstrategy_with/
+Permalink: /r/btc/comments/1i3gaeo/arkham_found_most_wallets_of_microstrategy_with/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 17 , 2025 - BTC
+Date: Fri Jan 17 12:01:09 WET 2025
+Text: 
+URL: https://youtu.be/ERxKe_lRm_Y
+Permalink: /r/btc/comments/1i3et1f/bitcoin_technical_analysis_for_january_17_2025_btc/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 17 , 2025 - BTC
+Date: Fri Jan 17 12:01:08 WET 2025
+Text: 
+URL: https://youtu.be/ERxKe_lRm_Y
+Permalink: /r/btc/comments/1i3et16/bitcoin_technical_analysis_for_january_17_2025_btc/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: HellYeahDamnWrite
+Title: Trump’s second term marks new cryptocurrency era 
+Date: Fri Jan 17 10:43:03 WET 2025
+Text: 
+URL: https://www.reuters.com/technology/trumps-inauguration-marks-new-era-cryptocurrency-2025-01-17/
+Permalink: /r/btc/comments/1i3dn8d/trumps_second_term_marks_new_cryptocurrency_era/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Surprise surprise now we have pump articles regarding a potential litecoin ETF, of course the media is still ignoring BCH and the effect an ETF will have, despite BCH having BTC as a direct precedent for approval of an ETF.
+Date: Fri Jan 17 10:01:20 WET 2025
+Text: [https://www.coindesk.com/markets/2025/01/16/litecoin-etf-could-attract-up-to-usd580m-of-inflows-if-adoption-mirrors-that-of-bitcoin-etfs](https://www.coindesk.com/markets/2025/01/16/litecoin-etf-could-attract-up-to-usd580m-of-inflows-if-adoption-mirrors-that-of-bitcoin-etfs)
+
+
+
+Litecoin founder allegedly pump and dumped his coins on twitter and allegedly insider traded on coinbase while being an employee , allegedly using fake volume bots: 
+
+
+
+6.5 million dollar fine for coinbase due to litecoin wash trading by employee: [https://decrypt.co/62155/coinbase-fined-6-5-million-over-trading-irregularities](https://decrypt.co/62155/coinbase-fined-6-5-million-over-trading-irregularities)
+
+
+
+HODL while dumping: [https://x.com/C3\_Nik/status/1083088105324843014](https://x.com/C3_Nik/status/1083088105324843014)
+URL: https://www.reddit.com/r/btc/comments/1i3d2rj/surprise_surprise_now_we_have_pump_articles/
+Permalink: /r/btc/comments/1i3d2rj/surprise_surprise_now_we_have_pump_articles/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: LovelyDayHere
+Title: Is Bitcoin (specifically: BTC) being set up as a 'bad bank' for the US national debt?
+Date: Fri Jan 17 09:37:52 WET 2025
+Text: I'm looking for opinions on this scenario:
+
+- US promotes the idea of 'national strategic Bitcoin reserve' or 'stockpile' - however they call it, the idea is the government spending fiat money to buy significant amounts of BTC
+
+- a kind of arms race of BTC accumulation breaks out where other countries (mostly vassals of the US) embark on similar strategy of stockpiling BTC on their taxpayer dime
+
+- USD experiences massive inflation (for simplicity assume that an amount equal to the US national debt is printed and used to pay off the debt while essentially collapsing the dollar as a reserve)
+
+- A new currency, backed by BTC and other hard assets like gold, is proposed to replace the USD. This would likely be fully digital again, and using blockchain technology to accomodate modern expectations towards digital money, and run by the central bank, i.e. it would be a CBDC in all but name.
+
+- USD savings would be convertible to this new digital currency (to lessen the public curiosity it might be called by a name that retains  'dollar' in it, as has been done with CBDC's in other countries), but due to inflation it would wipe out a significant amount of public wealth
+
+- Of course the ripple effects of USD inflation would be felt throughout the world, likely triggering cascades of financial crises which cumulate in another massive Global Financial Crisis, but which can be the excuse for other countries' central banks to push their own CBDCs to the forefront as 'solutions' (even though it'd be just replacing some existing fiat currencies by new fiat currencies)
+
+- in the wash of global financial instability, the focus on the US may be lessened as everyone is struggling with these problems
+
+What do you think about such a course of events?
+
+One question I have myself is whether BTC even needs to be retained as a reserve asset in such a scenario, or whether central bankers might find a way to implode BTC, crash the entire crypto market (possibly even blaming financial system woes on such a crypto collapse) _before_ pushing hard for CBDCs as their 'stability fix'.
+URL: https://www.reddit.com/r/btc/comments/1i3cs2q/is_bitcoin_specifically_btc_being_set_up_as_a_bad/
+Permalink: /r/btc/comments/1i3cs2q/is_bitcoin_specifically_btc_being_set_up_as_a_bad/
+Number of Comments: 35
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Imagineforyourself
+Title: 1BTC=being a future billionaire?
+Date: Fri Jan 17 08:34:33 WET 2025
+Text: What are the bullet proof logical reasoning that having 1btc in medium term can make you extremely wealthy. I am after solid statistical proof please. Thank you ☺️ 
+URL: https://www.reddit.com/r/btc/comments/1i3byyj/1btcbeing_a_future_billionaire/
+Permalink: /r/btc/comments/1i3byyj/1btcbeing_a_future_billionaire/
+Number of Comments: 6
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: orphic2
+Title: SEC CHAIR GENSLER SLAMMED FOR FAILED BITCOIN POLICIES
+JOE: You either stood in the way of an extraordinary industry or utterly failed to stop a massive bubble.
+Date: Fri Jan 17 06:05:36 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=dYgr7M5XjRI&amp;si=a3JYFOqyQ68S1EI8
+Permalink: /r/btc/comments/1i39yx7/sec_chair_gensler_slammed_for_failed_bitcoin/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: xAlwaysAngelx
+Title: Real or not?
+Date: Fri Jan 17 01:15:19 WET 2025
+Text: https://givespacex.io
+URL: https://www.reddit.com/r/btc/comments/1i34r1u/real_or_not/
+Permalink: /r/btc/comments/1i34r1u/real_or_not/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: daskalou
+Title: Banned from r/Bitcoin for mentioning aliens and quantum computing threats
+Date: Fri Jan 17 00:10:56 WET 2025
+Text: Tried to get mental juices flowing with thought-provoking posts (and hoping for well-thought-out replies) on the r \[SLASH\] Bitcoin subreddit, instead ended up being banned with an immature response from a moderator:
+
+&gt;First you post a stupid thread about aliens and now you post a stupid thread about quantum computers. Look at the these charts.
+
+&gt;[https://www.xe.com/currencycharts/?from=BTC&amp;to=XAG&amp;view=10Y](https://www.xe.com/currencycharts/?from=BTC&amp;to=XAG&amp;view=10Y)
+
+&gt;[https://www.xe.com/currencycharts/?from=BTC&amp;to=XAU&amp;view=10Y](https://www.xe.com/currencycharts/?from=BTC&amp;to=XAU&amp;view=10Y)
+
+&gt;Now go shill shiny rocks somewhere else. We are not interested.
+
+My [first post](https://old.reddit.com/r/Bitcoin/comments/1hl666i/alien_contact_or_bitcoin/) was asking about the threat to Bitcoin if an announcement was made that we had made alien contact, and my [second post](https://old.reddit.com/r/Bitcoin/comments/1i06ttd/wf_says_quantum_computers_to_break_encryption_in/) was linking to a YouTube video which suggests quantum computers could break encryption.
+
+TL;DR
+
+**Definition of irony:**
+
+Moderators of a "Freedom Money" group suppressing and denigrating those who dare speak about anything outside their rigid world view.
+URL: https://www.reddit.com/r/btc/comments/1i33fvn/banned_from_rbitcoin_for_mentioning_aliens_and/
+Permalink: /r/btc/comments/1i33fvn/banned_from_rbitcoin_for_mentioning_aliens_and/
+Number of Comments: 29
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: brgmgl
+Title: When will shorts feel maximum pain?
+Date: Fri Jan 17 19:56:40 WET 2025
+Text: I don’t see any liquidation squeeze yet. 
+URL: https://www.reddit.com/r/btc/comments/1i3p62m/when_will_shorts_feel_maximum_pain/
+Permalink: /r/btc/comments/1i3p62m/when_will_shorts_feel_maximum_pain/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2q_x
+Title: THINKING FORTH - A Language and Philosophy for Solving Problems [PDF]
+Date: Fri Jan 17 18:54:20 WET 2025
+Text: 
+URL: https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf
+Permalink: /r/btc/comments/1i3npyq/thinking_forth_a_language_and_philosophy_for/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Coinbase user discovers it costs $7 to send $5 on the Ethereum network. Yes the famous cryptos like ETH and BTC are not functional blockchains, they have become ponzies that you must hold on centralized exchanges and never use for any purpose except dumping on greater fools.
+Date: Fri Jan 17 18:12:41 WET 2025
+Text: 
+URL: https://www.reddit.com/r/CoinBase/comments/1i2zdn4/there_is_no_way_eth_is_worth_the_hassle_7_to_send/
+Permalink: /r/btc/comments/1i3mqqn/coinbase_user_discovers_it_costs_7_to_send_5_on/
+Number of Comments: 49
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: sbifido
+Title: Explaining BTC ordinals
+Date: Fri Jan 17 17:48:36 WET 2025
+Text: Eth and smart chains use smart contracts to store nft in form of a couple (owner of nft pbk, URL of image representing the nft).
+When you sell your nft you submit a transaction to the contract and it updates its record with the new owner pbk.
+
+Btc does not have smart contracts. Here is where ordinals come into place.
+Ordinals are Satoshi with inscription.
+
+A Satoshi is 1/100mln BTC.
+
+Inscribing a Satoshi means sending a transaction with one output that contains exactly one Satoshi and properly formatted metadata (for example the bytes representing an image)
+
+They are named ordinals because they are actually enumerated in order (1, 2, ...)
+
+Changing the owner of the ordinal require sending a transaction to the new owner with input that Satoshi. Note that data representing the nft will be available in the original transaction.
+
+An example of ordinals is Bitcoin Frogs, created in block 654321 in the first transaction.
+
+For more detailed information, check out the Ordinals Protocol.
+URL: https://www.reddit.com/r/btc/comments/1i3m626/explaining_btc_ordinals/
+Permalink: /r/btc/comments/1i3m626/explaining_btc_ordinals/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Bitcoin Cash 2025 Velma Upgrade Enhances Smart Contract Capabilities
+Date: Fri Jan 17 17:44:11 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/bitcoin-cash-2025-velma-upgrade-enhances-smart-contract-capabilities/
+Permalink: /r/btc/comments/1i3m28p/bitcoin_cash_2025_velma_upgrade_enhances_smart/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lalaci
+Title: Bitcoin soars past $100,000 ahead of possible early action on crypto by Trump &amp;#x2d; WTOP News
+Date: Fri Jan 17 17:28:45 WET 2025
+Text: 
+URL: https://wtop.com/business-finance/2025/01/bitcoin-soars-past-100000-ahead-of-possible-early-action-on-crypto-by-trump/
+Permalink: /r/btc/comments/1i3lp0w/bitcoin_soars_past_100000_ahead_of_possible_early/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: Pay to Script CHIP (2026) FAQs
+Date: Fri Jan 17 16:45:17 WET 2025
+Text: 
+URL: https://bitcoincashresearch.org/t/chip-2024-12-p2s-pay-to-script/1451/4?u=bitjson
+Permalink: /r/btc/comments/1i3kngl/pay_to_script_chip_2026_faqs/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: On shielded address for Bitcoin Cash using Zero-Knowledge Proof (ZKP) covenants
+Date: Fri Jan 17 16:00:14 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1880280241601708219
+Permalink: /r/btc/comments/1i3jkre/on_shielded_address_for_bitcoin_cash_using/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: OP_EXEC is like requiring motorcycle helmets in a swimming pool
+Date: Fri Jan 17 13:44:07 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1880227699198714348
+Permalink: /r/btc/comments/1i3gmuz/op_exec_is_like_requiring_motorcycle_helmets_in_a/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Bitcoin Miner BitFuFu Aims to Boost Operations with Oklahoma Facility Acquisition
+Date: Fri Jan 17 13:43:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/bitcoin-miner-bitfufu-aims-to-boost-operations-with-oklahoma-facility-acquisition/
+Permalink: /r/btc/comments/1i3gmrq/bitcoin_miner_bitfufu_aims_to_boost_operations/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: capital_com
+Title: Top 10 crypto in 2024 among our traders, with BTC leading by far
+Date: Fri Jan 17 13:29:13 WET 2025
+Text: 
+URL: https://v.redd.it/lim3s6b93kde1
+Permalink: /r/btc/comments/1i3gclc/top_10_crypto_in_2024_among_our_traders_with_btc/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: voterit
+Title: Arkham found most wallets of Microstrategy with proof of reserve of 330 000 bitcoin
+Date: Fri Jan 17 13:26:01 WET 2025
+Text: After many of my comments under saylors posts Arkham posted update - with more wallets associated with MicroStrategy's
+
+Now the Bitcoin holdings are at 330000 bitcoins - still missing 120 000.
+
+Arkham tracker was showing long time [https://intel.arkm.com/explorer/entity/microstrategy](https://intel.arkm.com/explorer/entity/microstrategy) 4 times less - only 80 000 coins.
+
+At least one can see that saylor also selling bitcoin, was last time in 2023
+
+And pump of last months since November was mainly due to Mircostrategy bought almost 200 000 bitcoins
+URL: https://www.reddit.com/r/btc/comments/1i3gaeo/arkham_found_most_wallets_of_microstrategy_with/
+Permalink: /r/btc/comments/1i3gaeo/arkham_found_most_wallets_of_microstrategy_with/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 17 , 2025 - BTC
+Date: Fri Jan 17 12:01:09 WET 2025
+Text: 
+URL: https://youtu.be/ERxKe_lRm_Y
+Permalink: /r/btc/comments/1i3et1f/bitcoin_technical_analysis_for_january_17_2025_btc/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 17 , 2025 - BTC
+Date: Fri Jan 17 12:01:08 WET 2025
+Text: 
+URL: https://youtu.be/ERxKe_lRm_Y
+Permalink: /r/btc/comments/1i3et16/bitcoin_technical_analysis_for_january_17_2025_btc/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: HellYeahDamnWrite
+Title: Trump’s second term marks new cryptocurrency era 
+Date: Fri Jan 17 10:43:03 WET 2025
+Text: 
+URL: https://www.reuters.com/technology/trumps-inauguration-marks-new-era-cryptocurrency-2025-01-17/
+Permalink: /r/btc/comments/1i3dn8d/trumps_second_term_marks_new_cryptocurrency_era/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Surprise surprise now we have pump articles regarding a potential litecoin ETF, of course the media is still ignoring BCH and the effect an ETF will have, despite BCH having BTC as a direct precedent for approval of an ETF.
+Date: Fri Jan 17 10:01:20 WET 2025
+Text: [https://www.coindesk.com/markets/2025/01/16/litecoin-etf-could-attract-up-to-usd580m-of-inflows-if-adoption-mirrors-that-of-bitcoin-etfs](https://www.coindesk.com/markets/2025/01/16/litecoin-etf-could-attract-up-to-usd580m-of-inflows-if-adoption-mirrors-that-of-bitcoin-etfs)
+
+
+
+Litecoin founder allegedly pump and dumped his coins on twitter and allegedly insider traded on coinbase while being an employee , allegedly using fake volume bots: 
+
+
+
+6.5 million dollar fine for coinbase due to litecoin wash trading by employee: [https://decrypt.co/62155/coinbase-fined-6-5-million-over-trading-irregularities](https://decrypt.co/62155/coinbase-fined-6-5-million-over-trading-irregularities)
+
+
+
+HODL while dumping: [https://x.com/C3\_Nik/status/1083088105324843014](https://x.com/C3_Nik/status/1083088105324843014)
+URL: https://www.reddit.com/r/btc/comments/1i3d2rj/surprise_surprise_now_we_have_pump_articles/
+Permalink: /r/btc/comments/1i3d2rj/surprise_surprise_now_we_have_pump_articles/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: LovelyDayHere
+Title: Is Bitcoin (specifically: BTC) being set up as a 'bad bank' for the US national debt?
+Date: Fri Jan 17 09:37:52 WET 2025
+Text: I'm looking for opinions on this scenario:
+
+- US promotes the idea of 'national strategic Bitcoin reserve' or 'stockpile' - however they call it, the idea is the government spending fiat money to buy significant amounts of BTC
+
+- a kind of arms race of BTC accumulation breaks out where other countries (mostly vassals of the US) embark on similar strategy of stockpiling BTC on their taxpayer dime
+
+- USD experiences massive inflation (for simplicity assume that an amount equal to the US national debt is printed and used to pay off the debt while essentially collapsing the dollar as a reserve)
+
+- A new currency, backed by BTC and other hard assets like gold, is proposed to replace the USD. This would likely be fully digital again, and using blockchain technology to accomodate modern expectations towards digital money, and run by the central bank, i.e. it would be a CBDC in all but name.
+
+- USD savings would be convertible to this new digital currency (to lessen the public curiosity it might be called by a name that retains  'dollar' in it, as has been done with CBDC's in other countries), but due to inflation it would wipe out a significant amount of public wealth
+
+- Of course the ripple effects of USD inflation would be felt throughout the world, likely triggering cascades of financial crises which cumulate in another massive Global Financial Crisis, but which can be the excuse for other countries' central banks to push their own CBDCs to the forefront as 'solutions' (even though it'd be just replacing some existing fiat currencies by new fiat currencies)
+
+- in the wash of global financial instability, the focus on the US may be lessened as everyone is struggling with these problems
+
+What do you think about such a course of events?
+
+One question I have myself is whether BTC even needs to be retained as a reserve asset in such a scenario, or whether central bankers might find a way to implode BTC, crash the entire crypto market (possibly even blaming financial system woes on such a crypto collapse) _before_ pushing hard for CBDCs as their 'stability fix'.
+URL: https://www.reddit.com/r/btc/comments/1i3cs2q/is_bitcoin_specifically_btc_being_set_up_as_a_bad/
+Permalink: /r/btc/comments/1i3cs2q/is_bitcoin_specifically_btc_being_set_up_as_a_bad/
+Number of Comments: 35
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Imagineforyourself
+Title: 1BTC=being a future billionaire?
+Date: Fri Jan 17 08:34:33 WET 2025
+Text: What are the bullet proof logical reasoning that having 1btc in medium term can make you extremely wealthy. I am after solid statistical proof please. Thank you ☺️ 
+URL: https://www.reddit.com/r/btc/comments/1i3byyj/1btcbeing_a_future_billionaire/
+Permalink: /r/btc/comments/1i3byyj/1btcbeing_a_future_billionaire/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: SEC CHAIR GENSLER SLAMMED FOR FAILED BITCOIN POLICIES
+JOE: You either stood in the way of an extraordinary industry or utterly failed to stop a massive bubble.
+Date: Fri Jan 17 06:05:36 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=dYgr7M5XjRI&amp;si=a3JYFOqyQ68S1EI8
+Permalink: /r/btc/comments/1i39yx7/sec_chair_gensler_slammed_for_failed_bitcoin/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: xAlwaysAngelx
+Title: Real or not?
+Date: Fri Jan 17 01:15:19 WET 2025
+Text: https://givespacex.io
+URL: https://www.reddit.com/r/btc/comments/1i34r1u/real_or_not/
+Permalink: /r/btc/comments/1i34r1u/real_or_not/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: daskalou
+Title: Banned from r/Bitcoin for mentioning aliens and quantum computing threats
+Date: Fri Jan 17 00:10:56 WET 2025
+Text: Tried to get mental juices flowing with thought-provoking posts (and hoping for well-thought-out replies) on the r \[SLASH\] Bitcoin subreddit, instead ended up being banned with an immature response from a moderator:
+
+&gt;First you post a stupid thread about aliens and now you post a stupid thread about quantum computers. Look at the these charts.
+
+&gt;[https://www.xe.com/currencycharts/?from=BTC&amp;to=XAG&amp;view=10Y](https://www.xe.com/currencycharts/?from=BTC&amp;to=XAG&amp;view=10Y)
+
+&gt;[https://www.xe.com/currencycharts/?from=BTC&amp;to=XAU&amp;view=10Y](https://www.xe.com/currencycharts/?from=BTC&amp;to=XAU&amp;view=10Y)
+
+&gt;Now go shill shiny rocks somewhere else. We are not interested.
+
+My [first post](https://old.reddit.com/r/Bitcoin/comments/1hl666i/alien_contact_or_bitcoin/) was asking about the threat to Bitcoin if an announcement was made that we had made alien contact, and my [second post](https://old.reddit.com/r/Bitcoin/comments/1i06ttd/wf_says_quantum_computers_to_break_encryption_in/) was linking to a YouTube video which suggests quantum computers could break encryption.
+
+TL;DR
+
+**Definition of irony:**
+
+Moderators of a "Freedom Money" group suppressing and denigrating those who dare speak about anything outside their rigid world view.
+URL: https://www.reddit.com/r/btc/comments/1i33fvn/banned_from_rbitcoin_for_mentioning_aliens_and/
+Permalink: /r/btc/comments/1i33fvn/banned_from_rbitcoin_for_mentioning_aliens_and/
+Number of Comments: 29
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: brgmgl
+Title: When will shorts feel maximum pain?
+Date: Fri Jan 17 19:56:40 WET 2025
+Text: I don’t see any liquidation squeeze yet. 
+URL: https://www.reddit.com/r/btc/comments/1i3p62m/when_will_shorts_feel_maximum_pain/
+Permalink: /r/btc/comments/1i3p62m/when_will_shorts_feel_maximum_pain/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: 2q_x
+Title: THINKING FORTH - A Language and Philosophy for Solving Problems [PDF]
+Date: Fri Jan 17 18:54:20 WET 2025
+Text: 
+URL: https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf
+Permalink: /r/btc/comments/1i3npyq/thinking_forth_a_language_and_philosophy_for/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Coinbase user discovers it costs $7 to send $5 on the Ethereum network. Yes the famous cryptos like ETH and BTC are not functional blockchains, they have become ponzies that you must hold on centralized exchanges and never use for any purpose except dumping on greater fools.
+Date: Fri Jan 17 18:12:41 WET 2025
+Text: 
+URL: https://www.reddit.com/r/CoinBase/comments/1i2zdn4/there_is_no_way_eth_is_worth_the_hassle_7_to_send/
+Permalink: /r/btc/comments/1i3mqqn/coinbase_user_discovers_it_costs_7_to_send_5_on/
+Number of Comments: 49
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: sbifido
+Title: Explaining BTC ordinals
+Date: Fri Jan 17 17:48:36 WET 2025
+Text: Eth and smart chains use smart contracts to store nft in form of a couple (owner of nft pbk, URL of image representing the nft).
+When you sell your nft you submit a transaction to the contract and it updates its record with the new owner pbk.
+
+Btc does not have smart contracts. Here is where ordinals come into place.
+Ordinals are Satoshi with inscription.
+
+A Satoshi is 1/100mln BTC.
+
+Inscribing a Satoshi means sending a transaction with one output that contains exactly one Satoshi and properly formatted metadata (for example the bytes representing an image)
+
+They are named ordinals because they are actually enumerated in order (1, 2, ...)
+
+Changing the owner of the ordinal require sending a transaction to the new owner with input that Satoshi. Note that data representing the nft will be available in the original transaction.
+
+An example of ordinals is Bitcoin Frogs, created in block 654321 in the first transaction.
+
+For more detailed information, check out the Ordinals Protocol.
+URL: https://www.reddit.com/r/btc/comments/1i3m626/explaining_btc_ordinals/
+Permalink: /r/btc/comments/1i3m626/explaining_btc_ordinals/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Bitcoin Cash 2025 Velma Upgrade Enhances Smart Contract Capabilities
+Date: Fri Jan 17 17:44:11 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/bitcoin-cash-2025-velma-upgrade-enhances-smart-contract-capabilities/
+Permalink: /r/btc/comments/1i3m28p/bitcoin_cash_2025_velma_upgrade_enhances_smart/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: lalaci
+Title: Bitcoin soars past $100,000 ahead of possible early action on crypto by Trump &amp;#x2d; WTOP News
+Date: Fri Jan 17 17:28:45 WET 2025
+Text: 
+URL: https://wtop.com/business-finance/2025/01/bitcoin-soars-past-100000-ahead-of-possible-early-action-on-crypto-by-trump/
+Permalink: /r/btc/comments/1i3lp0w/bitcoin_soars_past_100000_ahead_of_possible_early/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: Pay to Script CHIP (2026) FAQs
+Date: Fri Jan 17 16:45:17 WET 2025
+Text: 
+URL: https://bitcoincashresearch.org/t/chip-2024-12-p2s-pay-to-script/1451/4?u=bitjson
+Permalink: /r/btc/comments/1i3kngl/pay_to_script_chip_2026_faqs/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: On shielded address for Bitcoin Cash using Zero-Knowledge Proof (ZKP) covenants
+Date: Fri Jan 17 16:00:14 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1880280241601708219
+Permalink: /r/btc/comments/1i3jkre/on_shielded_address_for_bitcoin_cash_using/
+Number of Comments: 5
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: bitjson
+Title: OP_EXEC is like requiring motorcycle helmets in a swimming pool
+Date: Fri Jan 17 13:44:07 WET 2025
+Text: 
+URL: https://x.com/bitjson/status/1880227699198714348
+Permalink: /r/btc/comments/1i3gmuz/op_exec_is_like_requiring_motorcycle_helmets_in_a/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: Bitcoin Miner BitFuFu Aims to Boost Operations with Oklahoma Facility Acquisition
+Date: Fri Jan 17 13:43:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/bitcoin-miner-bitfufu-aims-to-boost-operations-with-oklahoma-facility-acquisition/
+Permalink: /r/btc/comments/1i3gmrq/bitcoin_miner_bitfufu_aims_to_boost_operations/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: capital_com
+Title: Top 10 crypto in 2024 among our traders, with BTC leading by far
+Date: Fri Jan 17 13:29:13 WET 2025
+Text: 
+URL: https://v.redd.it/lim3s6b93kde1
+Permalink: /r/btc/comments/1i3gclc/top_10_crypto_in_2024_among_our_traders_with_btc/
+Number of Comments: 7
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: voterit
+Title: Arkham found most wallets of Microstrategy with proof of reserve of 330 000 bitcoin
+Date: Fri Jan 17 13:26:01 WET 2025
+Text: After many of my comments under saylors posts Arkham posted update - with more wallets associated with MicroStrategy's
+
+Now the Bitcoin holdings are at 330000 bitcoins - still missing 120 000.
+
+Arkham tracker was showing long time [https://intel.arkm.com/explorer/entity/microstrategy](https://intel.arkm.com/explorer/entity/microstrategy) 4 times less - only 80 000 coins.
+
+At least one can see that saylor also selling bitcoin, was last time in 2023
+
+And pump of last months since November was mainly due to Mircostrategy bought almost 200 000 bitcoins
+URL: https://www.reddit.com/r/btc/comments/1i3gaeo/arkham_found_most_wallets_of_microstrategy_with/
+Permalink: /r/btc/comments/1i3gaeo/arkham_found_most_wallets_of_microstrategy_with/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 17 , 2025 - BTC
+Date: Fri Jan 17 12:01:09 WET 2025
+Text: 
+URL: https://youtu.be/ERxKe_lRm_Y
+Permalink: /r/btc/comments/1i3et1f/bitcoin_technical_analysis_for_january_17_2025_btc/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Far_Ad379
+Title: Bitcoin Technical Analysis for January 17 , 2025 - BTC
+Date: Fri Jan 17 12:01:08 WET 2025
+Text: 
+URL: https://youtu.be/ERxKe_lRm_Y
+Permalink: /r/btc/comments/1i3et16/bitcoin_technical_analysis_for_january_17_2025_btc/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: HellYeahDamnWrite
+Title: Trump’s second term marks new cryptocurrency era 
+Date: Fri Jan 17 10:43:03 WET 2025
+Text: 
+URL: https://www.reuters.com/technology/trumps-inauguration-marks-new-era-cryptocurrency-2025-01-17/
+Permalink: /r/btc/comments/1i3dn8d/trumps_second_term_marks_new_cryptocurrency_era/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Surprise surprise now we have pump articles regarding a potential litecoin ETF, of course the media is still ignoring BCH and the effect an ETF will have, despite BCH having BTC as a direct precedent for approval of an ETF.
+Date: Fri Jan 17 10:01:20 WET 2025
+Text: [https://www.coindesk.com/markets/2025/01/16/litecoin-etf-could-attract-up-to-usd580m-of-inflows-if-adoption-mirrors-that-of-bitcoin-etfs](https://www.coindesk.com/markets/2025/01/16/litecoin-etf-could-attract-up-to-usd580m-of-inflows-if-adoption-mirrors-that-of-bitcoin-etfs)
+
+
+
+Litecoin founder allegedly pump and dumped his coins on twitter and allegedly insider traded on coinbase while being an employee , allegedly using fake volume bots: 
+
+
+
+6.5 million dollar fine for coinbase due to litecoin wash trading by employee: [https://decrypt.co/62155/coinbase-fined-6-5-million-over-trading-irregularities](https://decrypt.co/62155/coinbase-fined-6-5-million-over-trading-irregularities)
+
+
+
+HODL while dumping: [https://x.com/C3\_Nik/status/1083088105324843014](https://x.com/C3_Nik/status/1083088105324843014)
+URL: https://www.reddit.com/r/btc/comments/1i3d2rj/surprise_surprise_now_we_have_pump_articles/
+Permalink: /r/btc/comments/1i3d2rj/surprise_surprise_now_we_have_pump_articles/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: LovelyDayHere
+Title: Is Bitcoin (specifically: BTC) being set up as a 'bad bank' for the US national debt?
+Date: Fri Jan 17 09:37:52 WET 2025
+Text: I'm looking for opinions on this scenario:
+
+- US promotes the idea of 'national strategic Bitcoin reserve' or 'stockpile' - however they call it, the idea is the government spending fiat money to buy significant amounts of BTC
+
+- a kind of arms race of BTC accumulation breaks out where other countries (mostly vassals of the US) embark on similar strategy of stockpiling BTC on their taxpayer dime
+
+- USD experiences massive inflation (for simplicity assume that an amount equal to the US national debt is printed and used to pay off the debt while essentially collapsing the dollar as a reserve)
+
+- A new currency, backed by BTC and other hard assets like gold, is proposed to replace the USD. This would likely be fully digital again, and using blockchain technology to accomodate modern expectations towards digital money, and run by the central bank, i.e. it would be a CBDC in all but name.
+
+- USD savings would be convertible to this new digital currency (to lessen the public curiosity it might be called by a name that retains  'dollar' in it, as has been done with CBDC's in other countries), but due to inflation it would wipe out a significant amount of public wealth
+
+- Of course the ripple effects of USD inflation would be felt throughout the world, likely triggering cascades of financial crises which cumulate in another massive Global Financial Crisis, but which can be the excuse for other countries' central banks to push their own CBDCs to the forefront as 'solutions' (even though it'd be just replacing some existing fiat currencies by new fiat currencies)
+
+- in the wash of global financial instability, the focus on the US may be lessened as everyone is struggling with these problems
+
+What do you think about such a course of events?
+
+One question I have myself is whether BTC even needs to be retained as a reserve asset in such a scenario, or whether central bankers might find a way to implode BTC, crash the entire crypto market (possibly even blaming financial system woes on such a crypto collapse) _before_ pushing hard for CBDCs as their 'stability fix'.
+URL: https://www.reddit.com/r/btc/comments/1i3cs2q/is_bitcoin_specifically_btc_being_set_up_as_a_bad/
+Permalink: /r/btc/comments/1i3cs2q/is_bitcoin_specifically_btc_being_set_up_as_a_bad/
+Number of Comments: 35
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Imagineforyourself
+Title: 1BTC=being a future billionaire?
+Date: Fri Jan 17 08:34:33 WET 2025
+Text: What are the bullet proof logical reasoning that having 1btc in medium term can make you extremely wealthy. I am after solid statistical proof please. Thank you ☺️ 
+URL: https://www.reddit.com/r/btc/comments/1i3byyj/1btcbeing_a_future_billionaire/
+Permalink: /r/btc/comments/1i3byyj/1btcbeing_a_future_billionaire/
+Number of Comments: 6
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: orphic2
+Title: SEC CHAIR GENSLER SLAMMED FOR FAILED BITCOIN POLICIES
+JOE: You either stood in the way of an extraordinary industry or utterly failed to stop a massive bubble.
+Date: Fri Jan 17 06:05:36 WET 2025
+Text: 
+URL: https://youtube.com/watch?v=dYgr7M5XjRI&amp;si=a3JYFOqyQ68S1EI8
+Permalink: /r/btc/comments/1i39yx7/sec_chair_gensler_slammed_for_failed_bitcoin/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: xAlwaysAngelx
+Title: Real or not?
+Date: Fri Jan 17 01:15:19 WET 2025
+Text: https://givespacex.io
+URL: https://www.reddit.com/r/btc/comments/1i34r1u/real_or_not/
+Permalink: /r/btc/comments/1i34r1u/real_or_not/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: daskalou
+Title: Banned from r/Bitcoin for mentioning aliens and quantum computing threats
+Date: Fri Jan 17 00:10:56 WET 2025
+Text: Tried to get mental juices flowing with thought-provoking posts (and hoping for well-thought-out replies) on the r \[SLASH\] Bitcoin subreddit, instead ended up being banned with an immature response from a moderator:
+
+&gt;First you post a stupid thread about aliens and now you post a stupid thread about quantum computers. Look at the these charts.
+
+&gt;[https://www.xe.com/currencycharts/?from=BTC&amp;to=XAG&amp;view=10Y](https://www.xe.com/currencycharts/?from=BTC&amp;to=XAG&amp;view=10Y)
+
+&gt;[https://www.xe.com/currencycharts/?from=BTC&amp;to=XAU&amp;view=10Y](https://www.xe.com/currencycharts/?from=BTC&amp;to=XAU&amp;view=10Y)
+
+&gt;Now go shill shiny rocks somewhere else. We are not interested.
+
+My [first post](https://old.reddit.com/r/Bitcoin/comments/1hl666i/alien_contact_or_bitcoin/) was asking about the threat to Bitcoin if an announcement was made that we had made alien contact, and my [second post](https://old.reddit.com/r/Bitcoin/comments/1i06ttd/wf_says_quantum_computers_to_break_encryption_in/) was linking to a YouTube video which suggests quantum computers could break encryption.
+
+TL;DR
+
+**Definition of irony:**
+
+Moderators of a "Freedom Money" group suppressing and denigrating those who dare speak about anything outside their rigid world view.
+URL: https://www.reddit.com/r/btc/comments/1i33fvn/banned_from_rbitcoin_for_mentioning_aliens_and/
+Permalink: /r/btc/comments/1i33fvn/banned_from_rbitcoin_for_mentioning_aliens_and/
+Number of Comments: 29
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

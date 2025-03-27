@@ -1,0 +1,568 @@
+Author: Distinct-Hold7796
+Title: Comparing last two Bitcoin Cycles with the current one
+Date: Thu Jan 09 20:43:35 WET 2025
+Text: I recently drew a plot comparing **Bitcoin's cumulative daily percentage change** across three different market cycles:
+
+https://preview.redd.it/vlg3vpoa51ce1.png?width=2379&amp;format=png&amp;auto=webp&amp;s=741af948228081c0ea76452888f5b51de645577a
+
+1. **Oct 2016 - Jan 2017**: The early phase of the legendary 2017 bull run.
+2. **Oct 2020 - Jan 2021**: The heart of the explosive 2020-2021 bull market, where Bitcoin surged from \~$10K to over $30K.
+3. **Oct 2024 - Jan 2025**: The current cycle (ongoing), showing relatively flat growth so far.
+
+# Key Takeaways from the Plot:
+
+* The **2020-2021 cycle** saw the most dramatic cumulative growth, with Bitcoin nearly tripling in price over just three months. This period reflects heightened institutional interest and mainstream adoption of BTC.
+* The **2016-2017 cycle** showed moderate, steady growth, signaling the start of what would become Bitcoin’s first major mainstream rally.
+* The **2024-2025 cycle** so far has been relatively quiet compared to 2020s. This closely resembles pattern seen during the 2017 bull run over the same period.
+
+Should the current cycle repeat 2017's bull run, where BTC peaked at end of December 2017, we can expect a market explosion latter this year. 
+
+Thoughts?
+
+\#Crypto #Bitcoin #BTC #DataAnalysis #CryptoTrends
+
+I recently drew a plot comparing Bitcoin's cumulative daily percentage change across three different market cycles:
+
+* Oct 2016 - Jan 2017: The early phase of the legendary 2017 bull run.
+* Oct 2020 - Jan 2021: The peak of the explosive 2020-2021 bull market, where Bitcoin surged from \~$10K to over $30K.
+* Oct 2024 - Jan 2025: The ongoing cycle, which has shown relatively flat growth so far.
+
+# Key Takeaways from the Plot:
+
+1. 2020-2021 cycle: This period saw the most dramatic cumulative growth, with Bitcoin nearly tripling in price in just three months. The rally was driven by heightened institutional interest and widespread adoption.
+2. 2016-2017 cycle: Moderate, steady growth characterized this period, marking the beginning of Bitcoin's first major bull run.
+3. 2024-2025 cycle: So far, the current cycle has been relatively quiet compared to the explosive 2020 bull run. Interestingly, it closely resembles the 2016-2017 cycle over the same time frame.
+
+If the current cycle follows a similar pattern to 2017, where Bitcoin peaked at the end of December, we could potentially witness the peak of BTC in the third quarter this year. It’s fascinating to see how history might repeat itself in the crypto space.
+
+What do you think? Are we due for another massive rally, or is this time different?
+
+\#Crypto #Bitcoin #BTC #DataAnalysis #CryptoTrends
+
+
+URL: https://www.reddit.com/r/btc/comments/1hxmqhj/comparing_last_two_bitcoin_cycles_with_the/
+Permalink: /r/btc/comments/1hxmqhj/comparing_last_two_bitcoin_cycles_with_the/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: UK Judge Dismisses James Howells' $770 Million Bitcoin Landfill Case
+Date: Thu Jan 09 20:02:10 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/uk-judge-dismisses-james-howells-770-million-bitcoin-landfill-case/
+Permalink: /r/btc/comments/1hxlrgz/uk_judge_dismisses_james_howells_770_million/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Massive_Ad3670
+Title: BitcoinCash &amp; BTC Wallets How to Check
+Date: Thu Jan 09 16:35:12 WET 2025
+Text: Hey all - I have developed a bot that detects large transactions, (Whale alerts, but it's free)
+
+So what i'm trying to figure out is, how can I see which wallets belong to exchanges? Is there a public directory? Or some common knowledge i'm missing?
+
+Let me know please! This is completely free to the public. 
+URL: https://www.reddit.com/r/btc/comments/1hxgtna/bitcoincash_btc_wallets_how_to_check/
+Permalink: /r/btc/comments/1hxgtna/bitcoincash_btc_wallets_how_to_check/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Fulcrum Stays Performant (GP Shorts)
+Date: Thu Jan 09 16:21:53 WET 2025
+Text: 
+URL: https://v.redd.it/c3pq5qlhuzbe1
+Permalink: /r/btc/comments/1hxgi78/fulcrum_stays_performant_gp_shorts/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Stolen Silk-Road coins going to be liquidated before trump gets in, however they have no BCH as the thief already liquidated them many years ago and even posted about doing so.
+Date: Thu Jan 09 12:40:21 WET 2025
+Text: 
+URL: https://decrypt.co/300133/us-court-greenlights-sale-of-6-5b-in-seized-silk-road-bitcoin
+Permalink: /r/btc/comments/1hxbwkp/stolen_silkroad_coins_going_to_be_liquidated/
+Number of Comments: 22
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: LovelyDayHere
+Title: Bitcoin's ability to end wage slavery
+Date: Thu Jan 09 11:27:00 WET 2025
+Text: Let's look at this with some numbers.
+
+Take a world population rough estimate of 8 billion.
+
+Divide perhaps by 3 as an approximation to the working population (rest are too young or too old to be working, they need to be housed, clothed and fed and cared for medically by the workers).
+
+Assume those workers need to be paid a salary at least once a month.
+
+That's 12 wage payments a year.
+
+At 7 tps (220M tx/year), BTC can only handle monthly salary payments for less than 1% (it's closer to half a percent actually) of those workers. _That's without having space for any other transactions people need to do with their wages._
+
+Now, increase it's transactional capacity by about 100-200x , and we are getting into the volume range where at least it could pay peoples' salaries, and not just those of the less-than-1%.
+
+Another 100x the capacity, and those people might be able to use it for their monthly expenditures, which of course would form the income streams that businesses in turn need to pay their employees their salaries in the first place.
+
+---
+
+_FYI: when I talk about ending 'wage slavery', I am not referring to people not having to work. I am referring to people having the ability to earn sound, hard money in exchange for their labor. The kind of 'sound, hard money' that I look to Bitcoin (the idea) of providing to people all around the world in the form of decentralized, non-debasable p2p electronic cash._
+URL: https://www.reddit.com/r/btc/comments/1hxar09/bitcoins_ability_to_end_wage_slavery/
+Permalink: /r/btc/comments/1hxar09/bitcoins_ability_to_end_wage_slavery/
+Number of Comments: 33
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Moneronando
+Title: FC Galaxy are the champions of the Relampago Cup BCH in Cuba! Thanks Bitcoin Cash community for your support.
+Date: Thu Jan 09 05:44:25 WET 2025
+Text: 
+URL: https://i.redd.it/0b8wojw1pwbe1.jpeg
+Permalink: /r/btc/comments/1hx61a8/fc_galaxy_are_the_champions_of_the_relampago_cup/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: US Government Set to Liquidate Massive Silk Road Bitcoin Stash as Trump Comes into Office
+Date: Thu Jan 09 03:05:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/us-government-set-to-liquidate-massive-silk-road-bitcoin-stash-as-trump-comes-into-office/
+Permalink: /r/btc/comments/1hx32zr/us_government_set_to_liquidate_massive_silk_road/
+Number of Comments: 130
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: SluttySissyTari69
+Title: Hiiii I Need help lplease My na,e is Tara and please are there someone who
+Date: Thu Jan 09 00:54:11 WET 2025
+Text: Borrow me 1,7 btc? That would be Grate.
+I Can Tell YOU why in private Chat Chat chattteti Chat 💭 
+URL: https://www.reddit.com/r/btc/comments/1hx0b3j/hiiii_i_need_help_lplease_my_nae_is_tara_and/
+Permalink: /r/btc/comments/1hx0b3j/hiiii_i_need_help_lplease_my_nae_is_tara_and/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Distinct-Hold7796
+Title: Comparing last two Bitcoin Cycles with the current one
+Date: Thu Jan 09 20:43:35 WET 2025
+Text: I recently drew a plot comparing **Bitcoin's cumulative daily percentage change** across three different market cycles:
+
+https://preview.redd.it/vlg3vpoa51ce1.png?width=2379&amp;format=png&amp;auto=webp&amp;s=741af948228081c0ea76452888f5b51de645577a
+
+1. **Oct 2016 - Jan 2017**: The early phase of the legendary 2017 bull run.
+2. **Oct 2020 - Jan 2021**: The heart of the explosive 2020-2021 bull market, where Bitcoin surged from \~$10K to over $30K.
+3. **Oct 2024 - Jan 2025**: The current cycle (ongoing), showing relatively flat growth so far.
+
+# Key Takeaways from the Plot:
+
+* The **2020-2021 cycle** saw the most dramatic cumulative growth, with Bitcoin nearly tripling in price over just three months. This period reflects heightened institutional interest and mainstream adoption of BTC.
+* The **2016-2017 cycle** showed moderate, steady growth, signaling the start of what would become Bitcoin’s first major mainstream rally.
+* The **2024-2025 cycle** so far has been relatively quiet compared to 2020s. This closely resembles pattern seen during the 2017 bull run over the same period.
+
+Should the current cycle repeat 2017's bull run, where BTC peaked at end of December 2017, we can expect a market explosion latter this year. 
+
+Thoughts?
+
+\#Crypto #Bitcoin #BTC #DataAnalysis #CryptoTrends
+
+I recently drew a plot comparing Bitcoin's cumulative daily percentage change across three different market cycles:
+
+* Oct 2016 - Jan 2017: The early phase of the legendary 2017 bull run.
+* Oct 2020 - Jan 2021: The peak of the explosive 2020-2021 bull market, where Bitcoin surged from \~$10K to over $30K.
+* Oct 2024 - Jan 2025: The ongoing cycle, which has shown relatively flat growth so far.
+
+# Key Takeaways from the Plot:
+
+1. 2020-2021 cycle: This period saw the most dramatic cumulative growth, with Bitcoin nearly tripling in price in just three months. The rally was driven by heightened institutional interest and widespread adoption.
+2. 2016-2017 cycle: Moderate, steady growth characterized this period, marking the beginning of Bitcoin's first major bull run.
+3. 2024-2025 cycle: So far, the current cycle has been relatively quiet compared to the explosive 2020 bull run. Interestingly, it closely resembles the 2016-2017 cycle over the same time frame.
+
+If the current cycle follows a similar pattern to 2017, where Bitcoin peaked at the end of December, we could potentially witness the peak of BTC in the third quarter this year. It’s fascinating to see how history might repeat itself in the crypto space.
+
+What do you think? Are we due for another massive rally, or is this time different?
+
+\#Crypto #Bitcoin #BTC #DataAnalysis #CryptoTrends
+
+
+URL: https://www.reddit.com/r/btc/comments/1hxmqhj/comparing_last_two_bitcoin_cycles_with_the/
+Permalink: /r/btc/comments/1hxmqhj/comparing_last_two_bitcoin_cycles_with_the/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: UK Judge Dismisses James Howells' $770 Million Bitcoin Landfill Case
+Date: Thu Jan 09 20:02:10 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/uk-judge-dismisses-james-howells-770-million-bitcoin-landfill-case/
+Permalink: /r/btc/comments/1hxlrgz/uk_judge_dismisses_james_howells_770_million/
+Number of Comments: 13
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Massive_Ad3670
+Title: BitcoinCash &amp; BTC Wallets How to Check
+Date: Thu Jan 09 16:35:12 WET 2025
+Text: Hey all - I have developed a bot that detects large transactions, (Whale alerts, but it's free)
+
+So what i'm trying to figure out is, how can I see which wallets belong to exchanges? Is there a public directory? Or some common knowledge i'm missing?
+
+Let me know please! This is completely free to the public. 
+URL: https://www.reddit.com/r/btc/comments/1hxgtna/bitcoincash_btc_wallets_how_to_check/
+Permalink: /r/btc/comments/1hxgtna/bitcoincash_btc_wallets_how_to_check/
+Number of Comments: 3
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Fulcrum Stays Performant (GP Shorts)
+Date: Thu Jan 09 16:21:53 WET 2025
+Text: 
+URL: https://v.redd.it/c3pq5qlhuzbe1
+Permalink: /r/btc/comments/1hxgi78/fulcrum_stays_performant_gp_shorts/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Stolen Silk-Road coins going to be liquidated before trump gets in, however they have no BCH as the thief already liquidated them many years ago and even posted about doing so.
+Date: Thu Jan 09 12:40:21 WET 2025
+Text: 
+URL: https://decrypt.co/300133/us-court-greenlights-sale-of-6-5b-in-seized-silk-road-bitcoin
+Permalink: /r/btc/comments/1hxbwkp/stolen_silkroad_coins_going_to_be_liquidated/
+Number of Comments: 22
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: LovelyDayHere
+Title: Bitcoin's ability to end wage slavery
+Date: Thu Jan 09 11:27:00 WET 2025
+Text: Let's look at this with some numbers.
+
+Take a world population rough estimate of 8 billion.
+
+Divide perhaps by 3 as an approximation to the working population (rest are too young or too old to be working, they need to be housed, clothed and fed and cared for medically by the workers).
+
+Assume those workers need to be paid a salary at least once a month.
+
+That's 12 wage payments a year.
+
+At 7 tps (220M tx/year), BTC can only handle monthly salary payments for less than 1% (it's closer to half a percent actually) of those workers. _That's without having space for any other transactions people need to do with their wages._
+
+Now, increase it's transactional capacity by about 100-200x , and we are getting into the volume range where at least it could pay peoples' salaries, and not just those of the less-than-1%.
+
+Another 100x the capacity, and those people might be able to use it for their monthly expenditures, which of course would form the income streams that businesses in turn need to pay their employees their salaries in the first place.
+
+---
+
+_FYI: when I talk about ending 'wage slavery', I am not referring to people not having to work. I am referring to people having the ability to earn sound, hard money in exchange for their labor. The kind of 'sound, hard money' that I look to Bitcoin (the idea) of providing to people all around the world in the form of decentralized, non-debasable p2p electronic cash._
+URL: https://www.reddit.com/r/btc/comments/1hxar09/bitcoins_ability_to_end_wage_slavery/
+Permalink: /r/btc/comments/1hxar09/bitcoins_ability_to_end_wage_slavery/
+Number of Comments: 33
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Moneronando
+Title: FC Galaxy are the champions of the Relampago Cup BCH in Cuba! Thanks Bitcoin Cash community for your support.
+Date: Thu Jan 09 05:44:25 WET 2025
+Text: 
+URL: https://i.redd.it/0b8wojw1pwbe1.jpeg
+Permalink: /r/btc/comments/1hx61a8/fc_galaxy_are_the_champions_of_the_relampago_cup/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: btcxio
+Title: US Government Set to Liquidate Massive Silk Road Bitcoin Stash as Trump Comes into Office
+Date: Thu Jan 09 03:05:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/us-government-set-to-liquidate-massive-silk-road-bitcoin-stash-as-trump-comes-into-office/
+Permalink: /r/btc/comments/1hx32zr/us_government_set_to_liquidate_massive_silk_road/
+Number of Comments: 130
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: SluttySissyTari69
+Title: Hiiii I Need help lplease My na,e is Tara and please are there someone who
+Date: Thu Jan 09 00:54:11 WET 2025
+Text: Borrow me 1,7 btc? That would be Grate.
+I Can Tell YOU why in private Chat Chat chattteti Chat 💭 
+URL: https://www.reddit.com/r/btc/comments/1hx0b3j/hiiii_i_need_help_lplease_my_nae_is_tara_and/
+Permalink: /r/btc/comments/1hx0b3j/hiiii_i_need_help_lplease_my_nae_is_tara_and/
+Number of Comments: 2
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Distinct-Hold7796
+Title: Comparing last two Bitcoin Cycles with the current one
+Date: Thu Jan 09 20:43:35 WET 2025
+Text: I recently drew a plot comparing **Bitcoin's cumulative daily percentage change** across three different market cycles:
+
+https://preview.redd.it/vlg3vpoa51ce1.png?width=2379&amp;format=png&amp;auto=webp&amp;s=741af948228081c0ea76452888f5b51de645577a
+
+1. **Oct 2016 - Jan 2017**: The early phase of the legendary 2017 bull run.
+2. **Oct 2020 - Jan 2021**: The heart of the explosive 2020-2021 bull market, where Bitcoin surged from \~$10K to over $30K.
+3. **Oct 2024 - Jan 2025**: The current cycle (ongoing), showing relatively flat growth so far.
+
+# Key Takeaways from the Plot:
+
+* The **2020-2021 cycle** saw the most dramatic cumulative growth, with Bitcoin nearly tripling in price over just three months. This period reflects heightened institutional interest and mainstream adoption of BTC.
+* The **2016-2017 cycle** showed moderate, steady growth, signaling the start of what would become Bitcoin’s first major mainstream rally.
+* The **2024-2025 cycle** so far has been relatively quiet compared to 2020s. This closely resembles pattern seen during the 2017 bull run over the same period.
+
+Should the current cycle repeat 2017's bull run, where BTC peaked at end of December 2017, we can expect a market explosion latter this year. 
+
+Thoughts?
+
+\#Crypto #Bitcoin #BTC #DataAnalysis #CryptoTrends
+
+I recently drew a plot comparing Bitcoin's cumulative daily percentage change across three different market cycles:
+
+* Oct 2016 - Jan 2017: The early phase of the legendary 2017 bull run.
+* Oct 2020 - Jan 2021: The peak of the explosive 2020-2021 bull market, where Bitcoin surged from \~$10K to over $30K.
+* Oct 2024 - Jan 2025: The ongoing cycle, which has shown relatively flat growth so far.
+
+# Key Takeaways from the Plot:
+
+1. 2020-2021 cycle: This period saw the most dramatic cumulative growth, with Bitcoin nearly tripling in price in just three months. The rally was driven by heightened institutional interest and widespread adoption.
+2. 2016-2017 cycle: Moderate, steady growth characterized this period, marking the beginning of Bitcoin's first major bull run.
+3. 2024-2025 cycle: So far, the current cycle has been relatively quiet compared to the explosive 2020 bull run. Interestingly, it closely resembles the 2016-2017 cycle over the same time frame.
+
+If the current cycle follows a similar pattern to 2017, where Bitcoin peaked at the end of December, we could potentially witness the peak of BTC in the third quarter this year. It’s fascinating to see how history might repeat itself in the crypto space.
+
+What do you think? Are we due for another massive rally, or is this time different?
+
+\#Crypto #Bitcoin #BTC #DataAnalysis #CryptoTrends
+
+
+URL: https://www.reddit.com/r/btc/comments/1hxmqhj/comparing_last_two_bitcoin_cycles_with_the/
+Permalink: /r/btc/comments/1hxmqhj/comparing_last_two_bitcoin_cycles_with_the/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: UK Judge Dismisses James Howells' $770 Million Bitcoin Landfill Case
+Date: Thu Jan 09 20:02:10 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/uk-judge-dismisses-james-howells-770-million-bitcoin-landfill-case/
+Permalink: /r/btc/comments/1hxlrgz/uk_judge_dismisses_james_howells_770_million/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Massive_Ad3670
+Title: BitcoinCash &amp; BTC Wallets How to Check
+Date: Thu Jan 09 16:35:12 WET 2025
+Text: Hey all - I have developed a bot that detects large transactions, (Whale alerts, but it's free)
+
+So what i'm trying to figure out is, how can I see which wallets belong to exchanges? Is there a public directory? Or some common knowledge i'm missing?
+
+Let me know please! This is completely free to the public. 
+URL: https://www.reddit.com/r/btc/comments/1hxgtna/bitcoincash_btc_wallets_how_to_check/
+Permalink: /r/btc/comments/1hxgtna/bitcoincash_btc_wallets_how_to_check/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Fulcrum Stays Performant (GP Shorts)
+Date: Thu Jan 09 16:21:53 WET 2025
+Text: 
+URL: https://v.redd.it/c3pq5qlhuzbe1
+Permalink: /r/btc/comments/1hxgi78/fulcrum_stays_performant_gp_shorts/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Stolen Silk-Road coins going to be liquidated before trump gets in, however they have no BCH as the thief already liquidated them many years ago and even posted about doing so.
+Date: Thu Jan 09 12:40:21 WET 2025
+Text: 
+URL: https://decrypt.co/300133/us-court-greenlights-sale-of-6-5b-in-seized-silk-road-bitcoin
+Permalink: /r/btc/comments/1hxbwkp/stolen_silkroad_coins_going_to_be_liquidated/
+Number of Comments: 22
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: LovelyDayHere
+Title: Bitcoin's ability to end wage slavery
+Date: Thu Jan 09 11:27:00 WET 2025
+Text: Let's look at this with some numbers.
+
+Take a world population rough estimate of 8 billion.
+
+Divide perhaps by 3 as an approximation to the working population (rest are too young or too old to be working, they need to be housed, clothed and fed and cared for medically by the workers).
+
+Assume those workers need to be paid a salary at least once a month.
+
+That's 12 wage payments a year.
+
+At 7 tps (220M tx/year), BTC can only handle monthly salary payments for less than 1% (it's closer to half a percent actually) of those workers. _That's without having space for any other transactions people need to do with their wages._
+
+Now, increase it's transactional capacity by about 100-200x , and we are getting into the volume range where at least it could pay peoples' salaries, and not just those of the less-than-1%.
+
+Another 100x the capacity, and those people might be able to use it for their monthly expenditures, which of course would form the income streams that businesses in turn need to pay their employees their salaries in the first place.
+
+---
+
+_FYI: when I talk about ending 'wage slavery', I am not referring to people not having to work. I am referring to people having the ability to earn sound, hard money in exchange for their labor. The kind of 'sound, hard money' that I look to Bitcoin (the idea) of providing to people all around the world in the form of decentralized, non-debasable p2p electronic cash._
+URL: https://www.reddit.com/r/btc/comments/1hxar09/bitcoins_ability_to_end_wage_slavery/
+Permalink: /r/btc/comments/1hxar09/bitcoins_ability_to_end_wage_slavery/
+Number of Comments: 33
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Moneronando
+Title: FC Galaxy are the champions of the Relampago Cup BCH in Cuba! Thanks Bitcoin Cash community for your support.
+Date: Thu Jan 09 05:44:25 WET 2025
+Text: 
+URL: https://i.redd.it/0b8wojw1pwbe1.jpeg
+Permalink: /r/btc/comments/1hx61a8/fc_galaxy_are_the_champions_of_the_relampago_cup/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: US Government Set to Liquidate Massive Silk Road Bitcoin Stash as Trump Comes into Office
+Date: Thu Jan 09 03:05:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/us-government-set-to-liquidate-massive-silk-road-bitcoin-stash-as-trump-comes-into-office/
+Permalink: /r/btc/comments/1hx32zr/us_government_set_to_liquidate_massive_silk_road/
+Number of Comments: 130
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: SluttySissyTari69
+Title: Hiiii I Need help lplease My na,e is Tara and please are there someone who
+Date: Thu Jan 09 00:54:11 WET 2025
+Text: Borrow me 1,7 btc? That would be Grate.
+I Can Tell YOU why in private Chat Chat chattteti Chat 💭 
+URL: https://www.reddit.com/r/btc/comments/1hx0b3j/hiiii_i_need_help_lplease_my_nae_is_tara_and/
+Permalink: /r/btc/comments/1hx0b3j/hiiii_i_need_help_lplease_my_nae_is_tara_and/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Distinct-Hold7796
+Title: Comparing last two Bitcoin Cycles with the current one
+Date: Thu Jan 09 20:43:35 WET 2025
+Text: I recently drew a plot comparing **Bitcoin's cumulative daily percentage change** across three different market cycles:
+
+https://preview.redd.it/vlg3vpoa51ce1.png?width=2379&amp;format=png&amp;auto=webp&amp;s=741af948228081c0ea76452888f5b51de645577a
+
+1. **Oct 2016 - Jan 2017**: The early phase of the legendary 2017 bull run.
+2. **Oct 2020 - Jan 2021**: The heart of the explosive 2020-2021 bull market, where Bitcoin surged from \~$10K to over $30K.
+3. **Oct 2024 - Jan 2025**: The current cycle (ongoing), showing relatively flat growth so far.
+
+# Key Takeaways from the Plot:
+
+* The **2020-2021 cycle** saw the most dramatic cumulative growth, with Bitcoin nearly tripling in price over just three months. This period reflects heightened institutional interest and mainstream adoption of BTC.
+* The **2016-2017 cycle** showed moderate, steady growth, signaling the start of what would become Bitcoin’s first major mainstream rally.
+* The **2024-2025 cycle** so far has been relatively quiet compared to 2020s. This closely resembles pattern seen during the 2017 bull run over the same period.
+
+Should the current cycle repeat 2017's bull run, where BTC peaked at end of December 2017, we can expect a market explosion latter this year. 
+
+Thoughts?
+
+\#Crypto #Bitcoin #BTC #DataAnalysis #CryptoTrends
+
+I recently drew a plot comparing Bitcoin's cumulative daily percentage change across three different market cycles:
+
+* Oct 2016 - Jan 2017: The early phase of the legendary 2017 bull run.
+* Oct 2020 - Jan 2021: The peak of the explosive 2020-2021 bull market, where Bitcoin surged from \~$10K to over $30K.
+* Oct 2024 - Jan 2025: The ongoing cycle, which has shown relatively flat growth so far.
+
+# Key Takeaways from the Plot:
+
+1. 2020-2021 cycle: This period saw the most dramatic cumulative growth, with Bitcoin nearly tripling in price in just three months. The rally was driven by heightened institutional interest and widespread adoption.
+2. 2016-2017 cycle: Moderate, steady growth characterized this period, marking the beginning of Bitcoin's first major bull run.
+3. 2024-2025 cycle: So far, the current cycle has been relatively quiet compared to the explosive 2020 bull run. Interestingly, it closely resembles the 2016-2017 cycle over the same time frame.
+
+If the current cycle follows a similar pattern to 2017, where Bitcoin peaked at the end of December, we could potentially witness the peak of BTC in the third quarter this year. It’s fascinating to see how history might repeat itself in the crypto space.
+
+What do you think? Are we due for another massive rally, or is this time different?
+
+\#Crypto #Bitcoin #BTC #DataAnalysis #CryptoTrends
+
+
+URL: https://www.reddit.com/r/btc/comments/1hxmqhj/comparing_last_two_bitcoin_cycles_with_the/
+Permalink: /r/btc/comments/1hxmqhj/comparing_last_two_bitcoin_cycles_with_the/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: UK Judge Dismisses James Howells' $770 Million Bitcoin Landfill Case
+Date: Thu Jan 09 20:02:10 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/uk-judge-dismisses-james-howells-770-million-bitcoin-landfill-case/
+Permalink: /r/btc/comments/1hxlrgz/uk_judge_dismisses_james_howells_770_million/
+Number of Comments: 13
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Massive_Ad3670
+Title: BitcoinCash &amp; BTC Wallets How to Check
+Date: Thu Jan 09 16:35:12 WET 2025
+Text: Hey all - I have developed a bot that detects large transactions, (Whale alerts, but it's free)
+
+So what i'm trying to figure out is, how can I see which wallets belong to exchanges? Is there a public directory? Or some common knowledge i'm missing?
+
+Let me know please! This is completely free to the public. 
+URL: https://www.reddit.com/r/btc/comments/1hxgtna/bitcoincash_btc_wallets_how_to_check/
+Permalink: /r/btc/comments/1hxgtna/bitcoincash_btc_wallets_how_to_check/
+Number of Comments: 3
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: GeneralProtocols
+Title: Fulcrum Stays Performant (GP Shorts)
+Date: Thu Jan 09 16:21:53 WET 2025
+Text: 
+URL: https://v.redd.it/c3pq5qlhuzbe1
+Permalink: /r/btc/comments/1hxgi78/fulcrum_stays_performant_gp_shorts/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Stolen Silk-Road coins going to be liquidated before trump gets in, however they have no BCH as the thief already liquidated them many years ago and even posted about doing so.
+Date: Thu Jan 09 12:40:21 WET 2025
+Text: 
+URL: https://decrypt.co/300133/us-court-greenlights-sale-of-6-5b-in-seized-silk-road-bitcoin
+Permalink: /r/btc/comments/1hxbwkp/stolen_silkroad_coins_going_to_be_liquidated/
+Number of Comments: 22
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: LovelyDayHere
+Title: Bitcoin's ability to end wage slavery
+Date: Thu Jan 09 11:27:00 WET 2025
+Text: Let's look at this with some numbers.
+
+Take a world population rough estimate of 8 billion.
+
+Divide perhaps by 3 as an approximation to the working population (rest are too young or too old to be working, they need to be housed, clothed and fed and cared for medically by the workers).
+
+Assume those workers need to be paid a salary at least once a month.
+
+That's 12 wage payments a year.
+
+At 7 tps (220M tx/year), BTC can only handle monthly salary payments for less than 1% (it's closer to half a percent actually) of those workers. _That's without having space for any other transactions people need to do with their wages._
+
+Now, increase it's transactional capacity by about 100-200x , and we are getting into the volume range where at least it could pay peoples' salaries, and not just those of the less-than-1%.
+
+Another 100x the capacity, and those people might be able to use it for their monthly expenditures, which of course would form the income streams that businesses in turn need to pay their employees their salaries in the first place.
+
+---
+
+_FYI: when I talk about ending 'wage slavery', I am not referring to people not having to work. I am referring to people having the ability to earn sound, hard money in exchange for their labor. The kind of 'sound, hard money' that I look to Bitcoin (the idea) of providing to people all around the world in the form of decentralized, non-debasable p2p electronic cash._
+URL: https://www.reddit.com/r/btc/comments/1hxar09/bitcoins_ability_to_end_wage_slavery/
+Permalink: /r/btc/comments/1hxar09/bitcoins_ability_to_end_wage_slavery/
+Number of Comments: 33
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Moneronando
+Title: FC Galaxy are the champions of the Relampago Cup BCH in Cuba! Thanks Bitcoin Cash community for your support.
+Date: Thu Jan 09 05:44:25 WET 2025
+Text: 
+URL: https://i.redd.it/0b8wojw1pwbe1.jpeg
+Permalink: /r/btc/comments/1hx61a8/fc_galaxy_are_the_champions_of_the_relampago_cup/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: btcxio
+Title: US Government Set to Liquidate Massive Silk Road Bitcoin Stash as Trump Comes into Office
+Date: Thu Jan 09 03:05:59 WET 2025
+Text: 
+URL: https://news.bitcoinprotocol.org/us-government-set-to-liquidate-massive-silk-road-bitcoin-stash-as-trump-comes-into-office/
+Permalink: /r/btc/comments/1hx32zr/us_government_set_to_liquidate_massive_silk_road/
+Number of Comments: 130
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: SluttySissyTari69
+Title: Hiiii I Need help lplease My na,e is Tara and please are there someone who
+Date: Thu Jan 09 00:54:11 WET 2025
+Text: Borrow me 1,7 btc? That would be Grate.
+I Can Tell YOU why in private Chat Chat chattteti Chat 💭 
+URL: https://www.reddit.com/r/btc/comments/1hx0b3j/hiiii_i_need_help_lplease_my_nae_is_tara_and/
+Permalink: /r/btc/comments/1hx0b3j/hiiii_i_need_help_lplease_my_nae_is_tara_and/
+Number of Comments: 2
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

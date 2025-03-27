@@ -1,0 +1,464 @@
+Author: OkStep5032
+Title: Due to its limited block size, inflation will be required to keep BTC alive. Thoughts?
+Date: Sun Mar 09 21:34:33 WET 2025
+Text: https://preview.redd.it/yhxove0ggqne1.png?width=1372&amp;format=png&amp;auto=webp&amp;s=cf500f4355a64ecf51139e9275a3005670c15fb5
+
+Some points:
+
+* Miners only have an economic incentive to keep mining if`(block_size_reward * btc_price) + fees` results in profitability.
+* The original Bitcoin project predicted that mining would be entirely supported by millions of transactions paying low fees once the block reward became irrelevant. This is not possible with BTC's limited block size.
+
+**Therefore, BTC can only survive if there are enough transactions consistently competing for block space to the point that fees are astronomically high.**
+
+BTC price alone is not a guarantee since the block reward will diminish overtime.
+
+Given that less and less people are using the BTC blockchain due to its inefficiency, it could be that BTC will reach a point where the solution will be to **increase the total supply to more than 21 million by extending or increasing the block reward to keep miners incentivized, effectively introducing inflation.**
+
+Obviously, such change will require a hard fork. If you combine this with the fact that Black Rock has recently stated that the 21 million cap is not guaranteed, I think we have a very good indicator of what is going to happen. Inflation has also been suggested by one of the Core developers in the past years.
+
+In summary, BTC future doesn't seem bright.
+
+Thoughts?
+URL: https://www.reddit.com/r/btc/comments/1j7iboe/due_to_its_limited_block_size_inflation_will_be/
+Permalink: /r/btc/comments/1j7iboe/due_to_its_limited_block_size_inflation_will_be/
+Number of Comments: 147
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: kareee98
+Title: My AI says SHORT BTCUSD all the way to 80K!
+Date: Sun Mar 09 19:26:29 WET 2025
+Text: 
+URL: https://i.redd.it/p87k76khtpne1.png
+Permalink: /r/btc/comments/1j7fefb/my_ai_says_short_btcusd_all_the_way_to_80k/
+Number of Comments: 32
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Scarisaboss
+Title: BTC 50,000
+Date: Sun Mar 09 18:01:28 WET 2025
+Text: Is it possible for btc to drop to 50000?
+URL: https://www.reddit.com/r/btc/comments/1j7dfo9/btc_50000/
+Permalink: /r/btc/comments/1j7dfo9/btc_50000/
+Number of Comments: 233
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: Let's go marty
+Date: Sun Mar 09 18:01:23 WET 2025
+Text: 
+URL: https://i.redd.it/ig4t5vh7epne1.jpeg
+Permalink: /r/btc/comments/1j7dfkm/lets_go_marty/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Just 2 days left to reach our Flipstarter goal! We’re so close—let’s make BCH adoption in Argentina a reality together!
+Date: Sun Mar 09 17:25:10 WET 2025
+Text: 
+URL: http://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1j7cll3/just_2_days_left_to_reach_our_flipstarter_goal/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Apollo_Nakamoto
+Title: Hold
+Date: Sun Mar 09 16:55:55 WET 2025
+Text: Stay strong, believe in the narrative and you will thank yourself later
+URL: https://i.redd.it/ekqtfsvm2pne1.jpeg
+Permalink: /r/btc/comments/1j7bxbp/hold/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: The 2025 BMW Virtual Conference With Christian Bonilla! - https://to.tools/virtual-conference
+Date: Sun Mar 09 14:33:35 WET 2025
+Text: 
+URL: https://i.redd.it/slcjwuc2done1.png
+Permalink: /r/btc/comments/1j78v6p/the_2025_bmw_virtual_conference_with_christian/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: The face when you took out billions in leveraged loans in order to sell your overpriced ponzi scheme to the US gov, but they tell you to fk off.
+Date: Sun Mar 09 13:14:08 WET 2025
+Text: 
+URL: https://i.redd.it/429yurwuynne1.jpeg
+Permalink: /r/btc/comments/1j77dem/the_face_when_you_took_out_billions_in_leveraged/
+Number of Comments: 209
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: As suspected, the Trump tweets for ADA, XRP, SOL, ETH, BTC, were just empty words, likely paid for by pump and dumpers, as there is no plan for the US to buy any of them. Sorry for victims of the market manipulations.
+Date: Sun Mar 09 13:06:47 WET 2025
+Text: 
+URL: https://finance.yahoo.com/news/ada-xrp-sol-plunge-white-165412348.html
+Permalink: /r/btc/comments/1j778r9/as_suspected_the_trump_tweets_for_ada_xrp_sol_eth/
+Number of Comments: 121
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Crypto.com wants to unburn 70B CRO tokens, inflating supply, more evidence that centralized coins are worthless and more can be created at any time to make holders coins worthless.
+Date: Sun Mar 09 13:00:44 WET 2025
+Text: 
+URL: https://finance.yahoo.com/news/crypto-com-wants-revive-5b-122357036.html
+Permalink: /r/btc/comments/1j774sr/cryptocom_wants_to_unburn_70b_cro_tokens/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: thattradertips
+Title: I think europe should come up with the bread real quick too.
+Date: Sun Mar 09 11:38:45 WET 2025
+Text: 
+URL: https://i.redd.it/w7wbxt26hnne1.jpeg
+Permalink: /r/btc/comments/1j75u4k/i_think_europe_should_come_up_with_the_bread_real/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: OkStep5032
+Title: Due to its limited block size, inflation will be required to keep BTC alive. Thoughts?
+Date: Sun Mar 09 21:34:33 WET 2025
+Text: https://preview.redd.it/yhxove0ggqne1.png?width=1372&amp;format=png&amp;auto=webp&amp;s=cf500f4355a64ecf51139e9275a3005670c15fb5
+
+Some points:
+
+* Miners only have an economic incentive to keep mining if`(block_size_reward * btc_price) + fees` results in profitability.
+* The original Bitcoin project predicted that mining would be entirely supported by millions of transactions paying low fees once the block reward became irrelevant. This is not possible with BTC's limited block size.
+
+**Therefore, BTC can only survive if there are enough transactions consistently competing for block space to the point that fees are astronomically high.**
+
+BTC price alone is not a guarantee since the block reward will diminish overtime.
+
+Given that less and less people are using the BTC blockchain due to its inefficiency, it could be that BTC will reach a point where the solution will be to **increase the total supply to more than 21 million by extending or increasing the block reward to keep miners incentivized, effectively introducing inflation.**
+
+Obviously, such change will require a hard fork. If you combine this with the fact that Black Rock has recently stated that the 21 million cap is not guaranteed, I think we have a very good indicator of what is going to happen. Inflation has also been suggested by one of the Core developers in the past years.
+
+In summary, BTC future doesn't seem bright.
+
+Thoughts?
+URL: https://www.reddit.com/r/btc/comments/1j7iboe/due_to_its_limited_block_size_inflation_will_be/
+Permalink: /r/btc/comments/1j7iboe/due_to_its_limited_block_size_inflation_will_be/
+Number of Comments: 147
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: kareee98
+Title: My AI says SHORT BTCUSD all the way to 80K!
+Date: Sun Mar 09 19:26:29 WET 2025
+Text: 
+URL: https://i.redd.it/p87k76khtpne1.png
+Permalink: /r/btc/comments/1j7fefb/my_ai_says_short_btcusd_all_the_way_to_80k/
+Number of Comments: 32
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Scarisaboss
+Title: BTC 50,000
+Date: Sun Mar 09 18:01:28 WET 2025
+Text: Is it possible for btc to drop to 50000?
+URL: https://www.reddit.com/r/btc/comments/1j7dfo9/btc_50000/
+Permalink: /r/btc/comments/1j7dfo9/btc_50000/
+Number of Comments: 233
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Fallini47
+Title: Let's go marty
+Date: Sun Mar 09 18:01:23 WET 2025
+Text: 
+URL: https://i.redd.it/ig4t5vh7epne1.jpeg
+Permalink: /r/btc/comments/1j7dfkm/lets_go_marty/
+Number of Comments: 4
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Just 2 days left to reach our Flipstarter goal! We’re so close—let’s make BCH adoption in Argentina a reality together!
+Date: Sun Mar 09 17:25:10 WET 2025
+Text: 
+URL: http://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1j7cll3/just_2_days_left_to_reach_our_flipstarter_goal/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Apollo_Nakamoto
+Title: Hold
+Date: Sun Mar 09 16:55:55 WET 2025
+Text: Stay strong, believe in the narrative and you will thank yourself later
+URL: https://i.redd.it/ekqtfsvm2pne1.jpeg
+Permalink: /r/btc/comments/1j7bxbp/hold/
+Number of Comments: 8
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: The 2025 BMW Virtual Conference With Christian Bonilla! - https://to.tools/virtual-conference
+Date: Sun Mar 09 14:33:35 WET 2025
+Text: 
+URL: https://i.redd.it/slcjwuc2done1.png
+Permalink: /r/btc/comments/1j78v6p/the_2025_bmw_virtual_conference_with_christian/
+Number of Comments: 0
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: The face when you took out billions in leveraged loans in order to sell your overpriced ponzi scheme to the US gov, but they tell you to fk off.
+Date: Sun Mar 09 13:14:08 WET 2025
+Text: 
+URL: https://i.redd.it/429yurwuynne1.jpeg
+Permalink: /r/btc/comments/1j77dem/the_face_when_you_took_out_billions_in_leveraged/
+Number of Comments: 209
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: As suspected, the Trump tweets for ADA, XRP, SOL, ETH, BTC, were just empty words, likely paid for by pump and dumpers, as there is no plan for the US to buy any of them. Sorry for victims of the market manipulations.
+Date: Sun Mar 09 13:06:47 WET 2025
+Text: 
+URL: https://finance.yahoo.com/news/ada-xrp-sol-plunge-white-165412348.html
+Permalink: /r/btc/comments/1j778r9/as_suspected_the_trump_tweets_for_ada_xrp_sol_eth/
+Number of Comments: 121
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: upunup
+Title: Crypto.com wants to unburn 70B CRO tokens, inflating supply, more evidence that centralized coins are worthless and more can be created at any time to make holders coins worthless.
+Date: Sun Mar 09 13:00:44 WET 2025
+Text: 
+URL: https://finance.yahoo.com/news/crypto-com-wants-revive-5b-122357036.html
+Permalink: /r/btc/comments/1j774sr/cryptocom_wants_to_unburn_70b_cro_tokens/
+Number of Comments: 9
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: thattradertips
+Title: I think europe should come up with the bread real quick too.
+Date: Sun Mar 09 11:38:45 WET 2025
+Text: 
+URL: https://i.redd.it/w7wbxt26hnne1.jpeg
+Permalink: /r/btc/comments/1j75u4k/i_think_europe_should_come_up_with_the_bread_real/
+Number of Comments: 1
+Subreddit Subscribers: 1111225
+------------------------------------------------------------
+Author: OkStep5032
+Title: Due to its limited block size, inflation will be required to keep BTC alive. Thoughts?
+Date: Sun Mar 09 21:34:33 WET 2025
+Text: https://preview.redd.it/yhxove0ggqne1.png?width=1372&amp;format=png&amp;auto=webp&amp;s=cf500f4355a64ecf51139e9275a3005670c15fb5
+
+Some points:
+
+* Miners only have an economic incentive to keep mining if`(block_size_reward * btc_price) + fees` results in profitability.
+* The original Bitcoin project predicted that mining would be entirely supported by millions of transactions paying low fees once the block reward became irrelevant. This is not possible with BTC's limited block size.
+
+**Therefore, BTC can only survive if there are enough transactions consistently competing for block space to the point that fees are astronomically high.**
+
+BTC price alone is not a guarantee since the block reward will diminish overtime.
+
+Given that less and less people are using the BTC blockchain due to its inefficiency, it could be that BTC will reach a point where the solution will be to **increase the total supply to more than 21 million by extending or increasing the block reward to keep miners incentivized, effectively introducing inflation.**
+
+Obviously, such change will require a hard fork. If you combine this with the fact that Black Rock has recently stated that the 21 million cap is not guaranteed, I think we have a very good indicator of what is going to happen. Inflation has also been suggested by one of the Core developers in the past years.
+
+In summary, BTC future doesn't seem bright.
+
+Thoughts?
+URL: https://www.reddit.com/r/btc/comments/1j7iboe/due_to_its_limited_block_size_inflation_will_be/
+Permalink: /r/btc/comments/1j7iboe/due_to_its_limited_block_size_inflation_will_be/
+Number of Comments: 147
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: kareee98
+Title: My AI says SHORT BTCUSD all the way to 80K!
+Date: Sun Mar 09 19:26:29 WET 2025
+Text: 
+URL: https://i.redd.it/p87k76khtpne1.png
+Permalink: /r/btc/comments/1j7fefb/my_ai_says_short_btcusd_all_the_way_to_80k/
+Number of Comments: 32
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Scarisaboss
+Title: BTC 50,000
+Date: Sun Mar 09 18:01:28 WET 2025
+Text: Is it possible for btc to drop to 50000?
+URL: https://www.reddit.com/r/btc/comments/1j7dfo9/btc_50000/
+Permalink: /r/btc/comments/1j7dfo9/btc_50000/
+Number of Comments: 233
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: Let's go marty
+Date: Sun Mar 09 18:01:23 WET 2025
+Text: 
+URL: https://i.redd.it/ig4t5vh7epne1.jpeg
+Permalink: /r/btc/comments/1j7dfkm/lets_go_marty/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Just 2 days left to reach our Flipstarter goal! We’re so close—let’s make BCH adoption in Argentina a reality together!
+Date: Sun Mar 09 17:25:10 WET 2025
+Text: 
+URL: http://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1j7cll3/just_2_days_left_to_reach_our_flipstarter_goal/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Apollo_Nakamoto
+Title: Hold
+Date: Sun Mar 09 16:55:55 WET 2025
+Text: Stay strong, believe in the narrative and you will thank yourself later
+URL: https://i.redd.it/ekqtfsvm2pne1.jpeg
+Permalink: /r/btc/comments/1j7bxbp/hold/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: The 2025 BMW Virtual Conference With Christian Bonilla! - https://to.tools/virtual-conference
+Date: Sun Mar 09 14:33:35 WET 2025
+Text: 
+URL: https://i.redd.it/slcjwuc2done1.png
+Permalink: /r/btc/comments/1j78v6p/the_2025_bmw_virtual_conference_with_christian/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: The face when you took out billions in leveraged loans in order to sell your overpriced ponzi scheme to the US gov, but they tell you to fk off.
+Date: Sun Mar 09 13:14:08 WET 2025
+Text: 
+URL: https://i.redd.it/429yurwuynne1.jpeg
+Permalink: /r/btc/comments/1j77dem/the_face_when_you_took_out_billions_in_leveraged/
+Number of Comments: 209
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: As suspected, the Trump tweets for ADA, XRP, SOL, ETH, BTC, were just empty words, likely paid for by pump and dumpers, as there is no plan for the US to buy any of them. Sorry for victims of the market manipulations.
+Date: Sun Mar 09 13:06:47 WET 2025
+Text: 
+URL: https://finance.yahoo.com/news/ada-xrp-sol-plunge-white-165412348.html
+Permalink: /r/btc/comments/1j778r9/as_suspected_the_trump_tweets_for_ada_xrp_sol_eth/
+Number of Comments: 121
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Crypto.com wants to unburn 70B CRO tokens, inflating supply, more evidence that centralized coins are worthless and more can be created at any time to make holders coins worthless.
+Date: Sun Mar 09 13:00:44 WET 2025
+Text: 
+URL: https://finance.yahoo.com/news/crypto-com-wants-revive-5b-122357036.html
+Permalink: /r/btc/comments/1j774sr/cryptocom_wants_to_unburn_70b_cro_tokens/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: thattradertips
+Title: I think europe should come up with the bread real quick too.
+Date: Sun Mar 09 11:38:45 WET 2025
+Text: 
+URL: https://i.redd.it/w7wbxt26hnne1.jpeg
+Permalink: /r/btc/comments/1j75u4k/i_think_europe_should_come_up_with_the_bread_real/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: OkStep5032
+Title: Due to its limited block size, inflation will be required to keep BTC alive. Thoughts?
+Date: Sun Mar 09 21:34:33 WET 2025
+Text: https://preview.redd.it/yhxove0ggqne1.png?width=1372&amp;format=png&amp;auto=webp&amp;s=cf500f4355a64ecf51139e9275a3005670c15fb5
+
+Some points:
+
+* Miners only have an economic incentive to keep mining if`(block_size_reward * btc_price) + fees` results in profitability.
+* The original Bitcoin project predicted that mining would be entirely supported by millions of transactions paying low fees once the block reward became irrelevant. This is not possible with BTC's limited block size.
+
+**Therefore, BTC can only survive if there are enough transactions consistently competing for block space to the point that fees are astronomically high.**
+
+BTC price alone is not a guarantee since the block reward will diminish overtime.
+
+Given that less and less people are using the BTC blockchain due to its inefficiency, it could be that BTC will reach a point where the solution will be to **increase the total supply to more than 21 million by extending or increasing the block reward to keep miners incentivized, effectively introducing inflation.**
+
+Obviously, such change will require a hard fork. If you combine this with the fact that Black Rock has recently stated that the 21 million cap is not guaranteed, I think we have a very good indicator of what is going to happen. Inflation has also been suggested by one of the Core developers in the past years.
+
+In summary, BTC future doesn't seem bright.
+
+Thoughts?
+URL: https://www.reddit.com/r/btc/comments/1j7iboe/due_to_its_limited_block_size_inflation_will_be/
+Permalink: /r/btc/comments/1j7iboe/due_to_its_limited_block_size_inflation_will_be/
+Number of Comments: 147
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: kareee98
+Title: My AI says SHORT BTCUSD all the way to 80K!
+Date: Sun Mar 09 19:26:29 WET 2025
+Text: 
+URL: https://i.redd.it/p87k76khtpne1.png
+Permalink: /r/btc/comments/1j7fefb/my_ai_says_short_btcusd_all_the_way_to_80k/
+Number of Comments: 32
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Scarisaboss
+Title: BTC 50,000
+Date: Sun Mar 09 18:01:28 WET 2025
+Text: Is it possible for btc to drop to 50000?
+URL: https://www.reddit.com/r/btc/comments/1j7dfo9/btc_50000/
+Permalink: /r/btc/comments/1j7dfo9/btc_50000/
+Number of Comments: 233
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Fallini47
+Title: Let's go marty
+Date: Sun Mar 09 18:01:23 WET 2025
+Text: 
+URL: https://i.redd.it/ig4t5vh7epne1.jpeg
+Permalink: /r/btc/comments/1j7dfkm/lets_go_marty/
+Number of Comments: 4
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Ian_Blas27
+Title: Just 2 days left to reach our Flipstarter goal! We’re so close—let’s make BCH adoption in Argentina a reality together!
+Date: Sun Mar 09 17:25:10 WET 2025
+Text: 
+URL: http://flipstarter.bcharg.com/en
+Permalink: /r/btc/comments/1j7cll3/just_2_days_left_to_reach_our_flipstarter_goal/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Apollo_Nakamoto
+Title: Hold
+Date: Sun Mar 09 16:55:55 WET 2025
+Text: Stay strong, believe in the narrative and you will thank yourself later
+URL: https://i.redd.it/ekqtfsvm2pne1.jpeg
+Permalink: /r/btc/comments/1j7bxbp/hold/
+Number of Comments: 8
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: Adorable_Incident717
+Title: The 2025 BMW Virtual Conference With Christian Bonilla! - https://to.tools/virtual-conference
+Date: Sun Mar 09 14:33:35 WET 2025
+Text: 
+URL: https://i.redd.it/slcjwuc2done1.png
+Permalink: /r/btc/comments/1j78v6p/the_2025_bmw_virtual_conference_with_christian/
+Number of Comments: 0
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: The face when you took out billions in leveraged loans in order to sell your overpriced ponzi scheme to the US gov, but they tell you to fk off.
+Date: Sun Mar 09 13:14:08 WET 2025
+Text: 
+URL: https://i.redd.it/429yurwuynne1.jpeg
+Permalink: /r/btc/comments/1j77dem/the_face_when_you_took_out_billions_in_leveraged/
+Number of Comments: 209
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: As suspected, the Trump tweets for ADA, XRP, SOL, ETH, BTC, were just empty words, likely paid for by pump and dumpers, as there is no plan for the US to buy any of them. Sorry for victims of the market manipulations.
+Date: Sun Mar 09 13:06:47 WET 2025
+Text: 
+URL: https://finance.yahoo.com/news/ada-xrp-sol-plunge-white-165412348.html
+Permalink: /r/btc/comments/1j778r9/as_suspected_the_trump_tweets_for_ada_xrp_sol_eth/
+Number of Comments: 121
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: upunup
+Title: Crypto.com wants to unburn 70B CRO tokens, inflating supply, more evidence that centralized coins are worthless and more can be created at any time to make holders coins worthless.
+Date: Sun Mar 09 13:00:44 WET 2025
+Text: 
+URL: https://finance.yahoo.com/news/crypto-com-wants-revive-5b-122357036.html
+Permalink: /r/btc/comments/1j774sr/cryptocom_wants_to_unburn_70b_cro_tokens/
+Number of Comments: 9
+Subreddit Subscribers: 1111227
+------------------------------------------------------------
+Author: thattradertips
+Title: I think europe should come up with the bread real quick too.
+Date: Sun Mar 09 11:38:45 WET 2025
+Text: 
+URL: https://i.redd.it/w7wbxt26hnne1.jpeg
+Permalink: /r/btc/comments/1j75u4k/i_think_europe_should_come_up_with_the_bread_real/
+Number of Comments: 1
+Subreddit Subscribers: 1111227
+------------------------------------------------------------

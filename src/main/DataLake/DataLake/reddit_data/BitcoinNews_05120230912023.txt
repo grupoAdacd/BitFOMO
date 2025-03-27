@@ -1,0 +1,67 @@
+Reddit Data for r/BitcoinNews (BitcoinNews)
+Period: 2023-05-01 00:00 to 2023-09-01 00:00
+
+Post #1
+Time Collected: 2023-05-01 00:00
+Title: Germany’s Election and Crypto - What the Results Could Mean for Bitcoin (Article)
+Author: eurotreker
+Posted on: 2025-02-23 17:31
+Link: https://www.reddit.com/r/BitcoinNews/comments/1iwfg97/germanys_election_and_crypto_what_the_results/
+Text: 
+
+Top 5 Comments:
+  No comments found.
+====================================
+
+Post #2
+Time Collected: 2023-05-01 00:00
+Title: are smaller bitcoin miners quietly gaining an edge?
+Author: Tukidoggy
+Posted on: 2025-02-12 06:26
+Link: https://www.reddit.com/r/BitcoinNews/comments/1inkpin/are_smaller_bitcoin_miners_quietly_gaining_an_edge/
+Text: For years, Bitcoin mining was all about scale—the bigger your hashrate, the better. But lately, some smaller players have been showing up with surprisingly strong efficiency, making me wonder if we’re seeing a shift in strategy.
+
+Take Cango ($CANG), for example. It mined 538.2 BTC in January with just 32 EH/s, meaning its BTC per EH/s efficiency was higher than both MARA and RIOT. Instead of going all-in on massive infrastructure, they’re running a leaner operation with a focus on cost efficiency.
+
+Could this be the next phase of Bitcoin mining—companies optimizing operations rather than just racing to expand hashrate? If so, should investors start looking beyond just raw EH/s when evaluating mining stocks?
+
+Top 5 Comments:
+  No comments found.
+====================================
+
+Post #3
+Time Collected: 2023-05-01 00:00
+Title: MicroStrategy Extends Bitcoin Buying Spree, Adds $209M Worth in Eighth Straight Week
+Author: bitnewsbot
+Posted on: 2024-12-30 13:56
+Link: https://www.reddit.com/r/BitcoinNews/comments/1hpnqd4/microstrategy_extends_bitcoin_buying_spree_adds/
+Text: 
+
+Top 5 Comments:
+  No comments found.
+====================================
+
+Post #4
+Time Collected: 2023-05-01 00:00
+Title: Bitcoin Fear Index Hits October Low as Price Tumbles 14% From Peak
+Author: bitnewsbot
+Posted on: 2024-12-30 06:26
+Link: https://www.reddit.com/r/BitcoinNews/comments/1hph0dd/bitcoin_fear_index_hits_october_low_as_price/
+Text: 
+
+Top 5 Comments:
+  No comments found.
+====================================
+
+Post #5
+Time Collected: 2023-05-01 00:00
+Title: MicroStrategy's Bitcoin Stash Hits $41.4 Billion as Saylor Signals New Purchase
+Author: bitnewsbot
+Posted on: 2024-12-30 01:56
+Link: https://www.reddit.com/r/BitcoinNews/comments/1hpc406/microstrategys_bitcoin_stash_hits_414_billion_as/
+Text: 
+
+Top 5 Comments:
+  No comments found.
+====================================
+
