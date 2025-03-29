@@ -1,41 +1,14 @@
-package ProcessExtractedData;
-import org.json.JSONArray;
-import org.json.JSONObject;
-import APIs.redditAPI;
+package InsertOnFIleUtils;
+
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.io.File;
 
-public class redditAPIFetchUtils {
+public class redditInsertOnFileData {
     private static final String REDDIT_DIRECTORY = "/home/d4rk/IdeaProjects/practiceAPIreddit/src/main/DataLake/DataLake/reddit_data";
-
-    public static void main(String[] args) {
-        int i;
-        for (i=0;i<redditAPI.SUBREDDIT_CATEGORIES.size();i++) {
-            extractUserData(redditAPI.fetchSubredditDataSinceTimestamp(redditAPI.SUBREDDIT_CATEGORIES.get(i), 1672531200));
-        }
-    }
-
-    public static void extractUserData(JSONArray jsonArray) {
-        int i;
-        for (i=0; i< jsonArray.length();i++) {
-            JSONObject userData = jsonArray.getJSONObject(i).getJSONObject("data");
-            String author = userData.getString("author");
-            String title = userData.getString("title");
-            long dateInSeconds = userData.getLong("created");
-            String text = userData.getString("selftext");
-            String attachedNew = userData.getString("url");
-            String linkToPost = userData.getString("permalink");
-            int numberOfComments = userData.getInt("num_comments");
-            long subredditSubscribers = userData.getLong("subreddit_subscribers");
-            String subredditName = userData.getString("subreddit");
-
-            insertOnFile(author, title, dateInSeconds, text, attachedNew, linkToPost, numberOfComments, subredditSubscribers, subredditName);
-        }
-    }
     public static void insertOnFile(String author, String title, long dateInSeconds,
                                     String text, String attachedNew, String linkToPost,
                                     int numberOfComments, long subredditSubscribers, String subredditName) {

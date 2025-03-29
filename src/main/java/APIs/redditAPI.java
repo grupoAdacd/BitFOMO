@@ -14,14 +14,14 @@ import java.time.*;
 public class redditAPI {
     private static final String BASE_URL = "https://www.reddit.com";
     private static final String USER_AGENT = "BitFOMO/1.0 (by u/Interesting-Draw-517)";
-    private static final int MAX_PAGES = 2000;
+    private static final int MAX_PAGES = 5;
     public static final ArrayList<String> SUBREDDIT_CATEGORIES = new ArrayList<>();
 
     static {
-        SUBREDDIT_CATEGORIES.add("btc");
-        SUBREDDIT_CATEGORIES.add("BitcoinNews");
         SUBREDDIT_CATEGORIES.add("CryptoCurrency");
+        SUBREDDIT_CATEGORIES.add("BitcoinNews");
         SUBREDDIT_CATEGORIES.add("Bitcoin");
+        SUBREDDIT_CATEGORIES.add("btc");
     }
 
     public static JSONArray fetchSubredditDataSinceTimestamp(String subreddit, long sinceTimestamp) {
@@ -104,7 +104,7 @@ public class redditAPI {
                     continueFetching = false;
                 }
 
-                Thread.sleep(2000);
+                Thread.sleep(1000);
 
             } catch(IOException | InterruptedException | JSONException e) {
                 System.err.println("Error fetching Reddit data: " + e.getMessage());
@@ -115,9 +115,5 @@ public class redditAPI {
 
         System.out.println("Finished fetching. Total posts: " + combinedPosts.length());
         return combinedPosts;
-    }
-
-    public static JSONArray fetchNowadaysSubredditData(String subredd) {
-        return fetchSubredditDataSinceTimestamp(subredd, 0);
     }
 }
