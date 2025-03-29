@@ -11,7 +11,7 @@ import org.json.JSONObject;
 import org.json.JSONException;
 import java.time.*;
 
-public class redditAPI {
+public class RedditAPI {
     private static final String BASE_URL = "https://www.reddit.com";
     private static final String USER_AGENT = "BitFOMO/1.0 (by u/Interesting-Draw-517)";
     private static final int MAX_PAGES = 5;

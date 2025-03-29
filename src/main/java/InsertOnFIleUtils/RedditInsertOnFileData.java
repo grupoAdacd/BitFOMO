@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class redditInsertOnFileData {
+public class RedditInsertOnFileData {
     private static final String REDDIT_DIRECTORY = "/home/d4rk/IdeaProjects/practiceAPIreddit/src/main/DataLake/DataLake/reddit_data";
     public static void insertOnFile(String author, String title, long dateInSeconds,
                                     String text, String attachedNew, String linkToPost,

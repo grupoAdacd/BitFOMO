@@ -1,6 +1,6 @@
 package Main;
-import APIUtils.redditAPIUtils;
-import APIUtils.binanceAPIUtils;
+import APIUtils.RedditAPIUtils;
+import APIUtils.BinanceAPIUtils;
 
 
 public class Main {
@@ -8,8 +8,8 @@ public class Main {
         try{
             System.out.println("Starting App...");
             System.out.println("Data Collecting has started...");
-            redditAPIUtils.main(args);
-            binanceAPIUtils.main(args);
+            RedditAPIUtils.main(args);
+            BinanceAPIUtils.main(args);
         } catch (Exception e) {
             System.err.println("Data Collecting Aborted..."+ e);
         }

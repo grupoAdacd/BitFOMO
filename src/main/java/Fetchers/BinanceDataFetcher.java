@@ -4,7 +4,7 @@ import APIs.BinanceAPI;
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 
-import static InsertOnFIleUtils.binanceInsertOnFileData.insertOnFileBinanceData;
+import static InsertOnFIleUtils.BinanceInsertOnFileData.insertOnFileBinanceData;
 
 public class BinanceDataFetcher {
     private static final String SYMBOL = "BTCUSDT";

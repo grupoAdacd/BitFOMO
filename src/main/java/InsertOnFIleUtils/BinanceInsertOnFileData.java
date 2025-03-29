@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.time.format.DateTimeFormatter;
 import java.time.ZoneOffset;
 
-public class binanceInsertOnFileData {
+public class BinanceInsertOnFileData {
     private static final String SYMBOL = "BTCUSDT";
     private static final String INTERVAL = "1h";
     private static final String DATA_DIRECTORY = "/home/d4rk/IdeaProjects/BTCPriceEstimation/src/main/DataLake/DataLake/bitcoin_data";

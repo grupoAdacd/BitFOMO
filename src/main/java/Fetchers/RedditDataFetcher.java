@@ -3,9 +3,9 @@ package Fetchers;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import static InsertOnFIleUtils.redditInsertOnFileData.insertOnFile;
+import static InsertOnFIleUtils.RedditInsertOnFileData.insertOnFile;
 
-public class RedditDataExtractor {
+public class RedditDataFetcher {
 
     public static void extractUserData(JSONArray jsonArray) {
         int i;

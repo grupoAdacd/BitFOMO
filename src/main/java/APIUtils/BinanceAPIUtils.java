@@ -1,7 +1,7 @@
 package APIUtils;
 
 import APIs.BinanceAPI;
-import org.json.JSONArray;
+
 import java.io.File;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -9,7 +9,7 @@ import java.time.format.DateTimeFormatter;
 import static DataProcessing.BinanceHistoricalDataProcessor.processHistoricalData;
 import static RealTimeCollectors.BinanceRealtimeCollector.setupRealTimeCollection;
 
-public class binanceAPIUtils {
+public class BinanceAPIUtils {
     private static final String INTERVAL = "1h";
     private static final String DATA_DIRECTORY = "/home/d4rk/IdeaProjects/BTCPriceEstimation/src/main/DataLake/DataLake/bitcoin_data";
     private static final DateTimeFormatter DISPLAY_FORMAT = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm");
