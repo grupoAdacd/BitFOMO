@@ -11,28 +11,6 @@ A project that analyzes Reddit posts and Binance financial information to provid
 
 ---
 
-### Module Descriptions
-
-* **`DataLake`**: This module is responsible for the initial storage of raw data fetched from external sources.
-    * **`DataLake`**: Likely contains classes for managing the storage of unprocessed data.
-    * **`DataMart`**: This module likely handles the storage of processed and aggregated data that is ready for analysis and prediction.
-* **`java`**: This module contains the core Java source code for the application.
-    * **`APIs`**: This package includes classes for interacting with external APIs.
-        * **`BinanceAPI.java`**: Handles communication with the Binance API to fetch financial data (e.g., price, volume).
-        * **`redditAPI.java`**: Manages interactions with the Reddit API to retrieve post data from relevant subreddits.
-    * **`Main`**: This package contains the entry point of the application.
-        * **`Main.java`**: The main class that orchestrates the data fetching, processing, and prediction logic.
-    * **`ProcessExtractedData`**: This package includes classes responsible for processing the raw data extracted from the APIs.
-        * **`BinanceDataExtractor.java`**: Contains logic to extract and process relevant financial information from the data fetched from Binance.
-        * **`redditAPIFetchUtils.java`**: Provides utility functions to fetch and potentially parse data from Reddit posts.
-        * **`ProcessExtractedData.java`**: Might contain a class to coordinate the processing of data from both sources.
-* **`resources`**: This directory likely contains configuration files or other static resources needed by the application.
-* **`.gitignore`**: Specifies intentionally untracked files that Git should ignore.
-* **`pom.xml`**: The Project Object Model (POM) file for Maven, defining project dependencies and build configurations.
-* **`test`**: Contains unit and integration tests for the project.
-* **`External Libraries`**: Lists the external libraries and dependencies used by the project (managed by Maven).
-* **`Scratches and Consoles`**: IntelliJ IDEA specific directory for temporary files and consoles.
-
 ## Functionality
 
 The BitFOMO project aims to provide the following functionalities:
