@@ -19,10 +19,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
-/**
- * Clase para migrar datos del DataLake (archivos .txt) a la base de datos SQLite (bitFOMO.db).
- * Se recrea el esquema para que la fecha se guarde como texto legible y se extraiga el nombre del subreddit desde el permalink.
- */
 public class DataLakeToDatabaseMigrator {
     private static final Logger logger = LoggerFactory.getLogger(DataLakeToDatabaseMigrator.class);
 
@@ -30,24 +26,15 @@ public class DataLakeToDatabaseMigrator {
     private static final String BINANCE_DATA_DIR = "src/main/DataLake/DataLake/bitcoin_data";
     private static final String REDDIT_DATA_DIR = "src/main/DataLake/DataLake/reddit_data";
 
-    // Para parsear fechas de Binance: pueden venir en "yyyy-MM-dd HH:mm" o como epoch (número)
     private static final SimpleDateFormat BINANCE_DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd HH:mm");
-    // Para parsear fechas de Reddit (en inglés), usando Locale.US
     private static final SimpleDateFormat REDDIT_DATE_FORMAT = new SimpleDateFormat("EEE MMM dd HH:mm:ss zzz yyyy", Locale.US);
-    // Formato de salida para guardar la fecha como texto (por ejemplo, "2025-02-11 15:00:00")
     private static final SimpleDateFormat OUTPUT_DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
-    /**
-     * Este método recrea el esquema de la base de datos (eliminando las tablas existentes)
-     * y creando las tablas con la estructura completa, guardando las fechas como texto.
-     */
     public void migrateSchema() {
         try (Connection conn = DriverManager.getConnection("jdbc:sqlite:" + DB_PATH)) {
-            // Eliminar tablas existentes
             conn.createStatement().execute("DROP TABLE IF EXISTS FinantialData");
             conn.createStatement().execute("DROP TABLE IF EXISTS RedditArticleData");
 
-            // Crear tabla FinantialData; la columna Date es TEXT para almacenar la fecha formateada
             String sqlFinantial = "CREATE TABLE FinantialData (" +
                     "Id INTEGER PRIMARY KEY AUTOINCREMENT, " +
                     "VolumeDay REAL, " +
@@ -60,7 +47,6 @@ public class DataLakeToDatabaseMigrator {
                     ")";
             conn.createStatement().execute(sqlFinantial);
 
-            // Crear tabla RedditArticleData sin la columna Permalink
             String sqlReddit = "CREATE TABLE RedditArticleData (" +
                     "Id INTEGER PRIMARY KEY AUTOINCREMENT, " +
                     "SubredditName TEXT, " +
@@ -82,9 +68,6 @@ public class DataLakeToDatabaseMigrator {
         }
     }
 
-    /**
-     * Método principal que migra primero el esquema y luego los datos del DataLake a la base de datos.
-     */
     public void migrateDataLakeToDatabase() {
         try {
             logger.info("Iniciando migración de datos del DataLake a la base de datos...");
@@ -121,14 +104,12 @@ public class DataLakeToDatabaseMigrator {
                     line = line.trim();
                     if (line.isEmpty()) continue;
 
-                    // Saltar encabezados innecesarios
                     if (line.startsWith("Bitcoin Price Data") ||
                             line.startsWith("Bitcoin Real-time Data") ||
                             line.startsWith("Interval:")) {
                         continue;
                     }
 
-                    // Separador entre registros
                     if (line.startsWith("------------------------------------")) {
                         if (data != null && !data.isEmpty()) {
                             logger.debug("Datos parseados del archivo {}: {}", file.getName(), data);
@@ -210,7 +191,6 @@ public class DataLakeToDatabaseMigrator {
             logger.info("No hay datos de Binance para guardar.");
             return;
         }
-        // Guardar fecha como texto formateada
         String sql = "INSERT OR REPLACE INTO FinantialData " +
                 "(VolumeDay, OpenPrice, LowestPriceDay, HighestPriceDay, PriceChangePercent, CurrentPrice, Date) " +
                 "VALUES (?, ?, ?, ?, ?, ?, ?)";
@@ -254,13 +234,11 @@ public class DataLakeToDatabaseMigrator {
             logger.info("Procesando archivo de Reddit: {}", file.getName());
             try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
                 String line;
-                // Inicializamos el Map para cada registro.
                 Map<String, Object> data = new HashMap<>();
                 while ((line = reader.readLine()) != null) {
                     line = line.trim();
                     if (line.isEmpty()) continue;
 
-                    // Si aparece una línea que indica "Reddit Data for", se intenta extraer el nombre del subreddit.
                     if (line.startsWith("Reddit Data for")) {
                         // Ejemplo: "Reddit Data for r/BitcoinNews (BitcoinNews)"
                         int start = line.indexOf("(");
@@ -272,7 +250,6 @@ public class DataLakeToDatabaseMigrator {
                         continue;
                     }
 
-                    // Cuando aparece "Permalink:" se extrae el nombre del subreddit a partir de la URL
                     if (line.startsWith("Permalink:")) {
                         String permalink = line.substring("Permalink:".length()).trim();
                         int idx = permalink.indexOf("/r/");
@@ -287,7 +264,6 @@ public class DataLakeToDatabaseMigrator {
                         continue;
                     }
 
-                    // Separador entre registros
                     if (line.startsWith("------------------------------------------------------------")) {
                         if (!data.isEmpty()) {
                             dataList.add(data);
@@ -343,7 +319,6 @@ public class DataLakeToDatabaseMigrator {
             logger.info("No hay datos de Reddit para guardar.");
             return;
         }
-        // Se elimina la columna Permalink del INSERT
         String sql = "INSERT OR REPLACE INTO RedditArticleData " +
                 "(SubredditName, Author, Title, Selftext, LinkToSite, NumComments, SubredditSubscribers, Sentiment, Date) " +
                 "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)";
@@ -388,15 +363,6 @@ public class DataLakeToDatabaseMigrator {
         }
     }
 
-    /**
-     * Método para parsear la fecha de Binance.
-     * Intenta primero interpretar la cadena como número (epoch en milisegundos),
-     * y si falla, utiliza el formato "yyyy-MM-dd HH:mm".
-     *
-     * @param dateStr La cadena de fecha.
-     * @return Timestamp parseado.
-     * @throws Exception Si falla el parseo.
-     */
     private Timestamp parseBinanceDate(String dateStr) throws Exception {
         try {
             long epochMillis = Long.parseLong(dateStr);
